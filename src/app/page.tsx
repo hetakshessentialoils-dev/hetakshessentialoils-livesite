@@ -35,16 +35,6 @@ export default async function HomePage() {
     <>
       <JsonLd data={faqJsonLd(HOMEPAGE_FAQS)} />
 
-      <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TW8TGTNQVC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-TW8TGTNQVC');
-</script>
-
       <HomeHeroCarousel />
 
       <section className="about-one">
