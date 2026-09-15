@@ -1,26 +1,2110 @@
+/* Minimal overrides — main styling comes from legacy austry.css */
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* Stop casual text copying on the public site; keep form fields usable */
+body.no-copy {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+body.no-copy input,
+body.no-copy textarea,
+body.no-copy select,
+body.no-copy [contenteditable="true"] {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+  -webkit-touch-callout: default;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* Prevent Tailwind preflight from breaking Bootstrap/legacy styles */
+@layer base {
+  .page-wrapper *,
+  .page-wrapper *::before,
+  .page-wrapper *::after {
+    box-sizing: border-box;
+  }
+
+  .why-choose-one__points li .icon img {
+    max-width: none;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.footer_countries {
+  margin: 20px 0;
+  font-size: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
+.footer_countries span {
+  margin: 1px 8px;
+}
+
+@media (max-width: 767px) {
+  .footer_countries {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 8px 10px !important;
+    justify-content: stretch !important;
+    text-align: left !important;
+    font-size: 12px !important;
+    line-height: 1.35 !important;
+    padding: 0 2px;
+  }
+
+  .footer_countries span {
+    margin: 0 !important;
+  }
+}
+
+.owl-carousel .owl-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-next {
+  background-color: #233539 !important;
+  color: #ffffff !important;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  margin: 0 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}
+
+.owl-carousel .owl-nav button.owl-prev:hover,
+.owl-carousel .owl-nav button.owl-next:hover {
+  background-color: #fab702 !important;
+  color: #000 !important;
+  cursor: pointer;
+}
+
+.project-six__img img,
+.Industries__img img {
+  width: 100%;
+  height: auto;
+}
+
+.main-menu__list .dropdown ul {
+  display: none;
+}
+
+.inner-page-section {
+  padding: 80px 0;
+}
+
+/* Sticky nav — fixed to top on scroll, keeping the SAME cream background
+   as the non-scrolled header (matches live site; not white). */
+header.main-header-two.page-header.is-sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  background-color: transparent;
+  background-image: url(/assets/images/backgrounds/about-bg.webp) !important;
+  background-repeat: no-repeat !important;
+  background-position: left !important;
+  background-size: cover !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  animation: hetakshSlideDown 0.5s ease;
+}
+
+header.main-header-two.page-header.is-sticky .main-menu-two__wrapper {
+  background-color: transparent;
+}
+
+@keyframes hetakshSlideDown {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+/* Header right area — keep translate + search on ONE row (no wrapping) */
+.main-menu-two__right {
+  flex-wrap: nowrap !important;
+  align-items: center;
+}
+
+/* Temporarily hide COA / MSDS in desktop + mobile nav — keep the component code. */
+li.coa-msds-nav.coa-msds-menu--hidden,
+.main-menu__list > li.coa-msds-nav:not(.products-nav),
+.mobile-nav__content li.coa-msds-nav:not(.products-nav),
+.mobile-nav__container .main-menu__list > li.coa-msds-nav:not(.products-nav) {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  pointer-events: none !important;
+  position: absolute !important;
+  left: -9999px !important;
+}
+
+/* Single-row header: original logo/font sizes, no shrinking */
+@media (min-width: 1080px) {
+  header.main-header-two.page-header .main-menu-two__wrapper-inner.header-one-line {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+  }
+
+  header.main-header-two.page-header .header-one-line > .main-menu-two__left {
+    flex: 0 0 auto;
+  }
+
+  header.main-header-two.page-header .header-one-line > .main-menu-two__main-menu-box {
+    flex: 1 1 auto;
+    min-width: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  header.main-header-two.page-header .header-one-line > .main-menu-two__right {
+    flex: 0 0 auto;
+    margin-left: 0;
+  }
+
+  header.main-header-two.page-header .main-menu-two .main-menu__list {
+    flex-wrap: nowrap !important;
+    white-space: nowrap;
+    justify-content: center !important;
+  }
+
+  /* Slightly tighter gaps only — do not change font or logo size */
+  header.main-header-two.page-header .main-menu .main-menu__list > li {
+    padding-left: 1px;
+    padding-right: 1px;
+    flex-shrink: 0;
+  }
+
+  header.main-header-two.page-header .main-menu-two .main-menu__list > li > a {
+    margin: 0;
+  }
+
+  header.main-header-two.page-header .header-nav-dropdown {
+    gap: 3px;
+  }
+}
+
+@media (max-width: 1079px) {
+  header.main-header-two.page-header .main-menu-two__wrapper-inner.header-one-line {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  header.main-header-two.page-header .header-one-line > .main-menu-two__right {
+    display: none;
+  }
+}
+
+/* Shared header dropdown caret — Products, Download Certificates, COA / MSDS */
+.header-nav-dropdown {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  text-align: left;
+}
+
+.header-nav-dropdown > span:first-child {
+  text-align: left;
+  flex: 1 1 auto;
+}
+
+.main-menu__list > li > .header-nav-dropdown {
+  width: auto;
+  justify-content: flex-start;
+}
+
+.header-dropdown-caret {
+  font-size: 12px;
+  line-height: 1;
+  flex-shrink: 0;
+  color: #223438;
+}
+
+#google_translate_element .goog-te-gadget > span,
+#google_translate_element .goog-te-gadget img,
+#google_translate_element .goog-logo-link {
+  display: none !important;
+}
+
+/* austry.css sets .goog-te-gadget { color: transparent } — restore visible select text */
+.main-menu-two__cart-box,
+.main-menu-two__search-cart-btn-box,
+#google_translate_element {
+  width: fit-content;
+}
+
+.main-menu-two__cart-box .goog-te-gadget {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+}
+
+#google_translate_element {
+  display: inline-flex;
+  align-items: center;
+}
+
+#google_translate_element .goog-te-combo {
+  font-family: arial, sans-serif;
+  line-height: normal;
+  color: #223438 !important;
+  font-size: 13.33px !important;
+}
+
+.main-menu-two__right > form.search-form {
+  flex: 0 0 auto;
+  margin-left: 0;
+}
+
+/* FAQ — plaster + vignette, CSS only (no image) */
+.faq-one {
+  padding: 50px 0;
+  background:
+    radial-gradient(ellipse at center, #e6e6e6 0%, #c8c8c8 42%, #5a5a5a 100%);
+  z-index: 1;
+}
+
+.faq-accordion {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.faq-accordion__item {
+  margin-bottom: 10px;
+  border: 1px solid rgba(35, 53, 57, 0.12);
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: #ffffff;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.faq-accordion__item.is-open {
+  border-color: rgba(35, 53, 57, 0.2);
+  box-shadow: 0 4px 18px rgba(35, 53, 57, 0.06);
+}
+
+.faq-accordion__header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 22px;
+  background: transparent;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  color: #233539;
+  transition: color 0.2s ease;
+}
+
+.faq-accordion__header:hover {
+  color: #223438;
+}
+
+.faq-accordion__item.is-open .faq-accordion__header {
+  background-color: transparent;
+  color: #233539;
+}
+
+.faq-accordion__icon {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #f3eeea;
+  color: #233539;
+  transition: transform 0.3s ease, background-color 0.25s ease, color 0.25s ease;
+}
+
+.faq-accordion__icon i {
+  font-size: 16px;
+  line-height: 1;
+  transition: transform 0.3s ease;
+}
+
+.faq-accordion__icon.is-open {
+  background-color: #fab702;
+  color: #223438;
+}
+
+.faq-accordion__icon.is-open i {
+  transform: rotate(180deg);
+}
+
+.faq-accordion__body {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  padding: 0 22px;
+  border-top: 1px solid transparent;
+  transition: max-height 0.35s ease, opacity 0.25s ease, padding 0.25s ease, border-color 0.25s ease;
+}
+
+.faq-accordion__body.is-open {
+  max-height: 800px;
+  opacity: 1;
+  padding: 0 22px 18px;
+  border-top-color: rgba(35, 53, 57, 0.08);
+}
+
+.faq-accordion__body p {
+  margin: 14px 0 0;
+  font-size: 15px;
+}
+
+.cp-page .faq-accordion__body p {
+  font-size: 17px;
+  line-height: 1.75;
+  font-weight: 400;
+  color: #233539;
+}
+
+/* Search bar + language selector — matches live site inline styles */
+input[type="search"] {
+  -webkit-appearance: none !important;
+  appearance: none !important;
+  background-clip: padding-box;
+  background-color: white;
+  vertical-align: middle;
+  border-radius: 0.25rem;
+  border: 1px solid #e0e0e5;
+  font-size: 0.9rem;
+  max-width: 145px;
+  width: 100%;
+  line-height: 2;
+  padding: 0.375rem 0 0.375rem 0.7rem;
+  transition: border-color 0.2s;
+}
+
+input[type="search"]:focus {
+  transition: all 0.5s;
+  box-shadow: 0 0 40px rgb(0, 0, 0, 0.1);
+  border-color: #f9d342;
+  outline: none;
+}
+
+form.search-form {
+  display: flex;
+  justify-content: center;
+}
+
+form.search-form label {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+  align-self: center;
+  margin-bottom: 0;
+}
+
+input.search-field {
+  margin-bottom: 0;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+  align-self: center;
+  height: 35px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+input.search-submit {
+  height: 35px;
+  margin: 0;
+  padding: 0.5rem 0.4rem;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 0.8rem;
+}
+
+.button {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 0.8rem;
+  line-height: 1.15;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  background: #f9d342;
+  color: #292826;
+  border: 1px solid transparent;
+  vertical-align: middle;
+  text-shadow: none;
+  transition: all 0.2s;
+}
+
+.button:hover,
+.button:active,
+.button:focus {
+  cursor: pointer;
+  background: #d4b743;
+  color: #292826;
+  outline: 0;
+}
+
+#google_translate_element select,
+#google_translate_element .goog-te-combo {
+  padding: 2px 1.2em 2px 0;
+  border: none;
+  background-repeat: no-repeat;
+  background-position: right 2px center;
+  width: max-content;
+  max-width: 10.5em;
+  field-sizing: content;
+  background-color: transparent;
+  box-shadow: none;
+  outline: none;
+  color: #223438;
+  font-size: 13.33px;
+  cursor: pointer;
+}
+
+/* Desktop header dropdowns only — do not apply inside mobile sidebar */
+@media (min-width: 1080px) {
+  .main-menu__list .dropdown {
+    position: relative;
+  }
+
+  .main-menu__list .dropdown ul {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    min-width: 260px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    padding: 10px 0;
+  }
+
+  /* Cap height on Products / Certificates only — not COA (needs side flyouts) */
+  .main-menu .main-menu__list > li.dropdown:not(.coa-msds-nav) > ul,
+  .main-menu-two .main-menu__list > li.dropdown:not(.coa-msds-nav) > ul {
+    max-height: calc(100vh - 120px) !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    display: block !important;
+    flex-wrap: nowrap !important;
+  }
+
+  .main-menu__list .dropdown > ul {
+    display: block !important;
+    flex-wrap: nowrap !important;
+  }
+
+  .main-menu__list .dropdown ul::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .main-menu__list .dropdown ul::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+  }
+
+  .main-menu__list .dropdown:hover > ul {
+    display: block;
+  }
+
+  .main-menu__list .dropdown ul li a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 8px 20px;
+    color: #223438;
+    font-size: 14px;
+    text-align: left !important;
+  }
+
+  .main-menu__list .dropdown ul li a:hover {
+    color: #fab702;
+  }
+
+  /* Left-align dropdown items (theme wrapper uses text-align:center) */
+  .main-menu .main-menu__list > li > ul,
+  .main-menu-two .main-menu__list > li > ul,
+  .main-menu .main-menu__list > li > ul > li > ul,
+  .main-menu-two .main-menu__list > li > ul > li > ul,
+  .main-menu .main-menu__list > li > ul > li > ul > li > ul,
+  .main-menu-two .main-menu__list > li > ul > li > ul > li > ul {
+    text-align: left !important;
+    justify-content: flex-start !important;
+    align-items: stretch !important;
+  }
+
+  .main-menu__list .dropdown ul li {
+    width: 100%;
+    text-align: left !important;
+  }
+
+  /* COA / MSDS — transparent host; white box only on the oil-name column */
+  .main-menu .main-menu__list > li.coa-msds-nav > ul.coa-msds-root,
+  .main-menu-two .main-menu__list > li.coa-msds-nav > ul.coa-msds-root {
+    display: block !important;
+    top: calc(100% - 20px) !important; /* sit in nav item bottom padding — no hover gap */
+    width: max-content !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    max-height: none !important;
+    padding: 20px 0 0 !important; /* invisible bridge under the label */
+    margin: 0 !important;
+    overflow: visible !important;
+    background: transparent !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+    -webkit-transition: none !important;
+    transition: none !important;
+  }
+
+  /* Theme hides nested uls until li:hover — open instantly on COA/MSDS hover */
+  .main-menu .main-menu__list > li.coa-msds-nav:hover > ul.coa-msds-root,
+  .main-menu-two .main-menu__list > li.coa-msds-nav:hover > ul.coa-msds-root,
+  .main-menu .main-menu__list > li.coa-msds-nav:focus-within > ul.coa-msds-root,
+  .main-menu-two .main-menu__list > li.coa-msds-nav:focus-within > ul.coa-msds-root {
+    opacity: 1 !important;
+    visibility: visible !important;
+    -webkit-transform: none !important;
+    transform: none !important;
+    -webkit-transition: none !important;
+    transition: none !important;
+  }
+
+  /* Force-close Products dropdown after a product click (focus-within would otherwise keep it open) */
+  .main-menu .main-menu__list > li.products-nav.products-nav--closed > ul.coa-msds-root,
+  .main-menu-two .main-menu__list > li.products-nav.products-nav--closed > ul.coa-msds-root,
+  .main-menu .main-menu__list > li.products-nav.products-nav--closed:hover > ul.coa-msds-root,
+  .main-menu-two .main-menu__list > li.products-nav.products-nav--closed:hover > ul.coa-msds-root,
+  .main-menu .main-menu__list > li.products-nav.products-nav--closed:focus-within > ul.coa-msds-root,
+  .main-menu-two .main-menu__list > li.products-nav.products-nav--closed:focus-within > ul.coa-msds-root {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-panel,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-panel {
+    position: relative !important;
+    width: max-content !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+    background: transparent !important;
+    overflow: visible !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-list-box,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-list-box {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 280px !important;
+    min-width: 280px !important;
+    max-width: 280px !important;
+    max-height: calc(100vh - 120px) !important;
+    background-color: #fff !important;
+    box-shadow: 0 10px 60px 0 rgba(0, 0, 0, 0.12);
+    overflow: hidden !important;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-search,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-search {
+    flex-shrink: 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0;
+    border-bottom: 1px solid rgba(34, 52, 56, 0.08);
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-search input,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-search input {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px 14px;
+    border: 0;
+    border-radius: 0;
+    background: #f7f8f8;
+    color: #223438;
+    font-size: 13px;
+    line-height: 1.3;
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-search input:focus,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-search input:focus {
+    background: #fff;
+    box-shadow: inset 0 -2px 0 #fab702;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-search input::placeholder,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-search input::placeholder {
+    color: rgba(34, 52, 56, 0.45);
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-scroll,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-scroll {
+    display: block !important;
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    flex: 1 1 auto !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    max-height: none !important;
+    margin: 0 !important;
+    padding: 6px 0 10px !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    list-style: none !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    -webkit-transform: none !important;
+    transform: none !important;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-empty,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-empty {
+    padding: 10px 16px !important;
+    color: rgba(34, 52, 56, 0.55);
+    font-size: 13px;
+    pointer-events: none;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-scroll > li,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-scroll > li {
+    text-align: left !important;
+    width: 100% !important;
+    margin-top: 0 !important;
+  }
+
+  /* Products dropdown — same search panel as COA/MSDS, plain product links */
+  .main-menu .main-menu__list > li.products-nav .coa-msds-scroll > li > a,
+  .main-menu-two .main-menu__list > li.products-nav .coa-msds-scroll > li > a {
+    display: flex !important;
+    width: 100%;
+    padding: 8px 16px !important;
+    text-align: left !important;
+    color: #223438;
+    font-size: 14px;
+    line-height: 1.3;
+  }
+
+  .main-menu .main-menu__list > li.products-nav .coa-msds-scroll > li > a:hover,
+  .main-menu-two .main-menu__list > li.products-nav .coa-msds-scroll > li > a:hover {
+    color: #fab702 !important;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .header-nav-dropdown,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .header-nav-dropdown {
+    text-align: left !important;
+    justify-content: space-between !important;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .header-nav-dropdown > span:first-child,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .header-nav-dropdown > span:first-child {
+    text-align: left !important;
+    white-space: normal;
+    line-height: 1.3;
+  }
+
+  /* Hide inline docs / nested mobile markup on desktop */
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-docs--inline,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-docs--inline,
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-docs--inline-nested,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-docs--inline-nested {
+    display: none !important;
+  }
+
+  /* Flat oil → COA / MSDS panel (beside the white list, not inside it) */
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly {
+    display: block !important;
+    position: absolute !important;
+    left: calc(100% - 2px) !important; /* slight overlap — no hover gap */
+    right: auto !important;
+    margin: 0 !important;
+    width: max-content !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    max-height: none !important;
+    overflow: visible !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+    -webkit-transform: none !important;
+    z-index: 1200 !important;
+    background-color: #fff !important;
+    box-shadow: 0 10px 60px 0 rgba(0, 0, 0, 0.12);
+    padding: 6px 0 !important;
+    text-align: left !important;
+    list-style: none !important;
+  }
+
+  /* Invisible hover bridge into the flyout (covers any subpixel gap) */
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly::before,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -12px;
+    width: 12px;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly > li,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly > li {
+    width: auto !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly > li > a,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly > li > a {
+    display: block !important;
+    padding: 8px 16px !important;
+    white-space: nowrap;
+    color: #223438 !important;
+    font-size: 14px;
+    text-decoration: none;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly > li > a:hover,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-docs--fly > li > a:hover {
+    color: #fab702 !important;
+  }
+
+  /* Black Seed / Saw Palmetto grades panel — top set inline to match hovered row */
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-grades,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-grades {
+    position: absolute !important;
+    left: 100% !important;
+    margin-left: 4px !important;
+    z-index: 1100;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-oils-list,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-oils-list {
+    display: block !important;
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    width: max-content !important;
+    min-width: 200px !important;
+    max-width: 280px !important;
+    max-height: calc(100vh - 120px) !important;
+    margin: 0 !important;
+    padding: 10px 0 !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+    background-color: #fff !important;
+    box-shadow: 0 10px 60px 0 rgba(0, 0, 0, 0.12);
+    list-style: none !important;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-oil,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-oil {
+    position: relative !important;
+    width: 100% !important;
+    margin-top: 0 !important;
+  }
+
+  .main-menu .main-menu__list > li.coa-msds-nav .coa-msds-oil > .header-nav-dropdown,
+  .main-menu-two .main-menu__list > li.coa-msds-nav .coa-msds-oil > .header-nav-dropdown {
+    width: 100%;
+  }
+}
+
+/* Legacy float class (unused) + fly panel shared bits */
+.coa-msds-docs--float {
+  display: none !important;
+}
+
+.mobile-nav__content .coa-msds-docs--float,
+.mobile-nav__content .coa-msds-docs--fly {
+  display: none !important;
+}
+
+/* Mobile sidebar: keep submenus inline, hidden until toggled */
+.mobile-nav__content .main-menu__list .dropdown {
+  overflow-anchor: none;
+}
+
+.mobile-nav__content .main-menu__list .dropdown > a {
+  display: flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  color: #fff !important;
+  height: auto !important;
+  min-height: 46px !important;
+}
+
+.mobile-nav__content .main-menu__list .dropdown > a > span:first-child {
+  display: inline !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  color: #fff !important;
+}
+
+.mobile-nav__content .main-menu__list .dropdown > ul {
+  position: static !important;
+  left: auto !important;
+  right: auto !important;
+  top: auto !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  min-width: 0 !important;
+  max-height: none !important;
+  overflow: visible !important;
+  padding: 0 0 0 10px !important;
+  display: none !important;
+  z-index: auto !important;
+  transform: none !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+.mobile-nav__content .main-menu__list .dropdown.is-open > ul {
+  display: block !important;
+}
+
+/* COA/MSDS — flatten for mobile accordion */
+.mobile-nav__content .coa-msds-root,
+.mobile-nav__content .coa-msds-panel,
+.mobile-nav__content .coa-msds-list-box,
+.mobile-nav__content .coa-msds-scroll,
+.mobile-nav__content .coa-msds-oils-flyout,
+.mobile-nav__content .coa-msds-oils-shell,
+.mobile-nav__content .coa-msds-oils-list,
+.mobile-nav__content .coa-msds-docs--inline-nested {
+  position: static !important;
+  width: 100% !important;
+  max-width: none !important;
+  min-width: 0 !important;
+  max-height: none !important;
+  overflow: visible !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  transform: none !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Nested oil list stays closed until COA/MSDS is expanded */
+.mobile-nav__content .coa-msds-nav:not(.is-open) .coa-msds-root,
+.mobile-nav__content .coa-msds-nav:not(.is-open) .coa-msds-scroll,
+.mobile-nav__content .coa-msds-nav:not(.is-open) .coa-msds-list-box {
+  display: none !important;
+}
+
+.mobile-nav__content .coa-msds-nav.is-open > .coa-msds-root,
+.mobile-nav__content .coa-msds-nav.is-open .coa-msds-panel,
+.mobile-nav__content .coa-msds-nav.is-open .coa-msds-list-box,
+.mobile-nav__content .coa-msds-nav.is-open .coa-msds-scroll {
+  display: block !important;
+}
+
+.mobile-nav__content .coa-msds-search {
+  padding: 8px 0 12px;
+}
+
+.mobile-nav__content .coa-msds-search input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 8px 10px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  font-size: 13px;
+  outline: none;
+}
+
+.mobile-nav__content .coa-msds-search input::placeholder {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.mobile-nav__content .coa-msds-empty {
+  padding: 8px 0;
+  color: rgba(255, 255, 255, 0.55);
+  font-size: 13px;
+}
+
+.mobile-nav__content .coa-msds-direct.coa-msds-filtered-out,
+.mobile-nav__content .coa-msds-empty.coa-msds-filtered-out,
+.mobile-nav__content .coa-msds-empty[hidden] {
+  display: none !important;
+}
+
+.mobile-nav__content .coa-msds-grades,
+.mobile-nav__content .coa-msds-docs--float,
+.mobile-nav__content .coa-msds-docs--fly {
+  display: none !important;
+}
+
+.mobile-nav__content .coa-msds-docs--inline,
+.mobile-nav__content .coa-msds-docs--inline-nested {
+  position: static !important;
+  left: auto !important;
+  margin-left: 0 !important;
+  display: none !important;
+  min-width: 0 !important;
+  width: auto !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  padding: 0 0 0 10px !important;
+  transform: none !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+.mobile-nav__content .coa-msds-direct.is-open > .coa-msds-docs--inline,
+.mobile-nav__content .coa-msds-cat.is-open > .coa-msds-docs--inline-nested,
+.mobile-nav__content .coa-msds-oil.is-open > .coa-msds-docs--inline,
+.mobile-nav__content .coa-msds-nav .dropdown.is-open > ul.coa-msds-docs--inline {
+  display: block !important;
+}
+
+/* Theme hides 3rd-level COA/MSDS toggle — show it */
+.mobile-nav__content .main-menu__list > li > ul > li > ul > li > a > button,
+.mobile-nav__content .coa-msds-oil > a > button,
+.mobile-nav__content .coa-msds-direct > a > button,
+.mobile-nav__content .coa-msds-cat > a > button {
+  display: flex !important;
+}
+
+/* Do not force-hide COA/MSDS doc links under the flat list structure */
+.mobile-nav__content .main-menu__list > li:not(.coa-msds-nav) > ul > li > ul > li > ul {
+  display: none !important;
+}
+
+.mobile-nav__content .main-menu__list > li:not(.coa-msds-nav) > ul > li > ul > li.is-open > ul {
+  display: block !important;
+}
+
+.mobile-nav__content .main-menu__list .dropdown ul li a {
+  color: #fff !important;
+  font-size: 13px;
+  padding: 0;
+}
+
+.mobile-nav__content .main-menu__list .dropdown ul li a:hover,
+.mobile-nav__content .main-menu__list .dropdown ul li a:focus,
+.mobile-nav__content .main-menu__list .dropdown ul li a:active {
+  color: #fff !important;
+}
+
+.mobile-nav__content .header-dropdown-caret {
+  display: none !important;
+}
+
+/* Footer social icons — ensure visible */
+.site-footer__social a {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.site-footer__social i {
+  display: inline-block;
+  line-height: 1;
+  font-style: normal;
+}
+
+/* Argan page only: black intro text */
+.raw-product--argan-oil .about-one__text {
+  color: #000 !important;
+}
+
+/* All product (raw) pages: packaging heading */
+.raw-product h4.mb-4 {
+  color: #233539 !important;
+}
+
+@media only screen and (min-width: 1199px) and (max-width: 1500px) {
+  header.main-header-two.page-header .main-menu-two__wrapper {
+    padding: 0 30px 0 40px !important;
+  }
+}
+
+/* Enquiry popup close animation (matches live site) */
+.popup.closing {
+  opacity: 0;
+  transition: opacity 0.6s, background-color 0.6s;
+}
+
+.popup.closing .popup-content {
+  margin-top: 350px;
+  transition: margin 0.6s;
+}
+
+/* intl-tel-input alignment in legacy forms */
+.iti {
+  width: 100%;
+}
+
+form.contact_form .iti input {
+  padding-left: 52px !important;
+}
+
+/* Category pagination: Next control on the right */
+.project-details__pagination li.next {
+  float: right !important;
+}
+
+.project-details__pagination li.next i {
+  margin-right: 0 !important;
+  margin-left: 12px !important;
+}
+
+/* Breadcrumb: Home / About us — one dark slash after each link */
+.thm-breadcrumb li::before,
+.thm-breadcrumb li::after,
+.thm-breadcrumb li + li::before {
+  content: none !important;
+  display: none !important;
+}
+
+.thm-breadcrumb li a,
+.thm-breadcrumb li > span,
+.thm-breadcrumb__sep {
+  color: #233539 !important;
+  opacity: 1 !important;
+}
+
+.thm-breadcrumb__sep {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+/* Footer contact — prevent email/phone truncation */
+.footer-widget__Contact-list li .text {
+  min-width: 0;
+  flex: 1;
+}
+
+.footer-widget__Contact-list li .text p {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+.footer-widget__Contact-list li .icon .fab.fa-whatsapp {
+  color: #ffcf00;
+}
+
+/* Why Hetaksh — centered heading + full-size icons on every page */
+.why-choose-one-2 .section-title,
+.why-choose-one-2 .section-title.text-left,
+.why-choose-one-2 .section-title.text-center {
+  text-align: center !important;
+  width: 100%;
+}
+
+.why-choose-one-2 .section-title .section-title__title,
+.why-choose-one-2 h2.section-title__title,
+.why-choose-one-2 h3.section-title__title {
+  text-align: center !important;
+  display: block;
+  width: 100%;
+}
+
+.why-choose-one__points li .icon {
+  flex-shrink: 0;
+}
+
+.why-choose-one__points li .icon img {
+  width: 80px !important;
+  min-width: 80px !important;
+  max-width: 80px !important;
+  height: auto !important;
+}
+
+/* Raw product pages render Why Hetaksh via the shared component instead of embedded HTML */
+
+/* Search results — yellow header banner like live site */
+.page-header--search .page-header-bg--search {
+  background-color: #ffcf00 !important;
+  background-image: none !important;
+  opacity: 1;
+}
+
+.page-header--search .page-header__inner h2 {
+  color: #233539;
+  text-transform: none;
+}
+
+.search-results .product-details__content {
+  margin-top: 40px;
+}
+
+.search-results .product-details__content:first-child {
+  margin-top: 0;
+}
+
+.search-results .prduct-details__title-4 {
+  font-family: Catamaran, sans-serif;
+}
+
+/* Privacy policy — white background, large subheadings like live */
+.privacy-policy-page {
+  background-color: #ffffff;
+  background-image: none;
+  padding: 50px 0;
+}
+
+.privacy-policy-page .section-title {
+  margin-bottom: 20px;
+}
+
+.privacy-policy-page .section-title__title {
+  font-size: 42px;
+  line-height: 52px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.privacy-policy-page__heading {
+  font-family: var(--austry-font-two, Catamaran, sans-serif);
+  font-size: 24px;
+  font-weight: 800;
+  color: #191919;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.privacy-policy-page .about-one__text {
+  text-align: left;
+}
+
+/* Industries — alternating bg-color / bg-color2, no vertical centering */
+.single-product-section .single-details__content .section-title__title {
+  font-size: 32px;
+  line-height: 36px;
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.single-product-section .about-one__text {
+  text-align: justify;
+}
+
+/* Product category / search result layout */
+.product-details__content .row {
+  align-items: center;
+}
+
+.product-details__content + .product-details__content {
+  margin-top: 40px;
+  padding-top: 40px;
+  border-top: 1px solid rgba(35, 53, 57, 0.08);
+}
+
+/* Our Aim / Our Customers — smaller image so text leads the section */
+.product__img--aim {
+  max-width: 360px;
+}
+
+.product__img--aim img {
+  width: 100%;
+  max-height: 280px;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Product landing variants — top-align image + copy, keep image proportional */
+.landing-variant-section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.landing-variant__row {
+  align-items: flex-start !important;
+  gap: 0;
+}
+
+.landing-variant__media,
+.landing-variant__copy {
+  width: 100%;
+}
+
+.landing-variant__copy .section-title__title {
+  margin-top: 0;
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.landing-variant__block {
+  text-align: left;
+  color: #223438;
+  line-height: 1.7;
+}
+
+.landing-variant__block ul {
+  margin: 8px 0 16px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.landing-variant__block ul li {
+  position: relative;
+  padding: 4px 0 4px 22px;
+  line-height: 1.55;
+}
+
+.landing-variant__block ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.75em;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #fab702;
+  transform: translateY(-50%);
+}
+
+.landing-specs {
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(34, 52, 56, 0.1);
+}
+
+.landing-specs__title {
+  margin: 0 0 10px;
+  font-size: 20px;
+  line-height: 1.3;
+  font-weight: 700;
+  color: #223438;
+}
+
+.landing-specs + .landing-specs {
+  margin-top: 12px;
+  padding-top: 12px;
+}
+
+.landing-specs-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px 32px;
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(34, 52, 56, 0.1);
+  align-items: start;
+}
+
+.landing-specs-row .landing-specs {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: 0;
+}
+
+@media (max-width: 767px) {
+  .landing-specs-row {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
+
+.product__img--variant {
+  max-width: 100%;
+}
+
+.product__img--variant img {
+  width: 100%;
+  max-height: 420px;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 12px;
+}
+
+@media (max-width: 767px) {
+  .landing-variant__row {
+    flex-direction: column;
+  }
+
+  .product__img--variant img {
+    max-height: 280px;
+    margin-bottom: 20px;
+  }
+}
+
+/* Clean product page */
+.cp-page {
+  background: #fff;
+}
+
+.cp-page .faq-one {
+  background: #fff;
+}
+
+.cp-main {
+  padding: 60px 0 40px;
+  background: #fff;
+}
+
+.cp-layout {
+  display: grid;
+  grid-template-columns: minmax(480px, 1fr) minmax(0, 1.15fr);
+  gap: 48px;
+  align-items: start;
+}
+
+.cp-gallery {
+  width: 100%;
+}
+
+/* Floating the image lets the copy run past it and reclaim the full width. */
+.cp-page--specs-first .cp-layout {
+  display: flow-root;
+}
+
+.cp-page--specs-first .cp-gallery {
+  float: left;
+  width: calc((100% - 48px) / 2.15);
+  margin: 0 48px 24px 0;
+}
+
+.cp-page--specs-first .cp-specs-block {
+  margin-top: 0;
+}
+
+.cp-page--specs-first .cp-copy {
+  margin-top: 28px;
+}
+
+.cp-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 560px;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  background: #fff;
+}
+
+.cp-title {
+  margin: 0 0 10px;
+  padding-bottom: 12px;
+  font-family: var(--austry-font-two, Catamaran, sans-serif);
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #191919;
+  border-bottom: 3px solid #285f56;
+  display: inline-block;
+  width: auto;
+  max-width: 100%;
+}
+
+/* Product page heading scale: h1 → h2 → h3 */
+.cp-page .cp-h1 {
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #191919;
+}
+
+.cp-page .cp-h2,
+.cp-page h4.cp-h2,
+.cp-page h5.cp-h2 {
+  margin: 0 0 14px;
+  font-family: var(--austry-font-two, Catamaran, sans-serif);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #191919;
+}
+
+.cp-page .cp-h3 {
+  margin: 0 0 10px;
+  font-family: var(--austry-font-two, Catamaran, sans-serif);
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #191919;
+}
+
+.cp-page .faq-one .section-title__title {
+  font-family: var(--austry-font-two, Catamaran, sans-serif);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #191919;
+}
+
+.cp-heading {
+  margin: 0 0 18px;
+  font-size: 17px;
+  line-height: 1.5;
+  color: #5a676b;
+}
+
+.cp-copy {
+  font-size: 17px;
+  line-height: 1.8;
+  color: #333;
+}
+
+.cp-copy p {
+  margin: 0 0 16px;
+}
+
+.cp-copy p:last-child {
+  margin-bottom: 0;
+}
+
+.cp-page .cp-copy p,
+.cp-page .cp-section p,
+.cp-page .cp-variant p,
+.single-page-header .about-one__text,
+.product-details__content .about-one__text {
+  text-align: justify !important;
+  text-align-last: start !important;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+/* On phones, FAQ answers should fill the column like product copy. */
+@media (max-width: 767px) {
+  .faq-accordion__body p,
+  .faq-accordion__answer,
+  .cp-page .faq-accordion__body p,
+  .faq-page .faq-answer,
+  .faq-page .faq-answer p {
+    text-align: justify !important;
+    text-align-last: start !important;
+    text-justify: inter-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphenate-character: "-";
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+}
+
+.cp-specs-block {
+  margin-top: 24px;
+}
+
+.cp-specs-block__title {
+  margin: 0 0 12px;
+}
+
+.cp-specs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 24px;
+  font-size: 16px;
+  line-height: 1.55;
+  color: #333;
+}
+
+.cp-specs strong {
+  color: #191919;
+  font-weight: 700;
+}
+
+.cp-docs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 28px;
+}
+
+.cp-docs__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 110px;
+  padding: 10px 20px;
+  background: #285f56;
+  color: #fff !important;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-decoration: none !important;
+  border: 1px solid #285f56;
+}
+
+.cp-docs__btn:hover {
+  background: #1f4a43;
+  color: #fff !important;
+}
+
+.cp-docs__btn--ghost {
+  background: #fab702;
+  border-color: #fab702;
+  color: #fff !important;
+}
+
+.cp-docs__btn--ghost:hover {
+  background: #e0a400;
+  border-color: #e0a400;
+  color: #fff !important;
+}
+
+.cp-sections {
+  padding: 8px 0 20px;
+  background: #fff;
+}
+
+.cp-section {
+  padding: 28px 0;
+  border-top: 1px solid #e8eceb;
+  font-size: 17px;
+  line-height: 1.8;
+  color: #333;
+}
+
+.cp-section__title {
+  margin: 0 0 14px;
+}
+
+.cp-section p {
+  margin: 0 0 14px;
+}
+
+.cp-list {
+  margin-top: 16px;
+}
+
+.cp-list__title {
+  margin: 16px 0 10px;
+}
+
+.cp-list__items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cp-list__items li {
+  position: relative;
+  padding-left: 16px;
+  margin: 0 0 8px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.cp-list__items li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #285f56;
+  font-weight: 700;
+}
+
+.cp-list__items--cols-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 28px;
+}
+
+.cp-list__items--cols-1 {
+  display: block;
+}
+
+.cp-checklist {
+  margin-top: 12px;
+}
+
+.cp-variants {
+  padding: 10px 0 50px;
+  background: #fff;
+}
+
+.cp-variant {
+  padding: 32px 0;
+  border-top: 1px solid #e8eceb;
+  font-size: 17px;
+  line-height: 1.8;
+  color: #333;
+}
+
+.cp-variant__title {
+  margin: 0 0 16px;
+}
+
+.cp-variant p {
+  margin: 0 0 14px;
+}
+
+.cp-variant .cp-docs {
+  margin-top: 20px;
+}
+
+.cp-info-tables {
+  padding: 10px 0 56px;
+  background: #fff;
+  border-top: 1px solid #e8eceb;
+}
+
+.cp-info-table {
+  margin-bottom: 36px;
+}
+
+.cp-info-table:last-child {
+  margin-bottom: 0;
+}
+
+.cp-info-table__title {
+  margin: 0 0 16px;
+}
+
+.cp-info-table__wrap {
+  overflow-x: auto;
+}
+
+.cp-info-table table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 17px;
+  line-height: 1.6;
+  color: #222;
+  border: 1px solid #222;
+}
+
+.cp-info-table th,
+.cp-info-table td {
+  border: 1px solid #222;
+  padding: 12px 16px;
+  text-align: left;
+  vertical-align: top;
+  word-break: break-word;
+}
+
+.cp-info-table thead th {
+  text-align: center;
+  font-weight: 700;
+  background: #f7f7f7;
+}
+
+.cp-info-table tbody td:first-child {
+  width: 38%;
+  font-weight: 600;
+}
+
+.cp-info-table table.cp-info-table__grid--wide tbody td:first-child {
+  width: auto;
+}
+
+.cp-related {
+  padding: 48px 0 56px;
+  background: #fff;
+  border-top: 1px solid #e8eceb;
+}
+
+.cp-related__title {
+  margin: 0 0 28px;
+  display: inline-block;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #285f56;
+}
+
+.cp-related__row {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  gap: 16px;
+  align-items: center;
+}
+
+.cp-related__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.cp-related__viewport {
+  min-width: 0;
+  overflow: hidden;
+}
+
+.cp-related__grid--next {
+  animation: cp-related-slide-next 0.35s ease;
+}
+
+.cp-related__grid--prev {
+  animation: cp-related-slide-prev 0.35s ease;
+}
+
+@keyframes cp-related-slide-next {
+  from {
+    transform: translateX(28px);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes cp-related-slide-prev {
+  from {
+    transform: translateX(-28px);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.cp-related__card {
+  display: block;
+  text-decoration: none !important;
+  color: inherit;
+  border: 1px solid rgba(35, 53, 57, 0.1);
+  background: #fff;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cp-related__card:hover {
+  border-color: rgba(40, 95, 86, 0.35);
+  box-shadow: 0 8px 24px rgba(35, 53, 57, 0.08);
+}
+
+.cp-related__media {
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: #f7f8f6;
+}
+
+.cp-related__media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cp-related__name {
+  display: block;
+  padding: 14px 12px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 600;
+  color: #223438;
+  border-top: 1px solid rgba(35, 53, 57, 0.08);
+}
+
+.cp-related__nav {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid rgba(35, 53, 57, 0.18);
+  background: #fff;
+  color: #285f56;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.cp-related__nav:hover {
+  background: #285f56;
+  border-color: #285f56;
+  color: #fff;
+}
+
+@media (max-width: 991px) {
+  .cp-layout {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+
+  .cp-gallery {
+    max-width: 480px;
+    margin: 0 auto;
+  }
+
+  .cp-page--specs-first .cp-gallery {
+    float: none;
+    width: 100%;
+    margin: 0 auto 28px;
+  }
+
+  .cp-title {
+    font-size: 28px;
+  }
+
+  .cp-related__row {
+    display: flex;
+    grid-template-columns: none;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .cp-related__nav {
+    flex: 0 0 40px;
+    justify-self: auto;
+    order: 0;
+  }
+
+  .cp-related__nav--prev,
+  .cp-related__nav--next {
+    order: 0;
+  }
+
+  .cp-related__viewport {
+    order: 0;
+    flex: 1 1 auto;
+    min-width: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+  }
+
+  .cp-related__grid,
+  .cp-related__grid--next,
+  .cp-related__grid--prev {
+    display: flex;
+    grid-template-columns: none;
+    gap: 12px;
+    width: max-content;
+    animation: none;
+  }
+
+  .cp-related__card {
+    flex: 0 0 min(72vw, 280px);
+    width: min(72vw, 280px);
+    scroll-snap-align: start;
+  }
+}
+
+@media (max-width: 575px) {
+  .cp-main {
+    padding: 32px 0 24px;
+  }
+
+  .cp-title {
+    font-size: 24px;
+  }
+
+  .cp-specs,
+  .cp-list__items--cols-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .cp-related__title {
+    margin-bottom: 20px;
+  }
+}
+
+.work-process ul {
+  flex-direction: column;
+  margin: 16px 0 24px;
+  padding-left: 0;
+}
+
+.work-process ul li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.work-process ul li i {
+  color: #285f56;
+  margin-top: 4px;
+}
+
+/* Font Awesome must keep its font even if Google Translate wraps the icon in <font>. */
+.fab {
+  font-family: "Font Awesome 6 Brands", "Font Awesome 5 Brands" !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+}
+
+.fa,
+.fas,
+.far,
+.fal,
+.fa-solid,
+.fa-regular {
+  font-family: "Font Awesome 6 Free", "Font Awesome 5 Free", FontAwesome !important;
+  font-style: normal !important;
+}
+
+.fas,
+.fa-solid,
+.fa {
+  font-weight: 900 !important;
+}
+
+.main-menu .mobile-nav__toggler {
+  appearance: none;
+  background: none;
+  border: 0;
+  padding: 8px;
+  line-height: 1;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.main-menu .mobile-nav__toggler i {
+  pointer-events: none;
+}
+
+.home-hero-carousel {
+  position: relative;
+  overflow: hidden;
+}
+
+.home-hero-carousel__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+
+.home-hero-carousel__track {
+  display: flex;
+  will-change: transform;
+}
+
+.home-hero-carousel__track.is-animating {
+  transition: transform 0.6s ease-in-out;
+}
+
+.home-hero-carousel__slide {
+  flex: 0 0 100%;
+  min-width: 100%;
+}
+
+.home-hero-carousel__slide img {
+  display: block;
+  width: 100%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-hero-carousel__track.is-animating {
+    transition-duration: 0.01ms;
+  }
+}
+
+/*
+ * Touch devices keep :hover after tap. Austy hover styles paint --austry-base
+ * (near-black) on dark chrome and scale white ::after fills, so buttons/icons vanish.
+ */
+@media (hover: none), (pointer: coarse) {
+  .thm-btn:hover,
+  .thm-btn:focus,
+  .thm-btn:active {
+    color: var(--austry-white) !important;
+  }
+
+  .thm-btn:hover::after,
+  .thm-btn:focus::after,
+  .thm-btn:active::after,
+  .thm-btn2:hover::after,
+  .counter-two__btn:hover::after,
+  .downloadbro__btn:hover::after,
+  .footer-widget__about-btn:hover::after,
+  .site-footer__social a:hover::after,
+  .site-footer__social a:focus::after,
+  .site-footer__social a:active::after {
+    transform: none !important;
+    -webkit-transform: none !important;
+  }
+
+  .site-footer__social a:hover,
+  .site-footer__social a:focus,
+  .site-footer__social a:active {
+    color: var(--austry-black) !important;
+    background-color: #ffcf00 !important;
+  }
+
+  .mobile-nav__social a:hover,
+  .mobile-nav__social a:focus,
+  .mobile-nav__social a:active,
+  .mobile-nav__social a:hover i,
+  .mobile-nav__close:hover,
+  .mobile-nav__content .main-menu__list li a:hover,
+  .mobile-nav__content .main-menu__list li a:focus,
+  .mobile-nav__content .main-menu__list li a:active,
+  .mobile-nav__content .main-menu__list li a.expanded,
+  .mobile-nav__content a:hover,
+  .mobile-nav__content a:focus,
+  .mobile-nav__content a:active {
+    color: #fff !important;
+  }
+
+  .mobile-nav__contact li a:hover,
+  .mobile-nav__contact li a:focus,
+  .mobile-nav__contact li a:active {
+    color: #fff !important;
+  }
+
+  .main-header-two__btn:hover,
+  .main-header-two__btn:focus,
+  .main-header-two__btn:active,
+  .footer-widget__about-btn:hover,
+  .footer-widget__about-btn:focus,
+  .footer-widget__about-btn:active {
+    color: var(--austry-white) !important;
+  }
+
+  .cp-docs__btn:hover,
+  .cp-docs__btn:focus,
+  .cp-docs__btn:active {
+    color: #fff !important;
+  }
 }

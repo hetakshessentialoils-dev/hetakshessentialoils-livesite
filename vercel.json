@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    { "source": "/index.php", "destination": "/", "permanent": true },
+    { "source": "/about.php", "destination": "/about", "permanent": true },
+    { "source": "/contact.php", "destination": "/contact", "permanent": true },
+    { "source": "/download-brochure.php", "destination": "/download-brochure", "permanent": true },
+    { "source": "/privacy-policy.php", "destination": "/privacy-policy", "permanent": true },
+    { "source": "/essential-oil.php", "destination": "/essential-oils", "permanent": true },
+    { "source": "/carrier-oils.php", "destination": "/carrier-oils", "permanent": true },
+    { "source": "/pharma-grade-oils.php", "destination": "/pharma-grade-oils", "permanent": true },
+    { "source": "/special-ingredients.php", "destination": "/special-ingredients", "permanent": true },
+    { "source": "/hydrosol-oils.php", "destination": "/hydrosol-oils", "permanent": true },
+    { "source": "/black-seed-oil.php", "destination": "/black-seed-oil", "permanent": true },
+    { "source": "/saw-palmetto-berry-extract.php", "destination": "/saw-palmetto-berry-extract", "permanent": true },
+    { "source": "/garlic-oil.php", "destination": "/garlic-oil", "permanent": true },
+    { "source": "/argan-oil.php", "destination": "/argan-oil", "permanent": true },
+    { "source": "/almond-oil.php", "destination": "/almond-oil", "permanent": true },
+    { "source": "/batana-oil.php", "destination": "/batana-oil", "permanent": true },
+    { "source": "/peppermint-oil.php", "destination": "/peppermint-oil", "permanent": true },
+    { "source": "/tea-tree-oil.php", "destination": "/tea-tree-oil", "permanent": true },
+    { "source": "/olive-oil.php", "destination": "/olive-oil", "permanent": true },
+    { "source": "/sesame-oil.php", "destination": "/sesame-oil", "permanent": true },
+    { "source": "/castor-oil.php", "destination": "/castor-oil", "permanent": true },
+    { "source": "/arachis-oil.php", "destination": "/arachis-oil", "permanent": true }
+  ]
+}

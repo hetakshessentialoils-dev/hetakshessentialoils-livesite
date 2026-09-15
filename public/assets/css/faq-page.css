@@ -1,0 +1,60 @@
+/* FAQ page — matches live faq.php (load after austry.css) */
+.faq-page {
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+
+.faq-page .faq-item {
+  border: 1px solid #ccc !important;
+  margin-bottom: 10px !important;
+  border-radius: 5px !important;
+  overflow: hidden !important;
+  background-color: #ffffff !important;
+}
+
+.faq-page .faq-question {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  padding: 15px !important;
+  cursor: pointer !important;
+  background-color: #f9f9f9 !important;
+  font-weight: bold !important;
+  transition: background-color 0.3s !important;
+  color: #233539 !important;
+}
+
+.faq-page .faq-question.active {
+  background-color: #2e7d32 !important;
+  color: #fff !important;
+}
+
+.faq-page .faq-answer {
+  display: none;
+  padding: 15px !important;
+  background-color: #fff !important;
+  line-height: 1.6 !important;
+  color: #233539 !important;
+}
+
+.faq-page .faq-answer p {
+  margin: 0 !important;
+}
+
+.faq-page .faq-question button {
+  background: none !important;
+  border: none !important;
+  color: inherit !important;
+  font-weight: normal !important;
+  cursor: pointer !important;
+  font-size: 16px !important;
+  padding: 0 !important;
+  flex-shrink: 0 !important;
+  margin-left: 16px !important;
+  text-transform: none !important;
+}
+
+.faq-page .faq-question span {
+  flex: 1 !important;
+  padding-right: 12px !important;
+}

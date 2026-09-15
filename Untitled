@@ -1,0 +1,11 @@
+GMAIL_USER=sales@hetakshessentialoils.com
+GMAIL_APP_PASSWORD=xxxx xxxx xxxx xxxx
+
+# Inbox that receives form submissions
+ENQUIRY_TO_EMAIL=sales@hetakshessentialoils.com
+# Address shown as From (must be the same mailbox as GMAIL_USER for Gmail)
+ENQUIRY_FROM_EMAIL=sales@hetakshessentialoils.com
+
+# Express API (Railway in production). Browser admin calls use /backend proxy;
+# this URL is used by the Next rewrite + server-side fetches.
+NEXT_PUBLIC_API_URL=http://localhost:4000

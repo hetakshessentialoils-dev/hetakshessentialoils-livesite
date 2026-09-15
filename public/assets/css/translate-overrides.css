@@ -1,0 +1,82 @@
+/**
+ * Google Translate — layout stability only.
+ * Do NOT restyle the closed select (globals.css + austry.css handle that).
+ */
+
+iframe.goog-te-banner-frame,
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body,
+html.translated-ltr,
+html.translated-rtl,
+body.translated-ltr,
+body.translated-rtl {
+  top: 0 !important;
+  position: static !important;
+  margin-top: 0 !important;
+}
+
+#google_translate_element {
+  flex-shrink: 0;
+  width: auto;
+}
+
+#google_translate_element .goog-te-gadget {
+  margin: 0 !important;
+}
+
+#google_translate_element .goog-te-combo {
+  width: max-content !important;
+  max-width: 10.5em !important;
+  field-sizing: content;
+  padding: 2px 1.2em 2px 0 !important;
+  margin: 0 12px 0 0 !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+#google_translate_element .goog-te-combo:focus,
+#google_translate_element .goog-te-combo:focus-visible {
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+/* Dropdown list option padding (Windows — best effort) */
+#google_translate_element .goog-te-combo option {
+  padding: 8px 12px !important;
+}
+
+font {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  vertical-align: baseline !important;
+  font-family: inherit !important;
+  color: inherit !important;
+  font-size: inherit !important;
+}
+
+.goog-text-highlight {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.fab,
+.fas,
+.far,
+.fa,
+[class^="icon-"],
+.site-footer__social,
+.mobile-nav__social {
+  translate: no;
+}
+
+html.translated-ltr .text-center,
+html.translated-rtl .text-center {
+  text-align: center !important;
+}
