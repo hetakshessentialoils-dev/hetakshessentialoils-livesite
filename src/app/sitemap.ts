@@ -3,69 +3,60 @@ import { getAllBlogPosts, getBlogs } from "@/lib/blog-api.server";
 import { getAllTagSlugs } from "@/lib/blog-tags.server";
 import { SITE_URL } from "@/lib/constants";
 import { getCategories, getProducts } from "@/lib/api";
+import { CATEGORY_DETAILS } from "@/data/category-details";
+import { CLEAN_PRODUCT_PAGES } from "@/data/clean-product-pages";
+import { PRODUCT_LANDINGS } from "@/data/product-landings";
+import { PRODUCT_PAGES_HTML } from "@/data/product-pages-html";
+
+const LAST_MOD = new Date("2026-09-15T09:33:09+00:00");
+
+function page(path: string, priority: number, lastModified = LAST_MOD): MetadataRoute.Sitemap[number] {
+  return {
+    url: `${SITE_URL}${path}`,
+    lastModified,
+    priority,
+  };
+}
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticRoutes = [
-    "",
-    "/about",
-    "/contact",
-    "/working-process",
-    "/industries-we-serve",
-    "/download-brochure",
-    "/privacy-policy",
-    "/search",
-    "/blog",
-  ].map((path) => ({
-    url: `${SITE_URL}${path}`,
-    lastModified: new Date(),
-    changeFrequency: "weekly" as const,
-    priority: path === "" ? 1 : 0.8,
-  }));
+    page("/", 1),
+    page("/about", 0.8),
+    page("/contact", 0.8),
+    page("/working-process", 0.8),
+    page("/industries-we-serve", 0.8),
+    page("/download-brochure", 0.8),
+    page("/privacy-policy", 0.8),
+    page("/blog", 0.8),
+    page("/search", 0.4096),
+  ];
 
+  const slugs = new Set<string>();
   const [categories, products] = await Promise.all([getCategories(), getProducts()]);
+
+  for (const category of categories || []) slugs.add(category.slug);
+  for (const product of products || []) slugs.add(product.slug);
+  for (const slug of Object.keys(CATEGORY_DETAILS)) slugs.add(slug);
+  for (const product of Object.values(CLEAN_PRODUCT_PAGES)) slugs.add(product.slug);
+  for (const landing of Object.values(PRODUCT_LANDINGS)) slugs.add(landing.slug);
+  for (const product of Object.values(PRODUCT_PAGES_HTML)) slugs.add(product.slug);
+
+  const productAndCategoryRoutes = [...slugs].sort().map((slug) => page(`/${slug}`, 0.8));
+
   const { totalPages } = await getBlogs(1);
+  const blogPaginationRoutes = Array.from({ length: Math.max(totalPages - 1, 0) }, (_, i) =>
+    page(`/blog/page/${i + 2}`, 0.64),
+  );
 
-  const blogPaginationRoutes = Array.from({ length: totalPages - 1 }, (_, i) => ({
-    url: `${SITE_URL}/blog/page/${i + 2}`,
-    lastModified: new Date(),
-    changeFrequency: "weekly" as const,
-    priority: 0.7,
-  }));
+  const blogRoutes = (await getAllBlogPosts()).map((post) =>
+    page(`/blog/${post.slug}`, 0.64, new Date(post.publishedAt)),
+  );
 
-  const blogRoutes = (await getAllBlogPosts()).map((post) => ({
-    url: `${SITE_URL}/blog/${post.slug}`,
-    lastModified: new Date(post.publishedAt),
-    changeFrequency: "monthly" as const,
-    priority: 0.6,
-  }));
-
-  const categoryRoutes =
-    categories?.map((category) => ({
-      url: `${SITE_URL}/${category.slug}`,
-      lastModified: new Date(),
-      changeFrequency: "weekly" as const,
-      priority: 0.8,
-    })) || [];
-
-  const productRoutes =
-    products?.map((product) => ({
-      url: `${SITE_URL}/${product.slug}`,
-      lastModified: new Date(),
-      changeFrequency: "weekly" as const,
-      priority: 0.7,
-    })) || [];
-
-  const tagRoutes = (await getAllTagSlugs()).map((slug) => ({
-    url: `${SITE_URL}/blog/tag/${slug}`,
-    lastModified: new Date(),
-    changeFrequency: "monthly" as const,
-    priority: 0.5,
-  }));
+  const tagRoutes = (await getAllTagSlugs()).map((slug) => page(`/blog/tag/${slug}`, 0.512));
 
   return [
     ...staticRoutes,
-    ...categoryRoutes,
-    ...productRoutes,
+    ...productAndCategoryRoutes,
     ...blogPaginationRoutes,
     ...blogRoutes,
     ...tagRoutes,
