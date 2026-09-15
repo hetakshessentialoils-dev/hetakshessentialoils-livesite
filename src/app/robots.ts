@@ -1,6 +1,13 @@
-User-agent: *
-Allow: /
+import type { MetadataRoute } from "next";
+import { SITE_URL } from "@/lib/constants";
 
-Disallow: /assets/
-
-Sitemap: https://hetakshessentialoils.com/sitemap.xml
+export default function robots(): MetadataRoute.Robots {
+  return {
+    rules: {
+      userAgent: "*",
+      allow: "/",
+      disallow: "/assets/",
+    },
+    sitemap: `${SITE_URL}/sitemap.xml`,
+  };
+}
