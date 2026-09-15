@@ -40,6 +40,8 @@ export default function RootLayout({
             gtag('config', 'G-TW8TGTNQVC');
           `}
         </Script>
+        <link rel="alternate" href="https://hetakshessentialoils.com/" hreflang="en-us" />
+        <link rel="alternate" href="https://hetakshessentialoils.com/" hreflang="en-in" />
         <link rel="stylesheet" href="/assets/vendors/bootstrap/css/bootstrap.min.css" />
         <link rel="stylesheet" href="/assets/vendors/fontawesome/css/all.min.css" />
         <link
