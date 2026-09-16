@@ -16,6 +16,14 @@ export const metadata: Metadata = {
   description:
     "Hetaksh Essential Oils – Global Essential Oil Wholesale Supplier & Bulk Manufacturer in US, trusted for 100% pure, natural oils at competitive prices.",
   icons: { icon: "/favicon.png" },
+  alternates: {
+    canonical: "/",
+    languages: {
+      "en-US": "/",
+      "en-IN": "/",
+      "x-default": "/",
+    },
+  },
   verification: {
     google: "C8-1wgXQ_brvk8g7S2o-1vknXVAfHZCtwk7kVUO8KyE",
     other: { "msvalidate.01": "35B384BD379FD5A3D6F570384D54A970" },
@@ -40,8 +48,6 @@ export default function RootLayout({
             gtag('config', 'G-TW8TGTNQVC');
           `}
         </Script>
-        <link rel="alternate" href="https://hetakshessentialoils.com/" hreflang="en-us" />
-        <link rel="alternate" href="https://hetakshessentialoils.com/" hreflang="en-in" />
         <link rel="stylesheet" href="/assets/vendors/bootstrap/css/bootstrap.min.css" />
         <link rel="stylesheet" href="/assets/vendors/fontawesome/css/all.min.css" />
         <link

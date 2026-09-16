@@ -16,7 +16,14 @@ export function buildMetadata({ title, description, keywords, path }: SeoInput):
     title,
     description,
     keywords: keywords?.split(",").map((k) => k.trim()),
-    alternates: { canonical },
+    alternates: {
+      canonical,
+      languages: {
+        "en-US": canonical,
+        "en-IN": canonical,
+        "x-default": canonical,
+      },
+    },
     openGraph: {
       title,
       description,
