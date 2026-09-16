@@ -158,7 +158,7 @@ export const NEW_PAGES_BATCH2: Record<string, CleanProductPage> = {
       { label: "Main Uses", value: "Skincare, Hair Care & Cosmetics" },
     ],
     coa: "/assets/images/products/Carrier-Oils/coa/CUCUMBER-OIL-COA.pdf",
-    msds: "/assets/images/products/Carrier-Oils/MSDS/Cucumber Oil MSDS.pdf",
+    msds: "/assets/images/products/Carrier-Oils/MSDS/CUCUMBER OIL MSDS.pdf",
     formTitle: "Contact us for Wholesale Cucumber Oil Enquiries",
     enquirySource: "Enquiry from Cucumber Oil Page",
     sections: [
