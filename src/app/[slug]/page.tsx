@@ -14,7 +14,7 @@ import { CLEAN_PRODUCT_PAGES } from "@/data/clean-product-pages";
 import { getProductFaqs } from "@/data/product-faqs";
 import { PRODUCT_LANDINGS } from "@/data/product-landings";
 import { PRODUCT_PAGES_HTML } from "@/data/product-pages-html";
-import { breadcrumbJsonLd, buildMetadata, faqJsonLd, productJsonLd } from "@/lib/seo";
+import { breadcrumbJsonLd, buildMetadata, faqJsonLd, productBreadcrumbs, productJsonLd } from "@/lib/seo";
 import type { CategoryDetail, CategoryDetailItem, FaqItem } from "@/lib/types";
 
 export async function generateStaticParams() {
@@ -327,11 +327,7 @@ async function CategoryPage({
 async function ProductDetailPage({ slug }: { slug: string }) {
   const cleanPage = CLEAN_PRODUCT_PAGES[slug];
   if (cleanPage) {
-    const breadcrumbs = [
-      { name: "Home", href: "/" },
-      { name: cleanPage.categoryName, href: categoryPath(cleanPage.category) },
-      { name: cleanPage.name, href: productPath(slug) },
-    ];
+    const breadcrumbs = productBreadcrumbs(cleanPage.name, productPath(slug));
     const faqs = getProductFaqs(slug);
     return (
       <>
@@ -344,11 +340,7 @@ async function ProductDetailPage({ slug }: { slug: string }) {
 
   const landing = PRODUCT_LANDINGS[slug];
   if (landing) {
-    const breadcrumbs = [
-      { name: "Home", href: "/" },
-      { name: landing.categoryName, href: categoryPath(landing.category) },
-      { name: landing.title, href: productPath(slug) },
-    ];
+    const breadcrumbs = productBreadcrumbs(landing.title, productPath(slug));
     const faqs = getProductFaqs(slug);
     return (
       <>
@@ -361,11 +353,7 @@ async function ProductDetailPage({ slug }: { slug: string }) {
 
   const htmlPage = PRODUCT_PAGES_HTML[slug];
   if (htmlPage) {
-    const breadcrumbs = [
-      { name: "Home", href: "/" },
-      { name: htmlPage.categoryName, href: categoryPath(htmlPage.category) },
-      { name: htmlPage.title, href: productPath(slug) },
-    ];
+    const breadcrumbs = productBreadcrumbs(htmlPage.title, productPath(slug));
     const faqs = getProductFaqs(slug);
     return (
       <>
@@ -380,12 +368,7 @@ async function ProductDetailPage({ slug }: { slug: string }) {
   if (!product) notFound();
 
   const faqs = (product.faqs?.length ? product.faqs : DEFAULT_FAQS) as FaqItem[];
-  const categorySlug = product.category?.slug || "essential-oils";
-  const breadcrumbs = [
-    { name: "Home", href: "/" },
-    { name: product.category?.name || "Products", href: categoryPath(categorySlug) },
-    { name: product.name, href: productPath(slug) },
-  ];
+  const breadcrumbs = productBreadcrumbs(product.name, productPath(slug));
 
   return (
     <>

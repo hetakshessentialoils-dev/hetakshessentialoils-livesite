@@ -55,6 +55,14 @@ export function faqJsonLd(faqs: FaqItem[]) {
   };
 }
 
+/** Product crumbs only — omit the category so Google does not show it as the SERP path. */
+export function productBreadcrumbs(name: string, href: string) {
+  return [
+    { name: "Home", href: "/" },
+    { name, href },
+  ];
+}
+
 export function breadcrumbJsonLd(items: { name: string; href: string }[]) {
   return {
     "@context": "https://schema.org",
