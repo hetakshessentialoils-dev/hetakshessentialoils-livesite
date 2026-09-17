@@ -835,7 +835,7 @@ export const CATEGORY_DETAILS: Record<string, CategoryDetail> = {
         "composition": "Cucumber Seed Oil is a high linoleic acid oil that also has a fair amount of oleic acid. It also contains antioxidant vitamin E, phytosterols and some trace minerals such as potassium",
         "extraction": "Cucumber Seed Oil is extracted from the seeds Cucumis Sativus, though Cold Pressing method. It belongs to the Cucurbitaceae family of plantae kingdom. Cucumber Seed Oil is a light to dark yellow liquid oil with a neutral mild characterstic odor. Cucumber Seed Oil has excellent moisturizing and smoothening qualities, improves the lipid barrier and revitalizes matured skin. Cucumber Seed Oil is highly recommended in scalp and hair care products to encourage healthy hair growth and increased vitality.",
         "coa": "/assets/images/products/Carrier-Oils/coa/CUCUMBER-OIL-COA.pdf",
-        "msds": "/assets/images/products/Carrier-Oils/MSDS/Cucumber Seed Oil MSDS.pdf",
+        "msds": "/assets/images/products/Carrier-Oils/MSDS/CUCUMBER OIL MSDS.pdf",
         "image": "/assets/images/products/Carrier-Oils/Cucumber-Oil.webp",
         "imageAlt": "Here Are Some Technical Details About Cucumber Seed Oil"
       },
@@ -1075,7 +1075,6 @@ export const CATEGORY_DETAILS: Record<string, CategoryDetail> = {
         "composition": "Triglycerides of wheat germ oil mainly consist of unsaturated fatty acids. Linoleic acid is predominant followed by palmitic acid, oleic acid, linolenic acid, and stearic acid.",
         "extraction": "Wheat germ oil is extracted from the germ of the wheat kernel, which makes up only 2.5% by weight of the kernel. It is a yellow coloured clear liquid. Wheatgerm Oil is very high in vitamin E & essential Fatty acids & is a natural antioxidant. When applied on the skin it promotes the formation of new cells, improves circulation, helps repair skin damage & give you a naturally radiant skin.",
         "coa": "/assets/images/products/Carrier-Oils/coa/WHEATGERM OIL COA.pdf",
-        "msds": "/assets/images/products/Carrier-Oils/MSDS/WHEATGERM OIL MSDS.pdf",
         "image": "/assets/images/products/Carrier-Oils/Wheatgerm-Oil.webp",
         "imageAlt": "Here Are Some Technical Details About Wheatgerm Oil"
       }
@@ -1505,7 +1504,7 @@ export const CATEGORY_DETAILS: Record<string, CategoryDetail> = {
         "composition": "Linseed contains principally glycerides of linolenic, linoleic, oleic and palmitic acid. Linseed oil is a rich source of α-Linolenic acid extracted from the dried, ripened seeds of the flax plant *Linum usitatissimum*",
         "extraction": "Linseed oil, also known as flaxseed oil or flax oil, is a colorless to yellowish oil obtained from the dried, ripened seeds of the flax plant (Linum usitatissimum). The oil is obtained by pressing, sometimes followed by solvent extraction. Linseed Oil is used in rheumatism, arthritis and malaria. It is used in the formulation of various medicines. It is very helpful in treating digestive disorders like IBS, constipation, colon damage, large Intestine problems, flatulence, enteritis, and many other related disorders.",
         "coa": "/assets/images/products/Pharma-Grade-Oils/COA/VIRGIN LINSEED OIL BP COA.pdf",
-        "msds": "/assets/images/products/Pharma-Grade-Oils/MSDS/Virgin Linseed OIL MSDS.pdf",
+        "msds": "/assets/images/products/Carrier-Oils/MSDS/FLAXSEED OIL MSDS.pdf",
         "image": "/assets/images/products/Pharma-Grade-Oils/Virgin-Linseed-Oil.webp",
         "imageAlt": "Here Are Some Technical Details About Virgin Linseed OIl"
       }
@@ -1642,7 +1641,7 @@ export const CATEGORY_DETAILS: Record<string, CategoryDetail> = {
         "composition": "Saw palmetto's active ingredients include fatty acids, plant sterols, and flavonoids. The berries also contain high molecular weight polysaccharides (sugars).",
         "extraction": "Sawpalmetto oil is acquired from small, scrubby palm tree, scientifically known as Sabal serulata or serenoa repens belonging to palmaceae family by CO2 extraction process. Pure Saw Palmetto Oil is yellow /Red to brown oily liquid with characteristic odor. Botanical Source is Serenoa Repens berries. It is frequently included in dietary supplements and herbal treatments to support prostate health and treat BPH-related urinary problems.",
         "coa": "",
-        "msds": "/assets/images/products/special-ingredients/MSDS/SAW PALMETTO OIL MSDS.pdf",
+        "msds": "/assets/images/products/Carrier-Oils/MSDS/SAW PALMETTO OIL MSDS.pdf",
         "image": "/assets/images/products/special-ingredients/Saw-Palmetto-Extract-USP.webp",
         "imageAlt": "Here Are Some Technical Details Saw Palmetto Extract USP"
       }
@@ -2080,7 +2079,7 @@ export const CATEGORY_DETAILS: Record<string, CategoryDetail> = {
         "composition": "The major compounds in all cumin oils are the monoterpenes beta-pinene, p-cymene and gamma-terpinene and the terpenoid aldehydes cuminic aldehyde and the isomeric menthadien carboxaldehydes.",
         "extraction": "Cumin Seed hydrosol is extracted as a by-product during the extraction of Cumin Seed Essential Oil by Steam Distillation of Cuminum Cyminum or Cumin fruit. Cumin Seed hydrosol is an anti-inflammatory liquid, with a strong aromatic hold. Cumin Seed Hydrosol has a very warm, spicy and nutty aroma that can reduce mental pressure and promote relaxation in nervous system. Cumin Seed Hydrosol is commonly used in mist forms, you can add it to relieve skin rashes, hydrate skin, prevent infections, nourish scalp. It is anti-bacterial and anti-parasitic in nature that makes it perfect to use for allergic skin and treat infections.",
         "coa": "/assets/images/products/Hydrosol/COA/CUMIN HYDROSOL COA.pdf",
-        "msds": "/assets/images/products/Hydrosol/MSDS/Cumin Seed Oil Hydrosol MSDS.pdf",
+        "msds": "/assets/images/products/Hydrosol/MSDS/Cumin Oil Hydrosol MSDS.pdf",
         "image": "/assets/images/products/Hydrosol/Cumin-Hydrosol.webp",
         "imageAlt": "Here Are Some Technical Details About Cumin Hydrosol"
       },
@@ -2480,7 +2479,7 @@ export const CATEGORY_DETAILS: Record<string, CategoryDetail> = {
         "composition": "This hydrosol contains water-soluble chemicals derived from ylang ylang flowers in addition to water. Aromatic molecules such as benzyl acetate, linalool, and other phytonutrients are among the components that contribute to the sweet, floral, and slightly exotic perfume associated with ylang ylang.",
         "extraction": "Ylang Ylang Hydrosol is obtained through steam distillation, a process in which steam is passed through ylang ylang flowers. It is supposed to control sebum production, making it an ideal balance toner for oily and mixed skin. It can aid in the retention of moisture in the skin, leaving it smooth and hydrated. Because of its calming properties, it can be used to make a soothing pillow spray at bedtime.",
         "coa": "/assets/images/products/Hydrosol/COA/YLANG YLANG HYDROSOL COA.pdf",
-        "msds": "/assets/images/products/Hydrosol/MSDS/Ylang Ylang Oil Hydrosol MSDS.pdf",
+        "msds": "/assets/images/products/Essential-Oils/MSDS/YLANG-YLANG-OIL-MSDS.pdf",
         "image": "/assets/images/products/Hydrosol/Ylang-Ylang-Hydrosol.webp",
         "imageAlt": "Here Are Some Technical Details About Ylang Ylang Hydrosol"
       }
@@ -2688,7 +2687,7 @@ export const CATEGORY_DETAILS: Record<string, CategoryDetail> = {
         "title": "Here Are Some Technical Details About Cumin Seed Oil",
         "composition": "The major compounds in all cumin oils are the monoterpenes beta-pinene, p-cymene and gamma-terpinene and the terpenoid aldehydes cuminic aldehyde and the isomeric menthadien carboxaldehydes.",
         "extraction": "Cumin seed oil is derived from the plant Cuminum cyminum. Cumin seed oil is obtained by the steam distillation. It is golden to brownish-yellow in color. Cumin Seed Oil is strong, warm, pungent, and aromatic. Cumin seeds are widely used as a spice in cooking. It needs to be kept in a tight container in a dark and cool place.",
-        "coa": "/assets/images/products/spice-oil/COA/Cumin Seed Oil COA.pdf",
+        "coa": "/assets/images/products/spice-oil/COA/CUMIN OIL COA.pdf",
         "msds": "/assets/images/products/spice-oil/MSDS/CUMIN SEED OIL MSDS.pdf",
         "image": "/assets/images/products/spice-oil/CUMIN SEED OIL.webp",
         "imageAlt": "Here Are Some Technical Details About Cumin Seed Oil"

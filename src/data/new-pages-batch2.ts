@@ -343,7 +343,7 @@ export const NEW_PAGES_BATCH2: Record<string, CleanProductPage> = {
       { label: "Main Compound", value: "Cuminaldehyde" },
       { label: "Origin", value: "India" },
     ],
-    coa: "/assets/images/products/spice-oil/COA/Cumin Seed Oil COA.pdf",
+    coa: "/assets/images/products/spice-oil/COA/CUMIN OIL COA.pdf",
     msds: "/assets/images/products/spice-oil/MSDS/CUMIN SEED OIL MSDS.pdf",
     formTitle: "Contact us for Wholesale Cumin Seed Oil Enquiries",
     enquirySource: "Enquiry from Cumin Seed Oil Page",
@@ -396,7 +396,7 @@ export const NEW_PAGES_BATCH2: Record<string, CleanProductPage> = {
       {
         title: "Cumin Hydrosol | Spice Water for Mists & Beauty Products",
         coa: "/assets/images/products/Hydrosol/COA/CUMIN HYDROSOL COA.pdf",
-        msds: "/assets/images/products/Hydrosol/MSDS/Cumin Seed Oil Hydrosol MSDS.pdf",
+        msds: "/assets/images/products/Hydrosol/MSDS/Cumin Oil Hydrosol MSDS.pdf",
         paragraphs: [
           "Cumin Hydrosol is a water-based botanical product collected during the distillation of cumin seeds. It has a much lighter aroma than Cumin Essential Oil. The smell is usually soft, warm, herbal, and slightly spicy. It can be used in water-based products where a mild cumin note is wanted. Cumin Hydrosol can be added to body mists, facial sprays, hair sprays, room fresheners, soaps, lotions, and selected personal care products. It may also be used in botanical and aromatic products. The colour, aroma, pH, and shelf life can vary with the seeds, distillation process, filtration, packaging, and storage. Since hydrosol is water-based, clean handling and proper storage are important.",
         ],

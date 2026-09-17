@@ -7,6 +7,8 @@ export const CONTACT = {
   phone1: "+91 9870-385-705",
   phone2: "+91 9871-888-705",
   whatsapp: "919870385705",
+  whatsappSales: "https://wa.me/919871888705",
+  whatsappAlt: "https://wa.me/919870385705",
 };
 
 export const NAV_LINKS = [
