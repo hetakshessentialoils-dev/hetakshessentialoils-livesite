@@ -126,8 +126,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Eucalyptus Oil Manufacturer & Exporter | Bulk Eucalyptus Essential Oil",
-  seoDescription: "Buy bulk Eucalyptus Oil, Eucalyptus Oil BP, Eucalyptus Oil IP, and Eucalyptus Hydrosol from a leading manufacturer and exporter. Steam distilled, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Eucalyptus Oil BP IP Hydrosol Manufacturer | Wholesale Suppliers",
+  seoDescription: "Eucalyptus Oil BP, IP and Hydrosol bulk manufacturer and wholesale supplier offering quality bulk products for pharmaceutical, wellness industries.",
 };
 
 export const faqs: FaqItem[] = [
