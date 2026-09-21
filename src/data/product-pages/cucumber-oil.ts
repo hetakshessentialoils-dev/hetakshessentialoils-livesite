@@ -237,8 +237,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Cucumber Oil Distributor & Exporter | Bulk Cucumber Oil Wholesaler",
-  seoDescription: "Buy bulk Cucumber Oil from a leading manufacturer and exporter. Cold-pressed cucumber seed oil with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Cucumber Oil Bulk Manufacturer | Wholesale Suppliers & Distributor",
+  seoDescription: "Hetaksh Essential Oils quality Cucumber Oil Manufacturer as a trusted bulk supplier. Get bulk and wholesale solutions for cosmetics, and personal care.",
 };
 
 export const faqs: FaqItem[] = [
