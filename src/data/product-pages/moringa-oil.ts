@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Moringa Oil Manufacturer & Supplier | Bulk Moringa Seed Oil",
-  seoDescription: "Buy bulk Moringa Oil from Moringa oleifera seeds. Light carrier oil for cosmetics, skin care, and hair care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Best Moringa Oil Bulk Supplier and Manufacturer in US",
+  seoDescription: "Moringa Oil bulk manufacturer and wholesale supplier in US, providing premium-quality oil for businesses with dependable supply and competitive rates.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
