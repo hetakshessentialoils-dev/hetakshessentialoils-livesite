@@ -138,8 +138,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Dill Oil Manufacturer & Wholesaler | Bulk Dill Essential Oil Distributor",
-  seoDescription: "Buy bulk Dill Oil, Dill Oil Terpeneless, Dill Oil BP, and Dill Hydrosol from a leading manufacturer and exporter. Steam distilled, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Dill Oil BP Wholesale | Hydrosol Bulk Suppliers & Manufacturer in US",
+  seoDescription: "Hetaksh Essential Oils offers premium Dill Oil BP and Hydrosol for bulk manufacturer and wholesale suppliers requirements.",
 };
 
 export const faqs: FaqItem[] = [
