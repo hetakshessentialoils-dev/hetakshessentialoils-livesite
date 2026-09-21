@@ -130,8 +130,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Clary Sage Oil | Soft Herbal Oil for Beauty, Fragrance & Wellness",
-  seoDescription: "Buy bulk Clary Sage Oil and Clary Sage Hydrosol. Steam distilled Salvia sclarea with COA, MSDS, TDS, samples, and worldwide shipping.",
+  seoTitle: "Natural Clary Sage Oil Wholesale Suppliers | Bulk Manufacturer in US",
+  seoDescription: "Buy natural Clary Sage Oil from trusted bulk supplier and manufacturer in us. Available in wholesale for cosmetics and personal care.",
 };
 
 export const faqs: FaqItem[] = [
