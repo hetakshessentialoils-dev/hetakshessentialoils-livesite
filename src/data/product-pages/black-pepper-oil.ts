@@ -113,8 +113,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Black Pepper Oil Manufacturer & Exporter | Bulk Black Pepper Essential Oil Supplier",
-  seoDescription: "Buy bulk Black Pepper Oil and Black Pepper Hydrosol from a leading manufacturer and exporter. 100% pure, steam distilled, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Black Pepper Oil Wholesale Suppliers | Bulk Manufacturer in US",
+  seoDescription: "Premium Black Pepper Oil Manufacturer for aromatherapy, personal care applications. Available in wholesale suppliers and bulk quantities for businesses.",
 };
 
 export const faqs: FaqItem[] = [
