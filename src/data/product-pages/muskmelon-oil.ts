@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Muskmelon Seed Oil Manufacturer | Bulk Muskmelon Seed Oil Supplier",
-  seoDescription: "Buy bulk Muskmelon Seed Oil from Cucumis melo seeds. Light carrier oil for cosmetics, skin care, and hair care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Muskmelon Seed Oil Bulk Supplier & Wholesale Manufacturer US",
+  seoDescription: "Trusted Muskmelon Seed Oil manufacturer and wholesale supplier in US, offering pure quality oil in bulk quantities at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
