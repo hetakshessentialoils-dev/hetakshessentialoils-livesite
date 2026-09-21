@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lemongrass Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Lemongrass Oil | Fresh Green Oil for Fragrance, Food and Personal Care",
-  seoDescription: "Buy bulk Lemongrass Oil and Lemongrass Hydrosol from a manufacturer and exporter. Steam distilled Cymbopogon citratus, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Lemongrass oil bulk manufacturer | Hydrosol Wholesale Supplier",
+  seoDescription: "Trusted Lemongrass Oil manufacturer and Hydrosol wholesale supplier offering pure products in bulk quantities for fragrance, and other uses.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
