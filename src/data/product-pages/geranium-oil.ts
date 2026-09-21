@@ -54,8 +54,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Geranium Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Geranium Oil | Fresh Floral Oil for Beauty, Hair Care and Fragrance",
-  seoDescription: "Buy bulk Geranium Oil and Geranium Hydrosol from a manufacturer and exporter. Steam distilled Pelargonium graveolens oil with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Geranium Oil Suppliers | Hydrosol Bulk Manufacturers & Wholesale",
+  seoDescription: "Geranium Oil and Hydrosol bulk manufacturers and wholesale suppliers offering 100% pure, natural products for cosmetics, and personal care.",
   afterSpecsParagraphs: [
     "A geranium oil bulk manufacturer may work with different natural batches, so the colour and smell can have small changes. This is normal with plant-based materials. The final profile depends on the raw plant and the way it is processed.",
     "The plant itself is quite interesting. It has soft green leaves and small flowers, but its leaves carry a strong part of its aroma. When the plant material goes through distillation, the fragrant part is collected as the essential oil.",
