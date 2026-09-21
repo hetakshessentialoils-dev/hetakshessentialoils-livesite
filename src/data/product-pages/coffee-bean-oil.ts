@@ -174,8 +174,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Coffee Bean Oil Manufacturer & Distributor | Bulk Coffee Bean Oil Supplier",
-  seoDescription: "Buy bulk Coffee Bean Oil from a manufacturer and distributor. Cold pressed Coffea arabica oil with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Coffee Bean Oil Manufacturer | Bulk Suppliers & Wholesale in US",
+  seoDescription: "Hetaksh Essential Oil natural Coffee Bean Oil Wholesale as a trusted manufacturer and supplier. Get quality bulk solutions for cosmetics and personal care.",
 };
 
 export const faqs: FaqItem[] = [
