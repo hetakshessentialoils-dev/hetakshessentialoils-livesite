@@ -79,8 +79,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Bergamot Oil Manufacturer & Exporter | Bulk Bergamot Essential Oil Supplier",
-  seoDescription: "Buy bulk Bergamot Oil and Bergamot Hydrosol from a leading manufacturer and exporter. Cold pressed, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "100% Pure Bergamot Oil Manufacturers | Wholesale & Bulk Supplier in USA",
+  seoDescription: "Source 100% pure Bergamot Oil Wholesale Suppliers for perfumes, skincare and personal care products. Ideal for manufacturer, brands and distributors seeking bulk supply.",
 };
 
 export const faqs: FaqItem[] = [
