@@ -125,8 +125,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Cassia Oil Distributor & Exporter | Bulk Cassia Essential Oil Supplier",
-  seoDescription: "Buy bulk Cassia Oil and Cassia Hydrosol from a distributor and exporter. Steam distilled Cinnamomum cassia with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Pure Cassia Oil Supplier | Wholesale & Bulk Manufacturers in US",
+  seoDescription: "Premium Cassia Oil Bulk Supplier offering 100% Pure Cassia Oil for US wholesale and bulk buyers, ideal for cosmetics, aromatherapy, and wellness products.",
 };
 
 export const faqs: FaqItem[] = [
