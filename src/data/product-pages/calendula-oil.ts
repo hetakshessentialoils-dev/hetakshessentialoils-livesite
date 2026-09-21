@@ -213,8 +213,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Calendula Oil Manufacturer & Wholesaler | Bulk Calendula Oil Supplier",
-  seoDescription: "Buy bulk Calendula Oil from a manufacturer and wholesaler. Infused Calendula officinalis oil with COA, MSDS, TDS, samples, and worldwide shipping.",
+  seoTitle: "Natural Calendula Oil Wholesale | Bulk Suppliers & Manufacturer",
+  seoDescription: "Hetaksh Essential Oils supplies natural Calendula Oil as a trusted manufacturer and supplier. Get quality bulk and wholesale solutions.",
 };
 
 export const faqs: FaqItem[] = [
