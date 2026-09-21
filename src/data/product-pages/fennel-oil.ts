@@ -54,8 +54,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Fennel Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Fennel Oil | Natural Sweet-Spice Essential Oil for Bulk Supply",
-  seoDescription: "Buy bulk Fennel Oil, Fennel Oil USP, and Fennel Hydrosol from a leading manufacturer and exporter. Steam distilled, with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Fennel Oil USP Wholesale Manufacturer | Bulk Suppliers & Distributors",
+  seoDescription: "Trusted Fennel Oil USP manufacturer, bulk supplier and distributor providing reliable wholesale supply for pharmaceutical product formulations.",
   afterSpecsParagraphs: [
     "Fennel Oil is useful for many types of businesses. Food companies can use it in suitable flavour applications, while fragrance makers can use its sweet smell in perfume blends. Soap makers, cosmetic brands, personal care companies, and aromatherapy businesses can also use it in suitable formulas.",
     "The oil can be mixed with other essential oils to create different smells. Citrus oils can give it a fresh touch, while spice oils can make the blend warmer. Floral oils can give it a softer character. The final blend should always be tested before commercial production.",
