@@ -37,8 +37,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Ajwain Oil Bulk Manufacturer & Wholesale Supplier",
-  seoDescription: "Buy bulk Ajwain Oil and Ajwain Hydrosol from a leading manufacturer and exporter. 100% pure, steam distilled, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Ajowan Oil Bulk Supplier & Exporter USA | Wholesale Manufacturer",
+  seoDescription: "Hetaksh Essential Oils is a trusted Ajowan Oil bulk manufacturer and exporter in the USA, offering quality Ajowan Oil for wholesale suppliers and bulk orders.",
   specs: [
     {
       label: "Product Name",
