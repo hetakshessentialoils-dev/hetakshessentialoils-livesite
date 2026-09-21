@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Myrtle Oil Manufacturer & Supplier | Bulk Myrtus communis Oil",
-  seoDescription: "Buy bulk Myrtle Oil and Myrtle Hydrosol from Myrtus communis. Fresh green essential oil for fragrance and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Pure Myrtle Oil Wholesale Supplier | Hydrosol Bulk Manufacturer",
+  seoDescription: "Trusted Myrtle Oil wholesale supplier and Hydrosol bulk manufacturer offering pure, quality products with dependable supply and competitive bulk prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
