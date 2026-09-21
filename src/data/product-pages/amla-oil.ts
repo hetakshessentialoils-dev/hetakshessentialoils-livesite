@@ -64,8 +64,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Natural Amla Oil Manufacturer | Cold Pressed Amla Oil Bulk Supplier",
-  seoDescription: "Buy bulk cold-pressed Amla Oil from a leading manufacturer and exporter. 100% natural Indian gooseberry oil with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Premium Amla Oil Manufacturer | Wholesale Suppliers & Exporter US",
+  seoDescription: "Hetaksh Essential Oils supplies 100% pure Amla Oil Manufacturers for hair, scalp, beard and skin care products, with reliable wholesale and bulk supply in the US.",
 };
 
 export const faqs: FaqItem[] = [
