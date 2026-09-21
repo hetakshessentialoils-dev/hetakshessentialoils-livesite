@@ -55,7 +55,7 @@ export function Footer() {
                   <div className="site-footer__social notranslate" translate="no">
                     <a href="https://www.facebook.com/HetakshessentialoilsIn/" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i className="fab fa-facebook-f notranslate" translate="no" /></a>
                     <a href="https://www.linkedin.com/company/hetaksh-essential-oils/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i className="fab fa-linkedin-in notranslate" translate="no" /></a>
-                    <a href="https://www.instagram.com/hetakshessentialoils/" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i className="fab fa-instagram notranslate" translate="no" /></a>
+                    <a href="https://www.instagram.com/hetakshessentialoilsin/" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i className="fab fa-instagram notranslate" translate="no" /></a>
                     <a href="https://www.pinterest.com/hetakshoils/" target="_blank" rel="noopener noreferrer" aria-label="Pinterest"><i className="fab fa-pinterest notranslate" translate="no" /></a>
                   </div>
                 </div>
