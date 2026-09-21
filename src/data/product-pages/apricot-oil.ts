@@ -99,8 +99,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Apricot Kernel Oil Distributor | Natural Apricot Oil Bulk Supplier",
-  seoDescription: "Buy bulk Apricot Kernel Oil from a leading manufacturer and exporter. 100% pure cold-pressed carrier oil with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "100% Pure Apricot Oil Wholesale Suppliers | Bulk Manufacturer & Exporter USA",
+  seoDescription: "Hetaksh Essential Oils 100% pure Apricot Oil Bulk Manufacturers for skincare, hair care, creams, with wholesale and Suppliers in the USA.",
 };
 
 export const faqs: FaqItem[] = [
