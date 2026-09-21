@@ -80,8 +80,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Avocado Oil Manufacturer & Supplier | Bulk Avocado Oil Distributor",
-  seoDescription: "Buy bulk Avocado Oil from a leading manufacturer and exporter. 100% pure cold-pressed carrier oil with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Premium Avocado Oil Manufacturers | Bulk & Wholesale Suppliers in USA",
+  seoDescription: "100% pure Avocado Oil Suppliers for skincare, hair care, cosmetics products. Available in bulk and wholesale quantities for manufacturers across the USA.",
 };
 
 export const faqs: FaqItem[] = [
