@@ -149,8 +149,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Cumin Seed Oil Supplier & Distributor | Bulk Cumin Essential Oil Exporter",
-  seoDescription: "Buy bulk Cumin Seed Oil and Cumin Hydrosol from a leading manufacturer and exporter. Steam distilled, with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Cumin Seed Oil Manufacturer | Bulk Suppliers & Wholesale in US",
+  seoDescription: "Hetaksh Essential Oils is a reliable Cumin Seed Oil Manufacturer for bulk supplier and wholesale requirements. Ideal for cosmetics, other applications.",
 };
 
 export const faqs: FaqItem[] = [
