@@ -53,8 +53,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Juniper Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Juniper Oil | Fresh Green Oil from the Juniper Plant",
-  seoDescription: "Buy bulk Juniper Oil and Juniper Hydrosol from a manufacturer and exporter. Steam distilled Juniperus communis, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "100% Pure Juniper Oil Wholesale Supplier & Bulk Manufacturer in US",
+  seoDescription: "Trusted Juniper Oil wholesale supplier and bulk manufacturer in the US, offering 100% pure natural oil for aromatherapy, and related uses.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
