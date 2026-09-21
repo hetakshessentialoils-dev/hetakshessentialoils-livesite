@@ -129,8 +129,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Cinnamon Oil Distributor & Wholesaler | Bulk Cinnamon Essential Oil",
-  seoDescription: "Buy bulk Cinnamon Bark Oil, Cinnamon Leaf Oil, Cinnamon Oil BP, and cinnamon hydrosols. Steam distilled, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "100% Pure Cinnamon Oil BP & Hydrosol Wholesale | Wholesale Suppliers in US",
+  seoDescription: "100% Pure Cinnamon Oil BP and Hydrosol in bulk for the US market from trusted manufacturer and wholesale suppliers serving pharmaceutical, and personal care industries.",
 };
 
 export const faqs: FaqItem[] = [
