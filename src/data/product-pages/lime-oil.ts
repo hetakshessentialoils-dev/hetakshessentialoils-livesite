@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lime Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Lime Oil | Sharp Green Citrus Oil from Fresh Lime Peel",
-  seoDescription: "Buy bulk Lime Oil and Lime Hydrosol from a manufacturer and exporter. Citrus aurantiifolia peel oil for food, fragrance, and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Lime Oil Wholesale Supplier & Hydrosol Bulk Manufacturer in USA",
+  seoDescription: "Hetaksh Essential Oils is a trusted Lime Oil manufacturer and Hydrosol wholesale supplier, offering pure products in bulk with reliable supply across the USA.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
