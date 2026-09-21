@@ -1,12 +1,9 @@
 import Link from "next/link";
 import { CoaMsdsMenu } from "@/components/CoaMsdsMenu";
 import { ProductsMenu } from "@/components/ProductsMenu";
-import { getCoaMsdsNav } from "@/lib/coa-msds-nav";
 import { CERTIFICATES, NAV_PRODUCTS } from "@/lib/legacy-assets";
 
 export function Header() {
-  const coaMsdsNav = getCoaMsdsNav();
-
   return (
     <>
       <header className="main-header-two page-header">
@@ -36,7 +33,7 @@ export function Header() {
                       <Link href="/about">About</Link>
                     </li>
                     <ProductsMenu items={NAV_PRODUCTS} />
-                    <CoaMsdsMenu items={coaMsdsNav} />
+                    <CoaMsdsMenu />
                     <li className="dropdown">
                       <a href="#" className="header-nav-dropdown">
                         <span>Download Certificates</span>

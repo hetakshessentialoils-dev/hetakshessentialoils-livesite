@@ -24,17 +24,29 @@ function DocsLinks({ doc }: { doc: CoaMsdsDoc }) {
   );
 }
 
-export function CoaMsdsMenu({ items }: { items: CoaMsdsNavProduct[] }) {
+export function CoaMsdsMenu() {
+  const [items, setItems] = useState<CoaMsdsNavProduct[] | null>(null);
   const [query, setQuery] = useState("");
   const [flatDoc, setFlatDoc] = useState<CoaMsdsDoc | null>(null);
   const [flatTop, setFlatTop] = useState(0);
   const panelRef = useRef<HTMLLIElement>(null);
   const rowRef = useRef<HTMLElement | null>(null);
 
+  useEffect(() => {
+    let cancelled = false;
+    void import("@/lib/coa-msds-nav").then(({ getCoaMsdsNav }) => {
+      if (!cancelled) setItems(getCoaMsdsNav());
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
   const filtered = useMemo(() => {
+    const list = items ?? [];
     const q = query.trim().toLowerCase();
-    if (!q) return items;
-    return items.filter((product) => product.label.toLowerCase().startsWith(q));
+    if (!q) return list;
+    return list.filter((product) => product.label.toLowerCase().startsWith(q));
   }, [items, query]);
 
   const clearAll = () => {
@@ -79,6 +91,8 @@ export function CoaMsdsMenu({ items }: { items: CoaMsdsNavProduct[] }) {
       window.removeEventListener("resize", sync);
     };
   }, [flatDoc]);
+
+  if (!items) return null;
 
   return (
     <li className="dropdown coa-msds-nav coa-msds-menu--hidden" onMouseLeave={resetMenu} hidden>
