@@ -54,8 +54,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Extra Virgin Olive Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Extra Virgin Olive Oil | Natural Olive Oil for Food, Beauty & Wellness",
-  seoDescription: "Buy bulk Extra Virgin Olive Oil from a leading manufacturer and exporter. Mechanically extracted olive oil with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Manufacturer of Extra Virgin Olive Oil Bulk | Wholesale Supplier",
+  seoDescription: "Extra Virgin Olive Oil Bulk Manufacturer & Supplier offering premium oil in wholesale quantities for food, culinary, and wellness uses.",
   afterSpecsParagraphs: [
     "A extra virgin olive oil bulk manufacturer can work with different olive varieties to produce oils with different colours, tastes, and smells. This natural difference is important for food makers because the flavour of the oil can become part of the finished recipe.",
   ],
