@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lavender Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Lavender Oil | Bulgarian Lavender, Commercial Lavender and Natural Aroma",
-  seoDescription: "Buy bulk Lavender Oil and Lavender Hydrosol from a manufacturer and exporter. Steam distilled Lavandula angustifolia, including Bulgarian and commercial grades, with COA and MSDS.",
+  seoTitle: "Pure Lavender Oil Wholesale | Bulk Manufacturer & Hydrosol Supplier",
+  seoDescription: "Buy high-quality Lavender Oil in bulk at wholesale prices from a trusted manufacturer and Hydrosol supplier in USA.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
