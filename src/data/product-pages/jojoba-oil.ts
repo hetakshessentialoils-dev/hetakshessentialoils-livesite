@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Jojoba Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Jojoba Oil | Golden Jojoba, Colorless Jojoba and Their Uses",
-  seoDescription: "Buy bulk Golden Jojoba Oil and Colorless Jojoba Oil from a manufacturer and exporter. Simmondsia chinensis liquid wax for cosmetics and hair care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Wholesale Jojoba Oil Manufacturer, Bulk Supplier and Exporter",
+  seoDescription: "Hetaksh Essential Oils supplier 100% pure Jojoba Oil as a leading wholesale manufacturer, bulk supplier, For personal care applications.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
