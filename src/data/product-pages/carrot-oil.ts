@@ -236,8 +236,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Carrot Oil Wholesaler & Exporter | Bulk Carrot Oil Supplier",
-  seoDescription: "Buy bulk Carrot Oil, Carrot Seed Oil, and Carrot Seed Hydrosol from a leading manufacturer and exporter. COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "100% Pure Carrot Seed Oil Wholesale Suppliers | Hydrosol Bulk Manufacturers",
+  seoDescription: "100% Pure Carrot Seed Oil Wholesale from trusted manufacturers and suppliers for skincare, cosmetics, and wellness applications.",
 };
 
 export const faqs: FaqItem[] = [
