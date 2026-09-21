@@ -61,8 +61,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Grapeseed Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Grapeseed Oil | Bulk Grapeseed Oil Supply For Food, Skin & Hair Care",
-  seoDescription: "Buy bulk Grapeseed Oil from a manufacturer and exporter. Light Vitis vinifera carrier oil for food, skin, and hair care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Best Grapeseed Oil Wholesale Supplier and Manufacturer in US",
+  seoDescription: "Hetaksh Essential Oils is a trusted Grapeseed Oil bulk manufacturer and wholesale supplier in US, offering pure oil at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
