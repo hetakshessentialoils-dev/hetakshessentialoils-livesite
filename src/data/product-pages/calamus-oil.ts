@@ -180,8 +180,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Calamus Oil Distributor & Exporter | Bulk Calamus Essential Oil Manufacturer",
-  seoDescription: "Buy bulk Calamus Oil, Calamus Seed Oil, and Calamus Hydrosol from a leading manufacturer and exporter. COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Pure Calamus Oil Hydrosol Wholesale Suppliers | Bulk Manufacturer",
+  seoDescription: "Get 100% Pure Calamus Oil Wholesale from trusted bulk manufacturer and suppliers, suitable for aromatherapy, and industrial formulations.",
 };
 
 export const faqs: FaqItem[] = [
