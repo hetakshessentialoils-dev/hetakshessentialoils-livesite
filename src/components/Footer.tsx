@@ -83,7 +83,7 @@ export function Footer() {
                     <li><Link href="/essential-oils">Essential Oils Bulk Supplier</Link></li>
                     <li><Link href="/pharma-grade-oils">Pharma Grade Bulk Supplier</Link></li>
                     <li><Link href="/carrier-oils">Carrier Oils Bulk Supplier</Link></li>
-                    <li><Link href="/special-ingredients">Ingredients Bulk Supplier</Link></li>
+                    <li><Link href="/special-ingredients">Special Ingredients Supplier</Link></li>
                     <li><Link href="/hydrosol-oils">Hydrosol Bulk Supplier</Link></li>
                     <li><Link href="/spice-oils">Spice Oils Bulk Supplier</Link></li>
                   </ul>
