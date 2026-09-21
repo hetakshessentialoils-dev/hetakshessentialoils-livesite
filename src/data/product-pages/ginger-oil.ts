@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Ginger Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Ginger Oil | Warm Spice Oil for Food, Beauty, Hair Care and Fragrance",
-  seoDescription: "Buy bulk Ginger Oil and Ginger Hydrosol from a manufacturer and exporter. Steam distilled Zingiber officinale oil with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Best Ginger Oil Wholesale Suppliers and Hydrosol Manufacturer in US",
+  seoDescription: "Buy 100% pure Ginger Oil and Ginger Hydrosol from trusted wholesale supplier and bulk manufacturer in US. Premium-quality products with competitive bulk pricing.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
