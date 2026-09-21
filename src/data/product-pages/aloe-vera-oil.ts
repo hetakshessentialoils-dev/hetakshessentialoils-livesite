@@ -82,8 +82,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Aloe Vera Oil Manufacturer & Exporter | Bulk Aloe Vera Oil Wholesaler",
-  seoDescription: "Buy bulk Aloe Vera Oil from a leading manufacturer and exporter. 100% pure cold-infused oil with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "100% Pure Aloe Vera Oil Manufacturer | Wholesale & Bulk Supplier in US",
+  seoDescription: "Hetaksh Essential Oils supplies 100% pure Aloe Vera Oil as a reliable manufacturer, supplier and exporter for wholesale and bulk requirements across the USA.",
 };
 
 export const faqs: FaqItem[] = [
