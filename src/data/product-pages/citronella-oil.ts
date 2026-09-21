@@ -145,8 +145,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Citronella Oil Distributor & Supplier | Bulk Citronella Essential Oil",
-  seoDescription: "Buy bulk Citronella Oil and Citronella Hydrosol from a distributor and supplier. Steam distilled Cymbopogon oil with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Citronella Oil Wholesale | Hydrosol Bulk Suppliers & Manufacturer in us",
+  seoDescription: "Citronella Oil Manufacturers and Suppliers in us - Get Citronella Oils at best wholesale price from Citronella Oil Supplier Wholesaler exporters.",
 };
 
 export const faqs: FaqItem[] = [
