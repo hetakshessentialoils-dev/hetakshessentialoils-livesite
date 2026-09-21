@@ -169,8 +169,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Coriander Oil | Bulk Natural Essential Oil for Food, Fragrance & Personal Care",
-  seoDescription: "Buy bulk Coriander Oil, Coriander Seed Oil, and Coriander Hydrosol from a leading manufacturer and exporter. Steam distilled, with MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Coriander Oil Bulk Suppliers | Hydrosol Manufacturer & Wholesale",
+  seoDescription: "Hetaksh Essential Oils is a natural Coriander Oil Bulk Suppliers and Hydrosol manufacturer and wholesale, providing quality products for personal care.",
 };
 
 export const faqs: FaqItem[] = [
