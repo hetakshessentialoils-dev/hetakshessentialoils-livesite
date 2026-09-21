@@ -3,8 +3,8 @@ import type { CleanProductPage, FaqItem } from "@/lib/types";
 /**
  * Anise Oil
  *
- * Meta title: Anise Oil Manufacturer & Exporter | Natural Anise Essential Oil
- * Meta description: Buy bulk Anise Oil, Anise Oil USP, and Anise Hydrosol from a leading manufacturer and exporter. 100% pure, steam distilled, with COA, MSDS, and worldwide shipping.
+ * Meta title: Anise Oil Bulk Manufacturer | USP, Hydrosol Wholesale Supplier
+ * Meta description: Hetaksh Essential Oils offers Anise Oil, USP and Hydrosol as a reliable bulk manufacturer & supplier with quality wholesale and bulk supply options.
  *
  * All page content for this product lives in this file.
  * The shared layout/design is unchanged — only edit the data below.
