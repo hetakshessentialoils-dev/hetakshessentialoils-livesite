@@ -153,8 +153,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Cedarwood Oil Wholesaler & Exporter | Bulk Cedarwood Essential Oil Supplier",
-  seoDescription: "Buy bulk Cedarwood Oil and Cedarwood Hydrosol from a wholesaler and exporter. Steam distilled woody oil with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Cedarwood Oil Wholesale | Hydrosol Suppliers & Manufactureri in US",
+  seoDescription: "Find quality Cedarwood Oil Wholesale from reliable bulk suppliers and manufacturers. We provide bulk oil and hydrosols for cosmetics and other industries.",
 };
 
 export const faqs: FaqItem[] = [
