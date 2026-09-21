@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Frankincense Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Frankincense Oil Manufacturer | Natural Resin Oil for Bulk Supply",
-  seoDescription: "Buy bulk Frankincense Oil and Frankincense Hydrosol from a manufacturer and exporter. Steam distilled Boswellia resin oil with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Frankincense Oil & Hydrosol Suppliers | Bulk Manufacturer & Distributor",
+  seoDescription: "Frankincense Oil and Hydrosol bulk manufacturer, supplier and distributor providing reliable wholesale supply at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
