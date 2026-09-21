@@ -157,8 +157,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Evening Primrose Oil Manufacturer & Exporter | Bulk Evening Primrose Oil Supplier",
-  seoDescription: "Buy bulk Evening Primrose Oil from a leading manufacturer and exporter. Cold-pressed carrier oil with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Best Evening Primrose Oil Wholesale Supplier and Manufacturer in US",
+  seoDescription: "Premium Evening Primrose Oil bulk manufacturer and wholesale supplier offering pure, quality oil in bulk for supplements, nutraceuticals and health products.",
 };
 
 export const faqs: FaqItem[] = [
