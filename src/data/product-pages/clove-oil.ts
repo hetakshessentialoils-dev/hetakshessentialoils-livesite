@@ -332,8 +332,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Clove Oil Manufacturer & Distributor | Bulk Clove Essential Oil Supplier",
-  seoDescription: "Buy bulk Clove Oil, Clove Oil BP, Clove Oil IP, Clove Bud Oil, and Clove Bud Hydrosol. COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Clove Oil IP BP Wholesale | Hydrosol Manufacturers & Suppliers",
+  seoDescription: "Clove Oil IP BP Wholesale and Hydrosol from trusted bulk manufacturers and suppliers for pharmaceutical, and industrial applications.",
 };
 
 export const faqs: FaqItem[] = [
