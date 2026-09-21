@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Flaxseed Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Flaxseed Oil | Natural Seed Oil for Food, Beauty and Hair Care",
-  seoDescription: "Buy bulk cold-pressed Flaxseed Oil from a manufacturer and exporter. ALA-rich carrier oil for food, cosmetics, and hair care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Flaxseed Oil Wholesale Supplier & Bulk Manufacturer in US",
+  seoDescription: "Flaxseed Oil Wholesale Supplier & Bulk Manufacturer in US, providing 100% pure, natural Flaxseed Oil for cosmetic, industrial applications.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
