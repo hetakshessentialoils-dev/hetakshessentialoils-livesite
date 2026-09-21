@@ -6,9 +6,9 @@ import { WhyHetakshSection } from "@/components/WhyHetakshSection";
 import { buildMetadata, breadcrumbJsonLd } from "@/lib/seo";
 
 export const metadata = buildMetadata({
-  title: "About us - B2B Supplier of Essential & Carrier Oils",
+  title: "About us - B2B Supplier of Essential Oils & Carrier Oil",
   description:
-    "Learn about Hetaksh Essential Oils, a global B2B essential and carrier oil wholesale supplier with ISO 9001:2015 and GMP accreditation serving more than 40 countries.",
+    "Learn about Hetaksh Essential Oils, a global B2B essential and carrier oil wholesale supplier with ISO 9001:2015 and GMP accreditation serving more than 40+ countries.",
   keywords: "about hetaksh essential oils, essential oil manufacturer, bulk oil exporter",
   path: "/about",
 });
