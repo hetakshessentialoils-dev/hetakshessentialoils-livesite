@@ -120,8 +120,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Borage Oil Supplier and Bulk Exporter | Bulk Borage Seed Oil Distributor",
-  seoDescription: "Buy bulk Borage Oil from a leading manufacturer and exporter. Cold pressed, rich in GLA, with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Borage Oil Manufacturers | Natural Bulk & Wholesale Suppliers",
+  seoDescription: "Hetaksh Essential Oils offers Borage Oil Wholesale Suppliers for personal care manufacturer looking for quality bulk supply.",
 };
 
 export const faqs: FaqItem[] = [
