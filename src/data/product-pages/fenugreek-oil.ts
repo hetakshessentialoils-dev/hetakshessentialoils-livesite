@@ -54,8 +54,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Fenugreek Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Fenugreek Oil | Natural Methi Seed Oil for Hair, Skin & Personal Care",
-  seoDescription: "Buy bulk Fenugreek Oil and Fenugreek Hydrosol from a manufacturer and exporter. Methi seed oil for hair care, skincare, and cosmetics, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Fenugreek Oil Bulk Supplier, Manufacturer & Wholesaler in us",
+  seoDescription: "Leading Fenugreek Oil bulk manufacturers and wholesale suppliers offering 100% pure, natural Fenugreek Oil with competitive prices for global buyers.",
   afterSpecsParagraphs: [
     "The final composition can change depending on the seed quality, growing region, harvesting time, storage, and extraction method. For this reason, buyers should check the product specification and batch information before using the material in a finished formula.",
     "Fenugreek Oil is especially popular among hair-care manufacturers. It can be added to hair oils, scalp blends, masks, conditioners, and other products. It can also be used in skin-care formulas where a plant-based oil is needed.",
