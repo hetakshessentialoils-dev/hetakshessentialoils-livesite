@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Grapefruit Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Grapefruit Oil | Bright Citrus Oil for Food, Fragrance, Skin and Personal Care",
-  seoDescription: "Buy bulk Grapefruit Oil and Grapefruit Hydrosol from a manufacturer and exporter. Cold-pressed Citrus paradisi peel oil with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Bulk Grapefruit Oil Bulk Manufacturer and Wholesale Supplier in US",
+  seoDescription: "Hetaksh Essential Oils is a Grapefruit Oil bulk manufacturer and Hydrosol wholesale supplier in US, offering pure natural oil at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
