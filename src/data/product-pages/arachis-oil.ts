@@ -70,8 +70,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Arachis Oil Bulk Supplier | Natural, BP & USP Peanut Oil",
-  seoDescription: "Buy bulk Arachis Oil, Arachis Oil BP, and Arachis Oil USP from a leading manufacturer and exporter. Cold pressed, pharma grade, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Premium Arachis Oil BP & USP Wholesale Supplier | Bulk Manufacturer",
+  seoDescription: "Hetaksh Essential Oils is an Arachis Oil manufacturer & supplier offering Arachis Oil BP, USP, wholesale and bulk solutions for industries.",
   specs: [
     {
       label: "Botanical Name",
