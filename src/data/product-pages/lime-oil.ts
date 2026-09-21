@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Lime Oil
- *
- * Meta title: Lime Oil | Sharp Green Citrus Oil from Fresh Lime Peel
- * Meta description: Buy bulk Lime Oil and Lime Hydrosol from a manufacturer and exporter. Citrus aurantiifolia peel oil for food, fragrance, and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "lime-oil",
   category: "essential-oils",

@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Onion Oil
- *
- * Meta title: Onion Oil Manufacturer | Bulk Onion Oil & Onion Hydrosol Supplier
- * Meta description: Buy bulk Onion Oil, Onion Hydrosol, and Onion Seed Oil from Allium cepa. Botanical onion ingredients for hair care and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "onion-oil",
   category: "spice-oils",

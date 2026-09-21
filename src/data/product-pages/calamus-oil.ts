@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Calamus Oil
- *
- * Meta title: Calamus Oil Distributor & Exporter | Bulk Calamus Essential Oil Manufacturer
- * Meta description: Buy bulk Calamus Oil, Calamus Seed Oil, and Calamus Hydrosol from a leading manufacturer and exporter. COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "calamus-oil",
   category: "essential-oils",

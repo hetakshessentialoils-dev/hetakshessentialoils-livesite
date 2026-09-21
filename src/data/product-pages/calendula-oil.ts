@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Calendula Oil
- *
- * Meta title: Calendula Oil Manufacturer & Wholesaler | Bulk Calendula Oil Supplier
- * Meta description: Buy bulk Calendula Oil from a manufacturer and wholesaler. Infused Calendula officinalis oil with COA, MSDS, TDS, samples, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "calendula-oil",
   category: "carrier-oils",

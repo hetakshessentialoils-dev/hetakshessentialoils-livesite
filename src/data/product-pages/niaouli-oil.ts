@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Niaouli Oil
- *
- * Meta title: Niaouli Oil Manufacturer | Bulk Melaleuca quinquenervia Oil Supplier
- * Meta description: Buy bulk Niaouli Oil and Niaouli Hydrosol from Melaleuca quinquenervia. Fresh green essential oil for fragrance and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "niaouli-oil",
   category: "essential-oils",

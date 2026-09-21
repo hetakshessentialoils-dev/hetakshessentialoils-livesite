@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Evening Primrose Oil
- *
- * Meta title: Evening Primrose Oil Manufacturer & Exporter | Bulk Evening Primrose Oil Supplier
- * Meta description: Buy bulk Evening Primrose Oil from a leading manufacturer and exporter. Cold-pressed carrier oil with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "evening-primrose-oil",
   category: "carrier-oils",

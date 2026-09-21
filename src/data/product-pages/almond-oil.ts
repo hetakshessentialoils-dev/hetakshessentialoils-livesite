@@ -1,15 +1,5 @@
 import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
-/**
- * Almond Oil Wholesale & Manufacturers | Suppliers In USA
- *
- * Meta title: Almond Oil Wholesale & Manufacturers | Suppliers In USA
- * Meta description: Premium Almond Oil Wholesale Suppliers offering 100% pure, natural almond oil for skincare, haircare, and cosmetics. Bulk supply at competitive prices in USA.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const htmlPage: ProductPageHtml = {
   slug: "almond-oil",
   title: "Almond Oil Wholesale & Manufacturers | Suppliers In USA",

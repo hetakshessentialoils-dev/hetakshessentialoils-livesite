@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Black Currant Seed Oil
- *
- * Meta title: Black Currant Seed Oil Distributor & Exporter | Bulk Black Currant Oil Wholesaler
- * Meta description: Buy bulk Black Currant Seed Oil from a leading manufacturer and exporter. Cold pressed carrier oil with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "black-currant-seed-oil",
   category: "carrier-oils",

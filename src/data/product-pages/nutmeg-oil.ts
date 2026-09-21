@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Nutmeg Oil
- *
- * Meta title: Nutmeg Oil Manufacturer & Exporter | Bulk Nutmeg Essential Oil
- * Meta description: Buy bulk Nutmeg Oil and Nutmeg Hydrosol from Myristica fragrans seed. Warm spice oil for fragrance, flavor, and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "nutmeg-oil",
   category: "spice-oils",

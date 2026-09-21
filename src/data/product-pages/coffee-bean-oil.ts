@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Coffee Bean Oil
- *
- * Meta title: Coffee Bean Oil Manufacturer & Distributor | Bulk Coffee Bean Oil Supplier
- * Meta description: Buy bulk Coffee Bean Oil from a manufacturer and distributor. Cold pressed Coffea arabica oil with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "coffee-bean-oil",
   category: "carrier-oils",

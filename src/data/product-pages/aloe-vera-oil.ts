@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Aloe Vera Oil
- *
- * Meta title: Aloe Vera Oil Manufacturer & Exporter | Bulk Aloe Vera Oil Wholesaler
- * Meta description: Buy bulk Aloe Vera Oil from a leading manufacturer and exporter. 100% pure cold-infused oil with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "aloe-vera-oil",
   category: "carrier-oils",

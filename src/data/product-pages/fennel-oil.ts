@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Fennel Oil
- *
- * Meta title: Fennel Oil | Natural Sweet-Spice Essential Oil for Bulk Supply
- * Meta description: Buy bulk Fennel Oil, Fennel Oil USP, and Fennel Hydrosol from a leading manufacturer and exporter. Steam distilled, with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "fennel-oil",
   category: "spice-oils",

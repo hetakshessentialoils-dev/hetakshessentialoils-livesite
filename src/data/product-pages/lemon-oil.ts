@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Lemon Oil
- *
- * Meta title: Lemon Oil | Bright Citrus Oil for Food, Fragrance and Personal Care
- * Meta description: Buy bulk Lemon Oil and Lemon Hydrosol from a manufacturer and exporter. Cold pressed Citrus limon peel oil for food, fragrance, and personal care, with COA and MSDS.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "lemon-oil",
   category: "essential-oils",

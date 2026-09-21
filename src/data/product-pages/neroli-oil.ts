@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Neroli Oil
- *
- * Meta title: Neroli Oil Manufacturer | Bulk Orange Blossom Essential Oil Supplier
- * Meta description: Buy bulk Neroli Oil and Neroli Hydrosol from Citrus aurantium flowers. Floral orange blossom oil for perfumery and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "neroli-oil",
   category: "essential-oils",

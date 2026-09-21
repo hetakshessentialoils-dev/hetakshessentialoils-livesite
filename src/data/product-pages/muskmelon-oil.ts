@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Muskmelon Seed Oil
- *
- * Meta title: Muskmelon Seed Oil Manufacturer | Bulk Muskmelon Seed Oil Supplier
- * Meta description: Buy bulk Muskmelon Seed Oil from Cucumis melo seeds. Light carrier oil for cosmetics, skin care, and hair care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "muskmelon-oil",
   category: "carrier-oils",

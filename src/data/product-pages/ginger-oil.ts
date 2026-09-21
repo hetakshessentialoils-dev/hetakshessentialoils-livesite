@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Ginger Oil
- *
- * Meta title: Ginger Oil | Warm Spice Oil for Food, Beauty, Hair Care and Fragrance
- * Meta description: Buy bulk Ginger Oil and Ginger Hydrosol from a manufacturer and exporter. Steam distilled Zingiber officinale oil with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "ginger-oil",
   category: "spice-oils",

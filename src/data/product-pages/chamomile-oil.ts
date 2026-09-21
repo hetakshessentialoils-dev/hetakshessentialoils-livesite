@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Chamomile Oil
- *
- * Meta title: Chamomile Oil Supplier | Bulk Chamomile Essential Oil for Natural Formulations
- * Meta description: Buy bulk Chamomile Oil and Chamomile Hydrosol. German and Roman types, steam distilled, with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "chamomile-oil",
   category: "essential-oils",

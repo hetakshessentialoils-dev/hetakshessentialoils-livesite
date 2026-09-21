@@ -1,15 +1,5 @@
 import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
-/**
- * Castor Oil Wholesale – Bulk Suppliers & Manufacturers in US
- *
- * Meta title: Castor Oil Wholesale – Bulk Suppliers & Manufacturers in US
- * Meta description: Castor Oil wholesale at the best prices from a certified manufacturer, suppliers, bulk distributors in US. 100% pure and natural for all your needs.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const htmlPage: ProductPageHtml = {
   slug: "castor-oil",
   title: "Castor Oil Wholesale – Bulk Suppliers & Manufacturers in US",

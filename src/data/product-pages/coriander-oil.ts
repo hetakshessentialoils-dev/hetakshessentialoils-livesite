@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Coriander Oil
- *
- * Meta title: Coriander Oil | Bulk Natural Essential Oil for Food, Fragrance & Personal Care
- * Meta description: Buy bulk Coriander Oil, Coriander Seed Oil, and Coriander Hydrosol from a leading manufacturer and exporter. Steam distilled, with MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "coriander-oil",
   category: "spice-oils",

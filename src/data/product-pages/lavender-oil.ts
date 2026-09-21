@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Lavender Oil
- *
- * Meta title: Lavender Oil | Bulgarian Lavender, Commercial Lavender and Natural Aroma
- * Meta description: Buy bulk Lavender Oil and Lavender Hydrosol from a manufacturer and exporter. Steam distilled Lavandula angustifolia, including Bulgarian and commercial grades, with COA and MSDS.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "lavender-oil",
   category: "essential-oils",

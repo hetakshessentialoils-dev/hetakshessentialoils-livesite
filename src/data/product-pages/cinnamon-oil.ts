@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Cinnamon Oil
- *
- * Meta title: Cinnamon Oil Distributor & Wholesaler | Bulk Cinnamon Essential Oil
- * Meta description: Buy bulk Cinnamon Bark Oil, Cinnamon Leaf Oil, Cinnamon Oil BP, and cinnamon hydrosols. Steam distilled, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "cinnamon-oil",
   category: "spice-oils",

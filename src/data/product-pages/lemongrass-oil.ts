@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Lemongrass Oil
- *
- * Meta title: Lemongrass Oil | Fresh Green Oil for Fragrance, Food and Personal Care
- * Meta description: Buy bulk Lemongrass Oil and Lemongrass Hydrosol from a manufacturer and exporter. Steam distilled Cymbopogon citratus, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "lemongrass-oil",
   category: "essential-oils",

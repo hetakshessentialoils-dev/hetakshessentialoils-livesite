@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Jojoba Oil
- *
- * Meta title: Jojoba Oil | Golden Jojoba, Colorless Jojoba and Their Uses
- * Meta description: Buy bulk Golden Jojoba Oil and Colorless Jojoba Oil from a manufacturer and exporter. Simmondsia chinensis liquid wax for cosmetics and hair care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "jojoba-oil",
   category: "carrier-oils",

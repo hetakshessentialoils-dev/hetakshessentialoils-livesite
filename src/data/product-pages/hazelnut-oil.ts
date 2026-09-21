@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Hazelnut Oil
- *
- * Meta title: Hazelnut Oil | Light Nut Oil for Skin, Hair and Food Products
- * Meta description: Buy bulk Hazelnut Oil from a manufacturer and exporter. Cold pressed Corylus avellana oil for food, skincare, and hair care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "hazelnut-oil",
   category: "carrier-oils",

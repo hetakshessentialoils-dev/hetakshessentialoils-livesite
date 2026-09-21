@@ -1,15 +1,5 @@
 import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
-/**
- * Sesame Oil Bulk, Wholesale Suppliers & Manufacturers in US
- *
- * Meta title: Sesame Oil Bulk, Wholesale Suppliers & Manufacturers in US
- * Meta description: Sesame Oil Bulk, Looking for premium Sesame Oil in bulk? We are trusted wholesale suppliers and manufacturers of high-quality Sesame Oil in US.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const htmlPage: ProductPageHtml = {
   slug: "sesame-oil",
   title: "Sesame Oil Bulk, Wholesale Suppliers & Manufacturers in US",

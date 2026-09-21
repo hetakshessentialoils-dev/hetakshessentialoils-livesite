@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Orange Oil
- *
- * Meta title: Orange Oil Manufacturer & Supplier | Bulk Sweet Orange Essential Oil
- * Meta description: Buy bulk Orange Oil and Orange Hydrosol from Citrus sinensis peel. Bright citrus oil for fragrance, flavor, and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "orange-oil",
   category: "essential-oils",

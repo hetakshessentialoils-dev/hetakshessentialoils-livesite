@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Cumin Seed Oil
- *
- * Meta title: Cumin Seed Oil Supplier & Distributor | Bulk Cumin Essential Oil Exporter
- * Meta description: Buy bulk Cumin Seed Oil and Cumin Hydrosol from a leading manufacturer and exporter. Steam distilled, with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "cumin-seed-oil",
   category: "spice-oils",

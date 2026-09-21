@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Mandarin Oil
- *
- * Meta title: Mandarin Oil Manufacturer & Supplier | Bulk Mandarin Essential Oil
- * Meta description: Buy bulk Mandarin Oil and Mandarin Hydrosol from Citrus reticulata peel. Sweet citrus oil for fragrance, food, and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "mandarin-oil",
   category: "essential-oils",

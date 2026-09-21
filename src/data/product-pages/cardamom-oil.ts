@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Cardamom Oil
- *
- * Meta title: Cardamom Oil Manufacturer & Distributor | Bulk Cardamom Essential Oil Supplier
- * Meta description: Buy bulk Cardamom Oil, Cardamom Oil BP, and Cardamom Hydrosol from a leading manufacturer and exporter. COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "cardamom-oil",
   category: "spice-oils",

@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Garlic Oil
- *
- * Meta title: Garlic Oil | Strong Herbal Oil for Food, Hair Care and Personal Care
- * Meta description: Buy bulk Garlic Oil and Garlic Hydrosol from a manufacturer and exporter. Distilled Allium sativum oil for food, hair, and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "garlic-oil",
   category: "spice-oils",

@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Juniper Oil
- *
- * Meta title: Juniper Oil | Fresh Green Oil from the Juniper Plant
- * Meta description: Buy bulk Juniper Oil and Juniper Hydrosol from a manufacturer and exporter. Steam distilled Juniperus communis, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "juniper-oil",
   category: "essential-oils",

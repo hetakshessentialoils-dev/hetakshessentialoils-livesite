@@ -1,15 +1,5 @@
 import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
-/**
- * Peppermint Oil Wholesale, Bulk Suppliers & Manufacturers in USA
- *
- * Meta title: Peppermint Oil Wholesale, Bulk Suppliers & Manufacturers in USA
- * Meta description: We are a trusted wholesale supplier and bulk manufacturer of peppermint oil in the USA, offering documented product grades at competitive prices.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const htmlPage: ProductPageHtml = {
   slug: "peppermint-oil",
   title: "Peppermint Oil Wholesale, Bulk Suppliers & Manufacturers in USA",

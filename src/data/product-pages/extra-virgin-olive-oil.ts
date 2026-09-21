@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Extra Virgin Olive Oil
- *
- * Meta title: Extra Virgin Olive Oil | Natural Olive Oil for Food, Beauty & Wellness
- * Meta description: Buy bulk Extra Virgin Olive Oil from a leading manufacturer and exporter. Mechanically extracted olive oil with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "extra-virgin-olive-oil",
   category: "carrier-oils",

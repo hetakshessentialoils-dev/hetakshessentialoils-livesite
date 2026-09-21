@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Cassia Oil
- *
- * Meta title: Cassia Oil Distributor & Exporter | Bulk Cassia Essential Oil Supplier
- * Meta description: Buy bulk Cassia Oil and Cassia Hydrosol from a distributor and exporter. Steam distilled Cinnamomum cassia with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "cassia-oil",
   category: "spice-oils",

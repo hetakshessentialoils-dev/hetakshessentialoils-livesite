@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Black Pepper Oil
- *
- * Meta title: Black Pepper Oil Manufacturer & Exporter | Bulk Black Pepper Essential Oil Supplier
- * Meta description: Buy bulk Black Pepper Oil and Black Pepper Hydrosol from a leading manufacturer and exporter. 100% pure, steam distilled, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "black-pepper-oil",
   category: "spice-oils",

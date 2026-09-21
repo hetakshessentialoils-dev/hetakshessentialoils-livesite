@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Carrot Oil
- *
- * Meta title: Carrot Oil Wholesaler & Exporter | Bulk Carrot Oil Supplier
- * Meta description: Buy bulk Carrot Oil, Carrot Seed Oil, and Carrot Seed Hydrosol from a leading manufacturer and exporter. COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "carrot-oil",
   category: "carrier-oils",

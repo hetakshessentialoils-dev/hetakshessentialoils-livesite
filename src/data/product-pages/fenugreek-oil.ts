@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Fenugreek Oil
- *
- * Meta title: Fenugreek Oil | Natural Methi Seed Oil for Hair, Skin & Personal Care
- * Meta description: Buy bulk Fenugreek Oil and Fenugreek Hydrosol from a manufacturer and exporter. Methi seed oil for hair care, skincare, and cosmetics, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "fenugreek-oil",
   category: "spice-oils",

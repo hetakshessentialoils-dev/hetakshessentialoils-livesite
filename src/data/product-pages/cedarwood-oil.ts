@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Cedarwood Oil
- *
- * Meta title: Cedarwood Oil Wholesaler & Exporter | Bulk Cedarwood Essential Oil Supplier
- * Meta description: Buy bulk Cedarwood Oil and Cedarwood Hydrosol from a wholesaler and exporter. Steam distilled woody oil with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "cedarwood-oil",
   category: "essential-oils",

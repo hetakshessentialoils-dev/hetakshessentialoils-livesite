@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Moringa Oil
- *
- * Meta title: Moringa Oil Manufacturer & Supplier | Bulk Moringa Seed Oil
- * Meta description: Buy bulk Moringa Oil from Moringa oleifera seeds. Light carrier oil for cosmetics, skin care, and hair care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "moringa-oil",
   category: "carrier-oils",

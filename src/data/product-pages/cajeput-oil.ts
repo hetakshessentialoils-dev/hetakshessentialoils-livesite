@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Cajeput Oil
- *
- * Meta title: Cajeput Oil Manufacturer & Distributor | Bulk Cajeput Essential Oil
- * Meta description: Buy bulk Cajeput Oil and Cajeput Hydrosol from a leading manufacturer and exporter. Steam distilled, with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "cajeput-oil",
   category: "essential-oils",

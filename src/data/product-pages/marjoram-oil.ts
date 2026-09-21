@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Marjoram Oil
- *
- * Meta title: Marjoram Oil Manufacturer & Wholesaler | Bulk Marjoram Essential Oil
- * Meta description: Buy bulk Marjoram Oil and Marjoram Hydrosol from Origanum majorana. Warm herbal oil for fragrance and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "marjoram-oil",
   category: "essential-oils",

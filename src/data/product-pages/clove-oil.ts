@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Clove Oil
- *
- * Meta title: Clove Oil Manufacturer & Distributor | Bulk Clove Essential Oil Supplier
- * Meta description: Buy bulk Clove Oil, Clove Oil BP, Clove Oil IP, Clove Bud Oil, and Clove Bud Hydrosol. COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "clove-oil",
   category: "spice-oils",

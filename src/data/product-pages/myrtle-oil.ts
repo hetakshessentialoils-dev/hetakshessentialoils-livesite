@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Myrtle Oil
- *
- * Meta title: Myrtle Oil Manufacturer & Supplier | Bulk Myrtus communis Oil
- * Meta description: Buy bulk Myrtle Oil and Myrtle Hydrosol from Myrtus communis. Fresh green essential oil for fragrance and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "myrtle-oil",
   category: "essential-oils",

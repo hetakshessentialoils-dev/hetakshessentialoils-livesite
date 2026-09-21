@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Ajwain Oil
- *
- * Meta title: Ajwain Oil Bulk Manufacturer & Wholesale Supplier 
- * Meta description: Buy bulk Ajwain Oil and Ajwain Hydrosol from a leading manufacturer and exporter. 100% pure, steam distilled, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "ajwain-oil",
   category: "spice-oils",
@@ -47,7 +37,7 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Ajwain Oil Manufacturer & Exporter | Natural Ajwain Essential Oil",
+  seoTitle: "Ajwain Oil Bulk Manufacturer & Wholesale Supplier",
   seoDescription: "Buy bulk Ajwain Oil and Ajwain Hydrosol from a leading manufacturer and exporter. 100% pure, steam distilled, with COA, MSDS, and worldwide shipping.",
   specs: [
     {

@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Arachis Oil
- *
- * Meta title: Arachis Oil Bulk Supplier | Natural, BP & USP Peanut Oil
- * Meta description: Buy bulk Arachis Oil, Arachis Oil BP, and Arachis Oil USP from a leading manufacturer and exporter. Cold pressed, pharma grade, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "arachis-oil",
   category: "carrier-oils",

@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Bergamot Oil
- *
- * Meta title: Bergamot Oil Manufacturer & Exporter | Bulk Bergamot Essential Oil Supplier
- * Meta description: Buy bulk Bergamot Oil and Bergamot Hydrosol from a leading manufacturer and exporter. Cold pressed, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "bergamot-oil",
   category: "essential-oils",

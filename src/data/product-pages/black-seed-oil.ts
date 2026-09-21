@@ -1,15 +1,5 @@
 import type { FaqItem, ProductLanding } from "@/lib/types";
 
-/**
- * Black Seed Oil & Extract Wholesale Supplier
- *
- * Meta title: Black Seed Oil Wholesale Supplier | Min 1%–20% Thymoquinone
- * Meta description: High-quality Black Seed Oil Wholesale available with 1% to 20% Thymoquinone. Buy in bulk from leading manufacturers and suppliers at competitive prices.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const landing: ProductLanding = {
   slug: "black-seed-oil",
   category: "essential-oils",

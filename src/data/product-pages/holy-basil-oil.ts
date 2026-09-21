@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Holy Basil Oil
- *
- * Meta title: Holy Basil Oil | Fresh Herbal Oil from the Tulsi Plant
- * Meta description: Buy bulk Holy Basil Oil and Holy Basil Hydrosol from a manufacturer and exporter. Steam distilled Ocimum tenuiflorum, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "holy-basil-oil",
   category: "essential-oils",

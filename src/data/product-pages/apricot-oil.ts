@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Apricot Oil
- *
- * Meta title: Apricot Kernel Oil Distributor | Natural Apricot Oil Bulk Supplier
- * Meta description: Buy bulk Apricot Kernel Oil from a leading manufacturer and exporter. 100% pure cold-pressed carrier oil with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "apricot-oil",
   category: "carrier-oils",

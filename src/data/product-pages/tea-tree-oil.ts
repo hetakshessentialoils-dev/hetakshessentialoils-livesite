@@ -1,15 +1,5 @@
 import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
-/**
- * Tea Tree Oil Wholesale | Suppliers | Manufacturers in US
- *
- * Meta title: Tea Tree Oil Wholesale | Suppliers | Manufacturers in US
- * Meta description: Tea Tree Oil Wholesale Suppliers – We provide 100% pure, natural tea tree oil in bulk manufacturers at the best prices in USA. Contact us today!
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const htmlPage: ProductPageHtml = {
   slug: "tea-tree-oil",
   title: "Tea Tree Oil Wholesale | Suppliers | Manufacturers in US",

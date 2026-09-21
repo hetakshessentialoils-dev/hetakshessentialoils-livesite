@@ -1,15 +1,5 @@
 import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
-/**
- * 100% Natural Argan Oil Wholesale | Bulk Manufacturers in USA
- *
- * Meta title: 100% Natural Argan Oil Wholesale | Bulk Manufacturers in USA
- * Meta description: Find reliable Argan Oil Wholesale Suppliers in USA. Get 100% natural, cold-pressed Argan Oil from leading bulk manufacturers at the best prices.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const htmlPage: ProductPageHtml = {
   slug: "argan-oil",
   title: "100% Natural Argan Oil Wholesale | Bulk Manufacturers in USA",

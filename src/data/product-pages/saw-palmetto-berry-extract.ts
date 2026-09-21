@@ -1,15 +1,5 @@
 import type { FaqItem, ProductLanding } from "@/lib/types";
 
-/**
- * Saw Palmetto Oil Bulk Manufacturer & Supplier
- *
- * Meta title: Saw Palmetto Oil Bulk Manufacturers & Wholesale Supplier USA
- * Meta description: Saw Palmetto Oil bulk manufacturers & wholesale supplier in USA. USP NF verified, 85% fatty acids, available as oil and extract (25%, 45%) for bulk export.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const landing: ProductLanding = {
   slug: "saw-palmetto-berry-extract",
   category: "special-ingredients",

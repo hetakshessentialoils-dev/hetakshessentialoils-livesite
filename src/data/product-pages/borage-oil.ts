@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Borage Oil
- *
- * Meta title: Borage Oil Supplier and Bulk Exporter | Bulk Borage Seed Oil Distributor
- * Meta description: Buy bulk Borage Oil from a leading manufacturer and exporter. Cold pressed, rich in GLA, with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "borage-oil",
   category: "carrier-oils",

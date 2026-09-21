@@ -1,15 +1,5 @@
 import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
-/**
- * Pure Batana Oil Wholesale Supplier & Bulk Distributors US
- *
- * Meta title: Pure Batana Oil Wholesale Supplier & Bulk Distributors US
- * Meta description: Leading Batana Oil Suppliers, Manufacturers & Distributors in US. High-quality Batana oil in bulk at competitive wholesale prices.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const htmlPage: ProductPageHtml = {
   slug: "batana-oil",
   title: "Pure Batana Oil Wholesale Supplier & Bulk Distributors US",

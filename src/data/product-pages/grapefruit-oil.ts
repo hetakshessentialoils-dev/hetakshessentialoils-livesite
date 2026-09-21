@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Grapefruit Oil
- *
- * Meta title: Grapefruit Oil | Bright Citrus Oil for Food, Fragrance, Skin and Personal Care
- * Meta description: Buy bulk Grapefruit Oil and Grapefruit Hydrosol from a manufacturer and exporter. Cold-pressed Citrus paradisi peel oil with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "grapefruit-oil",
   category: "essential-oils",

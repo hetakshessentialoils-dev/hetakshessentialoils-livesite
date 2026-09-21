@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Cucumber Oil
- *
- * Meta title: Cucumber Oil Distributor & Exporter | Bulk Cucumber Oil Wholesaler
- * Meta description: Buy bulk Cucumber Oil from a leading manufacturer and exporter. Cold-pressed cucumber seed oil with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "cucumber-oil",
   category: "carrier-oils",

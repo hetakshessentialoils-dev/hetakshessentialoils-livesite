@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Amla Oil
- *
- * Meta title: Natural Amla Oil Manufacturer | Cold Pressed Amla Oil Bulk Supplier
- * Meta description: Buy bulk cold-pressed Amla Oil from a leading manufacturer and exporter. 100% natural Indian gooseberry oil with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "amla-oil",
   category: "carrier-oils",

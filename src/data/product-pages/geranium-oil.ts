@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Geranium Oil
- *
- * Meta title: Geranium Oil | Fresh Floral Oil for Beauty, Hair Care and Fragrance
- * Meta description: Buy bulk Geranium Oil and Geranium Hydrosol from a manufacturer and exporter. Steam distilled Pelargonium graveolens oil with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "geranium-oil",
   category: "essential-oils",

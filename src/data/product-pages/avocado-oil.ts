@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Avocado Oil
- *
- * Meta title: Avocado Oil Manufacturer & Supplier | Bulk Avocado Oil Distributor
- * Meta description: Buy bulk Avocado Oil from a leading manufacturer and exporter. 100% pure cold-pressed carrier oil with COA, MSDS, TDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "avocado-oil",
   category: "carrier-oils",

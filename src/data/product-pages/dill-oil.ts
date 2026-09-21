@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Dill Oil
- *
- * Meta title: Dill Oil Manufacturer & Wholesaler | Bulk Dill Essential Oil Distributor
- * Meta description: Buy bulk Dill Oil, Dill Oil Terpeneless, Dill Oil BP, and Dill Hydrosol from a leading manufacturer and exporter. Steam distilled, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "dill-oil",
   category: "spice-oils",

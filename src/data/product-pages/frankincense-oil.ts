@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Frankincense Oil
- *
- * Meta title: Frankincense Oil Manufacturer | Natural Resin Oil for Bulk Supply
- * Meta description: Buy bulk Frankincense Oil and Frankincense Hydrosol from a manufacturer and exporter. Steam distilled Boswellia resin oil with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "frankincense-oil",
   category: "essential-oils",

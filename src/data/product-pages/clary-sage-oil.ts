@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Clary Sage Oil
- *
- * Meta title: Clary Sage Oil | Soft Herbal Oil for Beauty, Fragrance & Wellness
- * Meta description: Buy bulk Clary Sage Oil and Clary Sage Hydrosol. Steam distilled Salvia sclarea with COA, MSDS, TDS, samples, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "clary-sage-oil",
   category: "essential-oils",

@@ -1,15 +1,5 @@
 import type { CleanProductPage, FaqItem } from "@/lib/types";
 
-/**
- * Oregano Oil
- *
- * Meta title: Oregano Oil Manufacturer & Supplier | Bulk Oregano Essential Oil
- * Meta description: Buy bulk Oregano Oil and Oregano Hydrosol from Origanum vulgare. Bold herbal spice oil for flavor, fragrance, and personal care, with COA, MSDS, and worldwide shipping.
- *
- * All page content for this product lives in this file.
- * The shared layout/design is unchanged — only edit the data below.
- */
-
 export const page: CleanProductPage = {
   slug: "oregano-oil",
   category: "spice-oils",
