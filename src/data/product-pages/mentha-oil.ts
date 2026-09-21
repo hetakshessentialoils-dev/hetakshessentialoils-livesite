@@ -61,8 +61,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Mentha Oil IP Manufacturer | Mentha Arvensis, Piperita, Spicata & Citrata",
-  seoDescription: "Buy bulk Mentha Oil IP, Mentha Arvensis, Mentha Citrata, Mentha Piperita, and Mentha Spicata oils. Pharmacopoeial and botanical mint grades with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Mentha Oil IP Wholesale Supplier & Bulk Manufacturer US",
+  seoDescription: "Trusted Mentha Oil IP manufacturer and wholesale supplier in US, offering quality oil in bulk quantities with reliable supply and competitive pricing.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
