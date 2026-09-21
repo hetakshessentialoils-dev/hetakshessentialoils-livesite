@@ -127,8 +127,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Cajeput Oil Manufacturer & Distributor | Bulk Cajeput Essential Oil",
-  seoDescription: "Buy bulk Cajeput Oil and Cajeput Hydrosol from a leading manufacturer and exporter. Steam distilled, with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Pure Cajeput Oil Manufacturers USA | Hydrosol Wholesale Supplires",
+  seoDescription: "Hetaksh Essential Oils manufacturer Cajeput Oil Suppliers USA with 100% Pure Cajeput Hydrosol for bulk and wholesale use in cosmetics, product.",
 };
 
 export const faqs: FaqItem[] = [
