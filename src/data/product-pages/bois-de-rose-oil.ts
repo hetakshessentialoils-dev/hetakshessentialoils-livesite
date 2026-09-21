@@ -67,8 +67,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Bois de Rose Oil Distributor & Wholesaler | Bulk Rosewood Oil Supplier",
-  seoDescription: "Buy bulk Bois de Rose Oil and Hydrosol from a leading wholesaler and exporter. 100% pure rosewood oil with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Pure Bois-De-Rose Oil Bulk Manufacturers & Wholesale Suppliers",
+  seoDescription: "Find premium Bois-De-Rose Oil Bulk Manufacturer for wholesale suppliers requirements. Widely used in fragrance, skincare, and personal care products.",
 };
 
 export const faqs: FaqItem[] = [
