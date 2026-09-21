@@ -53,8 +53,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Marjoram Oil Manufacturer & Wholesaler | Bulk Marjoram Essential Oil",
-  seoDescription: "Buy bulk Marjoram Oil and Marjoram Hydrosol from Origanum majorana. Warm herbal oil for fragrance and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Marjoram Oil Manufacturer & Hydrosol Wholesale Suppliers in US",
+  seoDescription: "Trusted US Marjoram Oil manufacturer and Hydrosol wholesale supplier, offering pure products in bulk with reliable supply and competitive rates.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
