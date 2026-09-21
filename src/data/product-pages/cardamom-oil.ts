@@ -177,8 +177,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Cardamom Oil Manufacturer & Distributor | Bulk Cardamom Essential Oil Supplier",
-  seoDescription: "Buy bulk Cardamom Oil, Cardamom Oil BP, and Cardamom Hydrosol from a leading manufacturer and exporter. COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Cardamom Oil BP & Hydrosol Wholesale | Manufacturers & Suppliers",
+  seoDescription: "Cardamom Oil BP and Hydrosol from trusted bulk manufacturers and suppliers for pharmaceutical, cosmetic, and industrial applications.",
 };
 
 export const faqs: FaqItem[] = [
