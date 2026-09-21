@@ -5,14 +5,10 @@ import { SiteShell } from "@/components/SiteShell";
 import { JsonLd } from "@/components/JsonLd";
 import { LegacyInit } from "@/components/LegacyInit";
 import { organizationJsonLd } from "@/lib/seo";
-import { SITE_NAME } from "@/lib/constants";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://hetakshessentialoils.com"),
-  title: {
-    default: "Essential Oil Wholesale, Bulk Supplier & Manufacturer in US",
-    template: `%s | ${SITE_NAME}`,
-  },
+  title: "Essential Oil Wholesale, Bulk Supplier & Manufacturer in US",
   description:
     "Hetaksh Essential Oils – Global Essential Oil Wholesale Supplier & Bulk Manufacturer in US, trusted for 100% pure, natural oils at competitive prices.",
   icons: { icon: "/favicon.png" },

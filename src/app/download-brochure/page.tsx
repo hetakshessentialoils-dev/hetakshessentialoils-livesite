@@ -5,7 +5,7 @@ import { buildMetadata, breadcrumbJsonLd } from "@/lib/seo";
 const BROCHURE_PDF = "/assets/images/certificate/hetaksh-oils-e-brochure.pdf";
 
 export const metadata = buildMetadata({
-  title: "Brochure Download Now | Hetaksh Essential Oils",
+  title: "Brochure Download Now",
   description:
     "Download the Hetaksh Essential Oils brochure to discover our extensive selection of high-quality essential oils and Carrier Oils for various applications.",
   keywords: "hetaksh brochure, essential oils catalog, carrier oils brochure",

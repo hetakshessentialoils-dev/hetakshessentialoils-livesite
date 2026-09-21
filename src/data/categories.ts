@@ -24,7 +24,7 @@ export const CATEGORIES: Category[] = [
     slug: "carrier-oils",
     description:
       "Carrier oils are lipid, or fatty, extracts obtained from plant materials. They are so named because they can carry essential oils at an appropriate concentration. Cold-pressing is one of the main methods of producing carrier oils.",
-    seoTitle: "Carrier Oils Wholesale Supplier | Hetaksh Essential Oils",
+    seoTitle: "Carrier Oils Wholesale Supplier",
     seoDescription: "Premium carrier oils wholesale supplier for cosmetics and aromatherapy.",
     seoKeywords: "carrier oils, wholesale carrier oils",
     faqs: [],
