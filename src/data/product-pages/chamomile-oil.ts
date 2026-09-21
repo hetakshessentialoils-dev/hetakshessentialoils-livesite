@@ -151,8 +151,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Chamomile Oil Supplier | Bulk Chamomile Essential Oil for Natural Formulations",
-  seoDescription: "Buy bulk Chamomile Oil and Chamomile Hydrosol. German and Roman types, steam distilled, with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Chamomile Oil Bulk Suppliers | Manufacturer & Wholesale in USA",
+  seoDescription: "Buy premium Chamomile Oil Bulk Manufacturer from reliable wholesale suppliers in usa. Available in bulk quantities for beauty products.",
 };
 
 export const faqs: FaqItem[] = [
