@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Holy Basil Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Holy Basil Oil | Fresh Herbal Oil from the Tulsi Plant",
-  seoDescription: "Buy bulk Holy Basil Oil and Holy Basil Hydrosol from a manufacturer and exporter. Steam distilled Ocimum tenuiflorum, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Holy Basil Oil (Tulsi) Wholesale Supplier | Bulk Manufacturer",
+  seoDescription: "Hetaksh Essential Oils is a trusted Holy Basil Oil (Tulsi Oil) bulk manufacturer and wholesale supplier, offering premium-quality oil for global buyers.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
