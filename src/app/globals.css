@@ -1455,6 +1455,11 @@ form.contact_form .iti input {
   color: #191919;
 }
 
+.cp-page b,
+.cp-page strong {
+  font-weight: 700;
+}
+
 .cp-page .cp-h2,
 .cp-page h4.cp-h2,
 .cp-page h5.cp-h2 {
