@@ -54,8 +54,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Garlic Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Garlic Oil | Strong Herbal Oil for Food, Hair Care and Personal Care",
-  seoDescription: "Buy bulk Garlic Oil and Garlic Hydrosol from a manufacturer and exporter. Distilled Allium sativum oil for food, hair, and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "High Quality Garlic Oil Bulk Manufacturer & Hydrosol Supplier in US",
+  seoDescription: "Leading Garlic Oil bulk manufacturer and supplier in US, offering 100% pure, natural Garlic Hydrosol with reliable bulk supply and competitive wholesale pricing.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
