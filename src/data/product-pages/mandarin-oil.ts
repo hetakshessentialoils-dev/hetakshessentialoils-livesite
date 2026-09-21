@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Mandarin Oil Manufacturer & Supplier | Bulk Mandarin Essential Oil",
-  seoDescription: "Buy bulk Mandarin Oil and Mandarin Hydrosol from Citrus reticulata peel. Sweet citrus oil for fragrance, food, and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Bulk Manufacturer of Mandarin Oil Wholesale Suppliers | Distributor",
+  seoDescription: "Trusted Mandarin Oil manufacturer, wholesale supplier, and distributor providing pure natural oil in bulk quantities at competitive prices for businesses.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
