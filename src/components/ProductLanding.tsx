@@ -33,7 +33,9 @@ export function ProductLanding({ data }: { data: ProductLandingData }) {
                       dangerouslySetInnerHTML={{ __html: p }}
                     />
                   ))}
-                  <p className="mb-5">{data.packaging}</p>
+                  <p className="mb-5">
+                    <strong>{data.packaging}</strong>
+                  </p>
                 </div>
               </div>
               <div className="col-xl-5 col-lg-5 col-md-6">
@@ -53,8 +55,12 @@ export function ProductLanding({ data }: { data: ProductLandingData }) {
             {data.grades.map((g, i) => (
               <div key={i} className={data.gradeColClass}>
                 <div className="heading-box">
-                  <p>{g.title}</p>
-                  <p className="mb-2">{g.spec}</p>
+                  <p>
+                    <strong>{g.title}</strong>
+                  </p>
+                  <p className="mb-2">
+                    <strong>{g.spec}</strong>
+                  </p>
                 </div>
                 <div className="product__btn-box">
                   {g.coa && (

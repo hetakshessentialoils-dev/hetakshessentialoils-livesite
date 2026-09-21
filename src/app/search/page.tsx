@@ -3,11 +3,14 @@ import { JsonLd } from "@/components/JsonLd";
 import { searchProductDetails } from "@/lib/search";
 import { buildMetadata, breadcrumbJsonLd } from "@/lib/seo";
 
-export const metadata = buildMetadata({
-  title: "Search Results",
-  description: "Search Hetaksh Essential Oils product catalogue.",
-  path: "/search",
-});
+export const metadata = {
+  ...buildMetadata({
+    title: "Search Results",
+    description: "Search Hetaksh Essential Oils product catalogue.",
+    path: "/search",
+  }),
+  robots: { index: false, follow: false },
+};
 
 function SearchResultBlock({
   item,

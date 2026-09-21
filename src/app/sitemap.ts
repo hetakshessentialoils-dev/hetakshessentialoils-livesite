@@ -28,7 +28,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     page("/download-brochure", 0.8),
     page("/privacy-policy", 0.8),
     page("/blog", 0.8),
-    page("/search", 0.4096),
   ];
 
   const slugs = new Set<string>();

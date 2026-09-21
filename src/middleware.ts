@@ -11,7 +11,16 @@ function legacyDestination(pathname: string): string | null {
 }
 
 export function middleware(request: NextRequest) {
-  const destination = legacyDestination(request.nextUrl.pathname);
+  const { pathname, searchParams } = request.nextUrl;
+
+  if (pathname === "/search" && !searchParams.get("q")?.trim()) {
+    const home = request.nextUrl.clone();
+    home.pathname = "/";
+    home.search = "";
+    return NextResponse.redirect(home, 301);
+  }
+
+  const destination = legacyDestination(pathname);
   if (!destination) return NextResponse.next();
 
   const url = request.nextUrl.clone();
