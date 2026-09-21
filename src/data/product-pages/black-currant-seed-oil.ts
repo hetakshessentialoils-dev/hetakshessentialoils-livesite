@@ -101,8 +101,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Black Currant Seed Oil Distributor & Exporter | Bulk Black Currant Oil Wholesaler",
-  seoDescription: "Buy bulk Black Currant Seed Oil from a leading manufacturer and exporter. Cold pressed carrier oil with COA, MSDS, TDS, and worldwide shipping.",
+  seoTitle: "Black Currant Seed Oil Wholesale | Bulk Suppliers & Manufacturer",
+  seoDescription: "Hetaksh Essential Oils for Black Currant Seed Oil Wholesale, offering quality bulk manufacturer oil for cosmetics, haircare, and personal care.",
 };
 
 export const faqs: FaqItem[] = [
