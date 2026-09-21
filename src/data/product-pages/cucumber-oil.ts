@@ -207,7 +207,7 @@ export const page: CleanProductPage = {
       paragraphs: [
         "Cucumber Oil can be a good starting ingredient for brands creating simple botanical beauty products. It can be used alone in a face or body oil or mixed with other carrier oils and cosmetic ingredients.",
         "A brand could use it in products such as:",
-        "<b>Cucumber Facial Oil</b><br/>A simple blend of Cucumber Oil with other lightweight carrier oils.",
+        "<b>Cucumber Facial Oil: - </b><br/>A simple blend of Cucumber Oil with other lightweight carrier oils.",
         "<b>Cucumber Body Oil</b><br/>A body-care blend designed for a smooth and soft skin feel.",
         "<b>Cucumber Hair Oil</b><br/>A mixture of Cucumber Oil and other oils selected for hair and scalp care.",
         "<b>Cucumber Massage Oil</b><br/>A blended oil with a suitable fragrance for massage products.",
