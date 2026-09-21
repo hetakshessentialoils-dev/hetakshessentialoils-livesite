@@ -56,8 +56,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Hazelnut Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Hazelnut Oil | Light Nut Oil for Skin, Hair and Food Products",
-  seoDescription: "Buy bulk Hazelnut Oil from a manufacturer and exporter. Cold pressed Corylus avellana oil for food, skincare, and hair care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Hazelnut Oil Wholesale Supplier & Bulk Manufacturer | Distributor",
+  seoDescription: "Choose Hetaksh Essential Oils for premium 100% pure Hazelnut Oil bulk manufacturer. Trusted wholesale supplier for skincare, and personal care formulations.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
