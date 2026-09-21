@@ -16,9 +16,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { buildMetadata, faqJsonLd } from "@/lib/seo";
 
 export const metadata = buildMetadata({
-  title: "Essential Oil Wholesale, Bulk Supplier & Manufacturer in US",
+  title: "Essential Oil Wholesale & Bulk Manufacturer in US",
   description:
-    "Hetaksh Essential Oils – Global Essential Oil Wholesale Supplier & Bulk Manufacturer in US, trusted for 100% pure, natural oils at competitive prices.",
+    "Hetaksh Essential Oils is a global wholesale supplier and bulk manufacturer in the US, offering 100% pure, natural essential oils at competitive prices.",
   keywords: "essential oils wholesale, bulk essential oils, carrier oils supplier, hetaksh essential oils",
   path: "/",
 });
@@ -50,8 +50,8 @@ export default async function HomePage() {
                 </div>
                 <p className="about-one__text">
                   Welcome to Hetaksh Essential Oils, a premier B2B supplier of essential oils and
-                  carrier oils serving the United States. We are a government-recognized Export
-                  House serving customers in more than 40 countries worldwide. Our clientele
+                  carrier oils serving the United States/India. We are a government-recognized Export
+                  House serving customers in more than 40+ countries worldwide. Our clientele
                   includes leading pharmaceutical, flavor, fragrance, personal care, tobacco,
                   Ayurvedic, and FMCG companies. We supply products in grades complying with
                   applicable IP, BP, EP, USP, and JP specifications, where supported by the
