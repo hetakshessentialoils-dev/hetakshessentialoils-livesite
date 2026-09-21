@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Hemp Seed Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Hemp Seed Oil | A Plant-Based Oil with a Smooth, Nutty Feel",
-  seoDescription: "Buy bulk Hemp Seed Oil from a manufacturer and exporter. Cold pressed Cannabis sativa seed oil for food, skin, and hair care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "100% Pure Hemp Seed Oil Wholesale Supplier & Bulk Manufacturer",
+  seoDescription: "Premium 100% pure Hemp Seed Oil wholesale supplier and bulk manufacturer. Suitable for skincare, and personal care manufacturer worldwide.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
