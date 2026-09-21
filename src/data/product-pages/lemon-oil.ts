@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lemon Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Lemon Oil | Bright Citrus Oil for Food, Fragrance and Personal Care",
-  seoDescription: "Buy bulk Lemon Oil and Lemon Hydrosol from a manufacturer and exporter. Cold pressed Citrus limon peel oil for food, fragrance, and personal care, with COA and MSDS.",
+  seoTitle: "Best Lemon Oil Bulk Supplier and Hydrosol Manufacturer in US",
+  seoDescription: "Buy 100% pure Lemon Oil at wholesale prices from a trusted bulk supplier and Hydrosol manufacturer in US. Ideal for cosmetics, and aromatherapy.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
