@@ -5,6 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Arachis Oil",
+  heading: "Arachis Oil Bulk Manufacturer & Wholesale Supplier",
   image: "/assets/images/products/single-product/arachis-oil/Arachis-oil-bulk.webp",
   imageAlt: "Arachis Oil Bulk",
   specsTitle: "Product Specifications",
