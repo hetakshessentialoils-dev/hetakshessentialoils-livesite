@@ -12,6 +12,7 @@ export const page: CleanProductPage = {
   specsTitle: "Product Specifications",
   paragraphs: [
     "Ajwain Oil is a premium quality essential oil extracted from the seeds of Trachyspermum ammi using the steam distillation method. As a bulk manufacturer and distributor of high-quality Ajwain Oil, we supply 100% pure and natural oil to customers worldwide. Ajwain belongs to the Apiaceae family and is native to Egypt.",
+    "Commonly known as carom seeds, it is an important spice used in Indian kitchens and many cuisines across the world.",
     "Ajwain Oil is a light orange to reddish-brown liquid with a strong, warm, spicy, and medicinal aroma. It contains important natural constituents such as thymol, carvacrol, terpinene, dipentene, terpinolene, and limonene. The seeds are naturally rich in calcium, minerals, protein, carbohydrates, healthy fats, and iron. Our therapeutic-grade Ajwain Oil is a natural antioxidant with antimicrobial and purifying properties. It is widely used in cosmetic applications, skincare products, hair care formulations, personal care products, massage oils, and wellness formulations.",
     "We process our Ajwain Oil through the steam distillation method to maintain its purity and quality. As a trusted <b>Ajwain oil wholesale supplier</b>, we export bulk quantities to the UK, Australia, USA, Canada, the Middle East, and many other countries worldwide.",
   ],
