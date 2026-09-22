@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Nutmeg Oil Manufacturer & Exporter | Bulk Nutmeg Essential Oil",
-  seoDescription: "Buy bulk Nutmeg Oil and Nutmeg Hydrosol from Myristica fragrans seed. Warm spice oil for fragrance, flavor, and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Nutmeg Oil Wholesale | Bulk Supplier & Manufacturer in USA",
+  seoDescription: "Purchase 100% natural Nutmeg Oil in bulk from a trusted bulk manufacturer and wholesale supplier in USA, with flexible options for commercial buyers.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
