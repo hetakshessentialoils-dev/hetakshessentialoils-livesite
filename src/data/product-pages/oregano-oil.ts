@@ -53,8 +53,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Oregano Oil Manufacturer & Supplier | Bulk Oregano Essential Oil",
-  seoDescription: "Buy bulk Oregano Oil and Oregano Hydrosol from Origanum vulgare. Bold herbal spice oil for flavor, fragrance, and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Oregano Oil Manufacturer & Wholesale Suppliers in USA",
+  seoDescription: "Get quality Oregano Oil Bulk from a trusted manufacturer and wholesale supplier in USA, with bulk options available for large-volume business requirements.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
