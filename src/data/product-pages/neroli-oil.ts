@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Neroli Oil Manufacturer | Bulk Orange Blossom Essential Oil Supplier",
-  seoDescription: "Buy bulk Neroli Oil and Neroli Hydrosol from Citrus aurantium flowers. Floral orange blossom oil for perfumery and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Neroli Oil Bulk Manufacturers and WHolesale Suppliers from USA",
+  seoDescription: "Trusted manufacturer & wholesale supplier: Hetaksh Essential Oils is a reliable Neroli Oil manufacturer, bulk supplier, and wholesaler in USA,",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
