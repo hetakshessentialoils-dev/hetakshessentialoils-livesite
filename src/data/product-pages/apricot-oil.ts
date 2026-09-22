@@ -5,12 +5,12 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Apricot Oil",
-  heading: "Apricot Kernel Oil Bulk Manufacturer | Natural Apricot Oil Bulk Supplier",
+  heading: "Apricot Oil Bulk Manufacturer | Natural Apricot Oil Bulk Supplier",
   image: "/assets/images/products/Carrier-Oils/Apricot-Oil.webp",
   imageAlt: "Apricot Kernel Oil",
   paragraphs: [
-    "Apricot Kernel Oil is a lightweight carrier oil extracted from the dried kernels of the apricot fruit (Prunus armeniaca) using the cold-pressed method. Known for its similarity to almond oil, this premium carrier oil is valued for its fast absorption, light texture, and excellent moisturizing properties. As a leading <b>Apricot oil bulk manufacturer</b> and exporter, we supply 100% pure and natural Apricot Kernel Oil to cosmetic, skincare, pharmaceutical, aromatherapy, and wellness industries worldwide.",
-    "Rich in antioxidants and vitamins such as vitamin E and vitamin K, Apricot Kernel Oil is widely used in premium formulations for its nourishing and soothing benefits. It is a pale yellow to golden yellow oil with a mild characteristic aroma that blends easily with other carrier and essential oils. Our oil is produced from carefully selected apricot kernels and meets international quality standards. Suitable for sensitive skin, dry skin, and hair care formulations, our Apricot Kernel Oil is available in bulk quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
+    "Apricot Oil is a lightweight carrier oil extracted from the dried kernels of the apricot fruit (Prunus armeniaca) using the cold-pressed method. Known for its similarity to almond oil, this premium carrier oil is valued for its fast absorption, light texture, and excellent moisturizing properties. As a leading <b>Apricot oil bulk manufacturer</b> and exporter, we supply 100% pure and natural Apricot Kernel Oil to cosmetic, skincare, pharmaceutical, aromatherapy, and wellness industries worldwide.",
+    "Rich in antioxidants and vitamins such as vitamin E and vitamin K, Apricot Kernel Oil is widely used in premium formulations for its nourishing and soothing benefits. It is a pale yellow to golden yellow oil with a mild characteristic aroma that blends easily with other carrier and essential oils. Our oil is produced from carefully selected apricot kernels and meets international quality standards. Suitable for sensitive skin, dry skin, and hair care formulations, our Apricot Oil is available in bulk quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
   ],
   specsTitle: "Product Specifications",
   specs: [
