@@ -99,8 +99,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "100% Pure Apricot Oil Wholesale Suppliers | Bulk Manufacturer & Exporter USA",
-  seoDescription: "Hetaksh Essential Oils 100% pure Apricot Oil Bulk Manufacturers for skincare, hair care, creams, with wholesale and Suppliers in the USA.",
+  seoTitle: "100% Pure Apricot Oil Wholesale Suppliers | Bulk Manufacturer in USA",
+  seoDescription: "Hetaksh Essential Oils 100% pure Apricot Oil Bulk Manufacturers for skincare, hair care, creams, with wholesale and Suppliers in USA.",
 };
 
 export const faqs: FaqItem[] = [
