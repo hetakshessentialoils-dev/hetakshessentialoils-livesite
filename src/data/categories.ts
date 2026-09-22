@@ -49,10 +49,10 @@ export const CATEGORIES: Category[] = [
     slug: "special-ingredients",
     description:
       "Our curated selection of special ingredients is chosen for its unique properties and is used as products in dietary supplements, herbal remedies and much more.",
-    seoTitle: "Bulk Oil Ingredients Manufacturer & Wholesale Supplier in USA",
+    seoTitle: "Special Ingredients Oils Manufacturer & Wholesale Suppliers in USA",
     seoDescription:
-      "Bulk oil ingredients manufacturer and wholesale supplier in USA. Specialty botanical oils and extracts for nutraceutical, cosmetic, and food industries.",
-    seoKeywords: "special ingredients, bulk oil ingredients, botanical extracts",
+      "Special Ingredients Oils manufacturer and bulk supplier in USA – Hetaksh Essential Oils provides high-quality specialty oils in wholesale quantities with reliable supply.",
+    seoKeywords: "special ingredients, bulk oil ingredients, special ingredients oils wholesale, special ingredients oil supplier, special ingredients manufacturer, special ingredients oil distributors, botanical extracts",
     faqs: [],
     sortOrder: 4,
   },
