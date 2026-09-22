@@ -20,7 +20,7 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Anise Oil Page",
   variants: [
     {
-      title: "Anise Oil USP Wholesaler | USP Grade Anise Essential Oil",
+      title: "Anise Oil Wholesaler Suppliers | USP Grade Anise Essential Oil",
       coa: "/assets/images/products/Pharma-Grade-Oils/COA/ANISE OIL USP COA.pdf",
       msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/ANISE OIL MSDS.pdf",
       paragraphs: [
