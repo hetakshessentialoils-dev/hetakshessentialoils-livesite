@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Apricot Oil",
-  heading: "Apricot Kernel Oil Distributor | Natural Apricot Oil Bulk Supplier",
+  heading: "Apricot Kernel Oil Bulk Manufacturer | Natural Apricot Oil Bulk Supplier",
   image: "/assets/images/products/Carrier-Oils/Apricot-Oil.webp",
   imageAlt: "Apricot Kernel Oil",
   paragraphs: [
-    "Apricot Kernel Oil is a lightweight carrier oil extracted from the dried kernels of the apricot fruit (Prunus armeniaca) using the cold-pressed method. Known for its similarity to almond oil, this premium carrier oil is valued for its fast absorption, light texture, and excellent moisturizing properties. As a leading <b>apricot oil bulk manufacturer</b> and exporter, we supply 100% pure and natural Apricot Kernel Oil to cosmetic, skincare, pharmaceutical, aromatherapy, and wellness industries worldwide.",
+    "Apricot Kernel Oil is a lightweight carrier oil extracted from the dried kernels of the apricot fruit (Prunus armeniaca) using the cold-pressed method. Known for its similarity to almond oil, this premium carrier oil is valued for its fast absorption, light texture, and excellent moisturizing properties. As a leading <b>Apricot oil bulk manufacturer</b> and exporter, we supply 100% pure and natural Apricot Kernel Oil to cosmetic, skincare, pharmaceutical, aromatherapy, and wellness industries worldwide.",
     "Rich in antioxidants and vitamins such as vitamin E and vitamin K, Apricot Kernel Oil is widely used in premium formulations for its nourishing and soothing benefits. It is a pale yellow to golden yellow oil with a mild characteristic aroma that blends easily with other carrier and essential oils. Our oil is produced from carefully selected apricot kernels and meets international quality standards. Suitable for sensitive skin, dry skin, and hair care formulations, our Apricot Kernel Oil is available in bulk quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
   ],
   specsTitle: "Product Specifications",
@@ -65,21 +65,21 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Apricot Kernel Oil Uses & Applications",
+      title: "Bulk Apricot Oil Uses & Applications",
       paragraphs: [
         "Apricot Kernel Oil is a highly nutritious carrier oil with a wide range of cosmetic, wellness, therapeutic, and culinary applications. Rich in vitamins A, E, omega-6 fatty acids, and omega-9 fatty acids, it helps nourish dry skin, improve the skin barrier, and maintain healthy-looking skin. Its lightweight texture makes it an excellent base oil that blends easily with essential oils for aromatherapy and massage formulations. Apricot Oil is commonly used in skincare creams, lotions, soaps, lip care products, facial serums, massage oils, scented candles, hair care products, and cosmetic formulations.",
         "It is especially suitable for acne-prone and sensitive skin because of its soothing, antibacterial, and anti-inflammatory properties. The oil supports collagen production, helping reduce the appearance of wrinkles and fine lines while improving skin elasticity. It also helps soothe minor skin irritation, dryness, itching, rashes, cuts, and small wounds. In the culinary industry, Apricot Kernel Oil is used in selected recipes, jams, and flavouring applications. Its nourishing profile also makes it valuable in wellness and personal care formulations.",
       ],
     },
     {
-      title: "Bulk Apricot Kernel Oil Supplier | Packaging, Quality & Global Export",
+      title: "Wholesale Apricot Oil Supplier | Packaging, Quality & Global Export",
       paragraphs: [
-        "As a trusted wholesale supplier, we provide premium quality Apricot Kernel Oil in secure packaging options ranging from 25 kg to 180 kg HDPE drums. Every batch is carefully tested to ensure purity, consistency, and compliance with international quality standards before dispatch. We supply complete quality documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, and Non-GMO Declaration with domestic and international deliveries on request.",
+        "As a trusted <b>Apricot wholesale supplier</b>, we provide premium quality Apricot Kernel Oil in secure packaging options ranging from 25 kg to 180 kg HDPE drums. Every batch is carefully tested to ensure purity, consistency, and compliance with international quality standards before dispatch. We supply complete quality documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, and Non-GMO Declaration with domestic and international deliveries on request.",
         "Our experienced manufacturing team has the capacity to handle large-volume orders while maintaining consistent product quality. We proudly serve cosmetic, pharmaceutical, aromatherapy, wellness, and personal care brands across the world with competitive wholesale pricing. Our strong logistics network enables reliable exports to the USA, Canada, the UK, Australia, the Middle East, and many other countries. We also offer dependable delivery partners, and complete technical documentation required for export. Every shipment is packed carefully to help maintain product quality during transportation and long-distance international shipping.",
       ],
     },
     {
-      title: "Why Choose Our Bulk Apricot Kernel Oil?",
+      title: "Why Choose Our Bulk Apricot Oil?",
       lists: [
         {
           columns: 2,
