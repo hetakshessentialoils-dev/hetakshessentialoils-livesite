@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Ajwain Oil",
-  heading: "Ajwain Oil Manufacturer & Exporter | Natural Ajwain Essential Oil",
+  heading: "Ajwain Oil Bulk Manufacturer & Wholesale Supplier | Natural Ajwain Essential Oil",
   image: "/assets/images/products/spice-oil/AJWAIN OIL.webp",
   imageAlt: "Natural Ajwain Essential Oil",
   layout: "specs-first",
