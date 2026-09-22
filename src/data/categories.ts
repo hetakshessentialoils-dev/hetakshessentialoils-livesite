@@ -36,10 +36,10 @@ export const CATEGORIES: Category[] = [
     slug: "pharma-grade-oils",
     description:
       "Pharmaceutical-grade oils refer to oils that meet defined pharmaceutical quality standards and applicable product specifications.",
-    seoTitle: "Pharma Grade Oils Manufacturer & Wholesale Bulk Supplier in USA",
+    seoTitle: "Pharma Grade Oil wholesale & Bulk Manufacturer in USA",
     seoDescription:
-      "Pharma grade oils manufacturer and wholesale bulk supplier in USA. Pure pharmaceutical-grade oils for medical, wellness, and formulation applications.",
-    seoKeywords: "pharma grade oils, pharmaceutical oils, pharma grade oils bulk supplier",
+      "Hetaksh Essential Oils is a leading Pharma Grade Oil bulk manufacturer and wholesale supplier in USA, providing quality oils for pharmaceutical, cosmetic, and industrial needs.",
+    seoKeywords: "pharma grade oils, pharmaceutical oils, pharma grade oils bulk supplier, pharma grade oils wholesale, pharma grade oils manufacturer, pharma grade oils distributors",
     faqs: [],
     sortOrder: 3,
   },
