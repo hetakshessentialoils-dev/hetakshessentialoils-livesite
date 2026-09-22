@@ -10,7 +10,7 @@ export const page: CleanProductPage = {
   imageAlt: "Aloe Vera Oil",
   paragraphs: [
     "Aloe Vera Oil is prepared through the maceration of fresh Aloe Vera leaves in premium carrier oils such as almond oil, soybean oil, olive oil, mineral oil, or coconut oil. This slow cold infusion process allows the carrier oil to absorb the beneficial nutrients present in the Aloe Vera gel while maintaining its natural properties. As a bulk manufacturer and wholesaler, we supply 100% pure, natural, therapeutic-grade Aloe Vera Oil for cosmetic, skincare, hair care, wellness, and aromatherapy applications. The botanical name of Aloe Vera is Aloe barbadensis Miller, and it belongs to the Asphodelaceae family.",
-    "Our Aloe Vera Oil is manufactured in India using carefully selected Aloe Vera leaves. It contains naturally occurring enzymes, vitamins, minerals, sugars, lignin, saponins, amino acids, vitamin A, vitamin C, vitamin D, and essential fatty acids. The oil is soluble in alcohol and most fixed oils, making it easy to incorporate into cosmetic formulations. We offer premium quality Aloe Vera Oil in bulk quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
+    "Our Aloe Vera Oil is manufactured in US using carefully selected Aloe Vera leaves. It contains naturally occurring enzymes, vitamins, minerals, sugars, lignin, saponins, amino acids, vitamin A, vitamin C, vitamin D, and essential fatty acids. The oil is soluble in alcohol and most fixed oils, making it easy to incorporate into cosmetic formulations. We offer premium quality Aloe Vera Oil in bulk quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
   ],
   specsTitle: "Product Specifications",
   specs: [
