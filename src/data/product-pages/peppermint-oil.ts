@@ -4,7 +4,7 @@ export const htmlPage: ProductPageHtml = {
   slug: "peppermint-oil",
   title: "Peppermint Oil Wholesale, Bulk Suppliers & Manufacturers in USA",
   seoTitle: "Peppermint Oil Wholesale, Bulk Suppliers & Manufacturers in USA",
-  seoDescription: "We are a trusted wholesale supplier and bulk manufacturer of peppermint oil in the USA, offering documented product grades at competitive prices.",
+  seoDescription: "We are a trusted wholesale supplier and bulk manufacturer of peppermint oil in USA, offering documented product grades at competitive prices.",
   category: "essential-oils",
   categoryName: "Essential Oils",
   html: `
