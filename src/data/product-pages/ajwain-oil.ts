@@ -13,7 +13,7 @@ export const page: CleanProductPage = {
   paragraphs: [
     "Ajwain Oil is a premium quality essential oil extracted from the seeds of Trachyspermum ammi using the steam distillation method. As a bulk manufacturer and distributor of high-quality Ajwain Oil, we supply 100% pure and natural oil to customers worldwide. Ajwain belongs to the Apiaceae family and is native to Egypt. Commonly known as carom seeds, it is an important spice used in Indian kitchens and many cuisines across the world.",
     "Ajwain Oil is a light orange to reddish-brown liquid with a strong, warm, spicy, and medicinal aroma. It contains important natural constituents such as thymol, carvacrol, terpinene, dipentene, terpinolene, and limonene. The seeds are naturally rich in calcium, minerals, protein, carbohydrates, healthy fats, and iron. Our therapeutic-grade Ajwain Oil is a natural antioxidant with antimicrobial and purifying properties. It is widely used in cosmetic applications, skincare products, hair care formulations, personal care products, massage oils, and wellness formulations.",
-    "We process our Ajwain Oil through the steam distillation method to maintain its purity and quality. As a trusted <strong>Ajwain oil wholesale supplier</strong>, we export bulk quantities to the UK, Australia, USA, Canada, the Middle East, and many other countries worldwide.",
+    "We process our Ajwain Oil through the steam distillation method to maintain its purity and quality. As a trusted <b>Ajwain oil wholesale supplier</b>, we export bulk quantities to the UK, Australia, USA, Canada, the Middle East, and many other countries worldwide.",
   ],
   coa: "/assets/images/products/spice-oil/COA/AJOWAN OIL COA.pdf",
   msds: "/assets/images/products/spice-oil/MSDS/AJWAIN OIL MSDS.pdf",
@@ -32,7 +32,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Ajwain Oil Supplier | Quality, Packaging & Export Solutions",
       paragraphs: [
-        "As a trusted bulk manufacturer and exporter, we offer Ajwain Oil in various packaging options to meet the needs of manufacturers, wholesalers, and private label brands. Every batch undergoes laboratory testing to ensure consistent quality, purity, and compliance with industry standards. We provide complete product documentation, including COA and other quality reports, to support your sourcing requirements.",
+        "As a trusted <b>Ajwain bulk manufacturer</b> and distributors, we offer Ajwain Oil in various packaging options to meet the needs of manufacturers, wholesalers, and private label brands. Every batch undergoes laboratory testing to ensure consistent quality, purity, and compliance with industry standards. We provide complete product documentation, including COA and other quality reports, to support your sourcing requirements.",
         "Our experienced logistics team ensures safe packaging and timely delivery for domestic as well as international shipments. Whether your requirement is for cosmetic, personal care, herbal, wellness, food, or industrial applications, we offer flexible bulk quantities and dependable supply solutions. With competitive pricing, consistent product quality, and exports to more than 40 countries, we have become a reliable sourcing partner for businesses looking for premium quality Ajwain Oil and long-term bulk supply.",
       ],
     },
