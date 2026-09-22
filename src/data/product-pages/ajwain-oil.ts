@@ -37,8 +37,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Ajowan Oil Wholesale Supplier & Ditributors USA | Bulk Manufacturer",
-  seoDescription: "Hetaksh Essential Oils is a trusted Ajowan Oil bulk manufacturer and exporter in the USA, offering quality Ajowan Oil for wholesale suppliers and bulk orders.",
+  seoTitle: "Ajowan Oil Wholesale Supplier & Ditributors in USA | Bulk Manufacturer",
+  seoDescription: "Hetaksh Essential Oils is a trusted Ajowan Oil bulk manufacturer and exporter in USA, offering quality Ajowan Oil for wholesale suppliers and bulk orders.",
   specs: [
     {
       label: "Product Name",
