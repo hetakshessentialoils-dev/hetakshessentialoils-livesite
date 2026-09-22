@@ -18,7 +18,7 @@ import { buildMetadata, faqJsonLd } from "@/lib/seo";
 export const metadata = buildMetadata({
   title: "Essential Oil Wholesale & Bulk Manufacturer in US",
   description:
-    "Hetaksh Essential Oils is a global wholesale supplier and bulk manufacturer in the US, offering 100% pure, natural essential oils at competitive prices.",
+    "Hetaksh Essential Oils is a leading manufacturer and wholesale supplier of 100% Pure & Natural Essential Oil in US. Buy premium-quality oils in bulk at competitive prices.",
   keywords: "essential oils wholesale, bulk essential oils, carrier oils supplier, hetaksh essential oils",
   path: "/",
 });
