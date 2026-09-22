@@ -74,7 +74,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Avocado Oil Supplier | Packaging, Quality & Worldwide Export",
       paragraphs: [
-        "Our Avocado Oil has a shelf life of up to two years when stored under recommended conditions. As a trusted </>Avocado Oil bulk wholesale supplier</b>, we manufacture premium quality Avocado Oil from carefully selected ripe avocados to ensure excellent purity, nutritional value, and natural aroma. This versatile carrier oil is widely used by food manufacturers, cosmetic brands, pharmaceutical companies, aromatherapy businesses, and wellness industries.",
+        "Our Avocado Oil has a shelf life of up to two years when stored under recommended conditions. As a trusted </b>Avocado Oil bulk wholesale supplier</b>, we manufacture premium quality Avocado Oil from carefully selected ripe avocados to ensure excellent purity, nutritional value, and natural aroma. This versatile carrier oil is widely used by food manufacturers, cosmetic brands, pharmaceutical companies, aromatherapy businesses, and wellness industries.",
         "We supply Avocado Oil in bulk quantities starting from 25 kg, with secure packaging options available in 25 kg to 180 kg HDPE drums. Our strong global logistics network enables reliable exports worldwide with timely delivery and secure transportation. Every batch is supplied with complete quality documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, Non-GMO Declaration, and certifications such as ISO, GMP, FSSAI, Halal, and Kosher. We focus on maintaining consistent product quality, competitive wholesale pricing, and dependable customer support for businesses of every size.",
       ],
     },
