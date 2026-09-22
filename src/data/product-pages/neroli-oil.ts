@@ -58,7 +58,7 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Neroli Oil Bulk Manufacturers and WHolesale Suppliers from USA",
+  seoTitle: "Neroli Oil Bulk Manufacturers and Wholesale Suppliers from USA",
   seoDescription: "Trusted manufacturer & wholesale supplier: Hetaksh Essential Oils is a reliable Neroli Oil manufacturer, bulk supplier, and wholesaler in USA,",
   afterSpecsParagraphs: [],
   contentFlow: [
