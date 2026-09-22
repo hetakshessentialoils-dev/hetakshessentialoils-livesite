@@ -49,8 +49,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Onion Oil Manufacturer | Bulk Onion Oil & Onion Hydrosol Supplier",
-  seoDescription: "Buy bulk Onion Oil, Onion Hydrosol, and Onion Seed Oil from Allium cepa. Botanical onion ingredients for hair care and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Onion Oil Wholesale Supplier & Bulk manufacturer | Distributor",
+  seoDescription: "Wholesale Onion Oil available in bulk from a reliable manufacturer and supplier, suitable for distributors and businesses seeking regular supply.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
