@@ -32,7 +32,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Ajwain Oil Supplier | Quality, Packaging & Export Solutions",
       paragraphs: [
-        "As a trusted <b>Ajwain bulk manufacturer</b> and bulk distributors, we offer Ajwain Oil in various packaging options to meet the needs of manufacturers, wholesalers, and private label brands. Every batch undergoes laboratory testing to ensure consistent quality, purity, and compliance with industry standards. We provide complete product documentation, including COA and other quality reports, to support your sourcing requirements.",
+        "As a trusted <b>Ajwain bulk manufacturer</b> and Bulk Exporter, we offer Ajwain Oil in various packaging options to meet the needs of manufacturers, wholesalers and bulk distributors. Every batch undergoes laboratory testing to ensure consistent quality, purity, and compliance with industry standards. We provide complete product documentation, including COA and other quality reports, to support your sourcing requirements.",
         "Our experienced logistics team ensures safe packaging and timely delivery for domestic as well as international shipments. Whether your requirement is for cosmetic, personal care, herbal, wellness, food, or industrial applications, we offer flexible bulk quantities and dependable supply solutions. With competitive pricing, consistent product quality, and exports to more than 40+ countries, we have become a reliable sourcing partner for businesses looking for premium quality Ajwain Oil and long-term bulk supply.",
       ],
     },
