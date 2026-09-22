@@ -83,7 +83,7 @@ export const page: CleanProductPage = {
   ],
   variants: [],
   seoTitle: "100% Pure Aloe Vera Oil Manufacturer | Wholesale & Bulk Supplier in US",
-  seoDescription: "Hetaksh Essential Oils supplies 100% pure Aloe Vera Oil as a reliable manufacturer, supplier and exporter for wholesale and bulk requirements across the USA.",
+  seoDescription: "Hetaksh Essential Oils supplies 100% pure Aloe Vera Oil as a reliable manufacturer, supplier and exporter for wholesale and bulk requirements in USA.",
 };
 
 export const faqs: FaqItem[] = [
