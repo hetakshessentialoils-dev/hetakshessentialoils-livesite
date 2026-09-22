@@ -53,8 +53,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Orange Oil Manufacturer & Supplier | Bulk Sweet Orange Essential Oil",
-  seoDescription: "Buy bulk Orange Oil and Orange Hydrosol from Citrus sinensis peel. Bright citrus oil for fragrance, flavor, and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Orange Oil Manufacturer & Wholesale Suppliers | Bulk Distributor",
+  seoDescription: "Get premium Orange Oil in bulk from an experienced manufacturer and wholesale supplier, with flexible options for wholesale and distributor orders.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
