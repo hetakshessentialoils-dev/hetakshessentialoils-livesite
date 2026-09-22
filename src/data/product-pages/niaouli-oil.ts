@@ -53,8 +53,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Niaouli Oil Manufacturer | Bulk Melaleuca quinquenervia Oil Supplier",
-  seoDescription: "Buy bulk Niaouli Oil and Niaouli Hydrosol from Melaleuca quinquenervia. Fresh green essential oil for fragrance and personal care, with COA, MSDS, and worldwide shipping.",
+  seoTitle: "Niaouli Oil Bulk Manufacturer & Wholesale Supplier in USA",
+  seoDescription: "Hetaksh Essential Oils is a trusted Niaouli Oil manufacturer, bulk supplier, and wholesale supplier in USA, providing quality Niaouli Oil for commercial and business needs.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
