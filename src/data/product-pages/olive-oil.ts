@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Olive Oil Bulk Manufacturer & Supplier | Extra Virgin, Refined & Pomace",
-  seoDescription: "Buy bulk Olive Oil, Extra Virgin Olive Oil, refined olive oil, and pomace olive oil from Olea europaea fruit. COA, MSDS, and worldwide shipping.",
+  seoTitle: "Olive Oil Manufacturer & Bulk Wholesales Supplier in USA",
+  seoDescription: "Trusted Olive Oil manufacturer and bulk supplier in USA, providing quality oil for wholesale buyers, businesses, and commercial applications.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
