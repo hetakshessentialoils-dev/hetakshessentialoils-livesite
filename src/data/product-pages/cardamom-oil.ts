@@ -10,7 +10,7 @@ export const page: CleanProductPage = {
   imageAlt: "Cardamom Essential Oil",
   paragraphs: [
     "Cardamom Oil is an aromatic essential oil obtained from the seeds of green cardamom, botanically known as Elettaria cardamomum. It is commonly produced through steam distillation of the dried or crushed cardamom seeds and is recognized for its fresh, warm, sweet, spicy, and slightly camphoraceous aroma. Cardamom belongs to the Zingiberaceae family and is widely valued in food, flavour, fragrance, cosmetic, pharmaceutical, aromatherapy, and wellness applications. The oil contains naturally occurring volatile compounds, with alpha-terpinyl acetate and 1,8-cineole among its major constituents, along with linalool, linalyl acetate, and alpha-terpineol.",
-    "Cardamom Oil is used in flavouring formulations, perfumes, soaps, massage blends, personal care products, oral care products, and aromatherapy preparations. Its distinctive aroma makes it particularly useful in fragrance compositions and food flavouring. As a bulk manufacturer, wholesaler, and exporter, Hetaksh Essential Oils supplies Cardamom Oil for commercial formulation and manufacturing requirements.",
+    "Cardamom Oil is used in flavouring formulations, perfumes, soaps, massage blends, personal care products, oral care products, and aromatherapy preparations. Its distinctive aroma makes it particularly useful in fragrance compositions and food flavouring. As a bulk manufacturer, wholesaler, and supplier, Hetaksh Essential Oils supplies Cardamom Oil for commercial formulation and manufacturing requirements.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -78,7 +78,7 @@ export const page: CleanProductPage = {
       coa: "/assets/images/products/Pharma-Grade-Oils/COA/CARDAMOM OIL BP COA.pdf",
       msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/CARDAMOM OIL MSDS.pdf",
       paragraphs: [
-        "Cardamom Oil BP refers to Cardamom Oil supplied against applicable British Pharmacopoeia requirements where a pharmacopoeial specification is required by the buyer. The British Pharmacopoeia is the UK’s official collection of quality standards for pharmaceutical substances and medicinal products, and the current BP 2026 edition is legally effective from 1 January 2026. For this reason, manufacturers purchasing a pharmaceutical-grade Cardamom Oil should confirm the exact monograph, specification, and documentation required for their intended application rather than relying only on the term “BP grade.”",
+        "Cardamom Oil BP refers to Cardamom Oil supplied against applicable British Pharmacopoeia requirements where a pharmacopoeial specification is required by the buyer. The British Pharmacopoeia is the UK’s official collection of quality standards for pharmaceutical substances and medicinal products, and the current BP 2026 edition is legally effective from 1 January 2026. For this reason, <b>Cardamom oil manufacturers</b> purchasing a pharmaceutical-grade Cardamom Oil should confirm the exact monograph, specification, and documentation required for their intended application rather than relying only on the term “BP grade.”",
         "Cardamom Oil is valued for its characteristic aromatic profile and naturally occurring volatile constituents. Its principal components commonly include alpha-terpinyl acetate and 1,8-cineole, with other compounds such as linalool, linalyl acetate, and alpha-terpineol contributing to its overall composition. The oil can be used in suitable pharmaceutical, oral care, flavouring, and aromatic formulations according to the requirements of the finished product.",
       ],
       lists: [
@@ -120,12 +120,12 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Cardamom Oil BP Supply",
       paragraphs: [
-        "We supply Cardamom Oil for commercial buyers requiring dependable batch-to-batch supply. Bulk packaging, documentation, sample evaluation, and shipping arrangements can be discussed according to the buyer’s quantity, destination, and required specification.",
+        "We supply Cardamom Oil for commercial buyers requiring dependable batch-to-batch supply. <b>Cardamom Oil Bulk</b> packaging, documentation, sample evaluation, and shipping arrangements can be discussed according to the buyer’s quantity, destination, and required specification.",
         "<b>Important:</b> Pharmaceutical buyers should confirm the current applicable BP/Ph. Eur. requirements for their intended use before placing an order. The British Pharmacopoeia is updated regularly, so the exact specification should be verified against the current edition.",
       ],
     },
     {
-      title: "Cardamom Oil Hydrosol | Bulk Cardamom Floral Water Supplier",
+      title: "Cardamom Oil Hydrosol | Cardamom Floral Water Wholesale Supplier",
       coa: "/assets/images/products/Hydrosol/COA/CARDAMOM HYDROSOL COA.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Cardamon Oil Hydrosol MSDS.pdf",
       paragraphs: [
@@ -148,7 +148,7 @@ export const page: CleanProductPage = {
         },
       ],
       trailingParagraphs: [
-        "<b>Bulk Packaging & Storage</b><br/>We supply Cardamom Hydrosol in secure bulk packaging suitable for commercial transportation. Packaging can be selected according to order volume and destination. For maintaining product quality, hydrosol should generally be stored in a cool, dry environment away from direct sunlight and excessive heat. The shelf life should be confirmed from the product specification or batch documentation rather than assumed to be the same for every formulation.",
+        "<b>Bulk Packaging & Storage</b><br/>We supply Cardamom Hydrosol in secure <b>Cardamom oil wholesale</b> packaging suitable for commercial transportation. Packaging can be selected according to order volume and destination. For maintaining product quality, hydrosol should generally be stored in a cool, dry environment away from direct sunlight and excessive heat. The shelf life should be confirmed from the product specification or batch documentation rather than assumed to be the same for every formulation.",
       ],
     },
     {
@@ -173,7 +173,7 @@ export const page: CleanProductPage = {
     {
       title: "Why Source Cardamom Oil in Bulk?",
       paragraphs: [
-        "We offer Cardamom Oil and Cardamom Hydrosol for manufacturers, wholesalers, distributors, and formulation companies looking for consistent commercial supply. Our focus is on quality control, suitable packaging, documentation support, competitive bulk pricing, and reliable international logistics.",
+        "We offer Cardamom Oil and Cardamom Hydrosol for manufacturers, wholesalers, distributors Supplier, and formulation companies looking for consistent commercial supply. Our focus is on quality control, suitable packaging, documentation support, competitive bulk pricing, and reliable international logistics.",
       ],
     },
   ],
