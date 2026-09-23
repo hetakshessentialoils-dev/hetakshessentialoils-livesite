@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Carrot Oil",
-  heading: "Carrot Oil Wholesaler & Exporter | Bulk Carrot Oil Supplier",
+  heading: "Carrot Oil Wholesaler Supplier | Bulk Carrot Oil Manufacturer",
   image: "/assets/images/products/spice-oil/CARROT SEED OIL.webp",
   imageAlt: "Carrot Oil",
   paragraphs: [
-    "Carrot Oil is a botanical oil valued for its nourishing properties and its use in cosmetic, personal care, hair care, and wellness formulations. It is commonly prepared by infusing or macerating carrot material into a suitable carrier oil, allowing naturally occurring compounds from the plant to transfer into the base oil. Carrot’s botanical name is Daucus carota and it belongs to the Apiaceae family. The carrot root contains naturally occurring carotenoids, including beta-carotene, along with other plant compounds that are valued in skincare formulations. Depending on the production method and carrier used, Carrot Oil can have a yellow to orange appearance and a mild characteristic aroma. Its soft texture makes it suitable for facial oils, body oils, creams, lotions, massage blends, and hair care products. It is also used in formulations designed to nourish dry-looking skin and improve the appearance of dull skin. As a bulk manufacturer and supplier, Hetaksh Essential Oils offers Carrot Oil for cosmetic brands, personal care manufacturers, wellness companies, and formulation businesses requiring consistent commercial supply.",
+    "Carrot Oil is a botanical oil valued for its nourishing properties and its use in cosmetic, personal care, hair care, and wellness formulations. It is commonly prepared by infusing or macerating carrot material into a suitable carrier oil, allowing naturally occurring compounds from the plant to transfer into the base oil. Carrot’s botanical name is Daucus carota and it belongs to the Apiaceae family. The carrot root contains naturally occurring carotenoids, including beta-carotene, along with other plant compounds that are valued in skincare formulations. Depending on the production method and carrier used, Carrot Oil can have a yellow to orange appearance and a mild characteristic aroma. Its soft texture makes it suitable for facial oils, body oils, creams, lotions, massage blends, and hair care products. It is also used in formulations designed to nourish dry-looking skin and improve the appearance of dull skin. Hetaksh Essential Oils offers Carrot Oil for cosmetic brands, personal care manufacturers, wellness companies, and formulation businesses requiring consistent commercial supply.",
   ],
   specsTitle: "Product Specifications",
   specs: [
