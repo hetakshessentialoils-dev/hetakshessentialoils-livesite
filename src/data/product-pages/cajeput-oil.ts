@@ -104,7 +104,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Cajeput Oil Wholesaler | Applications, Documentation & Global Supply",
       paragraphs: [
-        "Cajeput Oil has a clean and easy-to-recognize smell, which makes it a useful ingredient for products that need a fresh herbal note. It is often chosen for massage oils, soaps, personal care products, fragrance blends, and aromatherapy. It can also be mixed with other essential oils to create different scents. <b>Cajeput Oil Wholesale</b> can be blended with oils such as lavender, rosemary, peppermint, eucalyptus, lemon, and tea tree, depending on the type of product being made.",
+        "Cajeput Oil has a clean and easy-to-recognize smell, which makes it a useful ingredient for products that need a fresh herbal note. It is often chosen for massage oils, soaps, personal care products, fragrance blends, and aromatherapy. It can also be mixed with other essential oils to create different scents. <b>Cajeput Oil Manufacturer</b> can be blended with oils such as lavender, rosemary, peppermint, eucalyptus, lemon, and tea tree, depending on the type of product being made.",
         "For businesses buying <b>Cajeput Oil bulk supplier</b>, we focus on simple and clear supply support. We can provide product samples, batch information, COA, MSDS, TDS, and other documents needed for product development and bulk purchasing. Our bulk supply is suitable for cosmetic companies, personal care brands, aromatherapy businesses, fragrance manufacturers, wholesalers, and distributors.",
       ],
       lists: [
