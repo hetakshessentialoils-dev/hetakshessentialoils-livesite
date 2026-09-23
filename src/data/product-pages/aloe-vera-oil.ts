@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Aloe Vera Oil",
-  heading: "Aloe Vera Oil Manufacturer & Supplier | Bulk Aloe Vera Oil Wholesaler",
+  heading: "Aloe Vera Oil Manufacturer & Supplier | Bulk Aloe Vera Oil Wholesale",
   image: "/assets/images/products/Carrier-Oils/Aloe-Vera-Oil.webp",
   imageAlt: "Aloe Vera Oil",
   paragraphs: [
@@ -74,7 +74,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Aloe Vera Oil Exporter | Quality Assurance & Global Supply",
+      title: "Wholesale Aloe Vera Oil Supplier | Quality Assurance & Global Supply",
       paragraphs: [
         "Our Aloe Vera Oil is produced from high-quality natural sources and carefully processed to maintain purity and consistency in every batch. As a trusted <b>Aloe Vera Oil bulk supplier</b> and exporter, we supply 100% pure and authentic Aloe Vera Oil that is free from artificial additives and preservatives. Our products are packed in secure 25 kg to 180 kg HDPE drums for safe bulk transportation. We export Aloe Vera Oil to more than 40+ countries through a strong global logistics network, ensuring timely deliveries by air and sea freight.",
         "Every batch is supported with complete quality documentation, including COA, TDS, MSDS, and other technical documents required for international trade. Our manufacturing facility follows GMP and ISO standards and holds FSSAI, Halal, and Kosher certifications. We also provide bulk samples for research, development, and product evaluation. Aloe Vera Oil naturally contains antioxidants such as beta-carotene and vitamin C, making it an excellent ingredient for cosmetic, skincare, and wellness formulations. We support manufacturers with consistent quality, competitive pricing, and dependable bulk supply solutions.",
@@ -82,7 +82,7 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "100% Pure Aloe Vera Oil Manufacturer | Wholesale & Bulk Supplier in US",
+  seoTitle: "Aloe Vera Oil Manufacturer | Wholesale & Bulk Supplier in US",
   seoDescription: "Hetaksh Essential Oils supplies 100% pure Aloe Vera Oil as a reliable manufacturer, supplier and exporter for wholesale and bulk requirements in USA.",
 };
 
