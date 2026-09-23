@@ -106,9 +106,9 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Black Pepper Oil Supplier | Quality, Packaging & Worldwide Export",
+      title: "Black Pepper Oil Wholesale Supplier | Quality, Packaging & Worldwide Export",
       paragraphs: [
-        "As a leading exporter and wholesale supplier of Black Pepper Essential Oil and <b>Black Pepper Hydrosol Wholesale</b>, we maintain consistent quality across every production batch through strict laboratory testing and quality control. Our products have a shelf life of up to two years when stored under recommended conditions. We offer bulk quantities starting from 25 kg, packed securely in 25 kg to 180 kg HDPE drums for safe domestic and international transportation. We provide complete quality documentation, including COA, MSDS, TDS, and other technical certificates required for export.",
+        "As a leading exporter and wholesale supplier of Black Pepper Essential Oil and Black Pepper Hydrosol, we maintain consistent quality across every production batch through strict laboratory testing and quality control. Our products have a shelf life of up to two years when stored under recommended conditions. We offer bulk quantities starting from 25 kg, packed securely in 25 kg to 180 kg HDPE drums for safe domestic and international transportation. We provide complete quality documentation, including COA, MSDS, TDS, and other technical certificates required for export.",
         "Black Pepper Oil is widely used in cosmetic products, massage oils, aromatherapy, pharmaceutical formulations, and wellness products. Traditionally, it has been used to support digestive wellness, muscle comfort, circulation, sore muscles, muscle cramps, constipation, detoxification, and relief from excess gas. It is also valued in wellness applications that support people trying to reduce smoking habits and nicotine dependence. We offer reliable logistics, competitive pricing, and consistent product quality for businesses worldwide.",
       ],
     },
