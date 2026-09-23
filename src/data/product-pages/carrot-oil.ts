@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Carrot Oil",
-  heading: "Carrot Oil Wholesaler Supplier | Bulk Carrot Oil Manufacturer",
+  heading: "Carrot Oil Wholesaler Supplier | Bulk Carrot Seed Oil Manufacturer",
   image: "/assets/images/products/spice-oil/CARROT SEED OIL.webp",
   imageAlt: "Carrot Oil",
   paragraphs: [
@@ -73,7 +73,7 @@ export const page: CleanProductPage = {
       coa: "/assets/images/products/spice-oil/COA/CARROT SEED OIL COA.pdf",
       msds: "/assets/images/products/spice-oil/MSDS/CARROT SEED OIL MSDS.pdf",
       paragraphs: [
-        "Carrot Seed Oil is a distinct essential oil obtained from the seeds of Daucus carota, and it should not be confused with Carrot Oil made from the root. The seeds are steam distilled to obtain a concentrated aromatic oil with a characteristic fragrance that is earthy, warm, dry, and slightly sweet. Carrot Seed Oil is valued by cosmetic and personal care manufacturers for its aromatic profile and its suitability for skincare and wellness formulations. Its natural composition may include compounds such as carotol, daucol, beta-bisabolene, and other volatile constituents, with the exact profile varying according to the botanical material, origin, and distillation conditions. Carrot Seed Oil is commonly incorporated into facial oils, serums, creams, body care products, massage blends, and aromatherapy preparations. It can also be blended with other essential oils to create customized aromatic compositions. As a bulk supplier, we provide Carrot Seed Oil for cosmetic manufacturers, aromatherapy brands, personal care companies, and formulation businesses. Product-specific documentation can be supplied for commercial sourcing and quality evaluation.",
+        "Carrot Seed Oil is a distinct essential oil obtained from the seeds of Daucus carota, and it should not be confused with Carrot Oil made from the root. The seeds are steam distilled to obtain a concentrated aromatic oil with a characteristic fragrance that is earthy, warm, dry, and slightly sweet. Carrot Seed Oil is valued by cosmetic and personal care manufacturers for its aromatic profile and its suitability for skincare and wellness formulations. Its natural composition may include compounds such as carotol, daucol, beta-bisabolene, and other volatile constituents, with the exact profile varying according to the botanical material, origin, and distillation conditions. Carrot Seed Oil is commonly incorporated into facial oils, serums, creams, body care products, massage blends, and aromatherapy preparations. It can also be blended with other essential oils to create customized aromatic compositions. As a <b>Carrot Oil bulk supplier</b>, we provide Carrot Seed Oil for cosmetic manufacturers, aromatherapy brands, personal care companies, and formulation businesses. Product-specific documentation can be supplied for commercial sourcing and quality evaluation.",
       ],
       tables: [
         {
