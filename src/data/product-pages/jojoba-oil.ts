@@ -158,7 +158,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "This can be very useful when a product maker does not want the raw material to change the colour of the finished formula. A jojoba oil wholesale can supply this type to cosmetic and personal-care manufacturers that want a cleaner-looking base.",
+          text: "This can be very useful when a product maker does not want the raw material to change the colour of the finished formula. A <b>jojoba oil wholesale</b> can supply this type to cosmetic and personal-care manufacturers that want a cleaner-looking base.",
         },
         {
           type: "heading",
