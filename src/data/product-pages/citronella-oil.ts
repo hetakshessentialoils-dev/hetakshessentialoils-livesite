@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Citronella Oil",
-  heading: "Citronella Oil Distributor & Supplier | Bulk Citronella Essential Oil",
+  heading: "Citronella Oil Wholesale Supplier | Bulk Citronella Essential Oil Manufacturer",
   image: "/assets/images/products/Essential-Oils/Citronella-Oil.webp",
   imageAlt: "Citronella Essential Oil",
   paragraphs: [
-    "Citronella Oil is a fresh-smelling essential oil made from citronella grass. Two common types are Java Citronella and Ceylon Citronella. Java Citronella is mainly linked with Cymbopogon winterianus, while Ceylon Citronella is commonly linked with Cymbopogon nardus. The oil is made from the leaves and stems of the grass through steam distillation. It has a fresh, green, lemon-like smell with a warm herbal note. Citronella Oil contains natural compounds such as citronellal, citronellol, and geraniol. These compounds give the oil its strong and fresh scent. Citronella Oil is widely used in soaps, candles, perfumes, room fresheners, cleaning products, massage blends, personal care products, and aromatherapy. It is also well known for use in insect-repellent products because of its strong smell. Cosmetic and home-care manufacturers use it when they want a fresh citrus-like fragrance in their products. At Hetaksh Essential Oils, we supply Citronella Oil in bulk for manufacturers, wholesalers, distributors, fragrance companies, personal care brands, and other businesses. We offer product samples and quality documents for bulk buyers.",
+    "Citronella Oil is a fresh-smelling essential oil made from citronella grass. Two common types are Java Citronella and Ceylon Citronella. Java Citronella is mainly linked with Cymbopogon winterianus, while Ceylon Citronella is commonly linked with Cymbopogon nardus. The oil is made from the leaves and stems of the grass through steam distillation. It has a fresh, green, lemon-like smell with a warm herbal note. Citronella Oil contains natural compounds such as citronellal, citronellol, and geraniol. These compounds give the oil its strong and fresh scent. Citronella Oil is widely used in soaps, candles, perfumes, room fresheners, cleaning products, massage blends, personal care products, and aromatherapy. It is also well known for use in insect-repellent products because of its strong smell. Cosmetic and home-care manufacturers use it when they want a fresh citrus-like fragrance in their products. At Hetaksh Essential Oils, we supply <b>Citronella Oil in bulk</b> for manufacturers, wholesaler, distributors, fragrance companies, personal care brands, and other businesses. We offer product samples and quality documents for bulk buyers.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -45,7 +45,7 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [
     {
-      title: "Citronella Hydrosol | Fresh Floral Water for Personal Care & Home Products",
+      title: "Citronella Hydrosol Supplier | Fresh Floral Water for Personal Care & Home Products",
       coa: "/assets/images/products/Hydrosol/COA/CITRONELLA HYDROSOL.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Citronella Oil Hydrosol MSDS.pdf",
       paragraphs: [
@@ -94,11 +94,11 @@ export const page: CleanProductPage = {
         },
       ],
       trailingParagraphs: [
-        "We supply Citronella Hydrosol in bulk for cosmetic manufacturers, personal care companies, home-care brands, aromatherapy businesses, wholesalers, and distributors. Buyers can request product specifications and batch documents before using it in their formulations.",
+        "We supply <b>Citronella Hydrosol in bulk</b> for cosmetic manufacturers, personal care companies, home-care brands, aromatherapy businesses, wholesaler supplier, and distributors. Buyers can request product specifications and batch documents before using it in their formulations.",
       ],
     },
     {
-      title: "Citronella Oil Bulk Supply | From Grass to Finished Products",
+      title: "Citronella Oil Bulk Supplier | From Grass to Finished Products",
       paragraphs: [
         "Citronella Oil is useful for businesses that want a fresh and strong lemon-like smell in their products. It is used in many areas, from personal care to home fragrance. Soap makers use it in scented soaps. Candle makers add it to fragrance blends. Perfume brands use it for its fresh green note. Home-care brands use it in room fresheners and cleaning products. It is also used in massage oils and aromatherapy blends.",
         "<b>Citronella Oil vs Citronella Hydrosol</b>",
