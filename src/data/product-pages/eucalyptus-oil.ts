@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Eucalyptus Oil",
-  heading: "Eucalyptus Oil Manufacturer & Exporter | Bulk Eucalyptus Essential Oil",
+  heading: "Eucalyptus Oil Manufacturer & Supplier | Bulk Eucalyptus Essential Oil Wholesale",
   image: "/assets/images/products/Essential-Oils/Eucaluptus-Oil.webp",
   imageAlt: "Eucalyptus Oil",
   paragraphs: [
-    "Eucalyptus Oil is a fresh-smelling essential oil made from the leaves and young branches of eucalyptus trees. One commonly used species is Eucalyptus globulus, which belongs to the Myrtaceae family. The leaves are collected and processed through steam distillation to obtain the oil. Eucalyptus Oil is usually clear to pale yellow and has a strong, fresh, clean, and slightly woody smell. Eucalyptol, also called 1,8-cineole, is one of its main natural compounds. Other compounds can include alpha-pinene, limonene, and terpineol. The exact composition depends on the eucalyptus species, growing area, plant material, and distillation process. Eucalyptus Oil is widely used in soaps, balms, massage oils, shampoos, hair products, room fresheners, perfumes, aromatherapy blends, and personal care products. It is also used in selected pharmaceutical and healthcare products where the required grade is suitable. Its fresh smell makes it a popular choice for products designed around a clean and refreshing aroma. At Hetaksh Essential Oils, we supply Eucalyptus Oil in bulk for manufacturers, wholesalers, distributors, cosmetic brands, fragrance companies, and other commercial buyers.",
+    "Eucalyptus Oil is a fresh-smelling essential oil made from the leaves and young branches of eucalyptus trees. One commonly used species is Eucalyptus globulus, which belongs to the Myrtaceae family. The leaves are collected and processed through steam distillation to obtain the oil. Eucalyptus Oil is usually clear to pale yellow and has a strong, fresh, clean, and slightly woody smell. Eucalyptol, also called 1,8-cineole, is one of its main natural compounds. Other compounds can include alpha-pinene, limonene, and terpineol. The exact composition depends on the eucalyptus species, growing area, plant material, and distillation process. Eucalyptus Oil is widely used in soaps, balms, massage oils, shampoos, hair products, room fresheners, perfumes, aromatherapy blends, and personal care products. It is also used in selected pharmaceutical and healthcare products where the required grade is suitable. Its fresh smell makes it a popular choice for products designed around a clean and refreshing aroma. At Hetaksh Essential Oils, we supply <b>Eucalyptus Oil in bulk</b> for manufacturers, wholesale, distributors, cosmetic brands, fragrance companies, and other commercial buyers.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -49,7 +49,7 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [
     {
-      title: "Eucalyptus Oil BP & IP | Two Pharmaceutical Grades for Different Needs",
+      title: "Wholesale Eucalyptus Oil BP & IP | Two Pharmaceutical Grades for Different Needs",
       coa: "/assets/images/products/Pharma-Grade-Oils/COA/EUCALYPTUS OIL BP COA.pdf",
       msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/EUCALYPTUS OIL MSDS.pdf",
       paragraphs: [
@@ -96,7 +96,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Eucalyptus Hydrosol | Light Herbal Water for Mists, Hair Care & Personal Care",
+      title: "Eucalyptus Hydrosol Bulk Manufacturer | Light Herbal Water for Mists, Hair Care & Personal Care",
       coa: "/assets/images/products/Hydrosol/COA/EUCALYPTUS HYDROSOL COA.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Eucalyptus Oil Hydrosol MSDS.pdf",
       paragraphs: [
@@ -122,7 +122,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Supply",
       paragraphs: [
-        "We supply Eucalyptus Hydrosol in bulk for cosmetic manufacturers, personal care brands, aromatherapy companies, wholesalers, distributors, and other commercial buyers. Packaging can be selected according to the order size and destination. COA, MSDS, TDS, product specifications, and other suitable documents can be provided according to the product and buyer’s needs.",
+        "We supply Eucalyptus Hydrosol in bulk for cosmetic manufacturers, personal care brands, aromatherapy companies, wholesale supplier, bulk distributors, and other commercial buyers. Packaging can be selected according to the order size and destination. COA, MSDS, TDS, product specifications, and other suitable documents can be provided according to the product and buyer’s needs.",
       ],
     },
   ],
