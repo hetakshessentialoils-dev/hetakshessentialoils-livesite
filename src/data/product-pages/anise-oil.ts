@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Anise Oil",
-  heading: "Anise Oil Manufacturer & Exporter | Natural Anise Essential Oil",
+  heading: "Anise Oil Manufacturer & Supplier | Natural Anise Essential Oil",
   image: "/assets/images/products/spice-oil/Anise-Oil-USP.webp",
   imageAlt: "Natural Anise Essential Oil",
   layout: "specs-first",
