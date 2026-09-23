@@ -88,7 +88,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Natural Components of Dill Oil",
+      title: "Natural Components of Dill Oil Wholesale Supplier",
       paragraphs: [
         "Dill Oil contains several naturally occurring aromatic compounds. The exact amount can change with the plant source and processing method.",
       ],
@@ -104,7 +104,7 @@ export const page: CleanProductPage = {
         },
       ],
       trailingParagraphs: [
-        "For bulk orders, batch-specific information can be provided so buyers can check the product against their own requirements.",
+        "For <b>Dill Oil wholesale</b> orders, batch-specific information can be provided so buyers can check the product against their own requirements.",
       ],
     },
     {
