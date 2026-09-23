@@ -5,12 +5,12 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Amla Oil",
-  heading: "Natural Amla Oil Manufacturer | Cold Pressed Amla Oil",
+  heading: "Natural Amla Oil Wholesale & Supplier | Bulk Cold Pressed Amla Oil Manufacturer",
   image: "/assets/images/products/Carrier-Oils/Amla-Oil.webp",
   imageAlt: "Natural Amla Oil",
   paragraphs: [
     "Amla Oil is a premium quality natural oil derived from the Indian Gooseberry, a highly nutritious fruit known for its sweet taste with a distinctive sour flavour. The fruit is greenish-yellow in colour and is traditionally respected in US as a symbol of nature and wellness. Our Amla Oil is extracted using the cold-pressed process from carefully selected fruits of Phyllanthus emblica. It is a rich source of vitamin C, tannins, flavonoids, ellagic acid, and other natural antioxidants that support cosmetic and wellness formulations.",
-    "The seeds naturally contain linolenic acid and omega-3 fatty acids, while the fruits, leaves, roots, and stems are valued for their beneficial properties. Our bulk Amla Oil is soluble in alcohol and insoluble in water, making it suitable for various cosmetic formulations. It nourishes the scalp, reduces hair breakage, improves hair texture, and promotes healthy-looking skin. As a trusted bulk supplier, we offer pure quality Amla Oil for cosmetic, pharmaceutical, personal care, and wellness brands worldwide.",
+    "The seeds naturally contain linolenic acid and omega-3 fatty acids, while the fruits, leaves, roots, and stems are valued for their beneficial properties. Our <b>bulk Amla Oil</b> is soluble in alcohol and insoluble in water, making it suitable for various cosmetic formulations. It nourishes the scalp, reduces hair breakage, improves hair texture, and promotes healthy-looking skin. As a trusted bulk supplier, we offer pure quality Amla Oil for cosmetic, pharmaceutical, personal care, and wellness brands worldwide.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -52,13 +52,13 @@ export const page: CleanProductPage = {
       title: "Bulk Amla Oil Uses & Benefits",
       paragraphs: [
         "Amla Oil contains naturally occurring compounds such as ascorbic acid, ellagitannins, emblicanin A, emblicanin B, punigluconin, pedunculagin, flavonoids, kaempferol, and gallic acid, making it a valuable ingredient for cosmetic and wellness products. It is widely used in hair care formulations because it nourishes the scalp, supports healthy hair growth, helps reduce hair fall, and delays premature hair greying. It is also valued for its antioxidant and anti-aging properties, helping improve the appearance of scars, wrinkles, fine lines, and age spots.",
-        "Traditionally, Amla Oil has been used to support cardiovascular wellness, healthy cholesterol levels, immune health, urinary health, and overall well-being. It is also known for helping relieve mental stress and sinus discomfort. We recommend diluting Amla Oil with a suitable carrier oil before topical application to reduce the possibility of skin sensitivity. Our Amla Oil has a shelf life of up to two years and is suitable for hair care, skincare, aromatherapy, and wellness formulations.",
+        "Amla Oil has been used to support cardiovascular wellness, healthy cholesterol levels, immune health, urinary health, and overall well-being. It is also known for helping relieve mental stress and sinus discomfort. We recommend diluting Amla Oil with a suitable carrier oil before topical application to reduce the possibility of skin sensitivity. Our <b>Bulk Amla Oil</b> has a shelf life of up to two years and is suitable for hair care, skincare, aromatherapy, and wellness formulations.",
       ],
     },
     {
-      title: "Bulk Amla Oil Supplier | Quality Assurance & Worldwide Export",
+      title: "Amla Oil Wholesale Supplier | Quality Assurance & Worldwide Export",
       paragraphs: [
-        "As a trusted wholesale supplier, we manufacture Amla Oil from carefully selected natural fruits without adding preservatives, artificial fragrances, chemicals, fillers, or synthetic additives. Our Amla oil is widely used by cosmetic manufacturers, skincare brands, Ayurvedic companies, wellness brands, and personal care product manufacturers. Rich in essential fatty acids and natural antioxidants, Amla Oil is one of the most respected botanical ingredients in Ayurvedic and modern cosmetic formulations. It is particularly suitable for bulk hair and scalp formulations because it helps reduce stress on hair follicles while supporting natural hair pigmentation and healthier-looking hair.",
+        "We <b>manufacture Amla Oil</b> from carefully selected natural fruits without adding preservatives, artificial fragrances, chemicals, fillers, or synthetic additives. Our Amla oil is widely used by cosmetic manufacturers, skincare brands, Ayurvedic companies, wellness brands, and personal care product manufacturers. Rich in essential fatty acids and natural antioxidants, Amla Oil is one of the most respected botanical ingredients in Ayurvedic and modern cosmetic formulations. It is particularly suitable for bulk hair and scalp formulations because it helps reduce stress on hair follicles while supporting natural hair pigmentation and healthier-looking hair.",
         "Every batch undergoes strict laboratory testing to ensure purity, consistency, and quality before dispatch. We provide complete documentation, including COA, MSDS, TDS, Allergen Declaration, Non-GMO Declaration, GMP, ISO, FSSAI, Halal, and Kosher certifications. Our secure packaging and reliable logistics network allow us to export bulk quantities worldwide with consistent quality and timely deliveries.",
       ],
     },
