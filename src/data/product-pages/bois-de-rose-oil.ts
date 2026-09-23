@@ -53,7 +53,7 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Bois de Rose Oil Page",
   variants: [
     {
-      title: "Bois de Rose Hydrosol Manufacturer | Bulk Rosewood Floral Water Supplier",
+      title: "Bois de Rose Hydrosol Manufacturer | Bulk Bois de Rose Supplier",
       coa: "/assets/images/products/Hydrosol/COA/BOIS-DE-ROSE HYDROSOL COA.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Bois-De-Rose Oil Hydrosol MSDS.pdf",
       paragraphs: [
@@ -61,7 +61,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Bois de Rose Oil Supplier | Quality Assurance, Packaging & Worldwide Export",
+      title: "Bois de Rose Oil Wholesale Supplier | Quality Assurance, Packaging & Worldwide Export",
       paragraphs: [
         "As a trusted bulk supplier and exporter, Hetaksh Essential Oils is committed to delivering premium quality <b>Bois de Rose Oil Bulk Supplier</b> and Bois de Rose Hydrosol with consistent purity and quality. Every batch undergoes strict laboratory testing before dispatch to ensure it meets international quality standards. Our products are available in bulk quantities starting from 25 kg and are packed securely in 25 kg to 180 kg HDPE drums for safe transportation. We provide complete documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, and Non-GMO Declaration, along with certifications such as ISO, GMP, FSSAI, Halal, and Kosher. Our experienced logistics team ensures timely worldwide delivery with secure packaging and dependable shipping solutions. Whether you require Bois de Rose Oil for skincare, cosmetics, aromatherapy, perfumery, wellness, or personal care products, we provide competitive wholesale pricing, consistent product quality, and dedicated customer support for businesses across the globe.",
       ],
