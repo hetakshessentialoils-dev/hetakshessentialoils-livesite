@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Coffee Bean Oil",
-  heading: "Coffee Bean Oil Manufacturer & Distributor | Bulk Coffee Bean Oil Supplier",
+  heading: "Coffee Bean Oil Manufacturer & Wholesale | Bulk Coffee Bean Oil Supplier",
   image: "/assets/images/products/Carrier-Oils/Coffee-Bean-Oil.webp",
   imageAlt: "Coffee Bean Oil",
   paragraphs: [
-    "Coffee Bean Oil is a botanical oil made from coffee beans. It is commonly obtained from coffee seeds using methods such as cold pressing or other suitable oil extraction processes, depending on the product grade. Coffee belongs to the Rubiaceae family and is mainly known by the botanical name Coffea arabica for Arabica coffee. The oil has a light to medium yellow colour and a mild coffee-like smell, although the exact colour and aroma can change with the coffee variety and processing method. Coffee Bean Oil contains natural fatty acids and plant compounds, including linoleic acid, oleic acid, palmitic acid, and natural antioxidants. It is used in skincare, hair care, massage products, soaps, creams, lotions, facial oils, and other cosmetic products. Coffee Bean Oil is also valued by cosmetic makers who want a plant-based oil with a natural coffee connection. It can be mixed with other carrier oils and cosmetic ingredients to create different products. At Hetaksh Essential Oils, we supply Coffee Bean Oil in bulk for cosmetic manufacturers, skincare brands, personal care companies, wholesalers, distributors, and other businesses.",
+    "Coffee Bean Oil is a botanical oil made from coffee beans. It is commonly obtained from coffee seeds using methods such as cold pressing or other suitable oil extraction processes, depending on the product grade. Coffee belongs to the Rubiaceae family and is mainly known by the botanical name Coffea arabica for Arabica coffee. The oil has a light to medium yellow colour and a mild coffee-like smell, although the exact colour and aroma can change with the coffee variety and processing method. Coffee Bean Oil contains natural fatty acids and plant compounds, including linoleic acid, oleic acid, palmitic acid, and natural antioxidants. It is used in skincare, hair care, massage products, soaps, creams, lotions, facial oils, and other cosmetic products. Coffee Bean Oil is also valued by cosmetic makers who want a plant-based oil with a natural coffee connection. It can be mixed with other carrier oils and cosmetic ingredients to create different products. At Hetaksh Essential Oils, we supply <b>Coffee Bean Oil in bulk</b> for cosmetic manufacturer, skincare brands, personal care companies, wholesaler, distributor, and other businesses.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -147,9 +147,9 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Coffee Bean Oil Supply | Applications, Packaging & Global Export",
+      title: "Bulk Coffee Bean Oil Supplier | Applications, Packaging & Global Export",
       paragraphs: [
-        "We supply Coffee Bean Oil in bulk for businesses that use carrier oils and botanical oils in their products. Our supply is suitable for cosmetic manufacturers, personal care brands, soap makers, skincare companies, wholesalers, distributors, and product developers.",
+        "We supply Coffee Bean Oil in bulk for businesses that use carrier oils and botanical oils in their products. Our supply is suitable for cosmetic manufacturers, personal care brands, soap makers, skincare companies, wholesaler Supplier and product developers.",
       ],
       lists: [
         {
