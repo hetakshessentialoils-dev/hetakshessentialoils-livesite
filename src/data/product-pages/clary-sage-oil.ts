@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Clary Sage Oil",
-  heading: "Clary Sage Oil | Soft Herbal Oil for Beauty, Fragrance & Wellness",
+  heading: "Clary Sage Oil Supplier | Soft Herbal Oil for Beauty, Fragrance & Wellness",
   image: "/assets/images/products/Essential-Oils/Clary-Sage-Oil.webp",
   imageAlt: "Clary Sage Essential Oil",
   paragraphs: [
-    "Clary Sage Oil is a natural essential oil made from the leaves and flowering tops of the clary sage plant. Its botanical name is Salvia sclarea, and the plant belongs to the Lamiaceae family. We use the flowering parts of the plant and extract the oil through steam distillation. Clary Sage Oil has a soft, fresh, herbal, slightly sweet smell with a light floral touch. It is different from common sage oil and has its own gentle scent. The oil contains natural compounds such as linalyl acetate, linalool, geranyl acetate, and sclareol. These compounds give Clary Sage Oil its special smell and make it useful in many products. Clary Sage Essential Oil is widely used in perfumes, soaps, massage oils, skincare products, hair care products, aromatherapy blends, candles, and personal care items. It is also used by brands that make natural beauty and wellness products. The oil blends well with lavender, bergamot, frankincense, geranium, rose, and citrus oils. As a bulk manufacturer, Hetaksh Essential Oils supply Clary Sage Oil for wholesalers, distributors, cosmetic brands, fragrance companies, and aromatherapy businesses.",
+    "Clary Sage Oil is a natural essential oil made from the leaves and flowering tops of the clary sage plant. Its botanical name is Salvia sclarea, and the plant belongs to the Lamiaceae family. We use the flowering parts of the plant and extract the oil through steam distillation. Clary Sage Oil has a soft, fresh, herbal, slightly sweet smell with a light floral touch. It is different from common sage oil and has its own gentle scent. The oil contains natural compounds such as linalyl acetate, linalool, geranyl acetate, and sclareol. These compounds give Clary Sage Oil its special smell and make it useful in many products. Clary Sage Essential Oil is widely used in perfumes, soaps, massage oils, skincare products, hair care products, aromatherapy blends, candles, and personal care items. It is also used by brands that make natural beauty and wellness products. The oil blends well with lavender, bergamot, frankincense, geranium, rose, and citrus oils. As a <b>Clary Sage Oil Bulk Manufacturer</b>, Hetaksh Essential Oils supply Clary Sage Oil for wholesaler, distributor, cosmetic brands, fragrance companies, and aromatherapy businesses.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -45,7 +45,7 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [
     {
-      title: "Clary Sage Hydrosol | Mild Botanical Water for Skincare & Personal Applications",
+      title: "Clary Sage Hydrosol Supplier | Mild Botanical Water for Skincare & Personal Applications",
       coa: "/assets/images/products/Hydrosol/COA/CLARY SAGE HYDROSOL COA.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Clary Sage Oil Hydrosol MSDS.pdf",
       paragraphs: [
@@ -124,9 +124,9 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Clary Sage Oil Supply",
+      title: "Bulk Clary Sage Oil Supplier",
       paragraphs: [
-        "We offer Clary Sage Oil in bulk for businesses that use essential oils in their own products. Samples can be requested before larger orders. We can also provide COA, MSDS, TDS, product specifications, and other suitable documents according to the buyer’s needs.",
+        "We offer <b>Clary Sage Oil in bulk</b> for businesses that use essential oils in their own products. Samples can be requested before larger orders. We can also provide COA, MSDS, TDS, product specifications, and other suitable documents according to the buyer’s needs.",
       ],
     },
   ],
