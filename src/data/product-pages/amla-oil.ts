@@ -64,8 +64,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Premium Amla Oil Manufacturer | Wholesale Suppliers & Exporter US",
-  seoDescription: "Hetaksh Essential Oils supplies 100% pure Amla Oil Manufacturers for hair, scalp, beard and skin care products, with reliable wholesale and bulk supply in the US.",
+  seoTitle: "Amla Oil Wholesale, Supplier & Bulk Manufacturer in US",
+  seoDescription: "Hetaksh Essential Oils supplies 100% pure Amla Oil Manufacturers for hair, scalp, beard and skin care products, with reliable wholesale and bulk supply in US.",
 };
 
 export const faqs: FaqItem[] = [
