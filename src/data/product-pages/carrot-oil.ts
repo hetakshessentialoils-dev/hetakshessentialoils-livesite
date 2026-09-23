@@ -208,7 +208,7 @@ export const page: CleanProductPage = {
         },
       ],
       trailingParagraphs: [
-        "Our bulk supply service is suitable for cosmetic manufacturers, skincare brands, hair care companies, aromatherapy businesses, wellness brands, and distributors. We focus on consistent batches, secure packaging, documentation support, and dependable logistics for domestic and international orders.",
+        "Our bulk supply service is suitable for cosmetic manufacturers, skincare brands, hair care companies, aromatherapy businesses, wellness brands, and <b>Carrot oil distributors</b>. We focus on consistent batches, secure packaging, documentation support, and dependable logistics for domestic and international orders.",
       ],
     },
     {
