@@ -1,11 +1,4 @@
-export const CATEGORY_IMAGES: Record<string, string> = {
-  "essential-oils": "/assets/images/project/Essential Oils.webp",
-  "carrier-oils": "/assets/images/project/Carrier Oils.webp",
-  "pharma-grade-oils": "/assets/images/project/pharma-grade-oils.webp",
-  "special-ingredients": "/assets/images/project/special-ingredients-oil.webp",
-  "spice-oils": "/assets/images/project/spice-oil.webp",
-  "hydrosol-oils": "/assets/images/project/hydrosol-oil.webp",
-};
+export { CATEGORY_IMAGES } from "@/data/categories";
 
 /** Previous Products dropdown — kept for reference; not used by the UI. */
 export const NAV_PRODUCTS_LEGACY = [
