@@ -134,7 +134,7 @@ export const page: CleanProductPage = {
       title: "Bulk Supply From Hetaksh Essential Oils",
       paragraphs: [
         "We supply Cedarwood Oil for businesses that need regular quantities for manufacturing. Buyers can ask for a sample before placing a large order. We also provide product and quality documents to make the buying process simple.",
-        "Bulk order support includes:",
+        "<b>Cedarwood oil wholesale</b> order support includes:",
       ],
       lists: [
         {
