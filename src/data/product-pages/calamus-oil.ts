@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Calamus Oil",
-  heading: "Calamus Oil Distributor & Exporter | Bulk Calamus Essential Oil Manufacturer",
+  heading: "Calamus Oil Wholesale Supplier | Bulk Calamus Essential Oil Manufacturer",
   image: "/assets/images/products/Essential-Oils/Calamus-Oil.webp",
   imageAlt: "Calamus Essential Oil",
   paragraphs: [
-    "Calamus Oil is an aromatic essential oil made from the rhizomes of the Calamus plant, also known as Sweet Flag or Vacha. Its botanical name is Acorus calamus. The oil is obtained through steam distillation of the dried rhizomes. It has a warm, earthy, spicy, and slightly woody smell. Calamus has been used traditionally in India and other regions for many years. Today, Calamus Oil is used by businesses working in aromatherapy, natural products, cosmetics, personal care, and fragrance formulations. The oil contains natural compounds such as alpha-asarone, beta-asarone, shyobunone, and other aromatic compounds. The amount of these compounds can differ depending on the plant source and extraction method. Calamus Oil is available in yellow to amber shades and has a strong natural aroma. As a bulk supplier, we provide Calamus Oil for manufacturers, wholesalers, distributors, and businesses that require this botanical ingredient in commercial quantities. We can also provide product information and quality documents to help buyers select the right material for their requirements.",
+    "Calamus Oil is an aromatic essential oil made from the rhizomes of the Calamus plant, also known as Sweet Flag or Vacha. Its botanical name is Acorus calamus. The oil is obtained through steam distillation of the dried rhizomes. It has a warm, earthy, spicy, and slightly woody smell. Calamus has been used traditionally in India and other regions for many years. Today, Calamus Oil is used by businesses working in aromatherapy, natural products, cosmetics, personal care, and fragrance formulations. The oil contains natural compounds such as alpha-asarone, beta-asarone, shyobunone, and other aromatic compounds. The amount of these compounds can differ depending on the plant source and extraction method. <b>Calamus Oil Wholesale</b> available in yellow to amber shades and has a strong natural aroma. As a bulk supplier, we provide Calamus Oil for manufacturers, wholesalers, distributors, and businesses that require this botanical ingredient in commercial quantities. We can also provide product information and quality documents to help buyers select the right material for their requirements.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -91,7 +91,7 @@ export const page: CleanProductPage = {
       coa: "/assets/images/products/Essential-Oils/coa/CALAMUS-OIL-COA.pdf",
       msds: "/assets/images/products/Essential-Oils/MSDS/CALAMUS-OIL-MSDS.pdf",
       paragraphs: [
-        "Calamus Seed Oil refers to oil made specifically from the seeds of Acorus calamus. It is important to distinguish this product from regular Calamus Oil, which is generally obtained from the rhizomes. Calamus is mainly known for its rhizome, so buyers looking for a seed-derived oil should always confirm the plant part with the supplier before placing a bulk order. This helps ensure that the product they receive matches their formulation requirements. Calamus Seed Oil can be considered for selected botanical, cosmetic, fragrance, aromatherapy, and research applications depending on its quality and composition. Its color, aroma, and natural compounds can vary according to the seeds used and the extraction method. For this reason, we recommend checking the product specification and COA before commercial use.",
+        "Calamus Seed Oil refers to oil made specifically from the seeds of Acorus calamus. It is important to distinguish this product from regular <b>Calamus Oil Supplier</b>, which is generally obtained from the rhizomes. Calamus is mainly known for its rhizome, so buyers looking for a seed-derived oil should always confirm the plant part with the supplier before placing a bulk order. This helps ensure that the product they receive matches their formulation requirements. Calamus Seed Oil can be considered for selected botanical, cosmetic, fragrance, aromatherapy, and research applications depending on its quality and composition. Its color, aroma, and natural compounds can vary according to the seeds used and the extraction method. For this reason, we recommend checking the product specification and COA before commercial use.",
       ],
       lists: [
         {
@@ -113,7 +113,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Calamus Seed Oil Supply",
       paragraphs: [
-        "We supply Calamus-derived products for manufacturers, wholesalers, distributors, and formulation companies. If you specifically require Calamus Seed Oil, we can confirm the plant part, production method, and product specification before supply. This makes the sourcing process clearer and helps buyers select the correct product for their application.",
+        "We supply Calamus-derived products for manufacturers, wholesalers, distributors, and formulation companies. If you specifically require <b>Calamus Oil bulk manufacturer</b>, we can confirm the plant part, production method, and product specification before supply. This makes the sourcing process clearer and helps buyers select the correct product for their application.",
       ],
     },
     {
