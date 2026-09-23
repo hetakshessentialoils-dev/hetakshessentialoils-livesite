@@ -9,7 +9,7 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/spice-oil/CLOVE OIL.webp",
   imageAlt: "Clove Essential Oil",
   paragraphs: [
-    "Clove Oil is a concentrated essential oil obtained from the dried flower buds of the clove tree, botanically known as Syzygium aromaticum. It is generally produced through steam distillation, which separates the volatile aromatic compounds from the dried plant material. Clove Oil is known for its strong, warm, spicy, sweet aroma and is widely used by cosmetic, personal care, oral care, food, fragrance, aromatherapy, and pharmaceutical industries. The main natural constituent of Clove Oil is eugenol, along with eugenyl acetate, beta-caryophyllene, alpha-humulene, and other volatile compounds. Its distinctive aromatic profile makes it useful in products where a warm and spicy fragrance is desired. Clove Oil is commonly used in soaps, perfumes, massage oils, aromatherapy blends, oral care products, cosmetic formulations, and selected food flavouring applications where permitted. It is also available in pharmaceutical grades for manufacturers that require specific pharmacopoeial specifications. At Hetaksh Essential Oils, we supply Clove Oil in bulk quantities for manufacturers, wholesalers, distributors, and formulation companies looking for consistent quality and dependable supply.",
+    "Clove Oil is a concentrated essential oil obtained from the dried flower buds of the clove tree, botanically known as Syzygium aromaticum. It is generally produced through steam distillation, which separates the volatile aromatic compounds from the dried plant material. Clove Oil is known for its strong, warm, spicy, sweet aroma and is widely used by cosmetic, personal care, oral care, food, fragrance, aromatherapy, and pharmaceutical industries. The main natural constituent of Clove Oil is eugenol, along with eugenyl acetate, beta-caryophyllene, alpha-humulene, and other volatile compounds. Its distinctive aromatic profile makes it useful in products where a warm and spicy fragrance is desired. Clove Oil is commonly used in soaps, perfumes, massage oils, aromatherapy blends, oral care products, cosmetic formulations, and selected food flavouring applications where permitted. It is also available in pharmaceutical grades for manufacturers that require specific pharmacopoeial specifications. At Hetaksh Essential Oils, we supply <b>Clove Oil in bulk</b> quantities for manufacturer, wholesaler, distributor, and formulation companies looking for consistent quality and dependable supply.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -155,7 +155,7 @@ export const page: CleanProductPage = {
       coa: "/assets/images/products/Pharma-Grade-Oils/COA/CLOVE OIL IP COA.pdf",
       msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/CLOVE OIL MSDS.pdf",
       paragraphs: [
-        "Clove Oil IP is a pharmaceutical-grade clove oil manufactured according to the Indian Pharmacopoeia standard and requirements. It is obtained from clove buds and processed through steam distillation to produce an aromatic oil suitable for specified pharmaceutical and healthcare applications. Clove Oil IP is valued for its characteristic clove aroma and naturally occurring eugenol content. It can be sourced by pharmaceutical manufacturers, dental product companies, herbal formulation businesses, oral care manufacturers, and distributors that require an IP-grade material.",
+        "Clove Oil IP is a pharmaceutical-grade clove oil manufactured according to the Indian Pharmacopoeia standard and requirements. It is obtained from clove buds and processed through steam distillation to produce an aromatic oil suitable for specified pharmaceutical and healthcare applications. Clove Oil IP is valued for its characteristic clove aroma and naturally occurring eugenol content. It can be sourced by pharmaceutical manufacturers, dental product companies, herbal formulation businesses, oral care manufacturer, supplier and distributors that require an IP-grade material.",
         "We provide documentation according to the product specification and customer requirements, helping buyers verify the grade before using it in their formulation or manufacturing process.",
       ],
       lists: [
@@ -287,9 +287,9 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Clove Oil Supply",
+      title: "Bulk Clove Oil Supplier",
       paragraphs: [
-        "As a bulk manufacturer, wholesaler, distributor, and exporter, we supply Clove Oil, Clove Oil BP, Clove Oil IP, Clove Bud Oil, and Clove Bud Hydrosol according to the requirements of different industries.",
+        "As a <b>Clove Oil bulk manufacturer</b>, wholesaler, distributor, and exporter, we supply Clove Oil, Clove Oil BP, Clove Oil IP, Clove Bud Oil, and Clove Bud Hydrosol according to the requirements of different industries.",
         "Our bulk supply solutions include:",
       ],
       lists: [
@@ -314,7 +314,7 @@ export const page: CleanProductPage = {
     {
       title: "Quality & Documentation",
       paragraphs: [
-        "Each bulk order can be supported with relevant quality and technical documents required for product evaluation, procurement, and export.",
+        "Each <b>Clove Oil Wholesale</b> order can be supported with relevant quality and technical documents required for product evaluation, procurement, and export.",
         "Documentation may include:",
       ],
       lists: [
