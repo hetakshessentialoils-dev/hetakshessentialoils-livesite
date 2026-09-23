@@ -9,7 +9,7 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/Carrier-Oils/Calendula-Oil.webp",
   imageAlt: "Calendula Oil",
   paragraphs: [
-    "Calendula Oil is a botanical oil extracted from the bright flowers of the calendula plant. Calendula is commonly known as pot marigold and its botanical name is Calendula officinalis. The plant belongs to the Asteraceae family. Calendula Oil is commonly made by soaking calendula flowers in a carrier oil. This process is called infusion or maceration. It allows the useful plant compounds from the flowers to move into the carrier oil. The oil usually has a yellow to golden colour and a mild herbal smell. Calendula flowers contain natural compounds such as flavonoids, carotenoids, triterpenoids, and other plant compounds. Because of its soft and nourishing feel, Calendula Oil is widely used in skincare and personal care products. It can be added to creams, lotions, body oils, facial oils, balms, soaps, massage products, and other beauty formulas. It is also used in hair care products and natural wellness blends. Calendula Oil is a good choice for brands that want a flower-based ingredient in their products. At Hetaksh Essential Oils, we supply Calendula Oil in bulk for cosmetic manufacturers, skincare brands, personal care companies, wholesalers, distributors, and other commercial buyers.",
+    "Calendula Oil is a botanical oil extracted from the bright flowers of the calendula plant. Calendula is commonly known as pot marigold and its botanical name is Calendula officinalis. The plant belongs to the Asteraceae family. Calendula Oil is commonly made by soaking calendula flowers in a carrier oil. This process is called infusion or maceration. It allows the useful plant compounds from the flowers to move into the carrier oil. The oil usually has a yellow to golden colour and a mild herbal smell. Calendula flowers contain natural compounds such as flavonoids, carotenoids, triterpenoids, and other plant compounds. Because of its soft and nourishing feel, <b>Calendula Oil Bulk Manufacturer</b> is widely used in skincare and personal care products. It can be added to creams, lotions, body oils, facial oils, balms, soaps, massage products, and other beauty formulas. It is also used in hair care products and natural wellness blends. Calendula Oil is a good choice for brands that want a flower-based ingredient in their products. At Hetaksh Essential Oils, we supply Calendula Oil in bulk for cosmetic manufacturers, skincare brands, personal care companies, wholesalers, distributors, and other commercial buyers.",
   ],
   specsTitle: "Calendula Oil Product Details",
   specs: [
@@ -58,7 +58,7 @@ export const page: CleanProductPage = {
     {
       title: "Why Calendula Flowers Are Used",
       paragraphs: [
-        "The flowers are the main part used to prepare Calendula Oil. They contain several natural plant compounds that make them useful for cosmetic products.",
+        "The flowers are the main part used to prepare <b>Calendula Oil Bulk Supplier</b>. They contain several natural plant compounds that make them useful for cosmetic products.",
       ],
       lists: [
         {
@@ -208,7 +208,7 @@ export const page: CleanProductPage = {
       title: "A Good Fit for Botanical Beauty Brands",
       paragraphs: [
         "Calendula Oil can be a useful ingredient for brands that want to create simple, plant-based beauty products. It works especially well in products where a soft botanical story is important. It can be used alone or combined with other oils to create facial oils, body oils, massage blends, balms, creams, and other personal care products.",
-        "At Hetaksh Essential Oils, we support bulk buyers with product information, samples, quality documents, packaging, and shipping support. We supply Calendula Oil for domestic and international buyers according to their product and quantity requirements.",
+        "At Hetaksh Essential Oils, we support bulk buyers with product information, samples, quality documents, packaging, and shipping support. We supply <b>Calendula Oil Wholesale</b> for domestic and international buyers according to their product and quantity requirements.",
       ],
     },
   ],
