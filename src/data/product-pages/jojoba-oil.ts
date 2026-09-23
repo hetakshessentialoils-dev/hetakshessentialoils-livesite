@@ -254,14 +254,6 @@ export const page: CleanProductPage = {
           },
         },
         {
-          type: "paragraph",
-          text: "Neither one is simply “better.” The right choice depends on the product.",
-        },
-        {
-          type: "paragraph",
-          text: "A natural skincare brand may like the warm golden colour of unrefined jojoba. A makeup or serum maker may prefer colorless jojoba because it does not add much colour to the formula.",
-        },
-        {
           type: "heading",
           text: "Why Would a Formulator Pick Colorless Jojoba?",
         },
