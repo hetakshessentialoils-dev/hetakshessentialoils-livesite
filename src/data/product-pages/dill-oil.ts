@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Dill Oil",
-  heading: "Dill Oil Manufacturer & Wholesaler | Bulk Dill Essential Oil Distributor",
+  heading: "Dill Oil Manufacturer & Wholesaler | Bulk Dill Essential Oil Supplier",
   image: "/assets/images/products/spice-oil/DILL SEED OIL.webp",
   imageAlt: "Dill Oil",
   paragraphs: [
-    "Dill Oil is an essential oil made from the dill plant. Its botanical name is Anethum graveolens, and it belongs to the Apiaceae family. Depending on the product type, the seeds or fruits of the dill plant are commonly used for oil production. Steam distillation is used to obtain the oil and keep its natural aromatic compounds. Dill Oil has a fresh, green, sweet, spicy, and slightly earthy smell. Its natural composition may include carvone, limonene, dill ether, and other aromatic compounds. Dill is widely known as a cooking herb, but its oil is also used by food, flavour, fragrance, cosmetic, personal care, and wellness companies. Dill Oil is useful when a product needs a fresh herb-like note. It can be used in flavouring products, soaps, perfumes, massage blends, aromatherapy products, and selected personal care formulas. At Hetaksh Essential Oils, we supply Dill Oil in bulk for manufacturers, wholesalers, distributors, flavour companies, fragrance makers, and other commercial buyers. We can provide samples, product specifications, COA, MSDS, TDS, and other suitable documents according to the buyer’s needs.",
+    "Dill Oil is an essential oil made from the dill plant. Its botanical name is Anethum graveolens, and it belongs to the Apiaceae family. Depending on the product type, the seeds or fruits of the dill plant are commonly used for oil production. Steam distillation is used to obtain the oil and keep its natural aromatic compounds. Dill Oil has a fresh, green, sweet, spicy, and slightly earthy smell. Its natural composition may include carvone, limonene, dill ether, and other aromatic compounds. Dill is widely known as a cooking herb, but its oil is also used by food, flavour, fragrance, cosmetic, personal care, and wellness companies. Dill Oil is useful when a product needs a fresh herb-like note. It can be used in flavouring products, soaps, perfumes, massage blends, aromatherapy products, and selected personal care formulas. At Hetaksh Essential Oils, we supply <b>Dill Oil in bulk</b> for manufacturer, wholesaler, distributors, flavour companies, fragrance makers, and other commercial buyers. We can provide samples, product specifications, COA, MSDS, TDS, and other suitable documents according to the buyer’s needs.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -53,11 +53,11 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [
     {
-      title: "Dill Oil Terpeneless & Dill Oil BP | Two Grades for Different Requirements",
+      title: "Bulk Dill Oil Terpeneless & Dill Oil BP | Two Grades for Different Requirements",
       coa: "/assets/images/products/Pharma-Grade-Oils/COA/DILL OIL BP COA.pdf",
       msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/DILL OIL MSDS.pdf",
       paragraphs: [
-        "<b>Dill Oil Terpeneless:</b> Dill Oil Terpeneless is a processed form of Dill Oil from which most of the lighter terpene compounds have been removed. This gives the oil a cleaner and more focused aroma. It can be useful for manufacturers who want the main dill character without a large amount of the lighter terpene fraction. It may be used in food flavour, fragrance, cosmetic, and other suitable formulations according to the required specification. Since the processing can change the natural composition of the oil, buyers should check the product specification and COA before using it in a finished product.",
+        "<b>Dill Oil Terpeneless:</b> Dill Oil Terpeneless is a processed form of Dill Oil from which most of the lighter terpene compounds have been removed. This gives the oil a cleaner and more focused aroma. It can be useful for <b>Dill Oil manufacturers</b> who want the main dill character without a large amount of the lighter terpene fraction. It may be used in food flavour, fragrance, cosmetic, and other suitable formulations according to the required specification. Since the processing can change the natural composition of the oil, buyers should check the product specification and COA before using it in a finished product.",
         "<b>Dill Oil BP:</b> Dill Oil BP is supplied for buyers who need a product that meets the applicable British Pharmacopoeia requirements. The exact BP requirements should be checked against the current standard and the intended use. Dill Oil BP may be considered for suitable pharmaceutical, healthcare, flavour, and other applications where the required grade is permitted. We can provide batch documents and quality information to help pharmaceutical and commercial buyers check the product before purchase.",
       ],
       tables: [
@@ -134,7 +134,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Dill Hydrosol Supply",
       paragraphs: [
-        "We supply Dill Hydrosol in bulk for cosmetic manufacturers, personal care brands, aromatherapy companies, wholesalers, and distributors. Packaging can be selected according to the order quantity and delivery location. We can also provide COA, MSDS, TDS, product specifications, and other suitable documents according to the product and buyer’s needs.",
+        "We supply Dill Hydrosol in bulk for cosmetic manufacturers, personal care brands, aromatherapy companies, wholesaler, and bulk distributors. Packaging can be selected according to the order quantity and delivery location. We can also provide COA, MSDS, TDS, product specifications, and other suitable documents according to the product and buyer’s needs.",
       ],
     },
   ],
