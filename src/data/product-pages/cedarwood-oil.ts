@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Cedarwood Oil",
-  heading: "Cedarwood Oil Wholesaler & Exporter | Bulk Cedarwood Essential Oil Supplier",
+  heading: "Cedarwood Oil Wholesale Supplier | Bulk Cedarwood Essential Oil Manufacturer",
   image: "/assets/images/products/Essential-Oils/Cedarwood-Oil.webp",
   imageAlt: "Cedarwood Essential Oil",
   paragraphs: [
