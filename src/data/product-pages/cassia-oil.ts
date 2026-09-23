@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Cassia Oil",
-  heading: "Cassia Oil Distributor & Exporter | Bulk Cassia Essential Oil Supplier",
+  heading: "Cassia Oil Distributor & Manufacturer | Bulk Cassia Essential Oil Supplier",
   image: "/assets/images/products/spice-oil/Cassia Oil.webp",
   imageAlt: "Cassia Essential Oil",
   paragraphs: [
-    "Cassia Oil is a warm and spicy essential oil made from the cassia plant. Its botanical name is Cinnamomum cassia. This plant is also commonly known as the “Chinese Cinnamon”. The oil is mainly made from the bark, leaves, or twigs of the plant, depending on the required type. Steam distillation is a common method used to obtain Cassia Oil. It has a strong, sweet, warm, and spicy smell. Cinnamaldehyde is one of the main natural compounds found in Cassia Oil and gives it its typical cinnamon-like aroma. Cassia Oil is used in food flavouring, perfumes, soaps, candles, cosmetics, aromatherapy, personal care, and fragrance products. It can also be mixed with other essential oils to create warm and spicy fragrance blends. It is often used with orange, lemon, clove, ginger, and peppermint oils. Cassia Oil is a useful choice for manufacturers who need a strong spice note in their products. At Hetaksh Essential Oils, we supply Cassia Oil in bulk for manufacturers, wholesalers, distributors, and other businesses. We offer product samples, batch information, and quality documents for bulk buyers.",
+    "Cassia Oil is a warm and spicy essential oil made from the cassia plant. Its botanical name is Cinnamomum cassia. This plant is also commonly known as the “Chinese Cinnamon”. The oil is mainly made from the bark, leaves, or twigs of the plant, depending on the required type. Steam distillation is a common method used to obtain Cassia Oil. It has a strong, sweet, warm, and spicy smell. Cinnamaldehyde is one of the main natural compounds found in Cassia Oil and gives it its typical cinnamon-like aroma. Cassia Oil is used in food flavouring, perfumes, soaps, candles, cosmetics, aromatherapy, personal care, and fragrance products. It can also be mixed with other essential oils to create warm and spicy fragrance blends. It is often used with orange, lemon, clove, ginger, and peppermint oils. Cassia Oil is a useful choice for manufacturers who need a strong spice note in their products. At Hetaksh Essential Oils, we supply <b>Cassia Oil bulk manufacturer</b>, wholesale, distributor, and other businesses. We offer product samples, batch information, and quality documents for bulk buyers.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -75,7 +75,7 @@ export const page: CleanProductPage = {
         },
       ],
       trailingParagraphs: [
-        "<b>Storage & Bulk Packaging</b><br/>Cassia Hydrosol should be stored in a cool, dry place away from direct sunlight and heat. Good storage helps keep the product in proper condition. We can supply Cassia Hydrosol in bulk packaging based on the order size and delivery location.",
+        "<b>Storage & Bulk Packaging</b><br/>Cassia Hydrosol should be stored in a cool, dry place away from direct sunlight and heat. Good storage helps keep the product in proper condition. We can supply Cassia Hydrosol in <b>Cassia oil wholesale</b> packaging based on the order size and delivery location.",
       ],
     },
     {
