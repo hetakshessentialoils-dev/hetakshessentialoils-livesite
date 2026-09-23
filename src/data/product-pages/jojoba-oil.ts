@@ -58,13 +58,13 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Jojoba Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Wholesale Jojoba Oil Manufacturer, Bulk Supplier and Exporter",
+  seoTitle: "Wholesale Jojoba Oil Manufacturer, Bulk Supplier and Distributor",
   seoDescription: "Hetaksh Essential Oils supplier 100% pure Jojoba Oil as a leading wholesale manufacturer, bulk supplier, For personal care applications.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
       type: "variant",
-      title: "Golden Jojoba Oil | The Natural Golden Version",
+      title: "Golden Jojoba Oil Bulk Supplier| The Natural Golden Version",
       paragraphs: [],
       content: [
         {
@@ -77,7 +77,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A golden jojoba oil bulk supplier can provide this type for brands that want a more natural-looking ingredient in their products.",
+          text: "A <b>golden jojoba oil bulk supplier</b> can provide this type for brands that want a more natural-looking ingredient in their products.",
         },
         {
           type: "heading",
@@ -145,7 +145,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "variant",
-      title: "Jojoba Colorless Oil | Clear Jojoba for Clean-Looking Formulas",
+      title: "Jojoba Colorless Oil Wholesale | Clear Jojoba for Clean-Looking Formulas",
       paragraphs: [],
       content: [
         {
@@ -158,7 +158,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "This can be very useful when a product maker does not want the raw material to change the colour of the finished formula. A jojoba colorless oil bulk distributor can supply this type to cosmetic and personal-care manufacturers that want a cleaner-looking base.",
+          text: "This can be very useful when a product maker does not want the raw material to change the colour of the finished formula. A jojoba oil wholesale can supply this type to cosmetic and personal-care manufacturers that want a cleaner-looking base.",
         },
         {
           type: "heading",
@@ -324,7 +324,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A jojoba oil bulk distributor can help buyers select the right grade according to the finished product.",
+          text: "A <b>jojoba oil bulk distributor</b> can help buyers select the right grade according to the finished product.",
         },
       ],
     },
