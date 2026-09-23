@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Black Currant Seed Oil",
-  heading: "Black Currant Seed Oil Distributor | Bulk Black Currant Oil Wholesaler Supplier",
+  heading: "Black Currant Seed Oil Manufacturer | Bulk Black Currant Oil Wholesaler Supplier",
   image: "/assets/images/products/Carrier-Oils/Black-Currant-Oil.webp",
   imageAlt: "Black Currant Seed Oil",
   paragraphs: [
-    "Black Currant Seed Oil is a high-grade quality carrier oil. It is extracted from the seeds of the black currant fruit (Ribes nigrum) using the cold-pressed extraction method. As a trusted bulk manufacturer and exporter, Hetaksh Essential Oils supplies 100% pure and natural Black Currant Seed Oil to cosmetic, skincare, hair care, nutraceutical, pharmaceutical, and wellness industries worldwide. This nutrient-rich oil is valued for its high content of essential fatty acids, including omega-3, omega-6, gamma-linolenic acid (GLA), and stearidonic acid (SDA). It is also naturally rich in vitamin E and powerful antioxidants that help protect and nourish the skin. <b>Black Currant Seed Oil Manufacturer</b> has a light texture that absorbs easily without leaving a greasy feel, making it suitable for premium skincare and hair care formulations. It helps improve skin elasticity, supports the skin barrier, and nourishes dry and sensitive skin. We supply high-quality <b>Black Currant Seed Oil wholesale</b> quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
+    "Black Currant Seed Oil is a high-grade quality carrier oil. It is extracted from the seeds of the black currant fruit (Ribes nigrum) using the cold-pressed extraction method. As a trusted Black Currant Oil bulk manufacturer and exporter, Hetaksh Essential Oils supplies 100% pure and natural Black Currant Seed Oil to cosmetic, skincare, hair care, nutraceutical, pharmaceutical, and wellness industries worldwide. This nutrient-rich oil is valued for its high content of essential fatty acids, including omega-3, omega-6, gamma-linolenic acid (GLA), and stearidonic acid (SDA). It is also naturally rich in vitamin E and powerful antioxidants that help protect and nourish the skin. Black Currant Seed Oil Manufacturer has a light texture that absorbs easily without leaving a greasy feel, making it suitable for premium skincare and hair care formulations. It helps improve skin elasticity, supports the skin barrier, and nourishes dry and sensitive skin. We supply high-quality <b>Black Currant Seed Oil wholesale</b> quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -77,7 +77,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Black Currant Seed Oil Supplier | Quality, Packaging & Worldwide Export",
+      title: "Black Currant Seed Oil Wholesale Supplier | Quality, Packaging & Worldwide Export",
       paragraphs: [
         "As a trusted <b>Black Currant Seed Oil Wholesale Supplier</b> and exporter, Hetaksh Essential Oils offers premium quality Black Currant Seed Oil that is free from artificial colours, preservatives, and harmful additives. Every batch undergoes strict laboratory testing to ensure purity, consistency, and international quality standards. Our minimum order quantity starts from 25 kg, and we offer secure packaging in 25 kg to 180 kg HDPE drums for safe transportation. We provide complete documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, and Non-GMO Declaration, along with certifications such as ISO, GMP, FSSAI, Halal, and Kosher. Our experienced logistics network ensures timely worldwide delivery to cosmetic, pharmaceutical, nutraceutical, and wellness manufacturers. With competitive wholesale pricing, reliable customer support, and consistent product quality, we are a trusted sourcing partner for bulk Black Currant Seed Oil.",
       ],
