@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Borage Oil",
-  heading: "Borage Oil Supplier and Bulk Exporter | Bulk Borage Seed Oil Distributor",
+  heading: "Borage Oil Supplier and Bulk Manufacturer | Bulk Borage Seed Oil Distributor",
   image: "/assets/images/products/Carrier-Oils/Borage-Oil.webp",
   imageAlt: "Borage Seed Oil",
   paragraphs: [
-    "Borage Oil is a premium quality carrier oil extracted from the seeds of the borage plant (Borago officinalis) using the cold-pressed extraction method. As a trusted <b>Borage oil bulk manufacturer</b>, wholesaler, and exporter, Hetaksh Essential Oils supplies 100% pure and natural Borage Oil to cosmetic, pharmaceutical, nutraceutical, skincare, hair care, and wellness industries worldwide. Borage Oil is widely known for its exceptionally high content of gamma-linolenic acid (GLA), one of the most valuable omega-6 fatty acids that helps nourish and protect the skin. The oil is also rich in linoleic acid, oleic acid, palmitic acid, stearic acid, vitamin E, and natural antioxidants. Its lightweight texture absorbs easily into the skin without leaving a greasy feel, making it suitable for premium cosmetic formulations. Borage Oil helps improve skin hydration, supports the skin barrier, and promotes healthy-looking skin and hair. We supply premium quality Borage Oil in bulk quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
+    "Borage Oil is a premium quality carrier oil extracted from the seeds of the borage plant (Borago officinalis) using the cold-pressed extraction method. Hetaksh Essential Oils supplies 100% pure and natural Borage Oil to cosmetic, pharmaceutical, nutraceutical, skincare, hair care, and wellness industries worldwide. Borage Oil is widely known for its exceptionally high content of gamma-linolenic acid (GLA), one of the most valuable omega-6 fatty acids that helps nourish and protect the skin. The oil is also rich in linoleic acid, oleic acid, palmitic acid, stearic acid, vitamin E, and natural antioxidants. Its lightweight texture absorbs easily into the skin without leaving a greasy feel, making it suitable for premium cosmetic formulations. Borage Oil helps improve skin hydration, supports the skin barrier, and promotes healthy-looking skin and hair. We supply premium quality <b>Borage Oil in bulk</b> quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -95,9 +95,9 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Borage Oil Supplier | Quality Assurance & Worldwide Export",
+      title: "Borage Oil Wholesale Supplier | Quality Assurance & Worldwide Export",
       paragraphs: [
-        "As a leading <b>Borage oil wholesale supplier</b> and exporter, Hetaksh Essential Oils provides premium quality Borage Oil that is free from artificial colours, preservatives, and harmful additives. Every batch is manufactured under strict quality control and laboratory testing to ensure purity, consistency, and international standards. We offer bulk quantities starting from 25 kg with secure packaging in 25 kg to 180 kg HDPE drums for safe domestic and international transportation. Our products are supplied with complete documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, and Non-GMO Declaration, along with certifications such as ISO, GMP, FSSAI, Halal, and Kosher. We serve cosmetic, pharmaceutical, nutraceutical, wellness, and personal care manufacturers across the globe with reliable logistics, competitive wholesale pricing, and timely deliveries. Our dedicated team ensures consistent product quality and dependable support for every bulk order.",
+        "Hetaksh Essential Oils provides premium quality Borage Oil that is free from artificial colours, preservatives, and harmful additives. Every batch is manufactured under strict quality control and laboratory testing to ensure purity, consistency, and international standards. We offer bulk quantities starting from 25 kg with secure packaging in 25 kg to 180 kg HDPE drums for safe domestic and international transportation. Our products are supplied with complete documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, and Non-GMO Declaration, along with certifications such as ISO, GMP, FSSAI, Halal, and Kosher. We serve cosmetic, pharmaceutical, nutraceutical, wellness, and personal care manufacturers across the globe with reliable logistics, competitive <b>Borage Oil wholesale</b> pricing, and timely deliveries. Our dedicated team ensures consistent product quality and dependable support for every bulk order.",
       ],
       lists: [
         {
