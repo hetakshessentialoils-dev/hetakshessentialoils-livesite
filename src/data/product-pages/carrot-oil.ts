@@ -214,7 +214,7 @@ export const page: CleanProductPage = {
     {
       title: "Quality & Documentation",
       paragraphs: [
-        "For bulk orders, relevant technical documents can be provided according to the product and buyer’s requirements.",
+        "For <b>Carrot Oil wholesale</b> orders, relevant technical documents can be provided according to the product and buyer’s requirements.",
         "Available documentation may include:",
       ],
       lists: [
