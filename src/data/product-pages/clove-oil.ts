@@ -120,7 +120,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Clove Oil BP & IP | Pharmaceutical Grades, Specifications and Benefits",
+      title: "Clove Oil BP & IP Manufacturers | Pharmaceutical Grades, Specifications and Benefits",
       paragraphs: [
         "Clove Oil is available in different grades depending on the intended application and required quality specifications. For pharmaceutical and healthcare manufacturers, pharmacopoeial grades can be selected according to the standard required for the final product.",
       ],
@@ -151,11 +151,11 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Clove Oil IP",
+      title: "Clove Oil IP Wholesale",
       coa: "/assets/images/products/Pharma-Grade-Oils/COA/CLOVE OIL IP COA.pdf",
       msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/CLOVE OIL MSDS.pdf",
       paragraphs: [
-        "Clove Oil IP is a pharmaceutical-grade clove oil manufactured according to the Indian Pharmacopoeia standard and requirements. It is obtained from clove buds and processed through steam distillation to produce an aromatic oil suitable for specified pharmaceutical and healthcare applications. Clove Oil IP is valued for its characteristic clove aroma and naturally occurring eugenol content. It can be sourced by pharmaceutical manufacturers, dental product companies, herbal formulation businesses, oral care manufacturer, supplier and distributors that require an IP-grade material.",
+        "Clove Oil IP is a pharmaceutical-grade clove oil manufactured according to the Indian Pharmacopoeia standard and requirements. It is obtained from clove buds and processed through steam distillation to produce an aromatic oil suitable for specified pharmaceutical and healthcare applications. Clove Oil IP is valued for its characteristic clove aroma and naturally occurring eugenol content. It can be sourced by pharmaceutical manufacturers, dental product companies, herbal formulation businesses, oral care manufacturer, supplier and bulk distributors that require an IP-grade material.",
         "We provide documentation according to the product specification and customer requirements, helping buyers verify the grade before using it in their formulation or manufacturing process.",
       ],
       lists: [
@@ -204,10 +204,10 @@ export const page: CleanProductPage = {
         {
           columns: 1,
           items: [
-            "For general cosmetic and aromatic applications: Clove Oil",
-            "For applications requiring British Pharmacopoeia specifications: Clove Oil BP",
-            "For applications requiring Indian Pharmacopoeia specifications: Clove Oil IP",
-            "For products requiring the specific composition of clove buds: Clove Bud Oil",
+            "Clove Oil: - For general cosmetic and aromatic applications",
+            "Clove Oil BP: - For applications requiring British Pharmacopoeia specifications",
+            "Clove Oil IP: - For applications requiring Indian Pharmacopoeia specifications",
+            "Clove Bud Oil: - For products requiring the specific composition of clove buds",
           ],
         },
       ],
@@ -332,7 +332,7 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Clove Oil IP BP Wholesale | Hydrosol Manufacturers & Suppliers",
+  seoTitle: "Clove Oil IP BP Wholesale | Bulk Manufacturers & Suppliers",
   seoDescription: "Clove Oil IP BP Wholesale and Hydrosol from trusted bulk manufacturers and suppliers for pharmaceutical, and industrial applications.",
 };
 
