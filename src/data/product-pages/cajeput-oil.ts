@@ -128,7 +128,7 @@ export const page: CleanProductPage = {
     },
   ],
   seoTitle: "Cajeput Supplier, Manufacturer & Wholesaler in Australia",
-  seoDescription: "100% Pure Cajeput Oil wholesale supplier and manufacturer in Australia. Order premium-quality bulk Cajeput Oil for your business at competitive wholesale prices.",
+  seoDescription: "Hetaksh Essential Oils offers 100% Pure Cajeput Oil in bulk as a trusted manufacturer, supplier & wholesale in Australia at great prices.",
 };
 
 export const faqs: FaqItem[] = [
