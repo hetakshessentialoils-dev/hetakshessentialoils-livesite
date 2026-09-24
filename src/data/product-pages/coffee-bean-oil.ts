@@ -74,7 +74,7 @@ export const page: CleanProductPage = {
   ],
   variants: [
     {
-      title: "Coffee Bean Oil Uses | From Coffee Seeds to Beauty Formulations",
+      title: "Coffee Bean Oil Manufacturer Uses | From Coffee Seeds to Beauty Formulations",
       paragraphs: [
         "Coffee Bean Oil is mainly used by cosmetic and personal care manufacturers. It can be added to products that need a smooth oil base and a plant-based ingredient. Its connection with coffee also makes it an interesting choice for brands creating coffee-themed beauty products.",
       ],
@@ -83,15 +83,15 @@ export const page: CleanProductPage = {
           title: "Where Coffee Bean Oil Can Be Used",
           columns: 1,
           items: [
-            "<b>Skincare:</b> Coffee Bean Oil can be added to facial oils, creams, lotions, serums, body oils, and other skin products.",
-            "<b>Hair Care:</b> It can be used in hair oils, conditioners, scalp products, and hair masks.",
-            "<b>Body Care:</b> Body oils, massage blends, hand creams, and body butters can include Coffee Bean Oil as part of the oil phase.",
-            "<b>Soap Making:</b> It can be used by soap makers who want to add a coffee-based botanical ingredient to their product range.",
-            "<b>Beauty Products:</b> Coffee Bean Oil can also be used in lip care, cleansing products, and other cosmetic formulas where a plant oil is needed.",
+            "Skincare: - Coffee Bean Oil can be added to facial oils, creams, lotions, serums, body oils, and other skin products.",
+            "Hair Care: - It can be used in hair oils, conditioners, scalp products, and hair masks.",
+            "Body Care: - Body oils, massage blends, hand creams, and body butters can include Coffee Bean Oil as part of the oil phase.",
+            "Soap Making: - It can be used by soap makers who want to add a coffee-based botanical ingredient to their product range.",
+            "Beauty Products: - Coffee Bean Oil can also be used in lip care, cleansing products, and other cosmetic formulas where a plant oil is needed.",
           ],
         },
         {
-          title: "Coffee Bean Oil Blends Well With",
+          title: "Bulk Coffee Bean Oil Blends Well With",
           columns: 2,
           items: [
             "Jojoba Oil",
@@ -108,7 +108,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Coffee Bean Oil for Cosmetic Brands",
+      title: "Coffee Bean Oil Wholesale Supplier for Cosmetic Brands",
       paragraphs: [
         "Coffee Bean Oil can be a useful ingredient for brands that want to build products around coffee, natural oils, and simple botanical ingredients. It can work in both standalone oil products and mixed formulas.",
         "A few examples include:",
@@ -175,7 +175,7 @@ export const page: CleanProductPage = {
     },
   ],
   seoTitle: "Coffee Bean Oil Manufacturer | Bulk Suppliers & Wholesale in US",
-  seoDescription: "Hetaksh Essential Oil natural Coffee Bean Oil Wholesale as a trusted manufacturer and supplier. Get quality bulk solutions for cosmetics and personal care.",
+  seoDescription: "Looking for Coffee Bean Oil in bulk? Buy 100% Pure Coffee Bean Oil from a trusted US manufacturer and wholesale supplier at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
