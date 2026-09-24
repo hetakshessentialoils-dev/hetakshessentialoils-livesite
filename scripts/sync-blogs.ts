@@ -1,6 +1,6 @@
 /**
  * Scrape all blog posts from hetakshessentialoils.com/blog and write
- * frontend/src/data/blogs.ts plus featured images under public/assets/images/blog/
+ * frontend/src/data/blogs/*.ts plus featured images under public/assets/images/blog/
  *
  * Usage: npx tsx scripts/sync-blogs.ts
  */
@@ -13,7 +13,7 @@ import { decodeHtmlEntities } from "../src/lib/decode-html";
 const BASE = "https://hetakshessentialoils.com";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
-const OUT_FILE = path.join(ROOT, "src/data/blogs.ts");
+const OUT_DIR = path.join(ROOT, "src/data/blogs");
 const IMG_DIR = path.join(ROOT, "public/assets/images/blog");
 
 type ScrapedPost = {
@@ -144,11 +144,13 @@ async function downloadImage(url: string, slug: string) {
   }
 }
 
-function escapeTs(str: string) {
-  return str
-    .replace(/\\/g, "\\\\")
-    .replace(/`/g, "\\`")
-    .replace(/\$\{/g, "\\${");
+function toIdent(slug: string) {
+  const parts = slug.split(/[^a-zA-Z0-9]+/).filter(Boolean);
+  let ident = parts
+    .map((part, i) => (i === 0 ? part : part[0].toUpperCase() + part.slice(1)))
+    .join("");
+  if (!/^[A-Za-z_]/.test(ident)) ident = `blog${ident[0].toUpperCase()}${ident.slice(1)}`;
+  return ident;
 }
 
 async function main() {
@@ -198,31 +200,35 @@ async function main() {
 
   scraped.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 
-  const body = scraped
-    .map(
-      (p) => `  {
-    id: ${JSON.stringify(p.id)},
-    title: ${JSON.stringify(p.title)},
-    slug: ${JSON.stringify(p.slug)},
-    excerpt: ${JSON.stringify(p.excerpt)},
-    content: \`${escapeTs(p.content)}\`,
-    featuredImageUrl: ${JSON.stringify(p.featuredImageUrl)},
-    imageAlt: ${JSON.stringify(p.imageAlt)},
-    seoTitle: ${JSON.stringify(p.seoTitle)},
-    seoDescription: ${JSON.stringify(p.seoDescription)},
-    seoKeywords: ${JSON.stringify(p.seoKeywords)},
-    faqs: [],
-    publishedAt: ${JSON.stringify(p.publishedAt)},
-    publishedDateDisplay: ${JSON.stringify(p.publishedDateDisplay)},
-    tags: ${JSON.stringify(p.tags)},${p.featuredOnHomepage ? "\n    featuredOnHomepage: true," : ""}
-  }`,
-    )
-    .join(",\n");
+  await mkdir(OUT_DIR, { recursive: true });
 
-  const file = `import type { BlogPost } from "@/lib/types";
+  const used = new Set<string>();
+  const entries: { ident: string; slug: string }[] = [];
+
+  for (const post of scraped) {
+    let ident = toIdent(post.slug);
+    while (used.has(ident)) ident += "Post";
+    used.add(ident);
+    entries.push({ ident, slug: post.slug });
+    await writeFile(
+      path.join(OUT_DIR, `${post.slug}.ts`),
+      `import type { BlogPost } from "@/lib/types";\n\nexport const post: BlogPost = ${JSON.stringify(post, null, 2)};\n`,
+      "utf8",
+    );
+  }
+
+  const imports = entries
+    .map((e) => `import { post as ${e.ident} } from "./${e.slug}";`)
+    .join("\n");
+  const list = entries.map((e) => `  ${e.ident},`).join("\n");
+
+  await writeFile(
+    path.join(OUT_DIR, "index.ts"),
+    `import type { BlogPost } from "@/lib/types";
+${imports}
 
 export const BLOG_POSTS: BlogPost[] = [
-${body}
+${list}
 ];
 
 export const BLOGS_PER_PAGE = 15;
@@ -233,10 +239,11 @@ export const HOMEPAGE_BLOG_SLUGS = [
   "revolutionizing-the-australian-market-black-cumin-seed-oil-bulk-supplier",
   "leading-supplier-and-manufacturer-of-almond-oil-in-florida-usa",
 ] as const;
-`;
+`,
+    "utf8",
+  );
 
-  await writeFile(OUT_FILE, file, "utf8");
-  console.log(`Wrote ${OUT_FILE} (${scraped.length} posts)`);
+  console.log(`Wrote ${OUT_DIR} (${scraped.length} posts)`);
 }
 
 main().catch((err) => {
