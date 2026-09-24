@@ -94,7 +94,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Calendula Oil in Cosmetic Formulas",
+      title: "Bulk Calendula Oil in Cosmetic Formulas",
       paragraphs: [
         "Calendula Oil can be mixed with other oils such as:",
       ],
