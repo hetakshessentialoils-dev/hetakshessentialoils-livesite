@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Cajeput Oil",
-  heading: "Cajeput Oil Manufacturer & Supplier | Bulk Cajeput Essential Oil",
+  heading: "Cajeput Oil Manufacturer & Supplier | Bulk Cajeput Essential Oil Wholesale",
   image: "/assets/images/products/Essential-Oils/Cajeput-Oil.webp",
   imageAlt: "Cajeput Essential Oil",
   paragraphs: [
@@ -127,8 +127,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Pure Cajeput Oil Manufacturers USA | Hydrosol Wholesale Supplires",
-  seoDescription: "Hetaksh Essential Oils manufacturer Cajeput Oil Suppliers USA with 100% Pure Cajeput Hydrosol for bulk and wholesale use in cosmetics, product.",
+  seoTitle: "Cajeput Supplier, Manufacturer & Wholesaler in Australia",
+  seoDescription: "100% Pure Cajeput Oil wholesale supplier and manufacturer in Australia. Order premium-quality bulk Cajeput Oil for your business at competitive wholesale prices.",
 };
 
 export const faqs: FaqItem[] = [
