@@ -91,7 +91,7 @@ export const page: CleanProductPage = {
       coa: "/assets/images/products/Essential-Oils/coa/CALAMUS-OIL-COA.pdf",
       msds: "/assets/images/products/Essential-Oils/MSDS/CALAMUS-OIL-MSDS.pdf",
       paragraphs: [
-        "Calamus Seed Oil refers to oil made specifically from the seeds of Acorus calamus. It is important to distinguish this product from regular <b>Calamus Oil Wholesale</b>, which is generally obtained from the rhizomes. Calamus is mainly known for its rhizome, so buyers looking for a seed-derived oil should always confirm the plant part with the supplier before placing a bulk order. This helps ensure that the product they receive matches their formulation requirements. Calamus Seed Oil can be considered for selected botanical, cosmetic, fragrance, aromatherapy, and research applications depending on its quality and composition. Its color, aroma, and natural compounds can vary according to the seeds used and the extraction method. For this reason, we recommend checking the product specification and COA before commercial use.",
+        "Calamus Seed Oil refers to oil made specifically from the seeds of Acorus calamus. It is important to distinguish this product from regular <b>Calamus Oil Supplier</b>, which is generally obtained from the rhizomes. Calamus is mainly known for its rhizome, so buyers looking for a seed-derived oil should always confirm the plant part with the supplier before placing a bulk order. This helps ensure that the product they receive matches their formulation requirements. Calamus Seed Oil can be considered for selected botanical, cosmetic, fragrance, aromatherapy, and research applications depending on its quality and composition. Its color, aroma, and natural compounds can vary according to the seeds used and the extraction method. For this reason, we recommend checking the product specification and COA before commercial use.",
       ],
       lists: [
         {
@@ -113,7 +113,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Calamus Seed Oil Supply",
       paragraphs: [
-        "We supply Calamus-derived products for manufacturers, wholesalers, distributors, and formulation companies. If you specifically require <b>Calamus Oil bulk manufacturer</b>, we can confirm the plant part, production method, and product specification before supply. This makes the sourcing process clearer and helps buyers select the correct product for their application.",
+        "We supply Calamus-derived products for manufacturer, wholesaler, bulk distributors, and formulation companies. If you specifically require <b>Calamus Oil bulk manufacturer</b>, we can confirm the plant part, production method, and product specification before supply. This makes the sourcing process clearer and helps buyers select the correct product for their application.",
       ],
     },
     {
@@ -140,7 +140,7 @@ export const page: CleanProductPage = {
       coa: "/assets/images/products/Hydrosol/COA/CALAMUS HYDROSOL COA.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Calamus Oil Hydrosol MSDS.pdf",
       paragraphs: [
-        "Calamus Hydrosol is a botanical water produced during the distillation of Acorus calamus. It has a much lighter aroma than concentrated Calamus Essential Oil because it is a water-based product. It can be used in selected cosmetic, personal care, aromatherapy, and botanical formulations. Calamus Hydrosol can be added to facial sprays, body mists, hair care products, lotions, room sprays, and other water-based products where suitable. Its color and aroma may vary depending on the plant material and distillation process. Since hydrosols contain water, proper storage and handling are important for maintaining their quality. We supply Calamus Hydrosol in bulk quantities for manufacturers, wholesalers, distributors, and businesses developing botanical and personal care products.",
+        "Calamus Hydrosol is a botanical water produced during the distillation of Acorus calamus. It has a much lighter aroma than concentrated Calamus Essential Oil because it is a water-based product. It can be used in selected cosmetic, personal care, aromatherapy, and botanical formulations. Calamus Hydrosol can be added to facial sprays, body mists, hair care products, lotions, room sprays, and other water-based products where suitable. Its color and aroma may vary depending on the plant material and distillation process. Since hydrosols contain water, proper storage and handling are important for maintaining their quality. We supply Calamus Hydrosol in bulk quantities for manufacturers, wholesaler, bulk distributors, and businesses developing botanical and personal care products.",
       ],
       lists: [
         {
