@@ -5,13 +5,13 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Coriander Oil",
-  heading: "Coriander Oil | Bulk Natural Essential Oil for Food, Fragrance & Personal Care",
+  heading: "100% Pure Coriander Oil Wholesale | Bulk Natural Essential Oil Manufacturer",
   image: "/assets/images/products/spice-oil/CORIANDER OIL.webp",
   imageAlt: "Coriander Oil",
   paragraphs: [
     "Coriander Oil is a natural essential oil made from the coriander plant. Coriander is widely known as a kitchen herb and spice, and its botanical name is Coriandrum sativum. The plant belongs to the Apiaceae family. Different parts of the plant can give oils with different smells and uses. Coriander Seed Oil is usually made from dried seeds or fruits, while oil from the green parts has a fresher herbal smell. It is obtained using the steam distillation.",
     "Coriander Oil has a fresh, sweet, warm, spicy, and slightly woody smell. Its natural compounds can include linalool, alpha-pinene, gamma-terpinene, limonene, and other aromatic compounds. Linalool is usually one of the main compounds in coriander seed oil.",
-    "Coriander Oil is used in food flavouring, perfumes, soaps, cosmetics, personal care products, aromatherapy, massage oils, and fragrance blends. It is also used in products that need a fresh herbal and spicy note. At Hetaksh Essential Oils, we supply Coriander Oil in bulk for manufacturers, wholesalers, distributors, food and flavour companies, cosmetic brands, fragrance makers, and other businesses.",
+    "Coriander Oil is used in food flavouring, perfumes, soaps, cosmetics, personal care products, aromatherapy, massage oils, and fragrance blends. It is also used in products that need a fresh herbal and spicy note. At Hetaksh Essential Oils, we supply <b>Coriander Oil in bulk</b> for manufacturers, wholesale, distributors, food and flavour companies, cosmetic brands, fragrance makers, and other businesses.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -53,7 +53,7 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Coriander Oil Page",
   sections: [
     {
-      title: "Natural Compounds in Coriander Oil",
+      title: "Natural Compounds in Coriander Oil Bulk Supplier",
       paragraphs: [
         "Coriander Oil contains naturally occurring aromatic compounds. The amount of each compound can change with the plant variety, growing area, harvesting time, and distillation process.",
         "Some commonly found compounds are:",
@@ -78,7 +78,7 @@ export const page: CleanProductPage = {
   ],
   variants: [
     {
-      title: "Coriander Seed Oil | From Coriander Seeds to Everyday Products",
+      title: "Coriander Seed Oil Manufacturer | From Coriander Seeds to Everyday Products",
       paragraphs: [
         "Coriander Seed Oil is obtained from the dried seeds or fruits of Coriandrum sativum. It has a warm, fresh, sweet, and slightly spicy smell. The oil is commonly made through steam distillation. It is especially valued for its high linalool content, which gives the oil much of its familiar coriander character. Coriander Seed Oil is used in food and flavour products, perfumes, soaps, personal care products, massage oils, aromatherapy blends, and natural fragrance products. Food and flavour makers may use it where coriander flavour is required and where its use is allowed under the rules for the finished product.",
       ],
@@ -169,8 +169,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Coriander Oil Bulk Suppliers | Hydrosol Manufacturer & Wholesale",
-  seoDescription: "Hetaksh Essential Oils is a natural Coriander Oil Bulk Suppliers and Hydrosol manufacturer and wholesale, providing quality products for personal care.",
+  seoTitle: "Coriander Oil Manufacturer & Wholesale Suppliers in US",
+  seoDescription: "Looking for Coriander Oil in bulk? Buy 100% Pure Coriander Oil from a trusted US manufacturer and wholesale supplier at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
