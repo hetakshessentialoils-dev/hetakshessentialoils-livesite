@@ -87,11 +87,11 @@ export const page: CleanProductPage = {
   ],
   variants: [
     {
-      title: "Calamus Seed Oil Supplier | Bulk Calamus Seed Oil",
+      title: "Calamus Seed Oil Wholesale Supplier | Bulk Calamus Seed Oil",
       coa: "/assets/images/products/Essential-Oils/coa/CALAMUS-OIL-COA.pdf",
       msds: "/assets/images/products/Essential-Oils/MSDS/CALAMUS-OIL-MSDS.pdf",
       paragraphs: [
-        "Calamus Seed Oil refers to oil made specifically from the seeds of Acorus calamus. It is important to distinguish this product from regular <b>Calamus Oil Supplier</b>, which is generally obtained from the rhizomes. Calamus is mainly known for its rhizome, so buyers looking for a seed-derived oil should always confirm the plant part with the supplier before placing a bulk order. This helps ensure that the product they receive matches their formulation requirements. Calamus Seed Oil can be considered for selected botanical, cosmetic, fragrance, aromatherapy, and research applications depending on its quality and composition. Its color, aroma, and natural compounds can vary according to the seeds used and the extraction method. For this reason, we recommend checking the product specification and COA before commercial use.",
+        "Calamus Seed Oil refers to oil made specifically from the seeds of Acorus calamus. It is important to distinguish this product from regular <b>Calamus Oil Wholesale</b>, which is generally obtained from the rhizomes. Calamus is mainly known for its rhizome, so buyers looking for a seed-derived oil should always confirm the plant part with the supplier before placing a bulk order. This helps ensure that the product they receive matches their formulation requirements. Calamus Seed Oil can be considered for selected botanical, cosmetic, fragrance, aromatherapy, and research applications depending on its quality and composition. Its color, aroma, and natural compounds can vary according to the seeds used and the extraction method. For this reason, we recommend checking the product specification and COA before commercial use.",
       ],
       lists: [
         {
