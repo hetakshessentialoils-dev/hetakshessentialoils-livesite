@@ -9,7 +9,7 @@ export const post: BlogPost = {
   "featuredImageUrl": "/assets/images/blog/almond-oil-bulk-supplier-in-new-york.jpg",
   "imageAlt": "almond oil wholesale supplier",
   "seoTitle": "Almond Oil Bulk Supplier & Wholesale Manufacturer in New York",
-  "seoDescription": "Hetaksh Essential Oils is a leading manufacturer of essential oils and carrier oils, offering 100% pure, natural, and high-quality products worldwide.",
+  "seoDescription": "Trusted Almond Oil Bulk Manufacturer & Wholesale Supplier in New-York, offering pure, cold-pressed and refined almond oil for cosmetic, pharma and food use.",
   "seoKeywords": "",
   "faqs": [],
   "publishedAt": "2024-03-27T18:30:00.000Z",
