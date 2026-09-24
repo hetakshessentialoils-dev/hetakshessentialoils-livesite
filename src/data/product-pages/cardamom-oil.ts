@@ -5,12 +5,12 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Cardamom Oil",
-  heading: "Cardamom Oil Manufacturer & Distributor | Bulk Cardamom Essential Oil Supplier",
+  heading: "Cardamom Oil Wholesale & Manufacturer | Bulk Cardamom Essential Oil Supplier",
   image: "/assets/images/products/spice-oil/CARDAMOM OIL.webp",
   imageAlt: "Cardamom Essential Oil",
   paragraphs: [
     "Cardamom Oil is an aromatic essential oil obtained from the seeds of green cardamom, botanically known as Elettaria cardamomum. It is commonly produced through steam distillation of the dried or crushed cardamom seeds and is recognized for its fresh, warm, sweet, spicy, and slightly camphoraceous aroma. Cardamom belongs to the Zingiberaceae family and is widely valued in food, flavour, fragrance, cosmetic, pharmaceutical, aromatherapy, and wellness applications. The oil contains naturally occurring volatile compounds, with alpha-terpinyl acetate and 1,8-cineole among its major constituents, along with linalool, linalyl acetate, and alpha-terpineol.",
-    "Cardamom Oil is used in flavouring formulations, perfumes, soaps, massage blends, personal care products, oral care products, and aromatherapy preparations. Its distinctive aroma makes it particularly useful in fragrance compositions and food flavouring. As a bulk manufacturer, wholesaler, and supplier, Hetaksh Essential Oils supplies Cardamom Oil for commercial formulation and manufacturing requirements.",
+    "Cardamom Oil is used in flavouring formulations, perfumes, soaps, massage blends, personal care products, oral care products, and aromatherapy preparations. Its distinctive aroma makes it particularly useful in fragrance compositions and food flavouring. Hetaksh Essential Oils <b>supplies Cardamom Oil</b> for commercial formulation and manufacturing requirements.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -125,7 +125,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Cardamom Oil Hydrosol | Cardamom Floral Water Wholesale Supplier",
+      title: "Cardamom Oil Hydrosol Manufacturer | Cardamom Floral Water Wholesale Supplier",
       coa: "/assets/images/products/Hydrosol/COA/CARDAMOM HYDROSOL COA.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Cardamon Oil Hydrosol MSDS.pdf",
       paragraphs: [
@@ -173,12 +173,12 @@ export const page: CleanProductPage = {
     {
       title: "Why Source Cardamom Oil in Bulk?",
       paragraphs: [
-        "We offer Cardamom Oil and Cardamom Hydrosol for manufacturers, wholesalers, distributors Supplier, and formulation companies looking for consistent commercial supply. Our focus is on quality control, suitable packaging, documentation support, competitive bulk pricing, and reliable international logistics.",
+        "We offer Cardamom Oil and Cardamom Hydrosol for manufacturers, wholesaler, bulk distributors, and formulation companies looking for consistent commercial supply. Our focus is on quality control, suitable packaging, documentation support, competitive bulk pricing, and reliable international logistics.",
       ],
     },
   ],
-  seoTitle: "Cardamom Oil BP & Hydrosol Wholesale | Manufacturers & Suppliers",
-  seoDescription: "Cardamom Oil BP and Hydrosol from trusted bulk manufacturers and suppliers for pharmaceutical, cosmetic, and industrial applications.",
+  seoTitle: "Cardamom Oil Wholesale, Supplier & Bulk Manufacturer in UK",
+  seoDescription: "Hetaksh Essential Oils offers 100% Pure Cardamom Oil wholesale and in bulk from a trusted UK supplier and manufacturer at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
