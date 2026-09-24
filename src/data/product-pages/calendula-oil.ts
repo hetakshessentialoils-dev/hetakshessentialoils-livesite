@@ -208,7 +208,7 @@ export const page: CleanProductPage = {
       title: "A Good Fit for Botanical Beauty Brands",
       paragraphs: [
         "Calendula Oil can be a useful ingredient for brands that want to create simple, plant-based beauty products. It works especially well in products where a soft botanical story is important. It can be used alone or combined with other oils to create facial oils, body oils, massage blends, balms, creams, and other personal care products.",
-        "At <a href="/">Hetaksh Essential Oils</a>, we support bulk buyers with product information, samples, quality documents, packaging, and shipping support. We supply Calendula Oil Wholesale for domestic and international buyers according to their product and quantity requirements.",
+        "At <a href=\"/\">Hetaksh Essential Oils</a>, we support bulk buyers with product information, samples, quality documents, packaging, and shipping support. We supply Calendula Oil Wholesale for domestic and international buyers according to their product and quantity requirements.",
       ],
     },
   ],
