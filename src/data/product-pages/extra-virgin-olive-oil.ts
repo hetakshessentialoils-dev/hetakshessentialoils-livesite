@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Extra Virgin Olive Oil",
-  heading: "Extra Virgin Olive Oil | Natural Olive Oil for Food, Beauty & Wellness",
+  heading: "Extra Virgin Olive Oil Wholesale Supplier | Bulk Natural Olive Oil Manufacturer",
   image: "/assets/images/products/Carrier-Oils/Virgin-Olive-Oil.webp",
   imageAlt: "Extra Virgin Olive Oil",
   paragraphs: [
-    "Extra Virgin Olive Oil is made from fresh olives picked from the olive tree. The botanical name of the tree is Olea europaea, and it belongs to the Oleaceae family. The fruit is the part used to make the oil. The olives are cleaned, crushed, and processed by mechanical methods to separate the oil from the fruit. The oil can be green, yellow-green, or golden yellow. Its taste and smell can be fruity, fresh, grassy, mild, or slightly bitter. Oleic acid is one of its main fatty acids. It also contains linoleic acid, palmitic acid, stearic acid, vitamin E, and naturally occurring plant compounds such as polyphenols. The exact profile can change with the olive variety, growing region, harvest time, and processing method. Extra Virgin Olive Oil is mainly used in food products such as salad dressings, dips, sauces, marinades, and other recipes. It is also used in soaps, body oils, creams, lotions, and other cosmetic products. Its natural taste and smooth feel make it useful for businesses working with food and beauty products.",
+    "Extra Virgin Olive Oil is made from fresh olives picked from the olive tree. The botanical name of the tree is Olea europaea, and it belongs to the Oleaceae family. The fruit is the part used to make the oil. The olives are cleaned, crushed, and processed by mechanical methods to separate the oil from the fruit. The oil can be green, yellow-green, or golden yellow. Its taste and smell can be fruity, fresh, grassy, mild, or slightly bitter. Oleic acid is one of its main fatty acids. It also contains linoleic acid, palmitic acid, stearic acid, vitamin E, and naturally occurring plant compounds such as polyphenols. The exact profile can change with the olive variety, growing region, harvest time, and processing method. Extra Virgin Olive Oil is mainly used in food products such as salad dressings, dips, sauces, marinades, and other recipes. It is also used in soaps, body oils, creams, lotions, and other cosmetic products. Its natural taste and smooth feel make it useful for businesses working with food and beauty products. A extra virgin olive oil bulk manufacturer can work with different olive varieties to produce oils with different colours, tastes, and smells. This natural difference is important for food makers because the flavour of the oil can become part of the finished recipe.",
   ],
   specsTitle: "Product Specifications",
   layout: "specs-first",
@@ -56,9 +56,6 @@ export const page: CleanProductPage = {
   variants: [],
   seoTitle: "Manufacturer of Extra Virgin Olive Oil Bulk | Wholesale Supplier",
   seoDescription: "Extra Virgin Olive Oil Bulk Manufacturer & Supplier offering premium oil in wholesale quantities for food, culinary, and wellness uses.",
-  afterSpecsParagraphs: [
-    "A extra virgin olive oil bulk manufacturer can work with different olive varieties to produce oils with different colours, tastes, and smells. This natural difference is important for food makers because the flavour of the oil can become part of the finished recipe.",
-  ],
   contentFlow: [
     {
       type: "section",
