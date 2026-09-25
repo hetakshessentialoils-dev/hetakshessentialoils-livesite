@@ -9,7 +9,7 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/Carrier-Oils/Virgin-Olive-Oil.webp",
   imageAlt: "Extra Virgin Olive Oil",
   paragraphs: [
-    "Extra Virgin Olive Oil is made from fresh olives picked from the olive tree. The botanical name of the tree is Olea europaea, and it belongs to the Oleaceae family. The fruit is the part used to make the oil. The olives are cleaned, crushed, and processed by mechanical methods to separate the oil from the fruit. The oil can be green, yellow-green, or golden yellow. Its taste and smell can be fruity, fresh, grassy, mild, or slightly bitter. Oleic acid is one of its main fatty acids. It also contains linoleic acid, palmitic acid, stearic acid, vitamin E, and naturally occurring plant compounds such as polyphenols. The exact profile can change with the olive variety, growing region, harvest time, and processing method. Extra Virgin Olive Oil is mainly used in food products such as salad dressings, dips, sauces, marinades, and other recipes. It is also used in soaps, body oils, creams, lotions, and other cosmetic products. Its natural taste and smooth feel make it useful for businesses working with food and beauty products. A extra virgin olive oil bulk manufacturer can work with different olive varieties to produce oils with different colours, tastes, and smells. This natural difference is important for food makers because the flavour of the oil can become part of the finished recipe.",
+    "Extra Virgin Olive Oil is made from fresh olives picked from the olive tree. The botanical name of the tree is Olea europaea, and it belongs to the Oleaceae family. The fruit is the part used to make the oil. The olives are cleaned, crushed, and processed by mechanical methods to separate the oil from the fruit. The oil can be green, yellow-green, or golden yellow. Its taste and smell can be fruity, fresh, grassy, mild, or slightly bitter. Oleic acid is one of its main fatty acids. It also contains linoleic acid, palmitic acid, stearic acid, vitamin E, and naturally occurring plant compounds such as polyphenols. The exact profile can change with the olive variety, growing region, harvest time, and processing method. Extra Virgin Olive Oil is mainly used in food products such as salad dressings, dips, sauces, marinades, and other recipes. It is also used in soaps, body oils, creams, lotions, and other cosmetic products. Its natural taste and smooth feel make it useful for businesses working with food and beauty products. A <b>extra virgin olive oil bulk manufacturer</b> can work with different olive varieties to produce oils with different colours, tastes, and smells. This natural difference is important for food makers because the flavour of the oil can become part of the finished recipe.",
   ],
   specsTitle: "Product Specifications",
   layout: "specs-first",
@@ -105,7 +105,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "A extra virgin olive oil bulk supplier can provide the oil for businesses that need it as a food ingredient or as part of a cosmetic formula. Its use depends on the grade, product specification, and purpose of the finished product.",
+          text: "A <b>extra virgin olive oil bulk supplier</b> can provide the oil for businesses that need it as a food ingredient or as part of a cosmetic formula. Its use depends on the grade, product specification, and purpose of the finished product.",
         },
         {
           type: "heading",
@@ -235,7 +235,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A extra virgin olive oil bulk distributor can be useful for businesses that need regular quantities rather than small retail bottles. Before placing an order, manufacturers can ask for product specifications and a sample.",
+          text: "A <b>extra virgin olive oil bulk distributor</b> can be useful for businesses that need regular quantities rather than small retail bottles. Before placing an order, manufacturers can ask for product specifications and a sample.",
         },
         {
           type: "paragraph",
@@ -281,7 +281,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A extra virgin olive oil bulk wholesaler can use this information to help buyers compare the material with their own production needs.",
+          text: "A <b>extra virgin olive oil bulk wholesale</b> can use this information to help buyers compare the material with their own production needs.",
         },
         {
           type: "heading",
@@ -345,7 +345,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A extra virgin olive oil bulk exporter may supply customers in different countries, but every market can have its own requirements. Food products may need specific documents and compliance information, while cosmetic buyers may ask for a different set of papers.",
+          text: "A <b>extra virgin olive oil bulk</b> exporter may supply customers in different countries, but every market can have its own requirements. Food products may need specific documents and compliance information, while cosmetic buyers may ask for a different set of papers.",
         },
         {
           type: "paragraph",
@@ -361,7 +361,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Hitaksh Essential Oils can discuss product specifications, samples, quality documents, commercial quantities, and shipping needs according to the buyer’s application.",
+          text: "<b><a href"https://hetakshessentialoils.com/">Hitaksh Essential Oils</a></b> can discuss product specifications, samples, quality documents, commercial quantities, and shipping needs according to the buyer’s application.",
         },
         {
           type: "heading",
