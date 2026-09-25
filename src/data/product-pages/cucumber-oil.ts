@@ -10,7 +10,7 @@ export const page: CleanProductPage = {
   imageAlt: "Cucumber Oil",
   paragraphs: [
     "Cucumber Oil is a botanical oil made from cucumber seeds. The cucumber plant is known by the botanical name Cucumis sativus and belongs to the Cucurbitaceae family. The seeds are the main part used to make the oil. Cold pressing is a suitable method for obtaining Cucumber Seed Oil because it helps keep the natural oil and its fatty acids.",
-    "Cucumber Oil is usually light yellow to pale green and has a mild, fresh, natural smell. It is naturally rich in essential fatty acids, including linoleic, oleic, palmitic, and stearic acids. It also contains plant compounds such as tocopherols, which are a natural form of vitamin E. Because of its light feel, Cucumber Oil is popular in skincare and beauty products. It can be used in facial oils, serums, creams, lotions, body oils, massage products, hair oils, scalp products, soaps, and other personal care formulas. It spreads easily on the skin and can be mixed with other carrier oils. At Hetaksh Essential Oils, we supply Cucumber Oil in bulk for cosmetic manufacturers, skincare brands, personal care companies, wholesalers, distributors, and product developers.",
+    "Cucumber Oil is usually light yellow to pale green and has a mild, fresh, natural smell. It is naturally rich in essential fatty acids, including linoleic, oleic, palmitic, and stearic acids. It also contains plant compounds such as tocopherols, which are a natural form of vitamin E. Because of its light feel, Cucumber Oil is popular in skincare and beauty products. It can be used in facial oils, serums, creams, lotions, body oils, massage products, hair oils, scalp products, soaps, and other personal care formulas. It spreads easily on the skin and can be mixed with other carrier oils. At Hetaksh Essential Oils, we supply <b>Cucumber Oil in bulk</b> for cosmetic manufacturers, skincare brands, personal care companies, wholesale, distributors, and product developers.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -81,7 +81,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Cucumber Oil Uses | A Fresh Ingredient for Beauty & Body Care",
+      title: "Wholesale Cucumber Oil Uses | A Fresh Ingredient for Beauty & Body Care",
       paragraphs: [
         "Cucumber Oil is mainly used by cosmetic and personal care makers. It can be added to products made for the face, body, hair, and scalp. Its light nature also makes it useful in blends with other carrier oils.",
       ],
@@ -131,11 +131,11 @@ export const page: CleanProductPage = {
         {
           columns: 1,
           items: [
-            "<b>Jojoba Oil</b> — useful for light facial oil blends.",
-            "<b>Sweet Almond Oil</b> — adds a soft feel to body products.",
-            "<b>Avocado Oil</b> — useful for richer skincare blends.",
-            "<b>Apricot Kernel Oil</b> — works well in lightweight beauty oils.",
-            "<b>Rosehip Oil</b> — suitable for facial oil blends.",
+            "Jojoba Oil: — useful for light facial oil blends.",
+            "Sweet Almond Oil: — adds a soft feel to body products.",
+            "Avocado Oil: — useful for richer skincare blends.",
+            "Apricot Kernel Oil: — works well in lightweight beauty oils.",
+            "Rosehip Oil: — suitable for facial oil blends.",
           ],
         },
       ],
@@ -207,10 +207,10 @@ export const page: CleanProductPage = {
       paragraphs: [
         "Cucumber Oil can be a good starting ingredient for brands creating simple botanical beauty products. It can be used alone in a face or body oil or mixed with other carrier oils and cosmetic ingredients.",
         "A brand could use it in products such as:",
-        "<b>Cucumber Facial Oil: - </b><br/>A simple blend of Cucumber Oil with other lightweight carrier oils.",
-        "<b>Cucumber Body Oil</b><br/>A body-care blend designed for a smooth and soft skin feel.",
-        "<b>Cucumber Hair Oil</b><br/>A mixture of Cucumber Oil and other oils selected for hair and scalp care.",
-        "<b>Cucumber Massage Oil</b><br/>A blended oil with a suitable fragrance for massage products.",
+        "Cucumber Facial Oil: - A simple blend of Cucumber Oil with other lightweight carrier oils.",
+        "Cucumber Body Oil: - A body-care blend designed for a smooth and soft skin feel.",
+        "Cucumber Hair Oil: - A mixture of Cucumber Oil and other oils selected for hair and scalp care.",
+        "Cucumber Massage Oil: - A blended oil with a suitable fragrance for massage products.",
       ],
     },
     {
@@ -232,7 +232,7 @@ export const page: CleanProductPage = {
         },
       ],
       trailingParagraphs: [
-        "We support manufacturers, wholesalers, distributors, skincare brands, hair care companies, soap makers, and personal care businesses looking for Cucumber Oil in commercial quantities.",
+        "We support manufacturers, wholesalers, bulk distributors, skincare brands, hair care companies, soap makers, and personal care businesses looking for Cucumber Oil in commercial quantities.",
       ],
     },
   ],
