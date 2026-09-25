@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Cumin Seed Oil",
-  heading: "Cumin Seed Oil Supplier & Distributor | Bulk Cumin Essential Oil Exporter",
+  heading: "Cumin Seed Oil Supplier & Manufacturer | Bulk Cumin Essential Oil Wholesale",
   image: "/assets/images/products/spice-oil/CUMIN SEED OIL.webp",
   imageAlt: "Cumin Seed Oil",
   paragraphs: [
-    "Cumin Seed Oil is an essential oil made from the dried seeds of the cumin plant. It is botanically known as Cuminum cyminum, and it is from the Apiaceae family. The seeds are the main part used for making the oil. We obtain Cumin Seed Oil through steam distillation, which gives a concentrated oil with the natural smell of cumin. It is usually clear to pale yellow and has a warm, spicy, earthy, and slightly sharp aroma. Cuminaldehyde is one of the main natural compounds found in Cumin Seed Oil. Other compounds can include gamma-terpinene, beta-pinene, p-cymene, and cumin alcohol. Cumin Seed Oil is widely used in food and flavour products, perfumes, soaps, aromatherapy blends, massage oils, cosmetics, and personal care products. It is a useful ingredient when a warm spice note is needed in a formula. Cumin Seed Oil can also be mixed with other spice and citrus oils to create different fragrance profiles. At Hetaksh Essential Oils, we supply Cumin Seed Oil in bulk for food and flavour companies, cosmetic manufacturers, fragrance makers, wholesalers, distributors, and other commercial buyers.",
+    "Cumin Seed Oil is an essential oil made from the dried seeds of the cumin plant. It is botanically known as Cuminum cyminum, and it is from the Apiaceae family. The seeds are the main part used for making the oil. We obtain Cumin Seed Oil through steam distillation, which gives a concentrated oil with the natural smell of cumin. It is usually clear to pale yellow and has a warm, spicy, earthy, and slightly sharp aroma. Cuminaldehyde is one of the main natural compounds found in <b>Cumin Oil Wholesale</b>. Other compounds can include gamma-terpinene, beta-pinene, p-cymene, and cumin alcohol. Cumin Seed Oil is widely used in food and flavour products, perfumes, soaps, aromatherapy blends, massage oils, cosmetics, and personal care products. It is a useful ingredient when a warm spice note is needed in a formula. Cumin Seed Oil can also be mixed with other spice and citrus oils to create different fragrance profiles. At Hetaksh Essential Oils, we supply Cumin Seed Oil in bulk for food and flavour companies, cosmetic manufacturers, fragrance makers, wholesale, distributors, and other commercial buyers.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -70,7 +70,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Cumin Oil Uses | A Warm Spice Note for Many Industries",
+      title: "Bulk Cumin Oil Uses | A Warm Spice Note for Many Industries",
       paragraphs: [
         "Cumin Seed Oil is mainly valued for its strong and familiar spice aroma. It is used in products where a warm, earthy smell or cumin flavour is needed.",
       ],
@@ -115,13 +115,13 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Cumin Seed Oil Supply",
       paragraphs: [
-        "We supply Cumin Seed Oil in bulk for businesses that need regular quantities for manufacturing. Samples can be requested before a larger purchase. We can also provide COA, MSDS, TDS, product specifications, and other suitable documents according to the product and buyer’s requirements.",
+        "We supply <b>Cumin Seed Oil in bulk</b> for businesses that need regular quantities for manufacturing. Samples can be requested before a larger purchase. We can also provide COA, MSDS, TDS, product specifications, and other suitable documents according to the product and buyer’s requirements.",
       ],
     },
   ],
   variants: [
     {
-      title: "Cumin Hydrosol | Spice Water for Mists & Beauty Products",
+      title: "Wholesale Cumin Hydrosol | Spice Water for Mists & Beauty Products",
       coa: "/assets/images/products/Hydrosol/COA/CUMIN HYDROSOL COA.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Cumin Oil Hydrosol MSDS.pdf",
       paragraphs: [
@@ -145,11 +145,11 @@ export const page: CleanProductPage = {
       ],
       trailingParagraphs: [
         "<b>Cumin Hydrosol Storage</b><br/>Cumin Hydrosol should be stored in a cool, dry place away from direct sunlight and high heat. The container should remain properly closed when not in use. The exact shelf life should be checked from the product specification or batch document.",
-        "<b>Bulk Supply Support</b><br/>We offer Cumin Hydrosol in bulk for cosmetic companies, personal care brands, aromatherapy businesses, wholesalers, and distributors. Packaging can be selected according to the order size and delivery location.",
+        "<b>Bulk Supply Support</b><br/>We offer Cumin Hydrosol in bulk for cosmetic companies, personal care brands, aromatherapy businesses, wholesale, and bulk distributors. Packaging can be selected according to the order size and delivery location.",
       ],
     },
   ],
-  seoTitle: "Cumin Seed Oil Manufacturer | Bulk Suppliers & Wholesale in US",
+  seoTitle: "Cumin Oil Manufacturer | Bulk Suppliers & Wholesale in US",
   seoDescription: "Hetaksh Essential Oils is a reliable Cumin Seed Oil Manufacturer for bulk supplier and wholesale requirements. Ideal for cosmetics, other applications.",
 };
 
