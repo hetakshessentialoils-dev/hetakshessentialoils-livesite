@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Fennel Oil",
-  heading: "Fennel Oil Wholesale | Natural Fennel Oil Essential Oil for Bulk Supply",
+  heading: "Fennel Oil Wholesale | Natural Fennel Essential Oil for Bulk Supply",
   image: "/assets/images/products/spice-oil/FENNEL OIL.webp",
   imageAlt: "Fennel Oil",
   paragraphs: [
