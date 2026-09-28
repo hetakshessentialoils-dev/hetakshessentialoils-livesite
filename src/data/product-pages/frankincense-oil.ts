@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Frankincense Oil",
-  heading: "Frankincense Oil Manufacturer | Natural Resin Oil for Bulk Supply",
+  heading: "Frankincense Oil Manufacturer | Natural Frankincense Oil for Bulk Supplier",
   image: "/assets/images/products/Essential-Oils/Frankincense-Oil.webp",
   imageAlt: "Frankincense Oil",
   paragraphs: [
@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Frankincense Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Frankincense Oil & Hydrosol Suppliers | Bulk Manufacturer & Distributor",
-  seoDescription: "Frankincense Oil and Hydrosol bulk manufacturer, supplier and distributor providing reliable wholesale supply at competitive prices.",
+  seoTitle: "Frankincense Oil wholesale, Supplier & Bulk Manufacturer in US",
+  seoDescription: "Choose Hetaksh Essential Oils for 100% pure Frankincense Oil wholesale, bulk supply, and reliable sourcing from trusted manufacturers.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -183,7 +183,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "This difference is important when buying ingredients for product development. A manufacturer should select the form that matches the finished formula.",
+          text: "This difference is important when buying ingredients for product development. A <b>Frankincense Oil manufacturer</b> should select the form that matches the finished formula.",
         },
       ],
       coa: "/assets/images/products/Hydrosol/COA/FRANKINCENSE HYDROSOL COA.pdf",
@@ -279,7 +279,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "This flexibility makes Frankincense Oil useful for brands working on different types of natural and botanical products.",
+          text: "This flexibility makes <b>Frankincense Oil Wholesale</b> useful for brands working on different types of natural and botanical products.",
         },
         {
           type: "heading",
@@ -331,7 +331,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Frankincense Oil can bring three useful qualities to a product: a natural plant origin, a recognizable resin-like aroma, and the ability to work with many other essential oils.",
+          text: "<b>Frankincense Oil Supplier</b> can bring three useful qualities to a product: a natural plant origin, a recognizable resin-like aroma, and the ability to work with many other essential oils.",
         },
         {
           type: "paragraph",
