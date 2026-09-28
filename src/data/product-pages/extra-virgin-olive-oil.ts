@@ -361,7 +361,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "<b><a href"https://hetakshessentialoils.com/">Hitaksh Essential Oils</a></b> can discuss product specifications, samples, quality documents, commercial quantities, and shipping needs according to the buyer’s application.",
+          text: "<b><a href=\"/\">Hitaksh Essential Oils</a></b> can discuss product specifications, samples, quality documents, commercial quantities, and shipping needs according to the buyer’s application.",
         },
         {
           type: "heading",
