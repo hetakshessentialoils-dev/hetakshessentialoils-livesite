@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Garlic Oil",
-  heading: "Garlic Oil | Strong Herbal Oil for Food, Hair Care and Personal Care",
+  heading: "Garlic Oil Wholesale Supplier | 100% Pure Garlic Oil Bulk Manufacturer",
   image: "/assets/images/products/spice-oil/GARLIC OIL.webp",
   imageAlt: "Garlic Oil",
   paragraphs: [
@@ -54,8 +54,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Garlic Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "High Quality Garlic Oil Bulk Manufacturer & Hydrosol Supplier in US",
-  seoDescription: "Leading Garlic Oil bulk manufacturer and supplier in US, offering 100% pure, natural Garlic Hydrosol with reliable bulk supply and competitive wholesale pricing.",
+  seoTitle: "Garlic Oil Wholesale, Supplier & Bulk Manufacturer in US",
+  seoDescription: "Hetaksh Essential Oils is a 100% Pure Garlic Oil wholesale supplier & bulk manufacturer in US, offering quality Garlic Oil at wholesale prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -96,13 +96,13 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A garlic oil bulk manufacturer can provide the relevant specification and batch information so that a business knows which type of material it is receiving.",
+          text: "A <b>garlic oil bulk manufacturer</b> can provide the relevant specification and batch information so that a business knows which type of material it is receiving.",
         },
       ],
     },
     {
       type: "variant",
-      title: "Garlic Hydrosol | Light Botanical Water with a Fresh Garlic Note",
+      title: "Bulk Garlic Hydrosol | Light Botanical Water with a Fresh Garlic Note",
       paragraphs: [],
       content: [
         {
@@ -111,7 +111,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A garlic hydrosol bulk supplier can provide the material for selected hair-care, personal- care, botanical, and water-based product ideas. It may be explored in hair mists, scalp sprays, botanical sprays, lotions, creams, soaps, and other suitable preparations.",
+          text: "A <b>garlic hydrosol bulk supplier</b> can provide the material for selected hair-care, personal- care, botanical, and water-based product ideas. It may be explored in hair mists, scalp sprays, botanical sprays, lotions, creams, soaps, and other suitable preparations.",
         },
         {
           type: "heading",
@@ -204,7 +204,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Garlic Oil Bulk Supply | From Food Flavour to Botanical Product Ideas",
+      title: "Garlic Oil Bulk Supplier | From Food Flavour to Botanical Product Ideas",
       paragraphs: [],
       content: [
         {
@@ -217,7 +217,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A suitable food-grade garlic oil can be used to add garlic character to different food products. It can be useful when a manufacturer wants to control the amount of garlic flavour added during production.",
+          text: "A suitable food-grade garlic oil can be used to add garlic character to different food products. It can be useful when a <b>Garlic oil manufacturer</b> wants to control the amount of garlic flavour added during production.",
         },
         {
           type: "paragraph",
@@ -337,7 +337,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A garlic oil bulk distributor may work with food companies, cosmetic manufacturers, hair-care brands, soap makers, wholesalers, and other businesses.",
+          text: "A <b>garlic oil bulk distributor</b> may work with food companies, cosmetic manufacturers, hair-care brands, soap makers, wholesalers, and other businesses.",
         },
         {
           type: "paragraph",
@@ -366,7 +366,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "heading",
-          text: "Bulk Wholesale Orders",
+          text: "Garlic Oil Bulk Wholesale Orders",
         },
         {
           type: "paragraph",
@@ -382,7 +382,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A garlic oil bulk exporter can work with buyers in different countries, but the requirements are not always the same everywhere.",
+          text: "A <b>garlic oil bulk exporter</b> can work with buyers in different countries, but the requirements are not always the same everywhere.",
         },
         {
           type: "paragraph",
