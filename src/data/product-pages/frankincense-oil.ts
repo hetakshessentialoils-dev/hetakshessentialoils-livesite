@@ -64,7 +64,7 @@ export const page: CleanProductPage = {
   contentFlow: [
     {
       type: "section",
-      title: "Natural Components Found in Frankincense",
+      title: "Natural Components Found in Frankincense Oil",
       content: [
         {
           type: "paragraph",
@@ -94,7 +94,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "variant",
-      title: "Frankincense Hydrosol | Gentle Floral Water for Skincare & Personal Care",
+      title: "Frankincense Hydrosol Manufacturer | Gentle Floral Water for Skincare & Personal Care",
       paragraphs: [],
       content: [
         {
@@ -271,7 +271,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "heading",
-          text: "Frankincense Oil for Product Development",
+          text: " Wholesale Frankincense Oil for Product Development",
         },
         {
           type: "paragraph",
