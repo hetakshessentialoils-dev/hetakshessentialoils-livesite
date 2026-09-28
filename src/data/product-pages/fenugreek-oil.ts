@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Fenugreek Oil",
-  heading: "Fenugreek Oil | Natural Methi Seed Oil for Hair, Skin & Personal Care",
+  heading: "Fenugreek Oil Bulk Manufacturer | Natural Fenugreek Oil Wholesale Supplier",
   image: "/assets/images/products/spice-oil/FENUGREEK OIL.webp",
   imageAlt: "Fenugreek Oil",
   paragraphs: [
@@ -55,7 +55,7 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   seoTitle: "Fenugreek Oil Bulk Supplier, Manufacturer & Wholesaler in us",
-  seoDescription: "Leading Fenugreek Oil bulk manufacturers and wholesale suppliers offering 100% pure, natural Fenugreek Oil with competitive prices for global buyers.",
+  seoDescription: "Leading Fenugreek Oil bulk manufacturers and wholesale suppliers offering 100% pure, natural Fenugreek Oil with competitive prices.",
   afterSpecsParagraphs: [
     "The final composition can change depending on the seed quality, growing region, harvesting time, storage, and extraction method. For this reason, buyers should check the product specification and batch information before using the material in a finished formula.",
     "Fenugreek Oil is especially popular among hair-care manufacturers. It can be added to hair oils, scalp blends, masks, conditioners, and other products. It can also be used in skin-care formulas where a plant-based oil is needed.",
@@ -63,7 +63,7 @@ export const page: CleanProductPage = {
   contentFlow: [
     {
       type: "variant",
-      title: "Fenugreek Hydrosol | Mild Botanical Water for Hair, Skin & Mists",
+      title: "Bulk Fenugreek Hydrosol | Mild Botanical Water for Hair, Skin & Mists",
       paragraphs: [],
       content: [
         {
