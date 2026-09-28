@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Fennel Oil",
-  heading: "Fennel Oil | Natural Sweet-Spice Essential Oil for Bulk Supply",
+  heading: "Fennel Oil Wholesale | Natural Fennel Oil Essential Oil for Bulk Supply",
   image: "/assets/images/products/spice-oil/FENNEL OIL.webp",
   imageAlt: "Fennel Oil",
   paragraphs: [
@@ -54,8 +54,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Fennel Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Fennel Oil USP Wholesale Manufacturer | Bulk Suppliers & Distributors",
-  seoDescription: "Trusted Fennel Oil USP manufacturer, bulk supplier and distributor providing reliable wholesale supply for pharmaceutical product formulations.",
+  seoTitle: "Fennel Oil Wholesale, Suppliers & Manufacturers in US",
+  seoDescription: "Buy 100% pure Fennel Oil wholesale from trusted suppliers & manufacturers in the USA. Hetaksh Essential Oils offers bulk quality.",
   afterSpecsParagraphs: [
     "Fennel Oil is useful for many types of businesses. Food companies can use it in suitable flavour applications, while fragrance makers can use its sweet smell in perfume blends. Soap makers, cosmetic brands, personal care companies, and aromatherapy businesses can also use it in suitable formulas.",
     "The oil can be mixed with other essential oils to create different smells. Citrus oils can give it a fresh touch, while spice oils can make the blend warmer. Floral oils can give it a softer character. The final blend should always be tested before commercial production.",
@@ -64,7 +64,7 @@ export const page: CleanProductPage = {
   contentFlow: [
     {
       type: "variant",
-      title: "Fennel Oil USP | A Special Grade for Pharmaceutical Buyers",
+      title: "Wholesale Fennel Oil USP | A Special Grade for Pharmaceutical Buyers",
       paragraphs: [],
       content: [
         {
