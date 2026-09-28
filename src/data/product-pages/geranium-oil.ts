@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Geranium Oil",
-  heading: "Geranium Oil | Fresh Floral Oil for Beauty, Hair Care and Fragrance",
+  heading: "Geranium Oil Bulk Manufacturer | Natural Geranium Oil Wholesale Supplier",
   image: "/assets/images/products/Essential-Oils/Geranium-Oil.webp",
   imageAlt: "Geranium Oil",
   paragraphs: [
@@ -54,10 +54,10 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Geranium Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Geranium Oil Suppliers | Hydrosol Bulk Manufacturers & Wholesale",
-  seoDescription: "Geranium Oil and Hydrosol bulk manufacturers and wholesale suppliers offering 100% pure, natural products for cosmetics, and personal care.",
+  seoTitle: "Geranium Oil Bulk Manufacturer & Wholesale Supplier in US",
+  seoDescription: "100% Pure Geranium Oil wholesale supplier & bulk manufacturer in the US. Hetaksh Essential Oils provides quality oil at wholesale prices.",
   afterSpecsParagraphs: [
-    "A geranium oil bulk manufacturer may work with different natural batches, so the colour and smell can have small changes. This is normal with plant-based materials. The final profile depends on the raw plant and the way it is processed.",
+    "A <b>Geranium oil bulk manufacturer</b> may work with different natural batches, so the colour and smell can have small changes. This is normal with plant-based materials. The final profile depends on the raw plant and the way it is processed.",
     "The plant itself is quite interesting. It has soft green leaves and small flowers, but its leaves carry a strong part of its aroma. When the plant material goes through distillation, the fragrant part is collected as the essential oil.",
   ],
   contentFlow: [
@@ -82,7 +82,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A geranium oil bulk supplier can provide the batch specification so that a manufacturer can check the actual composition of the material before using it in a finished product.",
+          text: "A <b>Geranium oil bulk supplier</b> can provide the batch specification so that a manufacturer can check the actual composition of the material before using it in a finished product.",
         },
       ],
     },
@@ -93,7 +93,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "Geranium Hydrosol is a gentle floral water collected during the distillation of geranium plant material. It has a much softer smell than concentrated oil. The aroma can have light rose, fresh green, sweet, and herbal notes. Because it is water-based, it can be useful for products that are made mainly with water. A geranium hydrosol bulk supplier can provide this ingredient for facial mists, body sprays, hair mists, botanical toners, lotions, creams, soaps, and other suitable personal-care products.",
+          text: "Geranium Hydrosol is a gentle floral water collected during the distillation of geranium plant material. It has a much softer smell than concentrated oil. The aroma can have light rose, fresh green, sweet, and herbal notes. Because it is water-based, it can be useful for products that are made mainly with water. A <b>Geranium hydrosol bulk supplier</b> can provide this ingredient for facial mists, body sprays, hair mists, botanical toners, lotions, creams, soaps, and other suitable personal-care products.",
         },
         {
           type: "heading",
@@ -138,7 +138,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "The colour, smell, pH, and shelf life may differ according to the plant material, distillation method, filtration, packaging, and storage conditions. For a geranium hydrosol bulk distributor, giving the correct batch information is important because manufacturers often need to test the material before adding it to their own formulas.",
+          text: "The colour, smell, pH, and shelf life may differ according to the plant material, distillation method, filtration, packaging, and storage conditions. For a <b>Geranium hydrosol bulk distributor</b>, giving the correct batch information is important because manufacturers often need to test the material before adding it to their own formulas.",
         },
         {
           type: "heading",
@@ -204,7 +204,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "Geranium has a scent that can move in different directions. It can smell floral when mixed with rose, fresh when paired with citrus, or warm when combined with woody oils. This makes it a useful ingredient for brands that want something different from a simple rose fragrance. A geranium oil bulk distributor can serve businesses working on perfumes, soaps, skincare, hair care, cosmetics, and personal-care products.",
+          text: "Geranium has a scent that can move in different directions. It can smell floral when mixed with rose, fresh when paired with citrus, or warm when combined with woody oils. This makes it a useful ingredient for brands that want something different from a simple rose fragrance. A <b>Geranium oil bulk distributor</b> can serve businesses working on perfumes, soaps, skincare, hair care, cosmetics, and personal-care products.",
         },
         {
           type: "heading",
@@ -254,7 +254,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A geranium oil bulk exporter may supply the oil to fragrance companies that use botanical materials in their perfume blends.",
+          text: "A <b>Geranium oil bulk distributors</b> may supply the oil to fragrance companies that use botanical materials in their perfume blends.",
         },
         {
           type: "paragraph",
@@ -282,7 +282,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A geranium oil bulk wholesaler can work with companies that need small commercial quantities as well as larger production requirements. Before buying, a manufacturer can ask for a sample and compare it with the needs of the finished product.",
+          text: "A <b>Geranium oil bulk wholesale</b> can work with companies that need small commercial quantities as well as larger production requirements. Before buying, a manufacturer can ask for a sample and compare it with the needs of the finished product.",
         },
         {
           type: "paragraph",
@@ -315,7 +315,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A geranium oil bulk exporter may need to prepare different documents depending on the destination. The buyer should share the country, intended application, required grade, packaging needs, and any special documentation requirements before shipment.",
+          text: "A <b>Geranium oil bulk exporter</b> may need to prepare different documents depending on the destination. The buyer should share the country, intended application, required grade, packaging needs, and any special documentation requirements before shipment.",
         },
         {
           type: "paragraph",
