@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Flaxseed Oil",
-  heading: "Flaxseed Oil | Natural Seed Oil for Food, Beauty and Hair Care",
+  heading: "Flaxseed Oil Wholesale| 100% & Natural Flaxseed Oil Bulk Manufacturer",
   image: "/assets/images/products/Carrier-Oils/Flaxseed-Oil.webp",
   imageAlt: "Flaxseed Oil",
   paragraphs: [
@@ -58,7 +58,7 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Flaxseed Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Flaxseed Oil Wholesale Supplier & Bulk Manufacturer in US",
+  seoTitle: "Flaxseed Oil Wholesale, Supplier & Bulk Manufacturer in US",
   seoDescription: "Flaxseed Oil Wholesale Supplier & Bulk Manufacturer in US, providing 100% pure, natural Flaxseed Oil for cosmetic, industrial applications.",
   afterSpecsParagraphs: [],
   contentFlow: [
@@ -100,7 +100,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Flaxseed Oil Uses | Food, Skin and Hair Applications",
+      title: "Bulk Flaxseed Oil Uses | Food, Skin and Hair Applications",
       paragraphs: [],
       content: [
         {
@@ -261,7 +261,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "A flaxseed oil bulk manufacturer works with the oil at a much larger scale than a retail product maker. The process starts with the raw seeds and ends with an oil that is prepared for commercial use.",
+          text: "A <b>flaxseed oil bulk manufacturer</b> works with the oil at a much larger scale than a retail product maker. The process starts with the raw seeds and ends with an oil that is prepared for commercial use.",
         },
         {
           type: "heading",
@@ -285,7 +285,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A flaxseed oil bulk distributor may work with customers who need the ingredient for:",
+          text: "A <b>flaxseed oil bulk distributor</b> may work with customers who need the ingredient for:",
         },
         {
           type: "list",
@@ -326,7 +326,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Flaxseed oil bulk wholesale purchasing can be useful for businesses that need a regular supply instead of small bottles.",
+          text: "<b>Flaxseed oil bulk wholesale</b> purchasing can be useful for businesses that need a regular supply instead of small bottles.",
         },
         {
           type: "paragraph",
@@ -354,7 +354,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A flaxseed oil bulk exporter can supply buyers outside the domestic market, but the paperwork and product requirements can change from country to country.",
+          text: "A <b>flaxseed oil bulk exporter</b> can supply buyers outside the domestic market, but the paperwork and product requirements can change from country to country.",
         },
         {
           type: "paragraph",
@@ -394,7 +394,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Flaxseed oil bulk wholesaler services can therefore be useful for both established manufacturers and smaller businesses that are growing their product lines.",
+          text: "<b>Flaxseed oil wholesale</b> services can therefore be useful for both established manufacturers and smaller businesses that are growing their product lines.",
         },
       ],
     },
