@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Flaxseed Oil",
-  heading: "Flaxseed Oil Wholesale | 100% & Natural Flaxseed Oil Supplier and Bulk Manufacturer",
+  heading: "Flaxseed Oil Wholesale | 100% Pure Flaxseed Oil Bulk Manufacturer",
   image: "/assets/images/products/Carrier-Oils/Flaxseed-Oil.webp",
   imageAlt: "Flaxseed Oil",
   paragraphs: [
