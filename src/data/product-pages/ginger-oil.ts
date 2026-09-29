@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Ginger Oil",
-  heading: "Ginger Oil | Warm Spice Oil for Food, Beauty, Hair Care and Fragrance",
+  heading: "Ginger Oil Manufacturers | 100% Pure Ginger Oil Wholesale Supplier ",
   image: "/assets/images/products/spice-oil/GINGER OIL.webp",
   imageAlt: "Ginger Oil",
   paragraphs: [
@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Ginger Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Best Ginger Oil Wholesale Suppliers and Hydrosol Manufacturer in US",
-  seoDescription: "Buy 100% pure Ginger Oil and Ginger Hydrosol from trusted wholesale supplier and bulk manufacturer in US. Premium-quality products with competitive bulk pricing.",
+  seoTitle: "Ginger Oil Manufacturers and Wholesale Supplier in US",
+  seoDescription: "Looking for Ginger Oil manufacturers and wholesale suppliers in the US? Choose Hetaksh Essential Oils for pure quality and the best bulk prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -76,7 +76,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A ginger oil bulk manufacturer can work with ginger from different growing regions. The final smell and colour can change slightly depending on the raw material and the production process.",
+          text: "A <b>Ginger oil bulk manufacturer</b> can work with ginger from different growing regions. The final smell and colour can change slightly depending on the raw material and the production process.",
         },
       ],
     },
@@ -105,7 +105,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "Ginger Hydrosol is a water-based product obtained during the distillation of ginger plant material. It has a softer smell than ginger essential oil. Its aroma may be fresh, warm, slightly spicy, and gently herbal. It can be explored in products where a water-based botanical ingredient is more suitable. Ginger hydrosol bulk supplier options can be useful for companies making facial mists, body sprays, hair mists, botanical toners, lotions, creams, soaps, and other water-based personal-care products.",
+          text: "Ginger Hydrosol is a water-based product obtained during the distillation of ginger plant material. It has a softer smell than ginger essential oil. Its aroma may be fresh, warm, slightly spicy, and gently herbal. It can be explored in products where a water-based botanical ingredient is more suitable. <b>Ginger hydrosol bulk supplier</b> options can be useful for companies making facial mists, body sprays, hair mists, botanical toners, lotions, creams, soaps, and other water-based personal-care products.",
         },
         {
           type: "heading",
@@ -195,7 +195,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "Ginger has been used as a spice for a very long time. Today, its familiar warm smell also makes it useful for product makers. Ginger oil bulk distributor services can support businesses working in food, flavour, cosmetics, fragrance, hair care, soap, and personal care.",
+          text: "Ginger has been used as a spice for a very long time. Today, its familiar warm smell also makes it useful for product makers. <b>Ginger oil bulk distributors</b> services can support businesses working in food, flavour, cosmetics, fragrance, hair care, soap, and personal care.",
         },
         {
           type: "heading",
@@ -248,7 +248,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A ginger oil bulk supplier can therefore serve perfume makers who want a natural spice note for their fragrance blends.",
+          text: "A <b>Ginger oil bulk supplier</b> can therefore serve perfume makers who want a natural spice note for their fragrance blends.",
         },
         {
           type: "heading",
@@ -300,7 +300,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Ginger oil bulk wholesale purchasing can be useful for companies that use the ingredient regularly. Instead of buying many small bottles, a manufacturer can source a larger quantity suited to its production needs.",
+          text: "<b>Ginger oil bulk wholesale</b> purchasing can be useful for companies that use the ingredient regularly. Instead of buying many small bottles, a manufacturer can source a larger quantity suited to its production needs.",
         },
         {
           type: "paragraph",
@@ -358,7 +358,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A ginger oil bulk exporter may supply customers in different countries. However, each destination can have its own rules for food, cosmetics, botanical materials, and essential oils.",
+          text: "A <b>Ginger oil bulk</b> exporter may supply customers in different countries. However, each destination can have its own rules for food, cosmetics, botanical materials, and essential oils.",
         },
         {
           type: "paragraph",
