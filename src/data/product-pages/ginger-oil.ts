@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Ginger Oil",
-  heading: "Ginger Oil Manufacturers | 100% Pure Ginger Oil Wholesale Supplier ",
+  heading: "Ginger Oil Bulk Manufacturers | 100% Pure Ginger Oil Wholesale Supplier ",
   image: "/assets/images/products/spice-oil/GINGER OIL.webp",
   imageAlt: "Ginger Oil",
   paragraphs: [
@@ -300,7 +300,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "<b>Ginger oil bulk wholesale</b> purchasing can be useful for companies that use the ingredient regularly. Instead of buying many small bottles, a manufacturer can source a larger quantity suited to its production needs.",
+          text: "<b>Ginger oil wholesale</b> purchasing can be useful for companies that use the ingredient regularly. Instead of buying many small bottles, a manufacturer can source a larger quantity suited to its production needs.",
         },
         {
           type: "paragraph",
