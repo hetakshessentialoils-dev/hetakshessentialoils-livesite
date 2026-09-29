@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Grapefruit Oil",
-  heading: "Grapefruit Oil | Bright Citrus Oil for Food, Fragrance, Skin and Personal Care",
+  heading: "Grapefruit Oil Bulk Supplier | Nature Grapefruit Oil Wholesale & Bulk Manufacturers",
   image: "/assets/images/products/Essential-Oils/Grapefruit-Oil.webp",
   imageAlt: "Grapefruit Oil",
   paragraphs: [
@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Grapefruit Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Bulk Grapefruit Oil Bulk Manufacturer and Wholesale Supplier in US",
-  seoDescription: "Hetaksh Essential Oils is a Grapefruit Oil bulk manufacturer and Hydrosol wholesale supplier in US, offering pure natural oil at competitive prices.",
+  seoTitle: "Grapefruit Oil Bulk Manufacturer and Wholesale Supplier in US",
+  seoDescription: "Hetaksh Essential Oils is a Grapefruit Oil bulk manufacturer and wholesale supplier in US, offering 100% pure natural oil at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -91,7 +91,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "variant",
-      title: "Grapefruit Hydrosol | Gentle Citrus Water for Mists and Beauty Products",
+      title: "Bulk Grapefruit Hydrosol | Gentle Citrus Water for Mists and Beauty Products",
       paragraphs: [],
       content: [
         {
@@ -177,12 +177,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Grapefruit Oil Bulk Supply | From Citrus Peel to Commercial Product",
+      title: "Grapefruit Oil Bulk Supplier | From Citrus Peel to Commercial Product",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "The story of grapefruit oil starts with a fruit, but it does not end in the kitchen. The same citrus ingredient can become part of a perfume, soap, body product, food flavour, hair product or home-fragrance formula. A grapefruit oil bulk manufacturer can therefore serve businesses from several different fields.",
+          text: "The story of grapefruit oil starts with a fruit, but it does not end in the kitchen. The same citrus ingredient can become part of a perfume, soap, body product, food flavour, hair product or home-fragrance formula. A <b>Grapefruit oil bulk supplier</b> can therefore serve businesses from several different fields.",
         },
         {
           type: "heading",
@@ -227,7 +227,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Grapefruit + Orange → sweet citrus Grapefruit + Lemon → sharper and fresher Grapefruit + Lavender → citrus with a soft floral-herbal side Grapefruit + Rosemary → fresh and green Grapefruit + Cedarwood → citrus with a deeper woody note A grapefruit oil bulk supplier can therefore be useful for fragrance houses that need a natural citrus ingredient for different perfume ideas.",
+          text: "Grapefruit + Orange → sweet citrus Grapefruit + Lemon → sharper and fresher Grapefruit + Lavender → citrus with a soft floral-herbal side Grapefruit + Rosemary → fresh and green Grapefruit + Cedarwood → citrus with a deeper woody note A <b>Grapefruit oil bulk manufacturer</b> can therefore be useful for fragrance houses that need a natural citrus ingredient for different perfume ideas.",
         },
         {
           type: "heading",
@@ -275,7 +275,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Grapefruit oil bulk wholesale purchasing can make sense for businesses that use the ingredient regularly. A product-development team can first test a sample and then decide the quantity needed for production.",
+          text: "<b>Grapefruit oil wholesale</b> purchasing can make sense for businesses that use the ingredient regularly. A product-development team can first test a sample and then decide the quantity needed for production.",
         },
         {
           type: "paragraph",
@@ -304,7 +304,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A grapefruit oil bulk exporter may supply customers in different countries, but the requirements can change depending on whether the material is being used for food, cosmetics, fragrance or another purpose.",
+          text: "A <b>Grapefruit oil bulk</b> exporter may supply customers in different countries, but the requirements can change depending on whether the material is being used for food, cosmetics, fragrance or another purpose.",
         },
         {
           type: "paragraph",
@@ -332,7 +332,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A grapefruit oil bulk distributor can provide information that helps a manufacturer understand the material before it enters production.",
+          text: "A <b>Grapefruit oil bulk distributors</b> can provide information that helps a manufacturer understand the material before it enters production.",
         },
         {
           type: "paragraph",
