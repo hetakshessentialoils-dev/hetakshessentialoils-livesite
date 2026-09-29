@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Hazelnut Oil",
-  heading: "Hazelnut Oil | Light Nut Oil for Skin, Hair and Food Products",
+  heading: "Hazelnut Oil Manufacturers | Nature Hazelnut Oil Bulk Suppliers",
   image: "/assets/images/products/Carrier-Oils/Hazelnut-Oil.webp",
   imageAlt: "Hazelnut Oil",
   paragraphs: [
@@ -98,12 +98,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Hazelnut Oil Uses | A Nut Oil with Many Product Ideas",
+      title: "Bulk Hazelnut Oil Uses | A Nut Oil with Many Product Ideas",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A hazelnut oil bulk manufacturer can supply this oil to businesses that work in food, cosmetics, skincare, hair care, soap, massage, and personal care.",
+          text: "A <b>Hazelnut oil bulk manufacturer</b> can supply this oil to businesses that work in food, cosmetics, skincare, hair care, soap, massage, and personal care.",
         },
         {
           type: "heading",
@@ -234,12 +234,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Hazelnut Oil Bulk Supply | From Food Ingredients to Beauty Formulas",
+      title: "Hazelnut Oil Bulk Suppliers | From Food Ingredients to Beauty Formulas",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A hazelnut oil bulk supplier can work with businesses that need the oil for regular production or new product development.",
+          text: "A <b>Hazelnut oil bulk supplier</b> can work with businesses that need the oil for regular production or new product development.",
         },
         {
           type: "heading",
@@ -297,11 +297,11 @@ export const page: CleanProductPage = {
         },
         {
           type: "heading",
-          text: "Bulk Wholesale for Manufacturers",
+          text: "Hazelnut Oil Bulk Wholesale for Manufacturers",
         },
         {
           type: "paragraph",
-          text: "Hazelnut oil bulk wholesale purchasing can be useful for companies that use the oil frequently.",
+          text: "<b>Hazelnut oil wholesale</b> purchasing can be useful for companies that use the oil frequently.",
         },
         {
           type: "paragraph",
@@ -387,7 +387,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A hazelnut oil bulk exporter may supply the oil to buyers in different countries. The documents needed can vary according to the destination and the intended use.",
+          text: "A <b>Hazelnut oil bulk</b> exporter may supply the oil to buyers in different countries. The documents needed can vary according to the destination and the intended use.",
         },
         {
           type: "paragraph",
