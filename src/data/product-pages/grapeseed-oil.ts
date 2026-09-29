@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Grapeseed Oil",
-  heading: "Grape Seed Oil | Bulk Grape Seed Oil Supply For Food, Skin & Hair Care",
+  heading: "Grape Seed Oil Wholesale | Bulk Grape Seed Oil Supply For Food, Skin & Hair Care",
   image: "/assets/images/products/Carrier-Oils/Grapeseed-Oil.webp",
   imageAlt: "Grapeseed Oil",
   paragraphs: [
@@ -61,8 +61,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Grapeseed Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Best Grapeseed Oil Wholesale Supplier and Manufacturer in US",
-  seoDescription: "Hetaksh Essential Oils is a trusted Grapeseed Oil bulk manufacturer and wholesale supplier in US, offering pure oil at competitive prices.",
+  seoTitle: "Grapeseed Oil Wholesale Supplier and Bulk Manufacturers in US",
+  seoDescription: "Hetaksh Essential Oils is a trusted Grapeseed Oil bulk manufacturer and wholesale supplier in US, offering 100% pure oil at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -72,7 +72,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "A grape seed oil bulk manufacturer can supply this ingredient for companies that make different kinds of products. The oil has a light texture, so it can be a useful starting material for formulas where a heavy oil is not wanted.",
+          text: "A <b>Grape seed oil bulk manufacturer</b> can supply this ingredient for companies that make different kinds of products. The oil has a light texture, so it can be a useful starting material for formulas where a heavy oil is not wanted.",
         },
         {
           type: "heading",
@@ -194,12 +194,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Grape Seed Oil Bulk Distributor | Product Choice, Quality & Global Sourcing",
+      title: "Grape Seed Oil Bulk Distributors | Product Choice, Quality & Global Sourcing",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A grape seed oil bulk distributor needs to understand what the buyer actually wants to make. A food company may need a food-grade material, while a skincare brand may need specifications suited to cosmetic production.",
+          text: "A <b>Grape seed oil bulk distributors</b> needs to understand what the buyer actually wants to make. A food company may need a food-grade material, while a skincare brand may need specifications suited to cosmetic production.",
         },
         {
           type: "paragraph",
@@ -239,7 +239,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A grape seed oil bulk supplier can work with many types of businesses, including:",
+          text: "A <b>Grape seed oil bulk supplier</b> can work with many types of businesses, including:",
         },
         {
           type: "list",
@@ -281,11 +281,11 @@ export const page: CleanProductPage = {
         },
         {
           type: "heading",
-          text: "Bulk Wholesale for Commercial Production",
+          text: "Grapeseed Oil Bulk Wholesale for Commercial Production",
         },
         {
           type: "paragraph",
-          text: "Businesses that need larger quantities can consider bulk wholesale purchasing instead of buying small retail bottles. This can make more sense for companies producing cosmetics, food products, soaps, hair products, or other commercial goods.",
+          text: "Businesses that need larger quantities can consider <b>Grape seed oil wholesale</b> purchasing instead of buying small retail bottles. This can make more sense for companies producing cosmetics, food products, soaps, hair products, or other commercial goods.",
         },
         {
           type: "paragraph",
@@ -297,7 +297,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A grape seed oil bulk exporter may need to provide different documents depending on where the product is going. Countries can have their own import rules for food, cosmetic, and botanical ingredients.",
+          text: "A <b>Grape seed oil bulk</b> exporter may need to provide different documents depending on where the product is going. Countries can have their own import rules for food, cosmetic, and botanical ingredients.",
         },
         {
           type: "paragraph",
@@ -333,11 +333,11 @@ export const page: CleanProductPage = {
         },
         {
           type: "heading",
-          text: "Grape Seed Oil Bulk Distributor for Product Development",
+          text: "Grape Seed Oil Wholesale for Product Development",
         },
         {
           type: "paragraph",
-          text: "A grape seed oil bulk distributor can be useful not only for large factories but also for smaller brands that are testing a new product.",
+          text: "A <b>Grapeseed oil wholesale</b> can be useful not only for large factories but also for smaller brands that are testing a new product.",
         },
         {
           type: "paragraph",
