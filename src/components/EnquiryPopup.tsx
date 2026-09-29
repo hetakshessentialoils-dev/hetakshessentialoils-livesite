@@ -124,7 +124,7 @@ export function EnquiryPopup() {
               </div>
 
               <div className="form-group col-sm-12">
-                <PhoneField inputId="popup_phone" />
+                <PhoneField inputId="popup_phone" active={active} />
               </div>
 
               <div className="form-group col-sm-12">

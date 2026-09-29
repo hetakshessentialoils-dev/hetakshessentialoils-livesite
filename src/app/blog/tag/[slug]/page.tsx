@@ -47,7 +47,7 @@ export default async function BlogTagPage({
     <>
       <JsonLd data={breadcrumbJsonLd(breadcrumbs)} />
 
-      <main className="blog-tag-archive">
+      <div className="blog-tag-archive">
         <div className="container">
           <div className="middle-align">
             <div className="inner">
@@ -67,7 +67,7 @@ export default async function BlogTagPage({
             </div>
           </div>
         </section>
-      </main>
+      </div>
     </>
   );
 }

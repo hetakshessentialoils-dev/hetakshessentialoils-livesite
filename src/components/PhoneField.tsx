@@ -8,6 +8,7 @@ type PhoneFieldProps = {
   required?: boolean;
   inputId?: string;
   countryInputName?: string;
+  active?: boolean;
 };
 
 export function PhoneField({
@@ -15,11 +16,13 @@ export function PhoneField({
   required = true,
   inputId,
   countryInputName = "country_name",
+  active = true,
 }: PhoneFieldProps) {
   const inputRef = useRef<HTMLInputElement>(null);
   const countryRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
+    if (!active) return;
     const input = inputRef.current;
     if (!input) return;
 
@@ -37,7 +40,7 @@ export function PhoneField({
     }
 
     return () => destroyPhoneInput(input);
-  }, []);
+  }, [active]);
 
   return (
     <>

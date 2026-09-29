@@ -38,12 +38,14 @@ export function initPhoneInput(input: HTMLInputElement): IntlTelInputInstance | 
   };
   input.addEventListener("input", onInput);
 
-  fetch("https://ipinfo.io/json")
-    .then((r) => r.json())
-    .then((data: { country?: string }) => {
-      if (data.country) iti.setCountry(data.country);
-    })
-    .catch(() => {});
+  const flag = input.closest(".iti")?.querySelector<HTMLElement>(".iti__selected-flag");
+  if (flag) {
+    const fixAria = () => {
+      if (flag.getAttribute("aria-expanded") !== "true") flag.removeAttribute("aria-activedescendant");
+    };
+    fixAria();
+    flag.addEventListener("click", () => window.setTimeout(fixAria, 0));
+  }
 
   return iti;
 }

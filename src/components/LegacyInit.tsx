@@ -20,6 +20,45 @@ export function LegacyInit() {
   const pathname = usePathname();
 
   useEffect(() => {
+    let started = false;
+    const startTranslate = () => {
+      if (started) return;
+      started = true;
+      const w = window as Window & { googleTranslateElementInit?: () => void; google?: { translate: { TranslateElement: new (opts: object, id: string) => void } } };
+      w.googleTranslateElementInit = () => {
+        new w.google!.translate.TranslateElement(
+          { pageLanguage: "en", autoDisplay: false },
+          "google_translate_element",
+        );
+      };
+      const script = document.createElement("script");
+      script.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+      document.body.appendChild(script);
+    };
+    window.addEventListener("pointerdown", startTranslate, { once: true });
+    return () => window.removeEventListener("pointerdown", startTranslate);
+  }, []);
+
+  useEffect(() => {
+    const hrefs = [
+      "/assets/vendors/fontawesome/css/all.min.css",
+      "/assets/vendors/owl-carousel/owl.carousel.min.css",
+      "/assets/vendors/owl-carousel/owl.theme.default.min.css",
+      "/assets/vendors/austry-icons/style.css",
+      "/assets/vendors/animate/animate.min.css",
+      "/assets/css/translate-overrides.css",
+      "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css",
+    ];
+    hrefs.forEach((href) => {
+      if (document.querySelector(`link[rel="stylesheet"][href="${href}"]`)) return;
+      const link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = href;
+      document.head.appendChild(link);
+    });
+  }, []);
+
+  useEffect(() => {
     const header = document.querySelector("header.main-header-two.page-header");
     const onScroll = () => {
       if (!header) return;
@@ -275,19 +314,35 @@ export function LegacyInit() {
 
   useEffect(() => {
     const navText = [
-      "<i class='fa fa-angle-left'></i>",
-      "<i class='fa fa-angle-right'></i>",
+      "<i class='fa fa-angle-left' aria-hidden='true'></i>",
+      "<i class='fa fa-angle-right' aria-hidden='true'></i>",
     ];
 
     const configs: [string, object][] = [
-      ["#product-carousel", { loop: true, margin: 30, nav: true, navText, dots: false, autoplay: true, autoplayTimeout: 5000, responsive: { 0: { items: 1 }, 768: { items: 2 }, 1200: { items: 3 } } }],
-      ["#industries-carousel", { loop: true, margin: 30, nav: true, navText, dots: false, autoplay: true, autoplayTimeout: 5000, responsive: { 0: { items: 1 }, 768: { items: 2 }, 1200: { items: 4 } } }],
-      ["#cert-carousel", { loop: true, margin: 20, nav: true, navText, dots: false, autoplay: true, autoplayTimeout: 3000, responsive: { 0: { items: 2 }, 600: { items: 3 }, 1000: { items: 5 } } }],
+      ["#product-carousel", { loop: false, rewind: true, margin: 30, nav: true, navText, dots: false, autoplay: true, autoplayTimeout: 5000, responsive: { 0: { items: 1 }, 768: { items: 2 }, 1200: { items: 3 } } }],
+      ["#industries-carousel", { loop: false, rewind: true, margin: 30, nav: true, navText, dots: false, autoplay: true, autoplayTimeout: 5000, responsive: { 0: { items: 1 }, 768: { items: 2 }, 1200: { items: 4 } } }],
+      ["#cert-carousel", { loop: false, rewind: true, margin: 20, nav: true, navText, dots: false, autoplay: true, autoplayTimeout: 3000, responsive: { 0: { items: 2 }, 600: { items: 3 }, 1000: { items: 5 } } }],
     ];
+
+    const labelOwlNav = () => {
+      document.querySelectorAll<HTMLButtonElement>(".owl-nav button").forEach((btn) => {
+        btn.removeAttribute("role");
+        btn.setAttribute("aria-label", btn.classList.contains("owl-prev") ? "Previous" : "Next");
+      });
+    };
 
     const initOwl = () => {
       const $ = window.jQuery;
-      if (!$?.fn?.owlCarousel) return false;
+      if (!$) return false;
+      if (!$?.fn?.owlCarousel) {
+        if (!document.querySelector("script[data-owl]")) {
+          const owl = document.createElement("script");
+          owl.src = "/assets/vendors/owl-carousel/owl.carousel.min.js";
+          owl.dataset.owl = "1";
+          document.body.appendChild(owl);
+        }
+        return false;
+      }
 
       let foundAny = false;
       configs.forEach(([selector, options]) => {
@@ -297,6 +352,10 @@ export function LegacyInit() {
           if (!el.hasClass("owl-loaded")) el.owlCarousel(options);
         }
       });
+      if (foundAny) {
+        labelOwlNav();
+        window.setTimeout(labelOwlNav, 0);
+      }
       return foundAny;
     };
 
@@ -304,7 +363,7 @@ export function LegacyInit() {
     const timer = setInterval(() => {
       attempts += 1;
       const done = initOwl();
-      if (done || attempts > 30) clearInterval(timer);
+      if (done || attempts > 80) clearInterval(timer);
     }, 200);
 
     return () => clearInterval(timer);

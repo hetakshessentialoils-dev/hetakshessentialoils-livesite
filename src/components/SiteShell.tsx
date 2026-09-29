@@ -20,7 +20,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
       <DisableTextCopy />
       <div className="page-wrapper">
         <Header />
-        {children}
+        <main id="main">{children}</main>
         <Footer />
       </div>
       <EnquiryPopup />

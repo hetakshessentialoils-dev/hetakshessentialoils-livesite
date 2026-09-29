@@ -77,7 +77,14 @@ export function HomeHeroCarousel() {
           >
             {TRACK.map((slide, i) => (
               <div key={`${slide.src}-${i}`} className="home-hero-carousel__slide">
-                <img src={slide.src} alt={slide.alt} className="d-block w-100" />
+                <img
+                  src={slide.src}
+                  alt={slide.alt}
+                  className="d-block w-100"
+                  fetchPriority={i === 1 ? "high" : "low"}
+                  loading={i === 1 ? "eager" : "lazy"}
+                  decoding="async"
+                />
               </div>
             ))}
           </div>

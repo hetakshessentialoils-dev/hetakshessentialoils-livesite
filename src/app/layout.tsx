@@ -32,39 +32,26 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-TW8TGTNQVC"
-          strategy="beforeInteractive"
-        />
-        <Script id="google-gtag" strategy="beforeInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){window.dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-TW8TGTNQVC');
-          `}
-        </Script>
-        <link rel="stylesheet" href="/assets/vendors/bootstrap/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="/assets/vendors/fontawesome/css/all.min.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link
+          id="site-fonts"
           rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+          href="https://fonts.googleapis.com/css2?family=Catamaran:wght@400;500;600;700&family=Poppins:ital,wght@0,400;0,500;0,600;1,400&display=optional"
+          media="print"
+          suppressHydrationWarning
         />
-        <link rel="stylesheet" href="/assets/vendors/austry-icons/style.css" />
-        <link rel="stylesheet" href="/assets/vendors/owl-carousel/owl.carousel.min.css" />
-        <link rel="stylesheet" href="/assets/vendors/owl-carousel/owl.theme.default.min.css" />
-        <link rel="stylesheet" href="/assets/vendors/animate/animate.min.css" />
+        <link rel="stylesheet" href="/assets/vendors/bootstrap/css/bootstrap.min.css" />
         <link rel="stylesheet" href="/assets/css/austry.css" />
         <link rel="stylesheet" href="/assets/css/austry-responsive.css" />
-        <link rel="stylesheet" href="/assets/css/translate-overrides.css" />
-        <link rel="stylesheet" href="/assets/css/faq-page.css" />
-        <link rel="stylesheet" href="/assets/css/blog-page.css" />
-        <link
-          rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css"
-        />
       </head>
       <body>
+        <script
+          dangerouslySetInnerHTML={{
+            __html:
+              "(function(){var l=document.getElementById('site-fonts');if(!l)return;function a(){l.media='all'}if(l.sheet)a();else l.addEventListener('load',a)})();",
+          }}
+        />
         <JsonLd data={organizationJsonLd()} />
         <SiteShell>{children}</SiteShell>
         <div className="whats-app-icon">
@@ -81,24 +68,24 @@ export default function RootLayout({
           </a>
         </div>
         <LegacyInit />
-        <Script id="google-translate-init" strategy="afterInteractive">
-          {`window.googleTranslateElementInit = function () {
-            new window.google.translate.TranslateElement(
-              { pageLanguage: "en", autoDisplay: false },
-              "google_translate_element"
-            );
-          };`}
+        <Script id="google-gtag" strategy="lazyOnload">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){window.dataLayer.push(arguments);}
+            window.gtag = gtag;
+            gtag('js', new Date());
+            gtag('config', 'G-TW8TGTNQVC');
+            var s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://www.googletagmanager.com/gtag/js?id=G-TW8TGTNQVC';
+            document.head.appendChild(s);
+          `}
         </Script>
-        <Script
-          src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
-          strategy="afterInteractive"
-        />
-        <Script src="https://code.jquery.com/jquery-3.7.1.min.js" strategy="afterInteractive" />
-        <Script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" strategy="afterInteractive" />
-        <Script src="/assets/vendors/owl-carousel/owl.carousel.min.js" strategy="afterInteractive" />
+        <Script src="https://code.jquery.com/jquery-3.7.1.min.js" strategy="lazyOnload" />
+        <Script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" strategy="lazyOnload" />
         <Script
           src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/intlTelInput.min.js"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
       </body>
     </html>

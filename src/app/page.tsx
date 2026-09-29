@@ -34,6 +34,12 @@ export default async function HomePage() {
   return (
     <>
       <JsonLd data={faqJsonLd(HOMEPAGE_FAQS)} />
+      <link
+        rel="preload"
+        as="image"
+        href="/assets/images/backgrounds/essential-oil.webp"
+        fetchPriority="high"
+      />
 
       <HomeHeroCarousel />
 
@@ -41,7 +47,7 @@ export default async function HomePage() {
         <div className="container">
           <div className="row">
             <div className="col-xl-6">
-              <div className="about-one__left wow slideInLeft animated">
+              <div className="about-one__left">
                 <div className="section-title text-left">
                   <h1 className="section-title__title">Hetaksh Essential Oils</h1>
                   <h2 className="section-title__tagline">
@@ -73,9 +79,13 @@ export default async function HomePage() {
             </div>
             <div className="col-xl-6">
               <div className="about-one__right">
-                <div className="about-one__img-box wow slideInRight animated">
+                <div className="about-one__img-box">
                   <div className="about-one__img">
-                    <img src="/assets/images/resources/essential-oil-wholesale.webp" alt="Essential Oil Wholesale" />
+                    <img
+                      src="/assets/images/resources/essential-oil-wholesale.webp"
+                      alt="Essential Oil Wholesale"
+                      decoding="async"
+                    />
                   </div>
                 </div>
               </div>
@@ -97,6 +107,8 @@ export default async function HomePage() {
                     <img
                       src={CATEGORY_IMAGES[category.slug] || CATEGORY_IMAGES["essential-oils"]}
                       alt={category.name}
+                      loading="lazy"
+                      decoding="async"
                     />
                   </div>
                   <div className="project-six__content">
@@ -117,13 +129,13 @@ export default async function HomePage() {
           </div>
           <div className="row">
             {PROCESS_STEPS.map((step, index) => (
-              <div key={step.title} className="col-xl-3 col-lg-3 col-md-6 col-sm-6 mb-3 wow fadeInUp animated mt-3">
+              <div key={step.title} className="col-xl-3 col-lg-3 col-md-6 col-sm-6 mb-3 mt-3">
                 <Link href="/working-process">
                   <div className={`process-one__single ${index < 3 ? "p-bg-1" : ""}`}>
                     <span>
-                      <img src={step.image} alt={step.title} />
+                      <img src={step.image} alt={step.title} loading="lazy" decoding="async" />
                     </span>
-                    <h4 className="process-one__title">{step.title}</h4>
+                    <h3 className="process-one__title">{step.title}</h3>
                   </div>
                 </Link>
               </div>
@@ -137,14 +149,14 @@ export default async function HomePage() {
       <section className="Industries bg-color2">
         <div className="container">
           <div className="section-title text-center">
-            <h4 className="section-title__title">Industries We Serve</h4>
+            <h2 className="section-title__title">Industries We Serve</h2>
           </div>
           <div className="owl-carousel owl-theme" id="industries-carousel">
             {INDUSTRY_ITEMS.map((item) => (
               <div key={item.title} className="Industries__single">
                 <Link href={item.href}>
                   <div className="Industries__img">
-                    <img src={item.image} alt={item.title} />
+                    <img src={item.image} alt={item.title} loading="lazy" decoding="async" />
                   </div>
                   <div className="Industries__content">
                     <h3 className="Industries__title">{item.title}</h3>
@@ -185,7 +197,7 @@ export default async function HomePage() {
             {CERTIFICATE_CAROUSEL.map((cert) => (
               <div key={cert.src} className="item">
                 <div className="logo-box">
-                  <img src={cert.src} alt={cert.alt} />
+                  <img src={cert.src} alt={cert.alt} loading="lazy" decoding="async" />
                 </div>
               </div>
             ))}
@@ -196,19 +208,19 @@ export default async function HomePage() {
       <section className="bg-color2">
         <div className="container">
           <div className="row">
-            <div className="col-xl-7 wow fadeInUp animated">
+            <div className="col-xl-7">
               <div className="section-title">
                 <h3 className="section-title__title">Latest News & Blog</h3>
               </div>
             </div>
           </div>
           <div className="row">
-            <div className="col-xl-7 wow fadeInUp animated">
+            <div className="col-xl-7">
               {featured && (
                 <div className="news-two__left">
                   <div className="news-two__left-img">
                     {featured.featuredImageUrl && (
-                      <img src={featured.featuredImageUrl} alt={featured.title} />
+                      <img src={featured.featuredImageUrl} alt={featured.title} loading="lazy" decoding="async" />
                     )}
                     <div className="news-two__left-img-content">
                       <h3 className="news-two__left-title">
@@ -219,7 +231,7 @@ export default async function HomePage() {
                 </div>
               )}
             </div>
-            <div className="col-xl-5 wow fadeInUp animated">
+            <div className="col-xl-5">
               <div className="news-two__right">
                 <ul className="list-unstyled news-two__list">
                   {sidePosts.map((post) => (
@@ -227,7 +239,7 @@ export default async function HomePage() {
                       <div className="news-two__single">
                         {post.featuredImageUrl && (
                           <div className="news-two__img">
-                            <img src={post.featuredImageUrl} alt={post.title} />
+                            <img src={post.featuredImageUrl} alt={post.title} loading="lazy" decoding="async" />
                           </div>
                         )}
                         <div className="news-two__content">

@@ -5,9 +5,9 @@ export function Footer() {
   return (
     <>
       <div className="container">
-        <h4 style={{ paddingTop: 25, textAlign: "center", textTransform: "uppercase" }}>
+        <h3 style={{ paddingTop: 25, textAlign: "center", textTransform: "uppercase", fontSize: "calc(1.275rem + .3vw)" }}>
           Global Bulk Manufacturer & Supplier of Natural & Pure Products
-        </h4>
+        </h3>
         <p style={{ paddingTop: 10, textAlign: "center" }}>
           <b>
             Internationally Renowned Exporters of Essential Oils & Carrier Oils. Serving clients in:
@@ -43,7 +43,7 @@ export function Footer() {
               <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp">
                 <div className="footer-widget__column footer-widget__about">
                   <div className="footer-widget__title-box">
-                    <h4 className="footer-widget__title">About Hetaksh Essential Oils</h4>
+                    <h3 className="footer-widget__title">About Hetaksh Essential Oils</h3>
                   </div>
                   <div className="footer-widget__about-text-box">
                     <p className="footer-widget__about-text">
@@ -63,7 +63,7 @@ export function Footer() {
               <div className="col-xl-2 col-lg-6 col-md-6 wow fadeInUp">
                 <div className="footer-widget__column footer-widget__links">
                   <div className="footer-widget__title-box">
-                    <h4 className="footer-widget__title">Useful links</h4>
+                    <h3 className="footer-widget__title">Useful links</h3>
                   </div>
                   <ul className="footer-widget__links-list list-unstyled">
                     <li><Link href="/about">About</Link></li>
@@ -77,7 +77,7 @@ export function Footer() {
               <div className="col-xl-2 col-lg-6 col-md-6 wow fadeInUp">
                 <div className="footer-widget__column footer-widget__links">
                   <div className="footer-widget__title-box">
-                    <h4 className="footer-widget__title">Products</h4>
+                    <h3 className="footer-widget__title">Products</h3>
                   </div>
                   <ul className="footer-widget__links-list list-unstyled">
                     <li><Link href="/essential-oils">Essential Oils Bulk Supplier</Link></li>
@@ -92,9 +92,9 @@ export function Footer() {
               <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp">
                 <div className="footer-widget__contact">
                   <div className="footer-widget__title-box">
-                    <h4 className="footer-widget__title">Contact Us</h4>
+                    <h3 className="footer-widget__title">Contact Us</h3>
                   </div>
-                  <h6 style={{ color: "#fff" }}>Office Address</h6>
+                  <p style={{ color: "#fff", fontWeight: 700, marginBottom: 8 }}>Office Address</p>
                   <p className="footer-widget__contact-text">
                     WZ-106/81, Ground Floor, Rajouri Garden Extn, Behind Cambridge Foundation School,
                     West Delhi, Delhi, 110027
@@ -110,14 +110,17 @@ export function Footer() {
                     </li>
                     <li>
                       <div className="icon"><span className="icon-telephone" /></div>
-                      <div className="text"><p><a href="tel:+919871888705">+91 9871-888-705</a><a href="tel:+919870385705">, 9870-385-705</a></p></div>
+                      <div className="text">
+                        <p>
+                          <a href="tel:+919871888705">+91 9871-888-705</a><a href="tel:+919870385705">, 9870-385-705</a>
+                        </p>
+                      </div>
                     </li>
                     <li>
                       <div className="icon"><span className="fab fa-whatsapp" aria-hidden="true" style={{ fontSize: 18 }} /></div>
                       <div className="text">
                         <p>
-                          <a href="https://wa.me/919871888705">+91 9871-888-705</a>
-                          <a href="https://wa.me/919870385705">, 9870-385-705</a>
+                          <a href="https://wa.me/919871888705" aria-label="WhatsApp +91 9871-888-705">+91 9871-888-705</a><a href="https://wa.me/919870385705" aria-label="WhatsApp +91 9870-385-705">, 9870-385-705</a>
                         </p>
                       </div>
                     </li>

@@ -2113,3 +2113,43 @@ form.contact_form .iti input {
     color: #fff !important;
   }
 }
+
+.footer-widget__Contact-list a,
+.mobile-nav__contact a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  padding: 4px 0;
+}
+
+/* Hold carousel height before Owl starts, so the page does not jump */
+.owl-carousel:not(.owl-loaded) {
+  display: flex !important;
+  overflow: hidden;
+  gap: 16px;
+}
+
+.owl-carousel:not(.owl-loaded) > * {
+  flex: 0 0 100%;
+  min-width: 0;
+}
+
+@media (min-width: 768px) {
+  .owl-carousel:not(.owl-loaded) > * {
+    flex-basis: 48%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #product-carousel:not(.owl-loaded) > * {
+    flex-basis: 31%;
+  }
+
+  #industries-carousel:not(.owl-loaded) > * {
+    flex-basis: 23%;
+  }
+
+  #cert-carousel:not(.owl-loaded) > * {
+    flex-basis: 18%;
+  }
+}
