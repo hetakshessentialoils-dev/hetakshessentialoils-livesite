@@ -4453,7 +4453,8 @@ section.process-one-2 {
     background-repeat: no-repeat;
 }
 
-.process-one__single h4 {
+.process-one__single h4,
+.process-one__single h3 {
     color: var(--austry-base);
     margin: 0;
 }
