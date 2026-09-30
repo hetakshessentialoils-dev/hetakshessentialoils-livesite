@@ -71,7 +71,7 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Premium Arachis Oil BP & USP Wholesale Supplier | Bulk Manufacturer",
+  seoTitle: "Arachis Oil Wholesale, Supplier & Bulk Manufacturer",
   seoDescription: "Hetaksh Essential Oils is an Arachis Oil manufacturer & supplier offering Arachis Oil BP, USP, wholesale and bulk solutions for industries.",
   specs: [
     {
