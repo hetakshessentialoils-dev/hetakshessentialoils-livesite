@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Hemp Seed Oil",
-  heading: "Hemp Seed Oil | A Plant-Based Oil with a Smooth, Nutty Feel",
+  heading: "Hemp Seed Oil Wholesale | 100% Pure Hemp Seed Oil Bulk Manufacturers",
   image: "/assets/images/products/Carrier-Oils/Hemp-Seed-Oil.webp",
   imageAlt: "Hemp Seed Oil",
   paragraphs: [
@@ -57,18 +57,18 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Hemp Seed Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "100% Pure Hemp Seed Oil Wholesale Supplier & Bulk Manufacturer",
-  seoDescription: "Premium 100% pure Hemp Seed Oil wholesale supplier and bulk manufacturer. Suitable for skincare, and personal care manufacturer worldwide.",
+  seoTitle: "Hemp Seed Oil Wholesale, Supplier & Bulk Manufacturers in US",
+  seoDescription: "100% pure Hemp Seed Oil bulk manufacturer and wholesale supplier in US, Hetaksh Essential Oils offers quality products at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
       type: "section",
-      title: "Hemp Seed Oil Bulk Supply | What Makes This Seed Oil Interesting?",
+      title: "Hemp Seed Oil Bulk Manufacturers | What Makes This Seed Oil Interesting?",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A hemp seed oil bulk manufacturer works with a seed oil that has a different fatty acid balance from many familiar carrier oils. Hemp seeds naturally contain both omega-6 and omega-3 fatty acids, including linoleic acid and alpha-linolenic acid. This gives the oil a useful place in food and cosmetic product development.",
+          text: "A <b>Hemp seed oil bulk manufacturer</b> works with a seed oil that has a different fatty acid balance from many familiar carrier oils. Hemp seeds naturally contain both omega-6 and omega-3 fatty acids, including linoleic acid and alpha-linolenic acid. This gives the oil a useful place in food and cosmetic product development.",
         },
         {
           type: "heading",
@@ -113,7 +113,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "If a manufacturer wants a very clear product, the choice of grade and processing becomes more important.",
+          text: "If a <b>Hemp seed oil manufacturer</b> wants a very clear product, the choice of grade and processing becomes more important.",
         },
         {
           type: "heading",
@@ -129,7 +129,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A hemp seed oil bulk supplier may therefore serve companies that want a plant-based oil without adding a very strong fragrance to their finished product.",
+          text: "A <b>Hemp seed oil wholesale</b> may therefore serve companies that want a plant-based oil without adding a very strong fragrance to their finished product.",
         },
         {
           type: "heading",
@@ -168,7 +168,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "The beauty industry can use hemp seed oil in many ways. A hemp seed oil bulk distributor may supply it to companies making skincare, hair-care, soap, massage, and personal-care products.",
+          text: "The beauty industry can use hemp seed oil in many ways. A <b>Hemp seed oil bulk distributors</b> may supply it to companies making skincare, hair-care, soap, massage, and personal-care products.",
         },
         {
           type: "heading",
@@ -246,7 +246,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Hemp seed oil bulk wholesale purchasing can be useful for businesses that need larger quantities for regular production.",
+          text: "<b>Hemp seed oil bulk wholesale</b> purchasing can be useful for businesses that need larger quantities for regular production.",
         },
         {
           type: "paragraph",
@@ -322,7 +322,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A hemp seed oil bulk exporter may work with buyers in different countries, but hemp- related products can be subject to country-specific rules.",
+          text: "A <b>Hemp seed oil bulk exporter</b> may work with buyers in different countries, but hemp- related products can be subject to country-specific rules.",
         },
         {
           type: "paragraph",
