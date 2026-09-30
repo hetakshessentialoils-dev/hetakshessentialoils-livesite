@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Juniper Oil",
-  heading: "Juniper Oil | Fresh Green Oil from the Juniper Plant",
+  heading: "Juniper Oil Manufacturer | Natural Juniper Oil Wholesale Supplier",
   image: "/assets/images/products/Essential-Oils/Juniper-Oil.webp",
   imageAlt: "Juniper Oil",
   paragraphs: [
@@ -53,8 +53,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Juniper Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "100% Pure Juniper Oil Wholesale Supplier & Bulk Manufacturer in US",
-  seoDescription: "Trusted Juniper Oil wholesale supplier and bulk manufacturer in the US, offering 100% pure natural oil for aromatherapy, and related uses.",
+  seoTitle: "Juniper Oil Wholesale Supplier & Bulk Manufacturer in US",
+  seoDescription: "100% pure Juniper Oil wholesale supplier and bulk manufacturer in US, Hetaksh Essential Oils offers reliable supply at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -75,7 +75,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A juniper oil bulk manufacturer may work with different raw materials and batches, so small changes in colour or aroma can occur naturally.",
+          text: "A <b>juniper oil bulk manufacturers</b> may work with different raw materials and batches, so small changes in colour or aroma can occur naturally.",
         },
       ],
     },
@@ -95,7 +95,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "variant",
-      title: "Juniper Hydrosol | Light Botanical Water with a Fresh Green Note",
+      title: "Bulk Juniper Hydrosol | Light Botanical Water with a Fresh Green Note",
       paragraphs: [],
       content: [
         {
@@ -185,12 +185,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Juniper Oil Uses | Fragrance, Personal Care and Product Ideas",
+      title: "Juniper Oil Wholesale Uses | Fragrance, Personal Care and Product Ideas",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "Juniper has a clean, green smell that can change the mood of a fragrance blend. A juniper oil bulk distributor may supply it to perfume houses, cosmetic companies, soap makers, personal-care brands, and home-fragrance businesses.",
+          text: "Juniper has a clean, green smell that can change the mood of a fragrance blend. A <b>juniper oil bulk distributors</b> may supply it to perfume houses, cosmetic companies, soap makers, personal-care brands, and home-fragrance businesses.",
         },
         {
           type: "heading",
@@ -302,7 +302,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A juniper oil bulk wholesaler may work with several industries:",
+          text: "A <b>juniper oil bulk wholesale</b> may work with several industries:",
         },
         {
           type: "paragraph",
@@ -366,7 +366,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "heading",
-          text: "Commercial Juniper Oil",
+          text: "Commercial Juniper Oil Supplier",
         },
         {
           type: "paragraph",
@@ -386,7 +386,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A juniper oil bulk exporter may work with buyers in different countries. The requirements can change depending on the destination and intended application.",
+          text: "A <b>juniper oil bulk exporter</b> may work with buyers in different countries. The requirements can change depending on the destination and intended application.",
         },
         {
           type: "paragraph",
