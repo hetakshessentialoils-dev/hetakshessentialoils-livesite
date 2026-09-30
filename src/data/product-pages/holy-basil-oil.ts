@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Holy Basil Oil",
-  heading: "Holy Basil Oil Wholesale | 100% Pure & Natural Holy Basil Oil (Tulsi Oil) Bulk Manufacturers",
+  heading: "Holy Basil Oil Wholesale | 100% Pure Holy Basil Oil (Tulsi Oil) Bulk Manufacturer",
   image: "/assets/images/products/Essential-Oils/Basil-Oil-Holy.webp",
   imageAlt: "Holy Basil Oil",
   paragraphs: [
