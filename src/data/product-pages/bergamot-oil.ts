@@ -79,8 +79,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "100% Pure Bergamot Oil Manufacturers | Wholesale & Bulk Supplier in USA",
-  seoDescription: "Source 100% pure Bergamot Oil Wholesale Suppliers for perfumes, skincare and personal care products. Ideal for manufacturer, brands and distributors seeking bulk supply.",
+  seoTitle: "Bergamot Oil Manufacturers | Wholesale & Bulk Supplier in USA",
+  seoDescription: "100% Pure Bergamot Oil manufacturers and wholesale suppliers in USA. Get premium-quality bulk Bergamot Oil at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
