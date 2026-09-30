@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Holy Basil Oil",
-  heading: "Holy Basil Oil | Fresh Herbal Oil from the Tulsi Plant",
+  heading: "Holy Basil Oil Wholesale | 100% Pure & Natural Holy Basil Oil (Tulsi Oil) Bulk Manufacturers",
   image: "/assets/images/products/Essential-Oils/Basil-Oil-Holy.webp",
   imageAlt: "Holy Basil Oil",
   paragraphs: [
@@ -100,7 +100,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "variant",
-      title: "Holy Basil Hydrosol | A Light Tulsi Water for Botanical Products",
+      title: "Bulk Holy Basil Hydrosol | A Light Tulsi Water for Botanical Products",
       paragraphs: [],
       content: [
         {
@@ -198,12 +198,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Holy Basil Oil Uses | From Aromatic Blends to Personal Care",
+      title: "Holy Basil Oil Wholesale Uses | From Aromatic Blends to Personal Care",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "Holy basil has a strong green and spicy smell, so it can give a product a clear herbal identity. A holy basil oil bulk manufacturer can supply the oil for different commercial applications.",
+          text: "Holy basil has a strong green and spicy smell, so it can give a product a clear herbal identity. A <b>Holy basil oil bulk manufacturer</b> can supply the oil for different commercial applications.",
         },
         {
           type: "heading",
@@ -317,11 +317,11 @@ export const page: CleanProductPage = {
         },
         {
           type: "heading",
-          text: "Holy Basil Oil Bulk Supply",
+          text: "Holy Basil Oil Bulk Supplier",
         },
         {
           type: "paragraph",
-          text: "A holy basil oil bulk supplier can work with businesses that need regular quantities for production. This can include cosmetic makers, aromatherapy brands, soap manufacturers, fragrance companies, hair-care businesses, and personal-care brands.",
+          text: "A <b>Holy basil oil bulk suppliers</b> can work with businesses that need regular quantities for production. This can include cosmetic makers, aromatherapy brands, soap manufacturers, fragrance companies, hair-care businesses, and personal-care brands.",
         },
         {
           type: "paragraph",
@@ -349,7 +349,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A holy basil oil bulk distributor may provide information such as the botanical name, plant part, extraction method, appearance, aroma, product grade, batch details, COA, TDS, and MSDS, depending on the product and application.",
+          text: "A <b>Holy basil oil bulk distributors</b> may provide information such as the botanical name, plant part, extraction method, appearance, aroma, product grade, batch details, COA, TDS, and MSDS, depending on the product and application.",
         },
         {
           type: "paragraph",
@@ -357,7 +357,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A holy basil oil bulk exporter can therefore work with buyers to discuss the product specifications and commercial requirements before shipment.",
+          text: "A <b>Holy basil oil wholesale</b> can therefore work with buyers to discuss the product specifications and commercial requirements before shipment.",
         },
         {
           type: "paragraph",
