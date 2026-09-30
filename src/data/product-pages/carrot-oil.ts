@@ -236,8 +236,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "100% Pure Carrot Seed Oil Wholesale Suppliers | Hydrosol Bulk Manufacturers",
-  seoDescription: "100% Pure Carrot Seed Oil Wholesale from trusted manufacturers and suppliers for skincare, cosmetics, and wellness applications.",
+  seoTitle: "Carrot Seed Oil Wholesale & Bulk Manufacturers US",
+  seoDescription: "100% Pure Carrot Seed Oil bulk manufacturer and wholesale supplier in US. Order premium-quality natural oil at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
