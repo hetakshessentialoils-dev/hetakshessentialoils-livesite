@@ -79,12 +79,20 @@ export const page: CleanProductPage = {
           text: "The easiest way to understand them is to look at their form.",
         },
         {
-          type: "paragraph",
-          text: "<b>Orange Oil:</b> concentrated, oil-based, and strongly aromatic.",
+          type: "heading",
+          text: "Orange Oil:",
         },
         {
           type: "paragraph",
-          text: "<b>Orange Hydrosol:</b> water-based, lighter, and much softer smelling.",
+          text: "concentrated, oil-based, and strongly aromatic.",
+        },
+        {
+          type: "heading",
+          text: "Orange Hydrosol:",
+        },
+        {
+          type: "paragraph",
+          text: "water-based, lighter, and much softer smelling.",
         },
         {
           type: "paragraph",
