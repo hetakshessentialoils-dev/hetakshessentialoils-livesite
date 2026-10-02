@@ -62,8 +62,10 @@ export function FAQSection({
 
 export function Breadcrumbs({
   items,
+  titleAs: Title = "h2",
 }: {
   items: { name: string; href: string }[];
+  titleAs?: "h1" | "h2";
 }) {
   const current = items[items.length - 1]?.name || "";
 
@@ -75,7 +77,7 @@ export function Breadcrumbs({
       />
       <div className="container">
         <div className="page-header__inner">
-          <h2>{current}</h2>
+          <Title>{current}</Title>
           <ul className="thm-breadcrumb list-unstyled">
             {items.map((item, index) => (
               <li key={item.href}>

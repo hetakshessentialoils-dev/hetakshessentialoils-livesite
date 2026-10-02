@@ -22,7 +22,7 @@ export default function IndustriesPage() {
   return (
     <>
       <JsonLd data={breadcrumbJsonLd(breadcrumbs)} />
-      <Breadcrumbs items={breadcrumbs} />
+      <Breadcrumbs items={breadcrumbs} titleAs="h1" />
 
       {INDUSTRY_SECTIONS.map((section, index) => {
         const contentFirst = index % 2 === 0;

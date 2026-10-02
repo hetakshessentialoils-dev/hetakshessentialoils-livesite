@@ -21,7 +21,7 @@ export default function DownloadBrochurePage() {
   return (
     <>
       <JsonLd data={breadcrumbJsonLd(breadcrumbs)} />
-      <Breadcrumbs items={breadcrumbs} />
+      <Breadcrumbs items={breadcrumbs} titleAs="h1" />
 
       <section className="p-5">
         <div className="container">

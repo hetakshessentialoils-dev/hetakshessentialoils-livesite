@@ -683,6 +683,7 @@
         padding: 20px 0
     }
 
+    .page-header__inner h1,
     .page-header__inner h2 {
         font-size: 32px;
         line-height: 36px

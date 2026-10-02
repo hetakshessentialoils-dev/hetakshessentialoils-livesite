@@ -276,7 +276,7 @@ async function CategoryPage({
     return (
       <>
         <JsonLd data={breadcrumbJsonLd(breadcrumbs)} />
-        <Breadcrumbs items={breadcrumbs} />
+        <Breadcrumbs items={breadcrumbs} titleAs="h1" />
         <DetailLayout slug={slug} detail={detail} page={page} />
       </>
     );
@@ -288,7 +288,7 @@ async function CategoryPage({
     <>
       <JsonLd data={breadcrumbJsonLd(breadcrumbs)} />
       <JsonLd data={faqJsonLd(faqs)} />
-      <Breadcrumbs items={breadcrumbs} />
+      <Breadcrumbs items={breadcrumbs} titleAs="h1" />
 
       <section className="project-six bg-color inner-page-section">
         <div className="container">

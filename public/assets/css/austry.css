@@ -2471,6 +2471,7 @@ section.process-one-2 {
     text-align: center;
 }
 
+.page-header__inner h1,
 .page-header__inner h2 {
     font-size: 48px;
     color: #233539;
