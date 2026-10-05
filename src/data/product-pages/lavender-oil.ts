@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Lavender Oil",
-  heading: "Lavender Oil | Bulgarian Lavender, Commercial Lavender and Natural Aroma",
+  heading: "Lavender Oil Bulk Manufacturer | Natural Lavender Oil Wholesale Supplier",
   image: "/assets/images/products/Essential-Oils/Lavender-Oil.webp",
   imageAlt: "Lavender Oil",
   paragraphs: [
@@ -58,7 +58,7 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   seoTitle: "Pure Lavender Oil Wholesale | Bulk Manufacturer & Hydrosol Supplier",
-  seoDescription: "Buy high-quality Lavender Oil in bulk at wholesale prices from a trusted manufacturer and Hydrosol supplier in USA.",
+  seoDescription: "Buy high-quality <b>Lavender Oil in bulk</b> at wholesale prices from a trusted manufacturer and Hydrosol supplier in USA.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -85,12 +85,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Bulgarian Lavender Oil | What Makes This Origin Different?",
+      title: "Bulgarian Lavender Oil Supplier | What Makes This Origin Different?",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "Bulgarian Lavender Oil refers to lavender oil associated with lavender grown and produced in Bulgaria. Bulgaria is well known for lavender cultivation and commercial lavender oil production.",
+          text: "Bulgarian Lavender Oil refers to lavender oil associated with lavender grown and produced in Bulgaria. Bulgaria is well known for lavender cultivation and commercial lavender oil wholesale production.",
         },
         {
           type: "paragraph",
@@ -380,7 +380,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "A lavender oil bulk manufacturer may work with different commercial requirements. One buyer may want a particular origin, while another may need a certain composition.",
+          text: "A <b>Lavender oil bulk manufacturer</b> may work with different commercial requirements. One buyer may want a particular origin, while another may need a certain composition.",
         },
         {
           type: "paragraph",
@@ -490,7 +490,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "At Hetaksh Essential Oils, lavender can be considered in different product forms and specifications, including requirements related to origin and commercial grade.",
+          text: "At <b>Hetaksh Essential Oils</b>, lavender can be considered in different product forms and specifications, including requirements related to origin and commercial grade.",
         },
       ],
     },
