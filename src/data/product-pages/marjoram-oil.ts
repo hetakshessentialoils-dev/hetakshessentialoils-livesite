@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Marjoram Oil",
-  heading: "Marjoram Oil | A Warm Herb with a Soft, Green Aroma",
+  heading: "Marjoram Oil Wholesale Supplier | Marjoram Oil Bulk Manufacturer & Distributors",
   image: "/assets/images/products/Essential-Oils/Marjoram-Oil.webp",
   imageAlt: "Marjoram Oil",
   paragraphs: [
@@ -53,13 +53,13 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Marjoram Oil Manufacturer & Hydrosol Wholesale Suppliers in US",
+  seoTitle: "Marjoram Oil Manufacturer & Wholesale Suppliers in US",
   seoDescription: "Trusted US Marjoram Oil manufacturer and Hydrosol wholesale supplier, offering pure products in bulk with reliable supply and competitive rates.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
       type: "variant",
-      title: "Marjoram Hydrosol | A Light Herbal Water from the Same Plant",
+      title: "Bulk Marjoram Hydrosol | A Light Herbal Water from the Same Plant",
       paragraphs: [],
       content: [
         {
@@ -113,7 +113,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A marjoram hydrosol bulk supplier can work with brands developing water-based personal-care and botanical products.",
+          text: "A <b>Marjoram hydrosol bulk supplier</b> can work with brands developing water-based personal-care and botanical products.",
         },
         {
           type: "heading",
@@ -197,7 +197,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Inside Marjoram Oil | A Simple Look at Its Natural Compounds",
+      title: "Inside Marjoram Oil Wholesale | A Simple Look at Its Natural Compounds",
       paragraphs: [],
       content: [
         {
@@ -257,7 +257,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "A marjoram oil bulk manufacturer may supply the ingredient to several types of businesses.",
+          text: "A <b>Marjoram oil bulk manufacturer</b> may supply the ingredient to several types of businesses.",
         },
         {
           type: "heading",
@@ -415,7 +415,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "Marjoram oil bulk wholesale can be useful for businesses that need the ingredient regularly.",
+          text: "<b>Marjoram oil bulk wholesale</b> can be useful for businesses that need the ingredient regularly.",
         },
         {
           type: "paragraph",
@@ -453,7 +453,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A marjoram oil bulk exporter may supply buyers in different countries. The documents and requirements can change depending on where the product is going and what the customer plans to make.",
+          text: "A <b>Marjoram oil bulk</b> exporter may supply buyers in different countries. The documents and requirements can change depending on where the product is going and what the customer plans to make.",
         },
         {
           type: "paragraph",
