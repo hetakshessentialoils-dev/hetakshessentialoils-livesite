@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Lemongrass Oil",
-  heading: "Lemongrass Oil | Fresh Green Oil for Fragrance, Food and Personal Care",
+  heading: "Lemongrass Oil Wholesale| Pure Lemongrass Oil Supplier & Bulk Manufacturers",
   image: "/assets/images/products/Essential-Oils/Lemongrass-Oil.webp",
   imageAlt: "Lemongrass Oil",
   paragraphs: [
@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lemongrass Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Lemongrass oil bulk manufacturer | Hydrosol Wholesale Supplier",
-  seoDescription: "Trusted Lemongrass Oil manufacturer and Hydrosol wholesale supplier offering pure products in bulk quantities for fragrance, and other uses.",
+  seoTitle: "Lemongrass oil bulk manufacturer & Wholesale Supplier in USA",
+  seoDescription: "Hetaksh Essential Oils offers premium Lemongrass Oil as a bulk manufacturer and wholesale supplier in USA at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -91,7 +91,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A lemongrass hydrosol bulk supplier can provide this type of ingredient for businesses exploring water-based botanical products.",
+          text: "A <b>lemongrass hydrosol bulk supplier</b> can provide this type of ingredient for businesses exploring water-based botanical products.",
         },
         {
           type: "heading",
@@ -176,12 +176,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Lemongrass Oil Uses | Fragrance, Food, Skin and Hair Applications",
+      title: "Lemongrass Oil Wholesale Uses | Fragrance, Food, Skin and Hair Applications",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A lemongrass oil bulk manufacturer can supply the oil to businesses that use natural aromatic ingredients in different products.",
+          text: "A <b>lemongrass oil bulk manufacturer</b> can supply the oil to businesses that use natural aromatic ingredients in different products.",
         },
         {
           type: "heading",
@@ -348,15 +348,15 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A lemongrass oil bulk distributor may therefore work with businesses from both personal-care and home-fragrance industries.",
+          text: "A <b>lemongrass oil bulk distributors</b> may therefore work with businesses from both personal-care and home-fragrance industries.",
         },
         {
           type: "heading",
-          text: "Bulk Use and Product Development",
+          text: "Lemongrass oil Bulk Use and Product Development",
         },
         {
           type: "paragraph",
-          text: "Lemongrass oil bulk wholesale purchasing can be useful for companies that use the oil regularly.",
+          text: "<b>Lemongrass oil bulk wholesale</b> purchasing can be useful for companies that use the oil regularly.",
         },
         {
           type: "paragraph",
@@ -392,7 +392,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A lemongrass oil bulk exporter may supply buyers in different countries. The requirements can vary depending on whether the oil is intended for food, cosmetics, fragrance, or another application.",
+          text: "A <b>lemongrass oil bulk exporter</b> may supply buyers in different countries. The requirements can vary depending on whether the oil is intended for food, cosmetics, fragrance, or another application.",
         },
         {
           type: "paragraph",
