@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Lime Oil",
-  heading: "Lime Oil | Sharp Green Citrus Oil from Fresh Lime Peel",
+  heading: "Lime Oil Manufacturers | Pure Lime Oil Wholesale Supplier",
   image: "/assets/images/products/Essential-Oils/Lime-Oil.webp",
   imageAlt: "Lime Oil",
   paragraphs: [
@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lime Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Lime Oil Wholesale Supplier & Hydrosol Bulk Manufacturer in USA",
-  seoDescription: "Hetaksh Essential Oils is a trusted Lime Oil manufacturer and Hydrosol wholesale supplier, offering pure products in bulk with reliable supply across the USA.",
+  seoTitle: "Lime Oil Wholesale Supplier & Bulk Manufacturer in USA",
+  seoDescription: "Lime Oil bulk manufacturer and wholesale supplier in the USA offering premium quality oil, reliable supply, and competitive wholesale prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -125,7 +125,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "variant",
-      title: "Lime Hydrosol | A Light Citrus Water for Fresh Product Ideas",
+      title: "Lime Hydrosol Supplier | A Light Citrus Water for Fresh Product Ideas",
       paragraphs: [],
       content: [
         {
@@ -156,7 +156,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A lime hydrosol bulk supplier may work with brands that want a lighter botanical ingredient rather than a concentrated essential oil.",
+          text: "A <b>lime hydrosol bulk supplier</b> may work with brands that want a lighter botanical ingredient rather than a concentrated essential oil.",
         },
         {
           type: "heading",
@@ -220,12 +220,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Lime Oil in Everyday Products | From Food Flavours to Fresh Fragrances",
+      title: "Lime Oil Wholesale in Everyday Products | From Food Flavours to Fresh Fragrances",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "Lime has a very useful place in flavour and fragrance because its smell is easy to recognise. A lime oil bulk manufacturer can supply suitable grades to businesses working with food, fragrance, cosmetics, soap, personal care, and home fragrance.",
+          text: "Lime has a very useful place in flavour and fragrance because its smell is easy to recognise. A <b>lime oil bulk manufacturer</b> can supply suitable grades to businesses working with food, fragrance, cosmetics, soap, personal care, and home fragrance.",
         },
         {
           type: "heading",
@@ -451,7 +451,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Lime oil bulk wholesale can be useful for businesses that use citrus oil regularly. A manufacturer may first test a sample and then decide how much material is needed for production.",
+          text: "<b>Lime oil bulk wholesale</b> can be useful for businesses that use citrus oil regularly. A manufacturer may first test a sample and then decide how much material is needed for production.",
         },
         {
           type: "paragraph",
@@ -463,11 +463,11 @@ export const page: CleanProductPage = {
         },
         {
           type: "heading",
-          text: "Lime Oil for International Markets",
+          text: "Lime Oil Wholesale Supplier for International Markets",
         },
         {
           type: "paragraph",
-          text: "A lime oil bulk exporter may supply different grades for buyers in different countries. The required paperwork can depend on the destination and the intended application.",
+          text: "A <b>lime oil bulk</b> exporter may supply different grades for buyers in different countries. The required paperwork can depend on the destination and the intended application.",
         },
         {
           type: "paragraph",
