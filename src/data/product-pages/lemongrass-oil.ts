@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Lemongrass Oil",
-  heading: "Lemongrass Oil Wholesale| Pure Lemongrass Oil Supplier & Bulk Manufacturers",
+  heading: "Lemongrass Oil Wholesale | Pure Lemongrass Oil Supplier & Bulk Manufacturers",
   image: "/assets/images/products/Essential-Oils/Lemongrass-Oil.webp",
   imageAlt: "Lemongrass Oil",
   paragraphs: [
