@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Mandarin Oil",
-  heading: "Mandarin Oil | A Sweet Citrus Oil with a Soft, Fruity Smell",
+  heading: "Mandarin Oil Manufacturer | Pure Mandarin Oil Wholesale & Bulk Supplier",
   image: "/assets/images/products/Essential-Oils/Mandarin-Oil.webp",
   imageAlt: "Mandarin Oil",
   paragraphs: [
@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Bulk Manufacturer of Mandarin Oil Wholesale Suppliers | Distributor",
-  seoDescription: "Trusted Mandarin Oil manufacturer, wholesale supplier, and distributor providing pure natural oil in bulk quantities at competitive prices for businesses.",
+  seoTitle: "Manufacturer of Mandarin Oil Wholesale Suppliers in US",
+  seoDescription: "Hetaksh Essential Oils supplies natural Mandarin Oil in bulk as a trusted manufacturer and wholesale supplier in US at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -208,7 +208,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A mandarin hydrosol bulk supplier can serve brands looking for a water-based botanical ingredient for sprays and other suitable personal-care products.",
+          text: "A <b>Mandarin hydrosol bulk supplier</b> can serve brands looking for a water-based botanical ingredient for sprays and other suitable personal-care products.",
         },
         {
           type: "heading",
@@ -419,12 +419,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Mandarin Oil Bulk Supply | Choosing the Right Material",
+      title: "Mandarin Oil Bulk Supplier | Choosing the Right Material",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A mandarin oil bulk manufacturer may work with buyers from food, fragrance, cosmetics, soap, personal care, and home-fragrance industries.",
+          text: "A <b>mandarin oil bulk supplier</b> may work with buyers from food, fragrance, cosmetics, soap, personal care, and home-fragrance industries.",
         },
         {
           type: "paragraph",
@@ -477,7 +477,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Mandarin oil bulk wholesale can be useful for businesses that use the ingredient regularly.",
+          text: "<b>Mandarin oil bulk wholesale</b> can be useful for businesses that use the ingredient regularly.",
         },
         {
           type: "paragraph",
@@ -505,7 +505,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A mandarin oil bulk exporter may supply buyers in different markets. Requirements for food, cosmetics, fragrances, and other products can vary between countries.",
+          text: "A <b>mandarin oil bulk</b> exporter may supply buyers in different markets. Requirements for food, cosmetics, fragrances, and other products can vary between countries.",
         },
         {
           type: "paragraph",
