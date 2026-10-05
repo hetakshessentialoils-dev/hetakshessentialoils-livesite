@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "special-ingredients",
   categoryName: "Special Ingredients",
   name: "Mentha Oil",
-  heading: "Mentha Oil Bulk Manufacturer | Natural Mentha Oil Wholesale & Bulk Supplier",
+  heading: "Mentha Oil Manufacturer | Natural Mentha Oil Wholesale & Bulk Supplier",
   image: "/assets/images/products/Pharma-Grade-Oils/Mentha-Oil-IP.webp",
   imageAlt: "Mentha Oil IP",
   paragraphs: [
