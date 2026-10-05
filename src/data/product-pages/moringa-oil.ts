@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Moringa Oil",
-  heading: "Moringa Oil | A Light Plant Oil from Moringa Seeds",
+  heading: "Moringa Oil Wholesale | Pure Moringa Oil Supplier & Bulk Manufacturer",
   image: "/assets/images/products/Carrier-Oils/Moringa-Oil.webp",
   imageAlt: "Moringa Oil",
   paragraphs: [
@@ -57,7 +57,7 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Best Moringa Oil Bulk Supplier and Manufacturer in US",
+  seoTitle: "Moringa Oil Bulk Supplier and Manufacturer in US",
   seoDescription: "Moringa Oil bulk manufacturer and wholesale supplier in US, providing premium-quality oil for businesses with dependable supply and competitive rates.",
   afterSpecsParagraphs: [],
   contentFlow: [
@@ -72,7 +72,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A moringa seed oil bulk supplier works with the seed rather than the leaves or flowers. This is an important detail because moringa has several parts, and each part has its own use.",
+          text: "A <b>Moringa oil bulk supplier</b> works with the seed rather than the leaves or flowers. This is an important detail because moringa has several parts, and each part has its own use.",
         },
         {
           type: "paragraph",
@@ -96,7 +96,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A moringa oil bulk manufacturer may therefore supply different grades depending on the processing method and the needs of the final product.",
+          text: "A <b>Moringa oil bulk manufacturer</b> may therefore supply different grades depending on the processing method and the needs of the final product.",
         },
         {
           type: "heading",
@@ -148,7 +148,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A moringa oil bulk distributor may supply the oil for products such as:",
+          text: "A <b>Moringa oil bulk distributors</b> may supply the oil for products such as:",
         },
         {
           type: "list",
@@ -233,7 +233,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Moringa Oil and Other Carrier Oils",
+      title: "Moringa Oil Wholesale and Other Carrier Oils",
       paragraphs: [],
       content: [
         {
@@ -331,7 +331,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A moringa oil bulk exporter may work with buyers in different markets, where product requirements can vary according to the intended use.",
+          text: "A <b>Moringa oil wholesale</b> may work with buyers in different markets, where product requirements can vary according to the intended use.",
         },
       ],
     },
