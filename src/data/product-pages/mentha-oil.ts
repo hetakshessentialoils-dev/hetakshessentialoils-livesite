@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "special-ingredients",
   categoryName: "Special Ingredients",
   name: "Mentha Oil",
-  heading: "Mentha Oil Range | Five Mint Oils, Five Different Profiles",
+  heading: "Mentha Oil Bulk Manufacturer | Natural Mentha Oil Wholesale & Bulk Supplier",
   image: "/assets/images/products/Pharma-Grade-Oils/Mentha-Oil-IP.webp",
   imageAlt: "Mentha Oil IP",
   paragraphs: [
@@ -61,8 +61,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Mentha Oil IP Wholesale Supplier & Bulk Manufacturer US",
-  seoDescription: "Trusted Mentha Oil IP manufacturer and wholesale supplier in US, offering quality oil in bulk quantities with reliable supply and competitive pricing.",
+  seoTitle: "Mentha Oil Wholesale Supplier & Bulk Manufacturer US",
+  seoDescription: "Trusted Mentha Oil manufacturer and wholesale supplier in US, offering quality oil in bulk quantities with reliable supply and competitive pricing.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -119,7 +119,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A buyer looking for mentha arvensis oil bulk supplier options should therefore check both the botanical source and the required product specification.",
+          text: "A buyer looking for <b>Mentha arvensis oil bulk supplier</b> options should therefore check both the botanical source and the required product specification.",
         },
         {
           type: "heading",
@@ -251,7 +251,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A mentha piperita oil bulk distributor may therefore handle a product quite different from one based on Mentha citrata, even though both belong to the same mint family.",
+          text: "A <b>Mentha piperita oil bulk distributors</b> may therefore handle a product quite different from one based on Mentha citrata, even though both belong to the same mint family.",
         },
       ],
       coa: "/assets/images/products/single-product/Peppermint-Oil/MENTHA-PIPERITA-OIL-COA.pdf",
@@ -259,7 +259,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "variant",
-      title: "Mentha Spicata Oil | The Sweeter Side of Mint",
+      title: "Mentha Spicata Oil Wholesale | The Sweeter Side of Mint",
       paragraphs: [],
       content: [
         {
@@ -345,7 +345,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Need an IP-standard mentha oil? → Mentha Oil IP Need a menthol-rich mint oil? → Mentha Arvensis Oil Want a softer, slightly citrusy mint character? → Mentha Citrata Oil Want classic peppermint? → Mentha Piperita Oil Want sweet spearmint? → Mentha Spicata Oil For businesses searching for a mentha oil bulk wholesaler, knowing the exact mint type before purchasing can help prevent confusion between products with very different aromas.",
+          text: "Need an IP-standard mentha oil? → Mentha Oil IP Need a menthol-rich mint oil? → Mentha Arvensis Oil Want a softer, slightly citrusy mint character? → Mentha Citrata Oil Want classic peppermint? → Mentha Piperita Oil Want sweet spearmint? → Mentha Spicata Oil For businesses searching for a <b>Mentha oil bulk wholesale</b>, knowing the exact mint type before purchasing can help prevent confusion between products with very different aromas.",
         },
         {
           type: "paragraph",
