@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Lemon Oil",
-  heading: "Lemon Oil | Bright Citrus Oil for Food, Fragrance and Personal Care",
+  heading: "Lemon Oil Wholesale, Supplier | 100% Pure Lemon Oil Bulk Manufacturers",
   image: "/assets/images/products/Essential-Oils/Lemon-Oil.webp",
   imageAlt: "Lemon Oil",
   paragraphs: [
@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lemon Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Best Lemon Oil Bulk Supplier and Hydrosol Manufacturer in US",
-  seoDescription: "Buy 100% pure Lemon Oil at wholesale prices from a trusted bulk supplier and Hydrosol manufacturer in US. Ideal for cosmetics, and aromatherapy.",
+  seoTitle: "Lemon Oil Bulk Manufacturer & Wholesale Supplier in US",
+  seoDescription: "Hetaksh Essential Oils offers 100% Pure Lemon Oil in bulk as a reliable manufacturer and wholesale supplier in US at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -140,7 +140,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A lemon hydrosol bulk supplier may work with businesses making botanical sprays, skincare products, hair products, soaps, and other water-based preparations.",
+          text: "A <b>lemon hydrosol bulk supplier</b> may work with businesses making botanical sprays, skincare products, hair products, soaps, and other water-based preparations.",
         },
         {
           type: "heading",
@@ -189,7 +189,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "A lemon oil bulk manufacturer can serve businesses that use citrus ingredients in very different ways. Lemon oil can move from a food flavour to a perfume note, a soap fragrance, or an ingredient in personal-care products.",
+          text: "A <b>lemon oil bulk manufacturer</b> can serve businesses that use citrus ingredients in very different ways. Lemon oil can move from a food flavour to a perfume note, a soap fragrance, or an ingredient in personal-care products.",
         },
         {
           type: "heading",
@@ -296,7 +296,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Lemon Oil and Other Citrus Oils | A Simple Difference",
+      title: "Lemon Oil Wholesale & Supplier and Other Citrus Oils | A Simple Difference",
       paragraphs: [],
       content: [
         {
@@ -330,7 +330,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A lemon oil bulk distributor may therefore supply lemon when a formula needs a cleaner and sharper citrus note rather than a sweet orange smell.",
+          text: "A <b>lemon oil bulk distributors</b> may therefore supply lemon when a formula needs a cleaner and sharper citrus note rather than a sweet orange smell.",
         },
         {
           type: "heading",
@@ -479,7 +479,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Lemon oil bulk wholesale purchasing can suit businesses that use citrus oils regularly. A manufacturer may first test a sample and then choose the quantity needed for production.",
+          text: "<b>Lemon oil bulk wholesale</b> purchasing can suit businesses that use citrus oils regularly. A manufacturer may first test a sample and then choose the quantity needed for production.",
         },
         {
           type: "paragraph",
@@ -491,7 +491,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A lemon oil bulk exporter may supply buyers in different countries. Requirements can vary depending on the destination and whether the material is being used for food, fragrance, cosmetics, or personal care.",
+          text: "A <b>lemon oil bulk exporter</b> may supply buyers in different countries. Requirements can vary depending on the destination and whether the material is being used for food, fragrance, cosmetics, or personal care.",
         },
         {
           type: "paragraph",
