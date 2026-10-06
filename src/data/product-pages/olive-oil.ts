@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Olive Oil",
-  heading: "Olive Oil | A Familiar Plant Oil with Many Forms and Uses",
+  heading: "Olive Oil Wholesale | 100% Pure Olive Oil Supplier & Bulk Manufacturers",
   image: "/assets/images/products/Carrier-Oils/Olive-Oil.webp",
   imageAlt: "Olive Oil",
   paragraphs: [
@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Olive Oil Manufacturer & Bulk Wholesales Supplier in USA",
-  seoDescription: "Trusted Olive Oil manufacturer and bulk supplier in USA, providing quality oil for wholesale buyers, businesses, and commercial applications.",
+  seoTitle: "Olive Oil Wholesale, Supplier & Bulk Manufacturers in US",
+  seoDescription: "100% Pure & Natural Olive Oil wholesale supplier and bulk manufacturer in USA. Get premium-quality Olive Oil at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -113,13 +113,13 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "This is why a olive oil bulk manufacturer may work with several specifications rather than one standard product.",
+          text: "This is why a <b>Olive oil bulk manufacturers</b> may work with several specifications rather than one standard product.",
         },
       ],
     },
     {
       type: "section",
-      title: "Olive Oil Grades | The Name Tells Part of the Story",
+      title: "Olive Oil Wholesale Grades | The Name Tells Part of the Story",
       paragraphs: [],
       content: [
         {
@@ -272,7 +272,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A olive oil bulk distributor may supply the oil to cosmetic manufacturers, soap makers, personal-care brands, and food businesses, but the required grade can be different for each application.",
+          text: "A <b>Olive oil wholesale</b> may supply the oil to cosmetic manufacturers, soap makers, personal-care brands, and food businesses, but the required grade can be different for each application.",
         },
         {
           type: "paragraph",
@@ -375,12 +375,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Olive Oil for Hair and Skin Products",
+      title: "Olive Oil Supplier for Hair and Skin Products",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A olive oil bulk supplier can provide the oil for different beauty formulations.",
+          text: "A <b>Olive oil bulk suppliers</b> can provide the oil for different beauty formulations.",
         },
         {
           type: "paragraph",
@@ -466,7 +466,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A olive oil bulk exporter may also need to consider the container type and transportation conditions when sending the product over long distances.",
+          text: "A <b>Olive oil bulk</b> exporter may also need to consider the container type and transportation conditions when sending the product over long distances.",
         },
         {
           type: "paragraph",
@@ -476,7 +476,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Olive Oil in Different Industries",
+      title: "Olive Oil Manufacturers in Different Industries",
       paragraphs: [],
       content: [
         {
@@ -525,7 +525,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "For olive oil bulk wholesale, the first question should be what the oil will be used for. That helps determine which grade and specification are appropriate.",
+          text: "For <b>Olive oil bulk wholesale</b>, the first question should be what the oil will be used for. That helps determine which grade and specification are appropriate.",
         },
         {
           type: "paragraph",
