@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Muskmelon Seed Oil",
-  heading: "Muskmelon Seed Oil | A Light Oil from the Seeds of the Melon",
+  heading: "Muskmelon Seed Oil Manufacturers | Pure Muskmelon Oil Wholesale & Bulk Suppliers",
   image: "/assets/images/products/Carrier-Oils/Muskmelon-Seed-Oil.webp",
   imageAlt: "Muskmelon Seed Oil",
   paragraphs: [
@@ -57,7 +57,7 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Muskmelon Seed Oil Bulk Supplier & Wholesale Manufacturer US",
+  seoTitle: "Muskmelon Seed Oil Bulk Manufacturer & Wholesale Supplier in US",
   seoDescription: "Trusted Muskmelon Seed Oil manufacturer and wholesale supplier in US, offering pure quality oil in bulk quantities at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
@@ -76,7 +76,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "This makes muskmelon seed oil bulk supplier sourcing different from buying any ordinary melon-based ingredient. The product is specifically obtained from the seeds.",
+          text: "This makes <b>muskmelon seed oil bulk supplier</b> sourcing different from buying any ordinary melon-based ingredient. The product is specifically obtained from the seeds.",
         },
         {
           type: "heading",
@@ -131,7 +131,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A muskmelon seed oil bulk manufacturer may supply the oil for different cosmetic and personal-care formulations.",
+          text: "A <b>Muskmelon seed oil bulk manufacturer</b> may supply the oil for different cosmetic and personal-care formulations.",
         },
         {
           type: "paragraph",
@@ -188,12 +188,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Muskmelon Seed Oil in Skin and Hair Formulas",
+      title: "Bulk Muskmelon Seed Oil in Skin and Hair Formulas",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A muskmelon seed oil bulk distributor may supply the oil to skincare, cosmetic, hair- care, and personal-care companies.",
+          text: "A <b>Muskmelon seed oil bulk distributors</b> may supply the oil to skincare, cosmetic, hair- care, and personal-care companies.",
         },
         {
           type: "paragraph",
@@ -367,7 +367,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A muskmelon seed oil bulk wholesaler can therefore work with different types of manufacturers rather than only skincare companies.",
+          text: "A <b>Muskmelon seed oil wholesale</b> can therefore work with different types of manufacturers rather than only skincare companies.",
         },
       ],
     },
@@ -414,7 +414,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Muskmelon seed oil bulk exporter requirements can vary from one country to another.",
+          text: "<b>Muskmelon seed oil bulk</b> exporter requirements can vary from one country to another.",
         },
         {
           type: "paragraph",
