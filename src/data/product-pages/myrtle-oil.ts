@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Myrtle Oil",
-  heading: "Myrtle Oil | Fresh Green Aroma from Myrtus communis",
+  heading: "Myrtle Oil Wholesale | Myrtle Oil Supplier & Bulk Manufacturers",
   image: "/assets/images/products/Essential-Oils/Myrtle-Oil.webp",
   imageAlt: "Myrtle Oil",
   paragraphs: [
@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Pure Myrtle Oil Wholesale Supplier | Hydrosol Bulk Manufacturer",
-  seoDescription: "Trusted Myrtle Oil wholesale supplier and Hydrosol bulk manufacturer offering pure, quality products with dependable supply and competitive bulk prices.",
+  seoTitle: "Myrtle Oil Wholesale, Supplier & Bulk Manufacturer in US",
+  seoDescription: "Hetaksh Essential Oils offers 100% pure Myrtle Oil as a trusted wholesale supplier and bulk manufacturer in USA at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -115,7 +115,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "variant",
-      title: "Myrtle Hydrosol | Light Botanical Water with a Green Note",
+      title: "Bulk Myrtle Hydrosol | Light Botanical Water with a Green Note",
       paragraphs: [],
       content: [
         {
@@ -124,7 +124,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A myrtle hydrosol bulk supplier can be relevant for brands making water-based botanical products such as facial sprays, hair mists, body mists, toners, lotions, and similar formulas.",
+          text: "A <b>Myrtle hydrosol bulk supplier</b> can be relevant for brands making water-based botanical products such as facial sprays, hair mists, body mists, toners, lotions, and similar formulas.",
         },
         {
           type: "heading",
@@ -224,7 +224,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "For example, myrtle oil bulk manufacturer searches may bring up material intended for fragrance, personal care, soap, or cosmetic production. But the buyer should still check the botanical name and specification rather than choosing only by the common product name.",
+          text: "For example, <b>Myrtle oil bulk manufacturer</b> searches may bring up material intended for fragrance, personal care, soap, or cosmetic production. But the buyer should still check the botanical name and specification rather than choosing only by the common product name.",
         },
         {
           type: "heading",
@@ -284,7 +284,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A myrtle oil bulk distributor may work with buyers from several fields, but the reason for buying the oil can be very different.",
+          text: "A <b>Myrtle oil bulk distributors</b> may work with buyers from several fields, but the reason for buying the oil can be very different.",
         },
         {
           type: "paragraph",
@@ -324,7 +324,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Myrtle oil bulk wholesale can therefore be useful for businesses that need a regular supply, but the grade should always match the intended application.",
+          text: "<b>Myrtle oil wholesale</b> can therefore be useful for businesses that need a regular supply, but the grade should always match the intended application.",
         },
         {
           type: "paragraph",
