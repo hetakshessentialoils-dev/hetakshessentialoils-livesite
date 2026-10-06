@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Niaouli Oil",
-  heading: "Niaouli Oil | A Fresh Botanical Oil with a Strong Green Note",
+  heading: "Niaouli Oil Wholesale | Natural Niaouli Oil Supplier & Bulk Manufacturers",
   image: "/assets/images/products/Essential-Oils/Niaouli-Oil.webp",
   imageAlt: "Niaouli Oil",
   paragraphs: [
@@ -54,12 +54,12 @@ export const page: CleanProductPage = {
   variants: [],
   infoTables: [],
   seoTitle: "Niaouli Oil Bulk Manufacturer & Wholesale Supplier in USA",
-  seoDescription: "Hetaksh Essential Oils is a trusted Niaouli Oil manufacturer, bulk supplier, and wholesale supplier in USA, providing quality Niaouli Oil for commercial and business needs.",
+  seoDescription: "Hetaksh Essential Oils offers 100% pure and natural Niaouli Oil as a reliable bulk manufacturer and wholesale supplier in USA.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
       type: "variant",
-      title: "Niaouli Hydrosol | A Softer Botanical Water",
+      title: "Bulk Niaouli Hydrosol | A Softer Botanical Water",
       paragraphs: [],
       content: [
         {
@@ -72,7 +72,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A niaouli hydrosol bulk supplier may provide it for brands making water-based botanical products.",
+          text: "A <b>Niaouli bulk supplier</b> may provide it for brands making water-based botanical products.",
         },
         {
           type: "paragraph",
@@ -256,7 +256,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A niaouli oil bulk manufacturer may therefore need to provide a product with a clear and reliable specification so formulators know what kind of material they are adding to their blend.",
+          text: "A <b>Niaouli oil bulk manufacturers</b> may therefore need to provide a product with a clear and reliable specification so formulators know what kind of material they are adding to their blend.",
         },
         {
           type: "heading",
@@ -290,7 +290,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A niaouli oil bulk distributor may work with customers who have very different requirements.",
+          text: "A <b>Niaouli oil bulk distributors</b> may work with customers who have very different requirements.",
         },
         {
           type: "paragraph",
