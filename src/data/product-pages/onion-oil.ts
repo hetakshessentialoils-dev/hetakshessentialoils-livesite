@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Onion Oil",
-  heading: "Onion Oil | A Strong Botanical Ingredient from Onion Bulbs",
+  heading: "Onion Oil Bulk Manufacturer | Natural Onion Oil Wholesale Distributors",
   image: "/assets/images/products/spice-oil/ONION OIL.webp",
   imageAlt: "Onion Oil",
   paragraphs: [
@@ -49,13 +49,13 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Onion Oil Wholesale Supplier & Bulk manufacturer | Distributor",
-  seoDescription: "Wholesale Onion Oil available in bulk from a reliable manufacturer and supplier, suitable for distributors and businesses seeking regular supply.",
+  seoTitle: "Onion Oil Bulk manufacturer & Wholesale Distributors",
+  seoDescription: "100% Pure & Natural Onion Oil Wholesale Supplier, Bulk Manufacturer & Distributor offering premium quality oil at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
       type: "variant",
-      title: "Onion Hydrosol | A Light Water-Based Onion Ingredient",
+      title: "Bulk Onion Hydrosol | A Light Water-Based Onion Ingredient",
       paragraphs: [],
       content: [
         {
@@ -64,7 +64,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A onion hydrosol bulk supplier may provide the ingredient for brands exploring unusual botanical materials for water-based products.",
+          text: "A <b>Onion hydrosol bulk suppliers</b> may provide the ingredient for brands exploring unusual botanical materials for water-based products.",
         },
         {
           type: "paragraph",
@@ -198,12 +198,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Onion Oil for Hair-Care Formulations",
+      title: "Onion Oil Manufacturer for Hair-Care Formulations",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A onion oil bulk manufacturer may work with brands developing hair oils, scalp products, masks, serums, and other personal-care formulas.",
+          text: "A <b>Onion oil bulk manufacturers</b> may work with brands developing hair oils, scalp products, masks, serums, and other personal-care formulas.",
         },
         {
           type: "paragraph",
@@ -358,7 +358,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "When purchasing onion oil bulk wholesale, it is useful to know exactly what type of onion material is being offered.",
+          text: "When purchasing <b>Onion oil wholesale</b>, it is useful to know exactly what type of onion material is being offered.",
         },
         {
           type: "paragraph",
