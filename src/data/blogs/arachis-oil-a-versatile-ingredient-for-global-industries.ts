@@ -9,7 +9,7 @@ export const post: BlogPost = {
   "featuredImageUrl": "/assets/images/blog/arachis-oil-a-versatile-ingredient-for-global-industries.png",
   "imageAlt": "Arachis oil wholesale suppliers",
   "seoTitle": "Arachis Oil Manufacturer & Bulk Wholesale Supplier",
-  "seoDescription": "We are a trusted Arachis Oil Manufacturer, Wholesale and Bulk Supplier, offering 100% pure and natural Arachis Oil produced with consistent quality to meet global standards.",
+  "seoDescription": "We are a trusted Arachis Oil Manufacturer, Wholesale and Bulk Supplier, offering natural Arachis Oil produced with consistent quality to meet global standards.",
   "seoKeywords": "",
   "faqs": [],
   "publishedAt": "2026-02-15T18:30:00.000Z",
