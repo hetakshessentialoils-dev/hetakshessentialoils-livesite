@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Orange Oil",
-  heading: "Orange Oil | Bright Citrus from the Orange Peel",
+  heading: "Orange Oil Bulk Manufacturer | Natural Orange Oil Wholesale Suppliers",
   image: "/assets/images/products/Essential-Oils/Orange-Oil.webp",
   imageAlt: "Orange Oil",
   paragraphs: [
@@ -53,13 +53,13 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Orange Oil Manufacturer & Wholesale Suppliers | Bulk Distributor",
-  seoDescription: "Get premium Orange Oil in bulk from an experienced manufacturer and wholesale supplier, with flexible options for wholesale and distributor orders.",
+  seoTitle: "Orange Oil Bulk Manufacturer & Wholesale Suppliers in US",
+  seoDescription: "100% Pure & Natural Orange Oil Wholesale Supplier & Bulk Manufacturer in USA. Premium quality, bulk supply and competitive wholesale prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
       type: "variant",
-      title: "Orange Hydrosol | A Light Citrus Water",
+      title: "Bulk Orange Hydrosol | A Light Citrus Water",
       paragraphs: [],
       content: [
         {
@@ -68,7 +68,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A orange hydrosol bulk supplier can provide the material for brands developing water- based botanical products such as face mists, body sprays, hair mists, toners, lotions, and other suitable formulas.",
+          text: "A <b>Orange hydrosol bulk suppliers</b> can provide the material for brands developing water- based botanical products such as face mists, body sprays, hair mists, toners, lotions, and other suitable formulas.",
         },
         {
           type: "heading",
@@ -180,7 +180,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A orange oil bulk manufacturer may supply peel-derived oil, while a company looking for a floral orange ingredient would need to look at a completely different material.",
+          text: "A <b>Orange oil bulk manufacturers</b> may supply peel-derived oil, while a company looking for a floral orange ingredient would need to look at a completely different material.",
         },
       ],
     },
@@ -276,12 +276,12 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Orange Oil in Everyday Products",
+      title: "Orange Oil Wholesale in Everyday Products",
       paragraphs: [],
       content: [
         {
           type: "paragraph",
-          text: "A orange oil bulk distributor may supply the oil for several industries because its sweet citrus smell works in many types of products.",
+          text: "A <b>Orange oil bulk distributors</b> may supply the oil for several industries because its sweet citrus smell works in many types of products.",
         },
         {
           type: "heading",
@@ -362,7 +362,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "For orange oil bulk wholesale, the product name is only the beginning.",
+          text: "For <b>Orange oil wholesale</b>, the product name is only the beginning.",
         },
         {
           type: "paragraph",
