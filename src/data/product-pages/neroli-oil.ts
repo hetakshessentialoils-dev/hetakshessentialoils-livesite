@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Neroli Oil",
-  heading: "Neroli Oil | A Fragrant Oil Made from Orange Blossoms",
+  heading: "Neroli Oil Manufacturer | Natural Neroli Oil Wholesale & Bulk Supplier",
   image: "/assets/images/products/Essential-Oils/Neroli-oil.webp",
   imageAlt: "Neroli Oil",
   paragraphs: [
@@ -59,12 +59,12 @@ export const page: CleanProductPage = {
   variants: [],
   infoTables: [],
   seoTitle: "Neroli Oil Bulk Manufacturers and Wholesale Suppliers from USA",
-  seoDescription: "Trusted manufacturer & wholesale supplier: Hetaksh Essential Oils is a reliable Neroli Oil manufacturer, bulk supplier, and wholesaler in USA,",
+  seoDescription: "Trusted manufacturer & wholesale supplier: Hetaksh Essential Oils is a reliable Neroli Oil manufacturer, bulk supplier and wholesale in USA,",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
       type: "variant",
-      title: "Neroli Hydrosol | The Softer Side of Orange Blossom",
+      title: "Bulk Neroli Hydrosol | The Softer Side of Orange Blossom",
       paragraphs: [],
       content: [
         {
@@ -77,7 +77,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A neroli hydrosol bulk supplier may provide this type of botanical water for facial mists, body sprays, hair mists, toners, lotions, creams, soaps, and other suitable water-based products.",
+          text: "A <b>Neroli hydrosol bulk supplier</b> may provide this type of botanical water for facial mists, body sprays, hair mists, toners, lotions, creams, soaps, and other suitable water-based products.",
         },
         {
           type: "heading",
@@ -296,7 +296,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Neroli oil bulk distributor sourcing can involve different requirements depending on what the buyer plans to make.",
+          text: "<b>Neroli oil bulk distributors</b> sourcing can involve different requirements depending on what the buyer plans to make.",
         },
         {
           type: "paragraph",
@@ -356,7 +356,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A neroli oil bulk exporter may need to provide information suited to the destination market and the customer’s end use.",
+          text: "A <b>Neroli oil bulk</b> exporter may need to provide information suited to the destination market and the customer’s end use.",
         },
       ],
     },
