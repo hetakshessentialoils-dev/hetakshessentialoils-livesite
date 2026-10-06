@@ -9,7 +9,7 @@ export const post: BlogPost = {
   "featuredImageUrl": "/assets/images/blog/black-seed-oil-bulk-wholesale-in-texas-usa.jpg",
   "imageAlt": "black seed oil bulk manufacturer in Australia",
   "seoTitle": "Black Seed Oil Wholesale | Supplier & Manufacturer in Texas",
-  "seoDescription": "Black Seed Oil bulk wholesale supplier in Texas, offering quality oil in bulk quantities with reliable supply for manufacturers and commercial buyers.",
+  "seoDescription": "Black Seed Oil wholesale supplier in Texas, offering quality oil in bulk quantities with reliable supply for bulk manufacturer and commercial buyers.",
   "seoKeywords": "",
   "faqs": [],
   "publishedAt": "2024-03-19T18:30:00.000Z",
