@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Myrtle Oil",
-  heading: "Myrtle Oil Wholesale | Myrtle Oil Supplier & Bulk Manufacturers",
+  heading: "Myrtle Oil Wholesale | 100% Pure Myrtle Oil Supplier & Bulk Manufacturers",
   image: "/assets/images/products/Essential-Oils/Myrtle-Oil.webp",
   imageAlt: "Myrtle Oil",
   paragraphs: [
