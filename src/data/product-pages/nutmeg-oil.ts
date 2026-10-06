@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Nutmeg Oil",
-  heading: "Nutmeg Oil | The Warm Spice Behind a Familiar Aroma",
+  heading: "Nutmeg Oil Bulk Distributors | Natural Nutmeg Oil Wholesale Supplier",
   image: "/assets/images/products/spice-oil/NUTMEG OIL.webp",
   imageAlt: "Nutmeg Oil",
   paragraphs: [
@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Nutmeg Oil Wholesale | Bulk Supplier & Manufacturer in USA",
-  seoDescription: "Purchase 100% natural Nutmeg Oil in bulk from a trusted bulk manufacturer and wholesale supplier in USA, with flexible options for commercial buyers.",
+  seoTitle: "Nutmeg Oil Wholesale, Supplier | Bulk Distributors in US",
+  seoDescription: "Hetaksh Essential Oils offers premium Nutmeg Oil for wholesale and bulk distribution in the US with quality, reliability, and competitive pricing.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -113,7 +113,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "variant",
-      title: "Nutmeg Hydrosol | A Much Softer Version of the Spice",
+      title: "Bulk Nutmeg Hydrosol | A Much Softer Version of the Spice",
       paragraphs: [],
       content: [
         {
@@ -122,7 +122,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A nutmeg hydrosol bulk supplier can be relevant for brands interested in botanical water for suitable cosmetic, personal-care, or aromatic formulations.",
+          text: "A <b>Nutmeg hydrosol bulk supplier</b> can be relevant for brands interested in botanical water for suitable cosmetic, personal-care, or aromatic formulations.",
         },
         {
           type: "paragraph",
@@ -166,7 +166,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Nutmeg Oil | From a Spice Cabinet to Fragrance Formulas",
+      title: "Nutmeg Oil Wholesale Supplier | From a Spice Cabinet to Fragrance Formulas",
       paragraphs: [],
       content: [
         {
@@ -183,7 +183,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A nutmeg oil bulk manufacturer may therefore supply the oil to businesses working with several types of products rather than only food companies.",
+          text: "A <b>Nutmeg oil bulk manufacturers</b> may therefore supply the oil to businesses working with several types of products rather than only food companies.",
         },
         {
           type: "heading",
@@ -323,7 +323,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "A nutmeg oil bulk distributor may work with businesses making very different products.",
+          text: "A <b>Nutmeg oil bulk distributors</b> may work with businesses making very different products.",
         },
         {
           type: "heading",
@@ -425,7 +425,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "For companies looking at nutmeg oil bulk wholesale, the botanical identity, grade, composition, and intended application should be considered together rather than choosing the material by name alone.",
+          text: "For companies looking at <b>Nutmeg oil wholesale</b>, the botanical identity, grade, composition, and intended application should be considered together rather than choosing the material by name alone.",
         },
       ],
     },
