@@ -9,7 +9,7 @@ export const post: BlogPost = {
   "featuredImageUrl": "/assets/images/blog/leading-supplier-and-manufacturer-of-almond-oil-in-florida-usa.jpg",
   "imageAlt": "Almond oil Supplier",
   "seoTitle": "Almond Oil Bulk Manufacturer | Wholesale Supplier in Florida",
-  "seoDescription": "Looking for a reliable wholesale almond oil bulk manufacturer & supplier in Florida? Get premium-quality almond oil in bulk at competitive prices. Contact us today.",
+  "seoDescription": "Looking for a reliable wholesale almond oil bulk manufacturer & supplier in Florida? Get premium-quality almond oil in bulk at competitive prices.",
   "seoKeywords": "almond oil supplier, almond oil manufacturer, almond oil bulk, almond oil wholesale, almond oil bulk manufacturer",
   "faqs": [],
   "publishedAt": "2024-06-05T18:30:00.000Z",
