@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lavender Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Pure Lavender Oil Wholesale | Bulk Manufacturer & Hydrosol Supplier",
-  seoDescription: "Buy high-quality <b>Lavender Oil in bulk</b> at wholesale prices from a trusted manufacturer and Hydrosol supplier in USA.",
+  seoTitle: "Lavender Oil Wholesale Supplier & Bulk Manufacturer in US",
+  seoDescription: "Premium Natural Lavender Oil for wholesale and bulk orders in US. Hetaksh Essential Oils provides quality products at competitive wholesale prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
