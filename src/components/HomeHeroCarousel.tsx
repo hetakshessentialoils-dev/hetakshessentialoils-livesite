@@ -1,12 +1,13 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import { afterLoad } from "@/lib/after-load";
 
 const SLIDES = [
-  { src: "/assets/images/backgrounds/essential-oil.webp", alt: "Essential Oil" },
-  { src: "/assets/images/backgrounds/carrier-oil.webp", alt: "Carrier Oil" },
-  { src: "/assets/images/backgrounds/saw-palmetto.jpg", alt: "Black Seed Oil and Saw Palmetto Oil" },
-  { src: "/assets/images/backgrounds/pharma-grade-oil.webp", alt: "Pharma Grade Oil" },
+  { src: "/assets/images/backgrounds/essential-oil.webp", mobile: "/assets/images/backgrounds/essential-oil-800.webp", alt: "Essential Oil" },
+  { src: "/assets/images/backgrounds/carrier-oil.webp", mobile: "/assets/images/backgrounds/carrier-oil-800.webp", alt: "Carrier Oil" },
+  { src: "/assets/images/backgrounds/saw-palmetto.jpg", mobile: "/assets/images/backgrounds/saw-palmetto-800.webp", alt: "Black Seed Oil and Saw Palmetto Oil" },
+  { src: "/assets/images/backgrounds/pharma-grade-oil.webp", mobile: "/assets/images/backgrounds/pharma-grade-oil-800.webp", alt: "Pharma Grade Oil" },
 ];
 
 const INTERVAL_MS = 5000;
@@ -18,6 +19,10 @@ export function HomeHeroCarousel() {
   const [pos, setPos] = useState(1);
   const [animating, setAnimating] = useState(true);
   const lock = useRef(false);
+  // Off-screen slides load after the page, so they don't compete with LCP on mobile
+  const [loadRest, setLoadRest] = useState(false);
+
+  useEffect(() => afterLoad(() => setLoadRest(true)), []);
 
   const finishMove = useCallback((current: number) => {
     if (current === 0) {
@@ -78,7 +83,9 @@ export function HomeHeroCarousel() {
             {TRACK.map((slide, i) => (
               <div key={`${slide.src}-${i}`} className="home-hero-carousel__slide">
                 <img
-                  src={slide.src}
+                  src={i === 1 || loadRest ? slide.src : undefined}
+                  srcSet={i === 1 || loadRest ? `${slide.mobile} 800w, ${slide.src} 1485w` : undefined}
+                  sizes="100vw"
                   alt={slide.alt}
                   className="d-block w-100"
                   fetchPriority={i === 1 ? "high" : "low"}

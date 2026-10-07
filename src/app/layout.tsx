@@ -32,6 +32,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Header + about section CSS background; mobile LCP — preload so it isn't gated on austry.css */}
+        <link rel="preload" as="image" href="/assets/images/backgrounds/about-bg-800.webp" media="(max-width: 767px)" fetchPriority="high" />
+        <link rel="preload" as="image" href="/assets/images/backgrounds/about-bg.webp" media="(min-width: 768px)" fetchPriority="high" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link

@@ -38,6 +38,8 @@ export default async function HomePage() {
         rel="preload"
         as="image"
         href="/assets/images/backgrounds/essential-oil.webp"
+        imageSrcSet="/assets/images/backgrounds/essential-oil-800.webp 800w, /assets/images/backgrounds/essential-oil.webp 1485w"
+        imageSizes="100vw"
         fetchPriority="high"
       />
 
@@ -84,6 +86,7 @@ export default async function HomePage() {
                     <img
                       src="/assets/images/resources/essential-oil-wholesale.webp"
                       alt="Essential Oil Wholesale"
+                      loading="lazy"
                       decoding="async"
                     />
                   </div>

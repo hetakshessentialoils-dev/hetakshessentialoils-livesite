@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { CoaMsdsDoc, CoaMsdsNavProduct } from "@/lib/coa-msds-nav";
+import { afterLoad } from "@/lib/after-load";
 
 function DocsLinks({ doc }: { doc: CoaMsdsDoc }) {
   return (
@@ -34,11 +35,17 @@ export function CoaMsdsMenu() {
 
   useEffect(() => {
     let cancelled = false;
-    void import("@/lib/coa-msds-nav").then(({ getCoaMsdsNav }) => {
-      if (!cancelled) setItems(getCoaMsdsNav());
+    const stop = afterLoad(() => {
+      void fetch("/api/coa-msds-nav")
+        .then((res) => res.json() as Promise<CoaMsdsNavProduct[]>)
+        .then((data) => {
+          if (!cancelled) setItems(data);
+        })
+        .catch(() => {});
     });
     return () => {
       cancelled = true;
+      stop();
     };
   }, []);
 

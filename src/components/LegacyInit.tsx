@@ -2,6 +2,7 @@
 
 import { useEffect } from "react";
 import { usePathname } from "next/navigation";
+import { afterLoad } from "@/lib/after-load";
 
 declare global {
   interface Window {
@@ -49,13 +50,15 @@ export function LegacyInit() {
       "/assets/css/translate-overrides.css",
       "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css",
     ];
-    hrefs.forEach((href) => {
-      if (document.querySelector(`link[rel="stylesheet"][href="${href}"]`)) return;
-      const link = document.createElement("link");
-      link.rel = "stylesheet";
-      link.href = href;
-      document.head.appendChild(link);
-    });
+    return afterLoad(() =>
+      hrefs.forEach((href) => {
+        if (document.querySelector(`link[rel="stylesheet"][href="${href}"]`)) return;
+        const link = document.createElement("link");
+        link.rel = "stylesheet";
+        link.href = href;
+        document.head.appendChild(link);
+      }),
+    );
   }, []);
 
   useEffect(() => {

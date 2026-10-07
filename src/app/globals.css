@@ -2153,3 +2153,19 @@ form.contact_form .iti input {
     flex-basis: 18%;
   }
 }
+
+/* Home: skip layout of below-fold sections until near the viewport, so their
+   lazy images aren't all fetched at startup (mobile LCP). */
+.main-slider ~ .about-one ~ section {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 600px;
+}
+
+@media (max-width: 767px) {
+  /* html prefix: must beat austry.css, which loads after this file */
+  html .about-one,
+  html .bg-color2,
+  html .main-header-two {
+    background-image: url(/assets/images/backgrounds/about-bg-800.webp);
+  }
+}
