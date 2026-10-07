@@ -44,9 +44,9 @@ export default function RootLayout({
           media="print"
           suppressHydrationWarning
         />
-        <link rel="stylesheet" href="/assets/vendors/bootstrap/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="/assets/css/austry.css" />
-        <link rel="stylesheet" href="/assets/css/austry-responsive.css" />
+        <link rel="stylesheet" href="/assets/vendors/bootstrap/css/bootstrap.purged.min.css" />
+        <link rel="stylesheet" href="/assets/css/austry.purged.css" />
+        <link rel="stylesheet" href="/assets/css/austry-responsive.purged.css" />
       </head>
       <body>
         <script
