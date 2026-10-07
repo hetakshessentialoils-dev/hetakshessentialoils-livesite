@@ -129,8 +129,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "100% Pure Cinnamon Oil BP & Hydrosol Wholesale | Wholesale Suppliers in US",
-  seoDescription: "100% Pure Cinnamon Oil BP and Hydrosol in bulk for the US market from trusted manufacturer and wholesale suppliers serving pharmaceutical, and personal care industries.",
+  seoTitle: "Cinnamon Oil Bulk Manufacturer & Wholesale Supplier",
+  seoDescription: "Hetaksh Essential Oils offers 100% Pure Cinnamon Oil BP & Hydrosol for wholesale and bulk orders with reliable quality and competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
