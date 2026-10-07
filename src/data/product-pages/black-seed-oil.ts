@@ -6,7 +6,7 @@ export const landing: ProductLanding = {
   categoryName: "Essential Oils",
   headerBgId: "sing-bg-img-2",
   title: "Black Seed Oil & Extract Wholesale Supplier",
-  subtitle: "<h3>Active Content (Min 1% to 20% Thymoquinone)<h3>",
+  subtitle: "Active Content (Min 1% to 20% Thymoquinone)",
   intro: [
     "Our Bulk Black Seed Oil, also known as Kalonji Oil or Nigella sativa Oil, is manufactured in the India for wholesale and bulk supplier in US. The oil ranges from brownish-yellow to deep brown and is extracted through cold pressing and CO₂ supercritical methods. Black Seed Extract is also available as a powder with documented thymoquinone concentrations.",
     "As a bulk supplier of Black Seed Oil and Extract in United States, we provide documented grades for cosmetic, pharmaceutical, and formulation applications.",
