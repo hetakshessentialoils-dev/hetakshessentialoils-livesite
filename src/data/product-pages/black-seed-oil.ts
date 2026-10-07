@@ -9,7 +9,7 @@ export const landing: ProductLanding = {
   subtitle: "Active Content (Min 1% to 20% Thymoquinone)",
   intro: [
     "Our Bulk Black Seed Oil, also known as Kalonji Oil or Nigella sativa Oil, is manufactured in the India for wholesale and bulk supplier in US. The oil ranges from brownish-yellow to deep brown and is extracted through cold pressing and CO₂ supercritical methods. Black Seed Extract is also available as a powder with documented thymoquinone concentrations.",
-    "As a bulk supplier of Black Seed Oil and Extract in the United States, we provide documented grades for cosmetic, pharmaceutical, and formulation applications.",
+    "As a bulk supplier of Black Seed Oil and Extract in United States, we provide documented grades for cosmetic, pharmaceutical, and formulation applications.",
   ],
   packaging: "Available packaging: 25 kg and 180 kg HDPE or GI drums",
   formTitle: "Contact us for Wholesale Black Seed Oil Enquiries",
@@ -48,7 +48,7 @@ export const landing: ProductLanding = {
     },
   ],
   manufacturer: {
-    heading: "Black Seed Oil Bulk Wholesale Supplier in US/India",
+    heading: "Black Seed Oil Bulk Wholesale Supplier in United States/India",
     image: "/assets/images/products/single-product/black-cumin-seed-oil/Black-seed-oil-bulk.webp",
     imageAlt: "Black Seed Oil Bulk",
     paragraphs: [
@@ -94,9 +94,9 @@ export const landing: ProductLanding = {
     heading: "Manufacturers of Black Seed Oil & Extract Wholesale",
     bgImage: "/assets/images/products/single-product/black-cumin-seed-oil/Black-seed-oil-manufacturers.webp",
     paragraphs: [
-      "Welcome to Black Seed Oil Wholesale , USA leading cultivators, manufacturers, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.",
-      "We are a bulk supplier of Black Seed Oil in the USA and offer documented thymoquinone concentrations alongside a wider portfolio of essential, spice, floral, and carrier oils. Applicable products are available in grades complying with supported IP, BP, EP, USP, and JP specifications.",
-      "Our major key suppliers are top ranked nutraceutical companies, pharmaceutical companies, flavor & fragrance houses, oral & personal care companies, tobacco manufacturers, ayurvedic companies, and FMCG manufacturers in USA and around the globe. We can also customize our products as per the quality requirements and specifications of our customers.",
+      "Welcome to Black Seed Oil Wholesale , India leading cultivators, manufacturers, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.",
+      "We are a bulk supplier of Black Seed Oil in United States and offer documented thymoquinone concentrations alongside a wider portfolio of essential, spice, floral, and carrier oils. Applicable products are available in grades complying with supported IP, BP, EP, USP, and JP specifications.",
+      "Our major key suppliers are top ranked nutraceutical companies, pharmaceutical companies, flavor & fragrance houses, oral & personal care companies, tobacco manufacturers, ayurvedic companies, and FMCG manufacturers in India and around the globe. We can also customize our products as per the quality requirements and specifications of our customers.",
     ],
     uspLeft: [
       "Extracted from Non-GMO Seeds",
