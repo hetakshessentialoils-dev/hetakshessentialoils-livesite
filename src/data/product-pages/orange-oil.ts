@@ -53,7 +53,7 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Orange Oil Bulk Manufacturer & Wholesale Suppliers in US",
+  seoTitle: "Orange Oil Bulk Manufacturer & Wholesale Supplier in US",
   seoDescription: "100% Pure & Natural Orange Oil Wholesale Supplier & Bulk Manufacturer in USA. Premium quality, bulk supply and competitive wholesale prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
@@ -68,7 +68,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A <b>Orange hydrosol bulk suppliers</b> can provide the material for brands developing water- based botanical products such as face mists, body sprays, hair mists, toners, lotions, and other suitable formulas.",
+          text: "A <b>Orange oil supplier</b> can provide the material for brands developing water- based botanical products such as face mists, body sprays, hair mists, toners, lotions, and other suitable formulas.",
         },
         {
           type: "heading",
@@ -180,7 +180,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A <b>Orange oil bulk manufacturers</b> may supply peel-derived oil, while a company looking for a floral orange ingredient would need to look at a completely different material.",
+          text: "A <b>Orange oil bulk manufacturer</b> may supply peel-derived oil, while a company looking for a floral orange ingredient would need to look at a completely different material.",
         },
       ],
     },
@@ -281,7 +281,7 @@ export const page: CleanProductPage = {
       content: [
         {
           type: "paragraph",
-          text: "A <b>Orange oil bulk distributors</b> may supply the oil for several industries because its sweet citrus smell works in many types of products.",
+          text: "A <b>Orange oil bulk distributor</b> may supply the oil for several industries because its sweet citrus smell works in many types of products.",
         },
         {
           type: "heading",
