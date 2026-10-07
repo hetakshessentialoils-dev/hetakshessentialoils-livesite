@@ -125,7 +125,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Bulk Evening Primrose Oil | Seed Selection, Packaging & Supply Support",
+      title: "Bulk Evening Primrose Oil Wholesale | Seed Selection, Packaging & Supply Support",
       paragraphs: [
         "The quality of Evening Primrose Oil starts with the seeds. Good raw material, careful processing, suitable filtration, and proper storage all help maintain the natural properties of the oil. The fatty acid profile can vary according to the seed source, growing conditions, extraction method, and batch.",
         "We supply Evening Primrose Oil in bulk for businesses that use natural carrier oils in their products. Our supply is suitable for cosmetic companies, skincare brands, hair care manufacturers, soap makers, personal care businesses, wholesalers, distributors, and product developers.",
@@ -157,8 +157,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Best Evening Primrose Oil Wholesale Supplier and Manufacturer in US",
-  seoDescription: "Premium Evening Primrose Oil bulk manufacturer and wholesale supplier offering pure, quality oil in bulk for supplements, nutraceuticals and health products.",
+  seoTitle: "Evening Primrose Oil Wholesale Supplier and Bulk Manufacturers",
+  seoDescription: "Premium Evening Primrose Oil for wholesale and bulk orders. Hetaksh Essential Oils provides quality products with reliable bulk supply.",
 };
 
 export const faqs: FaqItem[] = [
