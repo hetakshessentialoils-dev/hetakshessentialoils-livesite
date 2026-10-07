@@ -138,8 +138,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Dill Oil BP Wholesale | Hydrosol Bulk Suppliers & Manufacturer in US",
-  seoDescription: "Hetaksh Essential Oils offers premium Dill Oil BP and Hydrosol for bulk manufacturer and wholesale suppliers requirements.",
+  seoTitle: "Dill Oil Wholesale, Suppliers & Bulk Manufacturer in US",
+  seoDescription: "100% Natural Dill Oil Wholesale Supplier & Bulk Manufacturer in US. Hetaksh Essential Oils offers quality products at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
