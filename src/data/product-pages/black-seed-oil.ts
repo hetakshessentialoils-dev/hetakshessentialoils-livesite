@@ -117,8 +117,8 @@ export const landing: ProductLanding = {
     aim: "While standing high in the market of oils, Hetaksh a well-reputed brand is visionary in providing turnkey needs of high-end projects in a short time. Our core aim is to become a well-reputed brand with the ability to take on and fulfill end-to-end projects for major pharmaceutical companies. With our services, we want to serve the market effectively.",
     customers: "We aim to supply our product in bulk and with this in mind, we strive to connect with the major players in the pharmaceutical industry. To us, our customers are the managers and the evangelist of our services and we will ensure the high-end services to them in one go. We will make sure to provide quality products to our services. At last, happy customers means happy Hetaksh!",
   },
-  seoTitle: "Black Seed Oil Wholesale, Supplier & Bulk Manufacturer US",
-  seoDescription: "Hetaksh Essential Oils is a Black Seed Oil Manufacturer and wholesale supplier in US, offers bulk orders with Thymoquinone content of up to 20%.",
+  seoTitle: "Black Seed Oil Wholesale & Bulk Suppliers in US",
+  seoDescription: "Hetaksh Essential Oils supplies Black Seed Oil in wholesale and bulk quantities in the US, with Thymoquinone content available up to 20%.",
 };
 
 export const faqs: FaqItem[] = [
