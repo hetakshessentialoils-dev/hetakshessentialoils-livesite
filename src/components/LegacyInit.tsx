@@ -61,18 +61,6 @@ export function LegacyInit() {
     );
   }, []);
 
-  // Below-fold images use data-src so they don't compete with the first screen; load them after the page
-  useEffect(
-    () =>
-      afterLoad(() =>
-        document.querySelectorAll<HTMLImageElement>("img[data-src]").forEach((img) => {
-          img.src = img.dataset.src!;
-          img.removeAttribute("data-src");
-        }),
-      ),
-    [pathname],
-  );
-
   useEffect(() => {
     const header = document.querySelector("header.main-header-two.page-header");
     const onScroll = () => {

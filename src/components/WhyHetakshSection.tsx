@@ -19,7 +19,7 @@ export function WhyHetakshSection({ headingTag: Tag = "h3" }: { headingTag?: "h2
                   {group.map((item) => (
                     <li key={item.title}>
                       <div className="icon">
-                        <img data-src={item.icon} alt={item.title} loading="lazy" decoding="async" />
+                        <img src={item.icon} alt={item.title} loading="lazy" decoding="async" />
                       </div>
                       <div className="text">
                         <h4>{item.title}</h4>

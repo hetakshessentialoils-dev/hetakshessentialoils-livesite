@@ -108,7 +108,7 @@ export default async function HomePage() {
                 <Link href={`/${category.slug}`}>
                   <div className="project-six__img">
                     <img
-                      data-src={CATEGORY_IMAGES[category.slug] || CATEGORY_IMAGES["essential-oils"]}
+                      src={CATEGORY_IMAGES[category.slug] || CATEGORY_IMAGES["essential-oils"]}
                       alt={category.name}
                       loading="lazy"
                       decoding="async"
@@ -136,7 +136,7 @@ export default async function HomePage() {
                 <Link href="/working-process">
                   <div className={`process-one__single ${index < 3 ? "p-bg-1" : ""}`}>
                     <span>
-                      <img data-src={step.image} alt={step.title} loading="lazy" decoding="async" />
+                      <img src={step.image} alt={step.title} loading="lazy" decoding="async" />
                     </span>
                     <h3 className="process-one__title">{step.title}</h3>
                   </div>
@@ -159,7 +159,7 @@ export default async function HomePage() {
               <div key={item.title} className="Industries__single">
                 <Link href={item.href}>
                   <div className="Industries__img">
-                    <img data-src={item.image} alt={item.title} loading="lazy" decoding="async" />
+                    <img src={item.image} alt={item.title} loading="lazy" decoding="async" />
                   </div>
                   <div className="Industries__content">
                     <h3 className="Industries__title">{item.title}</h3>
@@ -200,7 +200,7 @@ export default async function HomePage() {
             {CERTIFICATE_CAROUSEL.map((cert) => (
               <div key={cert.src} className="item">
                 <div className="logo-box">
-                  <img data-src={cert.src} alt={cert.alt} loading="lazy" decoding="async" />
+                  <img src={cert.src} alt={cert.alt} loading="lazy" decoding="async" />
                 </div>
               </div>
             ))}
@@ -223,7 +223,7 @@ export default async function HomePage() {
                 <div className="news-two__left">
                   <div className="news-two__left-img">
                     {featured.featuredImageUrl && (
-                      <img data-src={featured.featuredImageUrl} alt={featured.title} loading="lazy" decoding="async" />
+                      <img src={featured.featuredImageUrl} alt={featured.title} loading="lazy" decoding="async" />
                     )}
                     <div className="news-two__left-img-content">
                       <h3 className="news-two__left-title">
@@ -242,7 +242,7 @@ export default async function HomePage() {
                       <div className="news-two__single">
                         {post.featuredImageUrl && (
                           <div className="news-two__img">
-                            <img data-src={post.featuredImageUrl} alt={post.title} loading="lazy" decoding="async" />
+                            <img src={post.featuredImageUrl} alt={post.title} loading="lazy" decoding="async" />
                           </div>
                         )}
                         <div className="news-two__content">
