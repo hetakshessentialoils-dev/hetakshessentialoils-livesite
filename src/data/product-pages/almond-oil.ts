@@ -398,7 +398,7 @@ export const htmlPage: ProductPageHtml = {
                                 We are pleased to introduce Hetaksh Essential Oils as “Almond Oil bulk suppliers“, Indian leading cultivators, manufacturers, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.
                               </p>
                               <p>
-                                We are Almond Oil bulk suppliers, we provide Almond Oil in documented product grades. We are a leading Almond Oil supplier and we also supply more than 200 products. Currently we are exporting to 40 countries with more than 500 clients worldwide. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to more than 40 countries worldwide.
+                                We are Almond Oil bulk suppliers in United States/India, we provide Almond Oil in documented product grades. We are a leading Almond Oil supplier and we also supply more than 200 products. Currently we are exporting to 40+ countries with more than 500 clients worldwide. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to more than 40 countries worldwide.
                               </p>
                               <p>
                                 We are supplying our Products to top ranked Nutraceutical Companies, Pharmaceuticals Companies, Flavor & Fragrance houses, Oral & Personal Care Companies, Tobacco Manufacturers, Ayurvedic Companies and FMCG manufacturers in India and round the Globe.
