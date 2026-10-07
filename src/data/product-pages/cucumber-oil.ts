@@ -237,8 +237,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Cucumber Oil Bulk Manufacturer | Wholesale Suppliers & Distributor",
-  seoDescription: "Hetaksh Essential Oils quality Cucumber Oil Manufacturer as a trusted bulk supplier. Get bulk and wholesale solutions for cosmetics, and personal care.",
+  seoTitle: "Cucumber Oil Bulk Manufacturer & Wholesale Supplier in US",
+  seoDescription: "Cucumber Oil Bulk Manufacturer & Wholesale Supplier in the US. Hetaksh Essential Oils offers quality oil for businesses at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
