@@ -130,8 +130,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Natural Clary Sage Oil Wholesale Suppliers | Bulk Manufacturer in US",
-  seoDescription: "Buy natural Clary Sage Oil from trusted bulk supplier and manufacturer in us. Available in wholesale for cosmetics and personal care.",
+  seoTitle: "Clary Sage Oil Wholesale Supplier & Bulk Manufacturer in US",
+  seoDescription: "Order premium Natural Clary Sage Oil wholesale from Hetaksh Essential Oils. Bulk supply available for businesses across the United States.",
 };
 
 export const faqs: FaqItem[] = [
