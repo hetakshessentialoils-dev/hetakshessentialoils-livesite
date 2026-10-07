@@ -4,9 +4,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { buildMetadata, breadcrumbJsonLd } from "@/lib/seo";
 
 export const metadata = buildMetadata({
-  title: "Contact Us for Quality Essential Oil Inquiries",
+  title: "Contact Us for Wholesale Inquiries",
   description:
-    "Contact Hetaksh Essential Oils for bulk essential oil quotes, export enquiries, and product documentation. Serving clients across 40+ countries.",
+    "Hetaksh Essential Oils welcomes wholesale inquiries for essential oils, carrier oils and Hydrosols oils. Contact us for bulk pricing and orders.",
   keywords: "contact hetaksh essential oils, bulk oil enquiry, essential oil quote",
   path: "/contact",
 });
