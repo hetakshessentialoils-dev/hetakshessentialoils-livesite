@@ -68,7 +68,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A <b>Oregano hydrosol bulk suppliers</b> may provide it for brands developing botanical sprays, personal-care products, toners, lotions, and other water-based formulas.",
+          text: "A <b>Oregano oil supplier</b> may provide it for brands developing botanical sprays, personal-care products, toners, lotions, and other water-based formulas.",
         },
         {
           type: "paragraph",
@@ -135,7 +135,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "This is why <b>Oregano oil bulk manufacturers</b> specifications should clearly identify the botanical source.",
+          text: "This is why <b>Oregano oil bulk manufacturer</b> specifications should clearly identify the botanical source.",
         },
         {
           type: "paragraph",
@@ -384,7 +384,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "For businesses considering <b>Oregano oil bulk distributors</b>, checking the botanical identity and product specification before selecting a quantity can help ensure that the material matches the planned formulation.",
+          text: "For businesses considering <b>Oregano oil bulk distributor</b>, checking the botanical identity and product specification before selecting a quantity can help ensure that the material matches the planned formulation.",
         },
       ],
     },
