@@ -48,7 +48,7 @@ export const landing: ProductLanding = {
     },
   ],
   manufacturer: {
-    heading: "Black Seed Oil Bulk Manufacturer & Supplier in USA",
+    heading: "Black Seed Oil Bulk Manufacturer & Wholesale Supplier in United States/India",
     image: "/assets/images/products/single-product/black-cumin-seed-oil/Black-seed-oil-bulk.webp",
     imageAlt: "Black Seed Oil Bulk",
     paragraphs: [
