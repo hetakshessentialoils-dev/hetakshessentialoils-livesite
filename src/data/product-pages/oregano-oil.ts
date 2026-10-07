@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Oregano Oil",
-  heading: "Oregano Oil | A Bold Herbal Oil from a Strong-Scented Plant",
+  heading: "Oregano Oil Manufacturer | Pure Oregano Oil Wholesale & Bulk Suppliers",
   image: "/assets/images/products/spice-oil/OREGANO OIL.webp",
   imageAlt: "Oregano Oil",
   paragraphs: [
@@ -54,12 +54,12 @@ export const page: CleanProductPage = {
   variants: [],
   infoTables: [],
   seoTitle: "Oregano Oil Manufacturer & Wholesale Suppliers in USA",
-  seoDescription: "Get quality Oregano Oil Bulk from a trusted manufacturer and wholesale supplier in USA, with bulk options available for large-volume business requirements.",
+  seoDescription: "Buy 100% Pure Oregano Oil from trusted manufacturers and wholesale suppliers in USA. Premium quality oil at competitive bulk prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
       type: "variant",
-      title: "Oregano Hydrosol | A Gentler Way to Use the Herb’s Aroma",
+      title: "Bulk Oregano Hydrosol | A Gentler Way to Use the Herb’s Aroma",
       paragraphs: [],
       content: [
         {
@@ -68,7 +68,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A oregano hydrosol bulk supplier may provide it for brands developing botanical sprays, personal-care products, toners, lotions, and other water-based formulas.",
+          text: "A <b>Oregano hydrosol bulk suppliers</b> may provide it for brands developing botanical sprays, personal-care products, toners, lotions, and other water-based formulas.",
         },
         {
           type: "paragraph",
@@ -114,7 +114,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Not All Oregano Oils Smell the Same",
+      title: "Not All Oregano Oil Smell the Same",
       paragraphs: [],
       content: [
         {
@@ -135,7 +135,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "This is why oregano oil bulk manufacturer specifications should clearly identify the botanical source.",
+          text: "This is why <b>Oregano oil bulk manufacturers</b> specifications should clearly identify the botanical source.",
         },
         {
           type: "paragraph",
@@ -240,7 +240,7 @@ export const page: CleanProductPage = {
     },
     {
       type: "section",
-      title: "Oregano Oil in Food and Flavour Work",
+      title: "Oregano Oil Wholesale in Food and Flavour Work",
       paragraphs: [],
       content: [
         {
@@ -253,7 +253,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A suitable oregano oil bulk distributor should identify the grade and intended application clearly.",
+          text: "A suitable <b>Oregano oil wholesale</b> should identify the grade and intended application clearly.",
         },
         {
           type: "paragraph",
@@ -376,7 +376,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A oregano oil bulk exporter may therefore deal with a very different type of product from a supplier handling oregano hydrosol.",
+          text: "A <b>Oregano oil bulk</b> exporter may therefore deal with a very different type of product from a supplier handling oregano hydrosol.",
         },
         {
           type: "paragraph",
@@ -384,7 +384,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "For businesses considering oregano oil bulk wholesale, checking the botanical identity and product specification before selecting a quantity can help ensure that the material matches the planned formulation.",
+          text: "For businesses considering <b>Oregano oil bulk distributors</b>, checking the botanical identity and product specification before selecting a quantity can help ensure that the material matches the planned formulation.",
         },
       ],
     },
