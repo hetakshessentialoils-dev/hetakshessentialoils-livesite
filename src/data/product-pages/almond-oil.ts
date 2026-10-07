@@ -108,7 +108,7 @@ export const htmlPage: ProductPageHtml = {
                             Extraction
                           </h2>
                           <p>
-                            Almond oil is typically extracted by cold-pressing the kernels of the almond tree. This process involves crushing the kernels and then using a hydraulic press to extract the oil. Cold-pressing helps to retain the nutrients and natural properties of the oil. As a trusted <strong class="cyb">Almond oil wholesale suppliers</strong>, we ensure the highest quality in our product, offering the benefits of natural nourishment for skin and hair in Almond oil bulk quantities.
+                            Almond oil is typically extracted by cold-pressing the kernels of the almond tree. This process involves crushing the kernels and then using a hydraulic press to extract the oil. Cold-pressing helps to retain the nutrients and natural properties of the oil. As a trusted <strong class="cyb">Almond oil wholesale suppliers in United States</strong>, we ensure the highest quality in our product, offering the benefits of natural nourishment for skin and hair in Almond oil bulk quantities.
                           </p>
                           <div class="product__btn-box">
                             <a
