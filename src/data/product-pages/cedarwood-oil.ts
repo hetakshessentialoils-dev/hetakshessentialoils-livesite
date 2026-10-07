@@ -153,8 +153,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Cedarwood Oil Wholesale | Hydrosol Suppliers & Manufactureri in US",
-  seoDescription: "Find quality Cedarwood Oil Wholesale from reliable bulk suppliers and manufacturers. We provide bulk oil and hydrosols for cosmetics and other industries.",
+  seoTitle: "Cedarwood Oil Wholesale, Supplier & Bulk Manufacturer in US",
+  seoDescription: "Hetaksh Essential Oils offers 100% Pure & Natural Cedarwood Oil for wholesale and bulk supply in USA at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
