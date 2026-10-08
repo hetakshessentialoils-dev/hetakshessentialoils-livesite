@@ -120,8 +120,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Borage Oil Manufacturers | Natural Bulk & Wholesale Suppliers",
-  seoDescription: "Hetaksh Essential Oils offers Borage Oil Wholesale Suppliers for personal care manufacturer looking for quality bulk supply.",
+  seoTitle: "Borage Oil Manufacturer | Natural Bulk & Wholesale Supplier",
+  seoDescription: "Hetaksh Essential Oils offers Borage Oil Wholesale Supplier for personal care manufacturer looking for quality bulk supply.",
 };
 
 export const faqs: FaqItem[] = [
