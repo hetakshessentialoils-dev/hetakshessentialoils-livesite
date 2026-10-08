@@ -10,7 +10,7 @@ export const page: CleanProductPage = {
   imageAlt: "Cajeput Essential Oil",
   paragraphs: [
     "Cajeput Oil, also written as Kajaput Oil or Cajuput Oil, is an essential oil made from the leaves and small branches of the cajeput tree, botanically known as Melaleuca cajuputi. The oil is usually made by steam distillation and has a fresh, strong, clean smell with notes similar to eucalyptus and camphor. Cajeput belongs to the Myrtaceae family and is mainly found in parts of Southeast Asia and Australia. Its main natural compound is 1,8-cineole, along with alpha-terpineol, limonene, alpha-pinene, and other plant compounds.",
-    "Cajeput Oil is used in aromatherapy, massage blends, soaps, cosmetics, personal care products, fragrances, and some traditional preparations. Its fresh smell also makes it useful in products made for a clean and refreshing feel. At Hetaksh Essential Oils, we offer <b>Cajeput Oil bulk manufacturers</b>, wholesalers, distributors, and brands looking for a natural essential oil for their products.",
+    "Cajeput Oil is used in aromatherapy, massage blends, soaps, cosmetics, personal care products, fragrances, and some traditional preparations. Its fresh smell also makes it useful in products made for a clean and refreshing feel. At Hetaksh Essential Oils, we offer <b>Cajeput Oil bulk manufacturer</b>, wholesaler, distributors, and brands looking for a natural essential oil for their products.",
   ],
   specsTitle: "Product Specifications",
   specs: [
