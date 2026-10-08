@@ -158,7 +158,7 @@ export const htmlPage: ProductPageHtml = {
                 Additionally, we focus on maintaining transparency in our product by minimizing the inclusion of heavy metals such as lead, mercury, arsenic, and cadmium, which are kept at levels below 1 ppm (approximately 10 ppm in total). The inclusion of microbiological impurities, such as yeasts and molds, is limited to less than 10 cfu/g, with Salmonella, E. coli, and Pseudomonas aeruginosa being completely absent.
               </p>
               <p>
-                As your reliable <b>Batana Oil bulk suppliers in South America and United States</b>, we prioritize quality and purity, ensuring that we deliver a premium product to meet all your needs worldwide.
+                As your reliable Batana Oil bulk suppliers in South America and United States, we prioritize quality and purity, ensuring that we deliver a premium product to meet all your needs worldwide.
               </p>
             </div>
           </div>
