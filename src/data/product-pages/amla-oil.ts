@@ -9,7 +9,7 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/Carrier-Oils/Amla-Oil.webp",
   imageAlt: "Natural Amla Oil",
   paragraphs: [
-    "Amla Oil is a premium quality natural oil derived from the Indian Gooseberry, a highly nutritious fruit known for its sweet taste with a distinctive sour flavour. The fruit is greenish-yellow in colour and is traditionally respected in US as a symbol of nature and wellness. Our Amla Oil is extracted using the cold-pressed process from carefully selected fruits of Phyllanthus emblica. It is a rich source of vitamin C, tannins, flavonoids, ellagic acid, and other natural antioxidants that support cosmetic and wellness formulations.",
+    "Amla Oil is a premium quality natural oil derived from Indian Gooseberry, a highly nutritious fruit known for its sweet taste with a distinctive sour flavour. The fruit is greenish-yellow in colour and is traditionally respected in US as a symbol of nature and wellness. Our Amla Oil is extracted using the cold-pressed process from carefully selected fruits of Phyllanthus emblica. It is a rich source of vitamin C, tannins, flavonoids, ellagic acid, and other natural antioxidants that support cosmetic and wellness formulations.",
     "The seeds naturally contain linolenic acid and omega-3 fatty acids, while the fruits, leaves, roots, and stems are valued for their beneficial properties. Our <b>bulk Amla Oil</b> is soluble in alcohol and insoluble in water, making it suitable for various cosmetic formulations. It nourishes the scalp, reduces hair breakage, improves hair texture, and promotes healthy-looking skin. As a trusted bulk supplier in United States/India, we offer pure quality Amla Oil for cosmetic, pharmaceutical, personal care, and wellness brands worldwide.",
   ],
   specsTitle: "Product Specifications",
@@ -64,8 +64,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Amla Oil Wholesale, Supplier & Bulk Manufacturer in US",
-  seoDescription: "Hetaksh Essential Oils supplies 100% pure Amla Oil Manufacturers for hair, scalp, beard and skin care products, with reliable wholesale and bulk supply in US.",
+  seoTitle: "Amla Oil Wholesale, Bulk Manufacturer & Supplier in US",
+  seoDescription: "Hetaksh Essential Oils supplies 100% pure Amla Oil Manufacturer for hair, scalp, beard and skin care products, with reliable wholesale and bulk supplier in US.",
 };
 
 export const faqs: FaqItem[] = [
