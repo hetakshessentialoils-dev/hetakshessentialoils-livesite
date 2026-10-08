@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "sesame-oil",
-  title: "Sesame Oil Bulk, Wholesale Suppliers & Manufacturers in US",
-  seoTitle: "Sesame Oil Bulk, Wholesale Suppliers & Manufacturers in US",
-  seoDescription: "Sesame Oil Bulk, Looking for premium Sesame Oil in bulk? We are trusted wholesale suppliers and manufacturers of high-quality Sesame Oil in US.",
+  title: "Sesame Oil Manufacturer, Wholesale & Bulk Supplier in US",
+  seoTitle: "Sesame Oil Manufacturer, Wholesale & Bulk Supplier in US",
+  seoDescription: "Sesame Oil Bulk, Looking for premium Sesame Oil in bulk? We are trusted wholesale supplier and manufacturer of high-quality Sesame Oil in US.",
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   html: `
@@ -38,7 +38,7 @@ export const htmlPage: ProductPageHtml = {
               Being a reputed manufacturer for Sesame Oil, we enforce stringent quality standards to ensure the consistency and excellence of our oil. All the clients can 100% rely on our Sesame Oil making it a valuable addition to their formulations.
             </p>
             <h4 class="mb-5">
-              Available packaging: 25 kg and 180 kg HDPE or GI drums
+              Available packaging: 25 kg and 180 kg HDPE or GI Drums
             </h4>
           </div>
         </div>
@@ -141,7 +141,7 @@ export const htmlPage: ProductPageHtml = {
           <div class="product-content-right">
             <div class=" wow slideInRight animated" data-wow-delay="100ms">
               <h2 class="section-title__title">
-                Wholesale Supplier of Sesame Oil Bulk manufacturer from United States
+                Wholesale Supplier of Sesame Oil Bulk Manufacturer in India Supplying from United States
               </h2>
               <p class="mb-3">
                 Sesame oil is a rich source of unsaturated fatty acids, primarily oleic and linoleic acids, which together account for about 80-85% of its total fatty acid content and contribute to its nutritional value and health benefits.
@@ -485,16 +485,16 @@ export const htmlPage: ProductPageHtml = {
   <div class="container">
     <div class="section-title ">
       <h2 class="section-title__title">
-        Bulk Exporters and manufacturers of Pharma Grade Quality Sesame Oil
+        Bulk Exporters and manufacturer of Pharma Grade Quality Sesame Oil
       </h2>
     </div>
     <div class="row">
       <div class="col-md-12">
         <p>
-          We are <b>Sesame Oil bulk suppliers</b>, we provide Sesame Oil which is 100% Natural and pure. We are a leading Sesame oil manufacturer and we also deal in 200+ products Currently we are exporting to more than 40 countries globally. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to almost 40+ countries worldwide.
+          We are <b>Sesame Oil bulk supplier</b>, we provide Sesame Oil which is 100% Natural and pure. We are a leading Sesame oil manufacturer and we also deal in 200+ products Currently we are exporting to more than 40+ countries globally. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to almost 40+ countries worldwide.
         </p>
         <p>
-          We are supplying our Products to top ranked Nutraceutical Companies, Pharmaceuticals Companies, Flavor & Fragrance houses, Oral & Personal Care Companies, Tobacco Manufacturers, Ayurvedic Companies and FMCG manufacturers in United States and round the Globe. With strict procurement of 100% Natural and Genuine raw material directly from the farmers and stringent manufacturing & quality control methods we can supply products in grades complying with applicable IP, BP, EP, USP, and JP specifications. We can also customize our Products as per quality requirements and specifications of the customers. You may visit our website, <a href="/">Hetaksh Essential Oils</a> for our company’s profile and product details.
+          We are supplying our Products to top ranked Nutraceutical Companies, Pharmaceuticals Companies, Flavor & Fragrance houses, Oral & Personal Care Companies, Tobacco Manufacturers, Ayurvedic Companies and FMCG manufacturer in India and Supplying United States and round the Globe. With strict procurement of 100% Natural and Genuine raw material directly from the farmers and stringent manufacturing & quality control methods we can supply products in grades complying with applicable IP, BP, EP, USP, and JP specifications. We can also customize our Products as per quality requirements and specifications of the customers. You may visit our website, <a href="/">Hetaksh Essential Oils</a> for our company’s profile and product details.
         </p>
       </div>
     </div>
@@ -552,7 +552,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
-          <img src="/assets/images/process/Raw Materials.webp">
+          <img src="/assets/images/process/Raw Materials.webp" alt="Raw Materials">
           </span>
           <!-- <div class="process-one__count"></div> -->
           <h4 class="process-one__title">
@@ -567,7 +567,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
-          <img src="/assets/images/process/Production.webp">
+          <img src="/assets/images/process/Production.webp" alt="Production">
           </span>
           <h4 class="process-one__title">
             Production
@@ -581,7 +581,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
-          <img src="/assets/images/process/Quality-and-Analysis.webp">
+          <img src="/assets/images/process/Quality-and-Analysis.webp" alt="Quality-and-Analysis">
           </span>
           <!-- <div class="process-one__count"></div> -->
           <h4 class="process-one__title">
@@ -596,7 +596,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single ">
           <span>
-          <img src="/assets/images/process/Delivery-and-Packaging.webp">
+          <img src="/assets/images/process/Delivery-and-Packaging.webp" alt="Delivery-and-Packaging">
           </span>
           <!-- <div class="process-one__count"></div> -->
           <h4 class="process-one__title">
