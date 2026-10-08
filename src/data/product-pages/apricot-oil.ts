@@ -75,7 +75,7 @@ export const page: CleanProductPage = {
       title: "Wholesale Apricot Oil Supplier | Packaging, Quality & Global Export",
       paragraphs: [
         "As a trusted <b>Apricot Oil wholesale supplier</b>, we provide premium quality Apricot Kernel Oil in secure packaging options ranging from 25 kg to 180 kg HDPE drums. Every batch is carefully tested to ensure purity, consistency, and compliance with international quality standards before dispatch. We supply complete quality documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, and Non-GMO Declaration with domestic and international deliveries on request.",
-        "Our experienced manufacturing team has the capacity to handle large-volume orders while maintaining consistent product quality. We proudly serve cosmetic, pharmaceutical, aromatherapy, wellness, and personal care brands across the world with competitive wholesale pricing. Our strong logistics network enables reliable exports to the USA, Canada, the UK, Australia, the Middle East, and many other countries. We also offer dependable delivery partners, and complete technical documentation required for export. Every shipment is packed carefully to help maintain product quality during transportation and long-distance international shipping.",
+        "Our experienced manufacturing team has the capacity to handle large-volume orders while maintaining consistent product quality. We proudly serve cosmetic, pharmaceutical, aromatherapy, wellness, and personal care brands across the world with competitive wholesale pricing. Our strong logistics network enables reliable exports in USA, Canada, UK, Australia and Middle East, and many other countries. We also offer dependable delivery partners, and complete technical documentation required for export. Every shipment is packed carefully to help maintain product quality during transportation and long-distance international shipping.",
       ],
     },
     {
@@ -99,8 +99,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Apricot Oil Wholesale Suppliers | Bulk Manufacturer in USA",
-  seoDescription: "Hetaksh Essential Oils 100% pure Apricot Oil Bulk Manufacturers for skincare, hair care, creams, with wholesale and Suppliers in USA.",
+  seoTitle: "Apricot Oil Manufacturer in India | Apricot Oil Wholesale in US ",
+  seoDescription: "Hetaksh Essential Oils 100% pure Apricot Oil Bulk Manufacturer for skincare, hair care, creams, with wholesale and Supplier in USA.",
 };
 
 export const faqs: FaqItem[] = [
