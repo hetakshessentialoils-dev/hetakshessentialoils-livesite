@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "tea-tree-oil",
-  title: "Tea Tree Oil Wholesale | Suppliers | Manufacturers in US",
-  seoTitle: "Tea Tree Oil Bulk Manufacturers & Wholesale Supplier in US",
-  seoDescription: "Hetaksh Essential Oils supplies 100% Pure & Natural Tea Tree Oil as a trusted bulk manufacturer and wholesale supplier in the US.",
+  title: "Tea Tree Oil Wholesale Supplier in US | Manufacturer",
+  seoTitle: "Tea Tree Oil Bulk Manufacturer & Wholesale Supplier in US",
+  seoDescription: "Hetaksh Essential Oils supplies 100% Pure & Natural Tea Tree Oil as a trusted bulk manufacturer and wholesale supplier in US.",
   category: "essential-oils",
   categoryName: "Essential Oils",
   html: `
@@ -23,7 +23,7 @@ export const htmlPage: ProductPageHtml = {
               Tea Tree Oil, also known as melaleuca oil, is an essential oil that is derived from the leaves of the tea tree plant (Melaleuca alternifolia) and is native to Australia. It is known for its antiseptic and anti-inflammatory properties, and has been used for a variety of medicinal and cosmetic purposes. Traditionally tea tree oil has been used as an antiseptic (germ killer) and an herbal medicine. Steam Distillation is the main process of extraction for this <b>Tea Tree Oil Bulk Supplier</b>. The chemical composition of tea tree oil can vary depending on factors such as the plant species, growing conditions, and extraction methods. Tea Tree Oil is widely used for aromatherapy, skincare, and hair care and for Natural remedies.
             </p>
             <h4 class="mb-5">
-              Available packaging: 25 kg and 180 kg HDPE and GI drums
+              Available packaging: 25 kg and 180 kg HDPE and GI Drums
             </h4>
           </div>
         </div>
@@ -481,7 +481,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
-          <img src="/assets/images/process/Raw Materials.webp">
+          <img src="/assets/images/process/Raw Materials.webp" alt="Raw Materials">
           </span>
           <!-- <div class="process-one__count"></div> -->
           <h4 class="process-one__title">
@@ -496,7 +496,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
-          <img src="/assets/images/process/Production.webp">
+          <img src="/assets/images/process/Production.webp" alt="Production">
           </span>
           <h4 class="process-one__title">
             Production
@@ -510,7 +510,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
-          <img src="/assets/images/process/Quality-and-Analysis.webp">
+          <img src="/assets/images/process/Quality-and-Analysis.webp" alt="Quality-and-Analysis">
           </span>
           <!-- <div class="process-one__count"></div> -->
           <h4 class="process-one__title">
@@ -525,7 +525,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single ">
           <span>
-          <img src="/assets/images/process/Delivery-and-Packaging.webp">
+          <img src="/assets/images/process/Delivery-and-Packaging.webp" alt="Delivery-and-Packaging.webp">
           </span>
           <!-- <div class="process-one__count"></div> -->
           <h4 class="process-one__title">
