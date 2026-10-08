@@ -19,7 +19,7 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Arachis Oil Page",
   sections: [
     {
-      title: "Arachis Oil Bulk manufacturer from United States",
+      title: "Arachis Oil Bulk manufacturer in India and Wholesale Supplier United States",
       paragraphs: [
         "<b>Process of Extraction</b><br/>Arachis oil, also known as Peanut oil, is extracted from peanuts (Arachis Hypogaea) through the Cold Pressed method. <b>Arachis oil manufacturer</b> as supplied by our company is a pharma grade oil and 100% Natural and Pure. Our oil standards are complied with BP & USP grade standards. Peanut oil is clear, viscous, and yellowish in colour and has a very low solubility in ethanol but miscible with light petroleum. The extracted oil is treated with acid to remove impurities.",
         "<b>Main Fatty acids</b><br/>Oleic acid, linoleic acid, stearic acid, behenic acid, lignoceric acid and Eicosenoic acid.",
