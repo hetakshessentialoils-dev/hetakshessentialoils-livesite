@@ -7,7 +7,7 @@ export const landing: ProductLanding = {
   headerBgId: "sing-bg-img-4",
   title: "Saw Palmetto Oil Bulk Manufacturer & Supplier",
   intro: [
-    "Saw palmetto oil is obtained from the berries of <b>Serenoa repens</b> and is available for wholesale supply from the USA. The Bulk Saw Palmetto Extract Oil has 85% fatty acid with approximately 32% lauric acid. This yellowish to reddish orange coloured oil can be extracted using the CO2 supercritical extraction process in which it gets a long chain alcohol portion of around 0.15 % to 0.35% and sterols not less than 0.2% Spray drying process is used in the extraction of <b>Saw Palmetto Oil Extract from Wholesale Supplier</b>. The extract is delivered as a powder with purity levels of 45%, 35%, and 25% along with the excipient maltodextrin.",
+    "Saw palmetto oil is obtained from the berries of Serenoa repens and is available for wholesale supply from the USA. The Bulk Saw Palmetto Extract Oil has 85% fatty acid with approximately 32% lauric acid. This yellowish to reddish orange coloured oil can be extracted using the CO2 supercritical extraction process in which it gets a long chain alcohol portion of around 0.15 % to 0.35% and sterols not less than 0.2% Spray drying process is used in the extraction of <b>Saw Palmetto Oil Extract from Wholesale Supplier</b>. The extract is delivered as a powder with purity levels of 45%, 35%, and 25% along with the excipient maltodextrin.",
     "We supply Saw Palmetto Oil and Saw Palmetto Extract in bulk. The oil and powdered extract are distinct products, and the available grades are listed below with their corresponding documentation.",
   ],
   packaging: "Available packaging: 25 kg and 180 kg HDPE or GI drums",
@@ -41,7 +41,7 @@ export const landing: ProductLanding = {
     },
   ],
   manufacturer: {
-    heading: "Saw Palmetto Oil Bulk Manufacturer & Supplier",
+    heading: "Manufacturer of Saw Palmetto Oil Wholesale & Bulk Distributors",
     image: "/assets/images/products/single-product/Saw-Palmetto-Oil/Saw-Palmetto-Oil-Wholesale.webp",
     imageAlt: "Saw Palmetto Oil Wholesale",
     paragraphs: [
@@ -109,8 +109,8 @@ export const landing: ProductLanding = {
     aim: "While standing high in the market of oils, Hetaksh a well-reputed brand is visionary in providing turnkey needs of high-end projects in a short time. Our core aim is to become a well-reputed brand with the ability to take on and fulfill end-to-end projects for major pharmaceutical companies. With our services, we want to serve the market effectively.",
     customers: "We aim to supply our product in bulk and with this in mind, we strive to connect with the major players in the pharmaceutical industry. To us, our customers are the managers and the evangelist of our services and we will ensure the high-end services to them in one go. We will make sure to provide quality products to our services. At last, happy customers means happy Hetaksh!",
   },
-  seoTitle: "Saw Palmetto Oil Bulk Manufacturers & Wholesale Supplier USA",
-  seoDescription: "Saw Palmetto Oil bulk manufacturers & wholesale supplier in USA. USP NF verified, 85% fatty acids, available as oil and extract (25%, 45%) for bulk export.",
+  seoTitle: "Saw Palmetto Oil Wholesale & Bulk Suppliers in US",
+  seoDescription: "Hetaksh Essential Oils offers Saw Palmetto Oil wholesale and bulk supply in the US with quality products and competitive B2B pricing.",
 };
 
 export const faqs: FaqItem[] = [
