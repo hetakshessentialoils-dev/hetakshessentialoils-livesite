@@ -8,9 +8,9 @@ import { organizationJsonLd, localBusinessJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://hetakshessentialoils.com"),
-  title: "Essential Oil Wholesale & Bulk Manufacturer in US",
+  title: "Essential Oil Wholesale & Bulk Supplier in US/India",
   description:
-    "Hetaksh Essential Oils is a global wholesale supplier and bulk manufacturer in the US, offering 100% pure, natural essential oils at competitive prices.",
+    "Hetaksh Essential Oils is a leading India-based manufacturer and US B2B supplier of 100% pure & natural essential oils at competitive wholesale prices.",
   icons: { icon: "/favicon.png" },
   alternates: {
     canonical: "/",
