@@ -5,9 +5,9 @@ import { buildMetadata, breadcrumbJsonLd } from "@/lib/seo";
 const BROCHURE_PDF = "/assets/images/certificate/hetaksh-oils-e-brochure.pdf";
 
 export const metadata = buildMetadata({
-  title: "Brochure Download Now",
+  title: "Download Product Brochure Now | Hetaksh Essential Oils",
   description:
-    "Download the Hetaksh Essential Oils brochure to discover our extensive selection of high-quality essential oils and Carrier Oils for various applications.",
+    "Download the Hetaksh Essential Oils brochure today to explore our quality oil range, bulk supply options, and reliable B2B sourcing solutions.",
   keywords: "hetaksh brochure, essential oils catalog, carrier oils brochure",
   path: "/download-brochure",
 });
