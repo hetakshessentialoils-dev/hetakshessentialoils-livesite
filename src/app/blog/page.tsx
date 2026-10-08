@@ -6,9 +6,9 @@ import { buildMetadata, breadcrumbJsonLd } from "@/lib/seo";
 
 // Edit the /blog meta title & description here.
 export const metadata = buildMetadata({
-  title: "Essential Oils & Carrier Oils Blog",
+  title: "Latest Blog Updates | Hetaksh Essential Oils",
   description:
-    "Read the Hetaksh Essential Oils blog for insights on wholesale and bulk essential oils, carrier oils, sourcing, quality standards and industry trends in the USA and India.",
+    "Explore the latest blogs from Hetaksh Essential Oils on essential oils, carrier oils, natural ingredients, trends, and industry insights.",
   keywords: "essential oils blog, carrier oils news, hetaksh blog",
   path: "/blog",
 });
