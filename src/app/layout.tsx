@@ -4,7 +4,7 @@ import "./globals.css";
 import { SiteShell } from "@/components/SiteShell";
 import { JsonLd } from "@/components/JsonLd";
 import { LegacyInit } from "@/components/LegacyInit";
-import { organizationJsonLd } from "@/lib/seo";
+import { organizationJsonLd, localBusinessJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://hetakshessentialoils.com"),
@@ -56,6 +56,7 @@ export default function RootLayout({
           }}
         />
         <JsonLd data={organizationJsonLd()} />
+        <JsonLd data={localBusinessJsonLd()} />
         <SiteShell>{children}</SiteShell>
         <div className="whats-app-icon">
           <a

@@ -86,9 +86,49 @@ export function organizationJsonLd() {
     email: "sales@hetakshessentialoils.com",
     sameAs: [
       "https://www.facebook.com/HetakshessentialoilsIn/",
-      "https://www.instagram.com/hetakshessentialoils/",
+      "https://www.instagram.com/hetakshessentialoilsin/",
       "https://www.linkedin.com/company/hetaksh-essential-oils/",
       "https://www.pinterest.com/hetakshoils/",
+    ],
+  };
+}
+
+export function localBusinessJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    name: "Hetaksh Essential Oils",
+    image: "https://hetakshessentialoils.com/assets/images/logo/hetaksh-logo.webp",
+    "@id": "https://hetakshessentialoils.com/",
+    url: "https://hetakshessentialoils.com/",
+    telephone: "+91 98718 88705",
+    priceRange: "INR",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress:
+        "Wz-106/81, Ground Floor, Rajouri Garden Extn, Behind Cambridge Foundation School, West Delhi",
+      addressLocality: "Delhi",
+      postalCode: "110027",
+      addressCountry: "IN",
+    },
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: 28.6404721,
+      longitude: 77.1130274,
+    },
+    openingHoursSpecification: {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      opens: "09:00",
+      closes: "18:00",
+    },
+    sameAs: [
+      "https://www.facebook.com/HetakshessentialoilsIn/",
+      "https://www.linkedin.com/company/hetaksh-essential-oils/",
+      "https://www.instagram.com/hetakshessentialoilsin/",
+      "https://in.pinterest.com/hetakshoils/",
+      "https://x.com/hetakshoils",
+      "https://hetakshessentialoils.com/",
     ],
   };
 }

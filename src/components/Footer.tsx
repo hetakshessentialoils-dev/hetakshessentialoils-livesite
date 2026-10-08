@@ -94,9 +94,8 @@ export function Footer() {
                   <div className="footer-widget__title-box">
                     <h3 className="footer-widget__title">Contact Us</h3>
                   </div>
-                  <p style={{ color: "#fff", fontWeight: 700, marginBottom: 8 }}>Office Address</p>
                   <p className="footer-widget__contact-text">
-                    WZ-106/81, Ground Floor, Rajouri Garden Extn, Behind Cambridge Foundation School,
+                    <span style={{ color: "#fff", fontWeight: 700 }}>Office Address</span> - WZ-106/81, Ground Floor, Rajouri Garden Extn, Behind Cambridge Foundation School,
                     West Delhi, Delhi, 110027
                   </p>
                   <ul className="footer-widget__Contact-list list-unstyled">
