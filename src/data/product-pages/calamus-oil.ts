@@ -180,8 +180,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Pure Calamus Oil Hydrosol Wholesale Suppliers | Bulk Manufacturer",
-  seoDescription: "Get 100% Pure Calamus Oil Wholesale from trusted bulk manufacturer and suppliers, suitable for aromatherapy, and industrial formulations.",
+  seoTitle: "Pure Calamus Oil Hydrosol Wholesale Supplier | Bulk Manufacturer",
+  seoDescription: "Get 100% Pure Calamus Oil Wholesale from trusted bulk manufacturer and supplier, suitable for aromatherapy, and industrial formulations.",
 };
 
 export const faqs: FaqItem[] = [
