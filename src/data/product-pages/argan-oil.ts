@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "argan-oil",
-  title: "100% Natural Argan Oil Wholesale | Bulk Manufacturers in USA",
-  seoTitle: "100% Natural Argan Oil Wholesale | Bulk Manufacturers in USA",
-  seoDescription: "Find reliable Argan Oil Wholesale Suppliers in USA. Get 100% natural, cold-pressed Argan Oil from leading bulk manufacturers at the best prices.",
+  title: "100% Natural Argan Oil Bulk Manufacturer | Wholesale Supplier in USA",
+  seoTitle: "100% Natural Argan Oil Bulk Manufacturer | Wholesale Supplier in USA",
+  seoDescription: "Find reliable Argan Oil Wholesale Supplier in USA. Get 100% natural, cold-pressed Argan Oil from leading bulk manufacturer at the best prices.",
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   html: `
@@ -28,7 +28,7 @@ export const htmlPage: ProductPageHtml = {
               For larger-scale buyers, Hetaksh Essential Oils also operates as an <b>Argan oil bulk manufacturer</b>, offering cost-effective bulk purchasing options. This allows businesses to maintain a reliable supply of premium argan oil for use in skincare, hair care, and even culinary applications, making us a go-to source for companies looking for top-quality argan oil in bulk quantities.
             </p>
             <h4 class="mb-4">
-              Available packaging: 25 kg and 180 kg HDPE and GI drums
+              Available packaging: 25 kg and 180 kg HDPE and GI Drums
             </h4>
           </div>
         </div>
@@ -178,7 +178,7 @@ export const htmlPage: ProductPageHtml = {
                                       Worldwide Export
                                     </h4>
                                     <p>
-                                      Global Presence: Our products reach customers in more than 40 countries worldwide.
+                                      Global Presence: Our products reach customers in more than 40+ countries worldwide.
                                     </p>
                                   </div>
                                 </li>
@@ -259,7 +259,7 @@ export const htmlPage: ProductPageHtml = {
                             <div class="col-xl-7 col-lg-6 col-md-6">
                               <div class="product-content-left wow slideInLeft animated animated" data-wow-delay="100ms">
                                 <h2 class="section-title__title">
-                                  Properties of Argan Oil Wholesale Suppliers
+                                  Properties of Argan Oil Wholesale Supplier
                                 </h2>
                                 <br>
                                 <p class="about-one__text">
@@ -417,7 +417,7 @@ export const htmlPage: ProductPageHtml = {
                         <div class="container">
                           <div class="section-title ">
                             <h2 class="section-title__title">
-                              Bulk Argan Oil Manufacturer & Supplier
+                              Bulk Argan Oil Manufacturer & Wholesale Supplier
                             </h2>
                           </div>
                           <div class="row">
@@ -426,7 +426,7 @@ export const htmlPage: ProductPageHtml = {
                                 We are pleased to introduce Hetaksh Essential Oils as “Argan Oil Bulk Supplier“, a supplier and exporter of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.
                               </p>
                               <p>
-                                We are a bulk supplier of Argan Oil. We provide Argan Oil in documented product grades. We are a leading Argan Oil suppliers and we also supply more than 200 products. Currently we are exporting to more than 40 countries worldwide. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to more than 40 countries worldwide.
+                                We are a bulk supplier of Argan Oil. We provide Argan Oil in documented product grades. We are a leading Argan Oil suppliers and we also supply more than 200 products. Currently we are exporting to more than 40+ countries worldwide. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to more than 40+ countries worldwide.
                               </p>
                               <p>
                                 We are supplying our Products to top ranked Nutraceutical Companies, Pharmaceuticals Companies, Flavor & Fragrance houses, Oral & Personal Care Companies, Tobacco Manufacturers, Ayurvedic Companies and FMCG manufacturers in India and round the Globe.
@@ -494,7 +494,7 @@ export const htmlPage: ProductPageHtml = {
                               <a href="https://hetakshessentialoils.com/working-process.php">
                               <div class="process-one__single p-bg-1">
                                 <span>
-                                <img src="/assets/images/process/Raw Materials.webp">
+                                <img src="/assets/images/process/Raw Materials.webp" alt="Raw Materials">
                                 </span>
                                 <!-- <div class="process-one__count"></div> -->
                                 <h4 class="process-one__title">
@@ -510,7 +510,7 @@ export const htmlPage: ProductPageHtml = {
                               <a href="https://hetakshessentialoils.com/working-process.php">
                               <div class="process-one__single p-bg-1">
                                 <span>
-                                <img src="/assets/images/process/Production.webp">
+                                <img src="/assets/images/process/Production.webp" alt="Production">
                                 </span>
                                 <h4 class="process-one__title">
                                   Production
@@ -525,7 +525,7 @@ export const htmlPage: ProductPageHtml = {
                               <a href="https://hetakshessentialoils.com/working-process.php">
                               <div class="process-one__single p-bg-1">
                                 <span>
-                                <img src="/assets/images/process/Quality-and-Analysis.webp">
+                                <img src="/assets/images/process/Quality-and-Analysis.webp" alt="Quality-and-Analysis">
                                 </span>
                                 <!-- <div class="process-one__count"></div> -->
                                 <h4 class="process-one__title">
@@ -541,7 +541,7 @@ export const htmlPage: ProductPageHtml = {
                               <a href="https://hetakshessentialoils.com/working-process.php">
                               <div class="process-one__single ">
                                 <span>
-                                <img src="/assets/images/process/Delivery-and-Packaging.webp">
+                                <img src="/assets/images/process/Delivery-and-Packaging.webp" alt="Delivery-and-Packaging">
                                 </span>
                                 <!-- <div class="process-one__count"></div> -->
                                 <h4 class="process-one__title">
