@@ -10,7 +10,7 @@ export const page: CleanProductPage = {
   imageAlt: "Aloe Vera Oil",
   paragraphs: [
     "Aloe Vera Oil is prepared through the maceration of fresh Aloe Vera leaves in premium carrier oils such as almond oil, soybean oil, olive oil, mineral oil, or coconut oil. This slow cold infusion process allows the carrier oil to absorb the beneficial nutrients present in the Aloe Vera gel while maintaining its natural properties. As a <b>Aloe Vera Oil Wholesale</b>, we supply 100% pure, natural, therapeutic-grade Aloe Vera Oil for cosmetic, skincare, hair care, wellness, and aromatherapy applications. The botanical name of Aloe Vera is Aloe barbadensis Miller, and it belongs to the Asphodelaceae family.",
-    "Our Aloe Vera Oil is manufactured in US using carefully selected Aloe Vera leaves. It contains naturally occurring enzymes, vitamins, minerals, sugars, lignin, saponins, amino acids, vitamin A, vitamin C, vitamin D, and essential fatty acids. The oil is soluble in alcohol and most fixed oils, making it easy to incorporate into cosmetic formulations. We offer premium quality Aloe Vera Oil in bulk quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
+    "Our Aloe Vera Oil is manufactured in India and Wholesale Supplier United States using carefully selected Aloe Vera leaves. It contains naturally occurring enzymes, vitamins, minerals, sugars, lignin, saponins, amino acids, vitamin A, vitamin C, vitamin D, and essential fatty acids. The oil is soluble in alcohol and most fixed oils, making it easy to incorporate into cosmetic formulations. We offer premium quality Aloe Vera Oil in bulk quantities with consistent quality, competitive pricing, and reliable worldwide export services.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -47,7 +47,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Aloe Vera Oil Uses & Applications",
       paragraphs: [
-        "Aloe Vera Oil is widely used as a natural ingredient in skincare, hair care, personal care, and wellness products because of its nourishing and soothing properties. It is commonly used as a home remedy for dry, irritated, and damaged skin and is often applied to minor burns, sores, and skin discomfort. The presence of amino acids, vitamins, minerals, and enzymes makes it suitable for improving the appearance of dry skin and supporting skin conditioning. Aloe Vera Oil is also used in hair treatments to nourish the scalp, reduce dryness, and improve the overall condition of the hair. It blends well with ingredients such as rose water and castor oil for enhanced skincare benefits. Because of its light texture, it penetrates the skin easily without leaving an oily feel, making it suitable for creams, lotions, serums, massage oils, after-sun products, and cosmetic formulations. As <b>Aloe Vera Oil bulk manufacturer in United States/India</b>, we recommend a usage level of 5–10% in skincare formulations. Our Aloe Vera Oil is 100% natural, alcohol-free, vegan, cruelty-free, and contains no added colours or preservatives.",
+        "Aloe Vera Oil is widely used as a natural ingredient in skincare, hair care, personal care, and wellness products because of its nourishing and soothing properties. It is commonly used as a home remedy for dry, irritated, and damaged skin and is often applied to minor burns, sores, and skin discomfort. The presence of amino acids, vitamins, minerals, and enzymes makes it suitable for improving the appearance of dry skin and supporting skin conditioning. Aloe Vera Oil is also used in hair treatments to nourish the scalp, reduce dryness, and improve the overall condition of the hair. It blends well with ingredients such as rose water and castor oil for enhanced skincare benefits. Because of its light texture, it penetrates the skin easily without leaving an oily feel, making it suitable for creams, lotions, serums, massage oils, after-sun products, and cosmetic formulations. As Aloe Vera Oil bulk manufacturer in India and Wholesale Supplier United States, we recommend a usage level of 5–10% in skincare formulations. Our Aloe Vera Oil is 100% natural, alcohol-free, vegan, cruelty-free, and contains no added colours or preservatives.",
       ],
       lists: [
         {
@@ -105,6 +105,6 @@ export const faqs: FaqItem[] = [
   },
   {
     question: "Do you supply Aloe Vera Oil internationally in bulk quantities?",
-    answer: "Yes. We export bulk quantities of Aloe Vera Oil to more than 40 countries worldwide through reliable air and sea freight services.",
+    answer: "Yes. We export bulk quantities of Aloe Vera Oil to more than 40+ countries worldwide through reliable air and sea freight services.",
   },
 ];
