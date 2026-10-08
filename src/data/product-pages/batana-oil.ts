@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "batana-oil",
-  title: "Pure Batana Oil Wholesale Supplier & Bulk Distributors US",
-  seoTitle: "Pure Batana Oil Wholesale Supplier & Bulk Distributors US",
-  seoDescription: "Leading Batana Oil Suppliers, Manufacturers & Distributors in US. High-quality Batana oil in bulk at competitive wholesale prices.",
+  title: "Pure Batana Oil Wholesale & Bulk Supplier in US",
+  seoTitle: "Pure Batana Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Looking for Batana Oil Wholesale? Hetaksh Essential Oils offers 100% pure, natural oil in bulk with competitive pricing for US B2B buyers.",
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   html: `
@@ -16,17 +16,17 @@ export const htmlPage: ProductPageHtml = {
         <div class="col-xl-7 col-lg-7 col-md-6 ">
           <div class="about-one__left wow slideInLeft animated" data-wow-delay=" 100ms">
             <h1 class="section-title__title" style="color:white">
-              BATANA OIL & BUTTER BULK
+              BATANA OIL & BUTTER BULK SUPPLIER IN US
             </h1>
             <!-- <h4>Active Content (Min 1% Thymoquinone Upto 20% Thymoquinone) </h4> -->
             <p class="about-one__text" style="color:white">
-              Our <b>Batana Oil bulk</b> is a premium-quality product sourced from South America and supplied from the USA. This YELLOW to REDDISH BROWN OIL is carefully obtained through the cold-pressing method and advanced CO2 supercritical extraction, ensuring the preservation of its potent active compounds. One of the key ingredients in this oil is oleic acid, a powerful antioxidant known for its moisturizing, hair-restoring, and skin- nourishing properties. These characteristics make Batana Oil a popular choice in the health, wellness, and beauty industries.
+              Our <b>Batana Oil bulk</b> is a premium-quality product sourced from South America and Wholesale supplied from the United States. This YELLOW to REDDISH BROWN OIL is carefully obtained through the cold-pressing method and advanced CO2 supercritical extraction, ensuring the preservation of its potent active compounds. One of the key ingredients in this oil is oleic acid, a powerful antioxidant known for its moisturizing, hair-restoring, and skin- nourishing properties. These characteristics make Batana Oil a popular choice in the health, wellness, and beauty industries.
             </p>
             <p class="about-one__text" style="color:white">
-              As a leading <b>bulk supplier of Batana Oil in South America and the USA</b>, we take pride in delivering a product that is completely free from harmful substances like pesticides and ethylene oxide, ensuring that our customers receive the purest and safest oil possible. Whether you're in the cosmetic, skincare, or haircare industries, our Batana Oil is an ideal ingredient to enhance your products.
+              As a leading <b>bulk supplier of Batana Oil in South America and the US</b>, we take pride in delivering a product that is completely free from harmful substances like pesticides and ethylene oxide, ensuring that our customers receive the purest and safest oil possible. Whether you're in the cosmetic, skincare, or haircare industries, our Batana Oil is an ideal ingredient to enhance your products.
             </p>
             <p class="about-one__text" style="color:white">
-              Being a trusted <b>bulk manufacturer of Batana Oil in South America and the USA</b> we enforce stringent quality standards to ensure the consistency and excellence of our oil. Our clients can confidently rely on our Batana Oil & Butter to provide exceptional benefits, making it a valuable addition to their formulations.
+              Being a trusted <b>bulk manufacturer of Batana Oil in India</b> we enforce stringent quality standards to ensure the consistency and excellence of our oil. Our clients can confidently rely on our Batana Oil & Butter to provide exceptional benefits, making it a valuable addition to their formulations.
             </p>
             <h4 class="mb-5" style="color:white">
               Our Packaging is available in 25 Kgs / 180 Kgs HDPE and GI Drums to meet your bulk needs.
@@ -146,19 +146,19 @@ export const htmlPage: ProductPageHtml = {
           <div class="product-content-right">
             <div class=" wow slideInRight animated" data-wow-delay="100ms">
               <h2 class="section-title__title">
-                Manufacturer of BATANA OIL & BUTTER BULK SUPPLIERS USA
+                Bulk Manufacturer of Batana Oil & Butter In India | Wholesale Supplier in United States
               </h2>
               <p class="mb-3">
-                Originated in South America, Batana Oil & Butter is a high-quality product, carefully sourced and produced through cold pressing and CO2 supercritical extraction methods. The oil ranges in hue from yellow to reddish brown, ensuring that it retains its potent active content, which includes a minimum of 1% oleic acid. If prepared at a temperature of approximately 60-80°C, this oil maintains its rich composition, which is essential for hair and skin restoration.
+                Originated in South America & United States, Batana Oil & Butter is a high-quality product, carefully sourced and produced through cold pressing and CO2 supercritical extraction methods. The oil ranges in hue from yellow to reddish brown, ensuring that it retains its potent active content, which includes a minimum of 1% oleic acid. If prepared at a temperature of approximately 60-80°C, this oil maintains its rich composition, which is essential for hair and skin restoration.
               </p>
               <p class="mb-3">
-                Our manufacturing process is meticulously controlled to ensure the highest quality, and we take pride in being a trusted <b>Batana Oil manufacturer in USA</b>. Our product is prepared with the goal of retaining its authentic properties. Fluid in appearance and golden in color, our Wholesale Batana Oil has a characteristic nutty taste and aroma. It is insoluble in alcohol and water, with moisture content kept below 1%. To ensure its longevity, our product is best used when stored in a well-fitted container in a cool, dark place.
+                Our manufacturing process is meticulously controlled to ensure the highest quality, and we take pride in being a trusted <b>Batana Oil wholesale supplier in United States</b>. Our product is prepared with the goal of retaining its authentic properties. Fluid in appearance and golden in color, our Wholesale Batana Oil has a characteristic nutty taste and aroma. It is insoluble in alcohol and water, with moisture content kept below 1%. To ensure its longevity, our product is best used when stored in a well-fitted container in a cool, dark place.
               </p>
               <p>
                 Additionally, we focus on maintaining transparency in our product by minimizing the inclusion of heavy metals such as lead, mercury, arsenic, and cadmium, which are kept at levels below 1 ppm (approximately 10 ppm in total). The inclusion of microbiological impurities, such as yeasts and molds, is limited to less than 10 cfu/g, with Salmonella, E. coli, and Pseudomonas aeruginosa being completely absent.
               </p>
               <p>
-                As your reliable <b>Batana Oil wholesale suppliers in South America and the USA</b>, we prioritize quality and purity, ensuring that we deliver a premium product to meet all your needs worldwide.
+                As your reliable <b>Batana Oil bulk suppliers in South America and United States</b>, we prioritize quality and purity, ensuring that we deliver a premium product to meet all your needs worldwide.
               </p>
             </div>
           </div>
@@ -476,13 +476,13 @@ export const htmlPage: ProductPageHtml = {
           We are Bulk suppliers & wholesale manufacturers of premium quality “Batana Oil & Butter Bulk Suppliers” and a supplier and exporter, manufacturers, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.
         </p>
         <p>
-          Our product list includes more than 200 products, which we export to more than 40 countries worldwide. As one of the recognized exporters with ISO 9001:2015 & GMP accreditation we are pleased to introduce Hetaksh Essential Oils as a company that offers 100% pure and natural products.
+          Our product list includes more than 200+ products, which we export to more than 40+ countries worldwide. As one of the recognized exporters with ISO 9001:2015 & GMP accreditation we are pleased to introduce Hetaksh Essential Oils as a company that offers 100% pure and natural products.
         </p>
         <p>
-          We are Batana Oil wholesale suppliers and manufacturer to Cosmetics companies and FMCG manufacturers in USA and around the world. Our procurement of 100% natural and genuine raw materials is directly from the farmers and stringent manufacturing & quality control methods are focussed on and we can supply products in grades complying with applicable IP, BP, EP, USP, and JP specifications. We can also customized our products as per the quality requirements and specifications of our customers.
+          We are Batana Oil wholesale suppliers and manufacturer to Cosmetics companies and FMCG manufacturers in India and around the world. Our procurement of 100% natural and genuine raw materials is directly from the farmers and stringent manufacturing & quality control methods are focussed on and we can supply products in grades complying with applicable IP, BP, EP, USP, and JP specifications. We can also customized our products as per the quality requirements and specifications of our customers.
         </p>
         <p>
-          You may visit our website <a href="http://hetakshessentialoils.com">www.hetakshessentialoils.com</a> for our Company's Profile and Product details.
+          You may visit our website <a href="https://hetakshessentialoils.com/">www.hetakshessentialoils.com</a> for our Company's Profile and Product details.
         </p>
       </div>
     </div>
