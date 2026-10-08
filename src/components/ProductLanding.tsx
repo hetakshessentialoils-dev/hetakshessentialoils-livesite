@@ -25,15 +25,11 @@ export function ProductLanding({ data }: { data: ProductLandingData }) {
               <div className="col-xl-7 col-lg-7 col-md-6">
                 <div className="about-one__left wow slideInLeft animated">
                   <h1 className="section-title__title">{data.title}</h1>
-                  {data.subtitle && (
-                    <p className="mb-3">
-                      <strong>{data.subtitle}</strong>
-                    </p>
-                  )}
+                  {data.subtitle && <p className="mb-2">{data.subtitle}</p>}
                   {data.intro.map((p, i) => (
                     <p
                       key={i}
-                      className="about-one__text mb-3"
+                      className="about-one__text"
                       dangerouslySetInnerHTML={{ __html: p }}
                     />
                   ))}
