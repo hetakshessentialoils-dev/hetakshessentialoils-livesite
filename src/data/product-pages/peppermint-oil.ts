@@ -2,8 +2,8 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "peppermint-oil",
-  title: "Peppermint Oil Wholesale, Bulk Suppliers & Manufacturers in USA",
-  seoTitle: "Peppermint Oil Wholesale, Bulk Suppliers & Manufacturers in USA",
+  title: "Peppermint Oil Wholesale, Manufacturer & Bulk Supplier in USA",
+  seoTitle: "Peppermint Oil Wholesale, Manufacturer & Bulk Supplier in USA",
   seoDescription: "We are a trusted wholesale supplier and bulk manufacturer of peppermint oil in USA, offering documented product grades at competitive prices.",
   category: "essential-oils",
   categoryName: "Essential Oils",
@@ -28,7 +28,7 @@ export const htmlPage: ProductPageHtml = {
               For those requiring larger quantities, we also serve as a reliable <b>wholesale supplier of peppermint oil</b>, offering cost-effective solutions for bulk orders. Our bulk peppermint oil is perfect for businesses looking to maintain a consistent supply of high-quality oil for use in their products. Whether you need peppermint oil for health, beauty, or wellness purposes, we ensure a steady and reliable supply, making us the go-to source for bulk peppermint oil.
             </p>
             <h4 class="mb-4">
-              Available packaging: 25 kg and 180 kg HDPE and GI drums
+              Available packaging: 25 kg and 180 kg HDPE and GI Drums
             </h4>
           </div>
         </div>
@@ -738,7 +738,7 @@ export const htmlPage: ProductPageHtml = {
             We are pleased to introduce Hetaksh Essential Oils as “Bulk Peppermint Oil Supplier“, USA leading cultivators, manufacturers, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.
           </p>
           <p>
-            We are a bulk supplier of Peppermint Oil and provide documented grades for commercial applications. We are a leading Peppermint oil supplier and we also supply more than 200 products Currently we are exporting to more than 40 countries worldwide. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to almost 40+ countries worldwide.
+            We are a bulk supplier of Peppermint Oil and provide documented grades for commercial applications. We are a leading Peppermint oil supplier and we also supply more than 200 products Currently we are exporting to more than 40+ countries worldwide. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to almost 40+ countries worldwide.
           </p>
           <p>
             We are supplying our Products to top ranked Nutraceutical Companies, Pharmaceuticals Companies, Flavor & Fragrance houses, Oral & Personal Care Companies, Tobacco Manufacturers, Ayurvedic Companies and FMCG manufacturers in India and round the Globe. With strict procurement of 100% Natural and Genuine raw material directly from the farmers and stringent manufacturing & quality control methods we can supply products in grades complying with applicable IP, BP, EP, USP, and JP specifications. We can also customize our Products as per quality requirements and specifications of the customers. You may visit our website, Hetaksh Essential Oils, for our company’s profile and product details.
