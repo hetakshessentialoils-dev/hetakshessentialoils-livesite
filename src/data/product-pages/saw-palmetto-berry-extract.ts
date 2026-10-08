@@ -47,7 +47,7 @@ export const landing: ProductLanding = {
     paragraphs: [
       "Our <b>Wholesale Saw Palmetto Oil</b> is prepared, with an intention to retain its authentic properties. With a total fatty acid standardized to 85% and presence of Long chain alcohol from 0.15 % to 0.35%, our saw palmetto oil is also insoluble in alcohol and water and retains moisture of less than 1%, and sterols not less than 0.2%",
       "Our product is best utilized when kept in a well fitted container in a cool and dark place. We, at Hetaksh Essential Oils, <strong>Saw Palmetto Oil Wholesale Suppliers in US</strong> also ensure minimal usage of Heavy Metal, with lead being at around 10 ppm, and lead, Arsenic and Ash being at lower levels around 2 ppm each. We pledge to ensure safety and minimize any damages by maintaining exclusion of harmful substances and toxins, which is the reason our residual Solvents also amount upto Ph EUR.",
-      "The amount of microbiology is also limited with the Total Plate Count 1000cfu/g, with Yeast & Molds and bacteria up to 100cfu/g each. There is zero amount of bile-tolerantgram, S.Aureus, E. Coli and Salmonella present in our <b>Saw Palmetto oil Bulk Manufacturers.</b>",
+      "The amount of microbiology is also limited with the Total Plate Count 1000cfu/g, with Yeast & Molds and bacteria up to 100cfu/g each. There is zero amount of bile-tolerantgram, S.Aureus, E. Coli and Salmonella present in our <b>Saw Palmetto oil Bulk Manufacturers in India.</b>",
     ],
   },
   documents: {
