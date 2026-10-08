@@ -19,18 +19,18 @@ export const htmlPage: ProductPageHtml = {
               BATANA OIL & BUTTER BULK SUPPLIER IN US
             </h1>
             <!-- <h4>Active Content (Min 1% Thymoquinone Upto 20% Thymoquinone) </h4> -->
-            <p class="about-one__text" style="color:white">
+            <p class="about-one__text mb-3" style="color:white">
               Our <b>Batana Oil bulk</b> is a premium-quality product sourced from South America and Wholesale supplied from the United States. This YELLOW to REDDISH BROWN OIL is carefully obtained through the cold-pressing method and advanced CO2 supercritical extraction, ensuring the preservation of its potent active compounds. One of the key ingredients in this oil is oleic acid, a powerful antioxidant known for its moisturizing, hair-restoring, and skin- nourishing properties. These characteristics make Batana Oil a popular choice in the health, wellness, and beauty industries.
             </p>
-            <p class="about-one__text" style="color:white">
+            <p class="about-one__text mb-3" style="color:white">
               As a leading <b>bulk supplier of Batana Oil in South America and the US</b>, we take pride in delivering a product that is completely free from harmful substances like pesticides and ethylene oxide, ensuring that our customers receive the purest and safest oil possible. Whether you're in the cosmetic, skincare, or haircare industries, our Batana Oil is an ideal ingredient to enhance your products.
             </p>
-            <p class="about-one__text" style="color:white">
+            <p class="about-one__text mb-3" style="color:white">
               Being a trusted <b>bulk manufacturer of Batana Oil in India</b> we enforce stringent quality standards to ensure the consistency and excellence of our oil. Our clients can confidently rely on our Batana Oil & Butter to provide exceptional benefits, making it a valuable addition to their formulations.
             </p>
             <h4 class="mb-5" style="color:white">
               Our Packaging is available in 25 Kgs / 180 Kgs HDPE and GI Drums to meet your bulk needs.
-            </h5>
+            </h4>
           </div>
         </div>
         <div class="col-xl-5 col-lg-5 col-md-6">
