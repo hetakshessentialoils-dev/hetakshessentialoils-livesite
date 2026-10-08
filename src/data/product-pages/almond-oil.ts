@@ -22,7 +22,7 @@ export const htmlPage: ProductPageHtml = {
               Almond Oil is a pale-yellow natural oil, with a distinct, pleasant odor, sourced from the kernels of the almond tree, particularly from the botanical source Prunus Amygdalus. Rich in essential vitamins, minerals, and fatty acids, almond oil is highly sought after for its nourishing and moisturizing properties, making it a popular ingredient in skincare and haircare products. It deeply hydrates the skin, improves complexion, and helps treat dryness, while also strengthening and softening the hair.<br><br>As a reliable bulk supplier of Almond Oil, We prioritize delivering the highest quality Almond oil to our customers, ensuring that it offers all its natural benefits. We carefully manage our sourcing and extraction methods to maintain the oil's purity and potency. Whether you need Almond oil for cosmetics, wellness products, or culinary purposes, we provide premium-grade oil to meet your needs. Partnering with a reputable bulk manufacturer of Almond Oil is essential for businesses looking to maintain consistent quality in their formulations. For those requiring larger quantities, we also serve as a trusted <b>Almond Oil Wholesale</b>, ensuring cost-effective solutions for bulk orders, while maintaining the oil’s exceptional quality and freshness for all your production needs.
             </p>
             <h4 class="mb-4">
-              Available packaging: 25 kg and 180 kg HDPE and GI drums
+              Available packaging: 25 kg and 180 kg HDPE and GI Drums
             </h4>
           </div>
         </div>
@@ -108,7 +108,7 @@ export const htmlPage: ProductPageHtml = {
                             Extraction
                           </h2>
                           <p>
-                            Almond oil is typically extracted by cold-pressing the kernels of the almond tree. This process involves crushing the kernels and then using a hydraulic press to extract the oil. Cold-pressing helps to retain the nutrients and natural properties of the oil. As a trusted <strong class="cyb">Almond oil wholesale suppliers in United States</strong>, we ensure the highest quality in our product, offering the benefits of natural nourishment for skin and hair in Almond oil bulk quantities.
+                            Almond oil is typically extracted by cold-pressing the kernels of the almond tree. This process involves crushing the kernels and then using a hydraulic press to extract the oil. Cold-pressing helps to retain the nutrients and natural properties of the oil. As a trusted <strong class="cyb">Almond oil wholesale supplier in United States</strong>, we ensure the highest quality in our product, offering the benefits of natural nourishment for skin and hair in Almond oil bulk quantities.
                           </p>
                           <div class="product__btn-box">
                             <a
@@ -389,13 +389,13 @@ export const htmlPage: ProductPageHtml = {
                         <div class="container">
                           <div class="section-title ">
                             <h2 class="section-title__title">
-                              Manufacturers of Almond Oil Bulk Suppliers
-                            </h2>
+                              Manufacturer of Almond Oil Bulk Supplier
+                              </h2>
                           </div>
                           <div class="row">
                             <div class="col-md-12">
                               <p>
-                                We are pleased to introduce Hetaksh Essential Oils as “Almond Oil bulk suppliers“, Indian leading cultivators, manufacturers, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.
+                                We are pleased to introduce Hetaksh Essential Oils as “Almond Oil bulk supplier“, Indian leading cultivators, manufacturers, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.
                               </p>
                               <p>
                                 We are Almond Oil bulk suppliers in United States/India, we provide Almond Oil in documented product grades. We are a leading Almond Oil supplier and we also supply more than 200 products. Currently we are exporting to 40+ countries with more than 500 clients worldwide. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to more than 40 countries worldwide.
@@ -466,7 +466,7 @@ export const htmlPage: ProductPageHtml = {
                               <a href="https://hetakshessentialoils.com/working-process.php">
                               <div class="process-one__single p-bg-1">
                                 <span>
-                                <img src="/assets/images/process/Raw Materials.webp">
+                                <img src="/assets/images/process/Raw Materials.webp" alt="Raw Materials">
                                 </span>
                                 <!-- <div class="process-one__count"></div> -->
                                 <h4 class="process-one__title">
@@ -482,7 +482,7 @@ export const htmlPage: ProductPageHtml = {
                               <a href="https://hetakshessentialoils.com/working-process.php">
                               <div class="process-one__single p-bg-1">
                                 <span>
-                                <img src="/assets/images/process/Production.webp">
+                                <img src="/assets/images/process/Production.webp" alt="Production">
                                 </span>
                                 <h4 class="process-one__title">
                                   Production
@@ -497,7 +497,7 @@ export const htmlPage: ProductPageHtml = {
                               <a href="https://hetakshessentialoils.com/working-process.php">
                               <div class="process-one__single p-bg-1">
                                 <span>
-                                <img src="/assets/images/process/Quality-and-Analysis.webp">
+                                <img src="/assets/images/process/Quality-and-Analysis.webp" alt="Quality-and-Analysis">
                                 </span>
                                 <!-- <div class="process-one__count"></div> -->
                                 <h4 class="process-one__title">
@@ -513,7 +513,7 @@ export const htmlPage: ProductPageHtml = {
                               <a href="https://hetakshessentialoils.com/working-process.php">
                               <div class="process-one__single ">
                                 <span>
-                                <img src="/assets/images/process/Delivery-and-Packaging.webp">
+                                <img src="/assets/images/process/Delivery-and-Packaging.webp" alt="Delivery-and-Packaging">
                                 </span>
                                 <!-- <div class="process-one__count"></div> -->
                                 <h4 class="process-one__title">
