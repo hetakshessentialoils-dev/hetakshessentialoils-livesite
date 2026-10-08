@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "castor-oil",
-  title: "Castor Oil Wholesale – Bulk Suppliers & Manufacturers in US",
-  seoTitle: "Castor Oil Wholesale – Bulk Suppliers & Manufacturers in US",
-  seoDescription: "Castor Oil wholesale at the best prices from a certified manufacturer, suppliers, bulk distributors in US. 100% pure and natural for all your needs.",
+  title: "Castor Oil Wholesale – Manufacturer & Bulk Supplier in US",
+  seoTitle: "Castor Oil Wholesale – Manufacturer & Bulk Supplier in US",
+  seoDescription: "Castor Oil wholesale at the best prices from a certified manufacturer, distributors, bulk supplier in US. 100% pure and natural for all your needs.",
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   html: `
@@ -29,7 +29,7 @@ export const htmlPage: ProductPageHtml = {
               Trusted wholesale manufacturer Castor Oil
             </h1>
             <p class="about-one__text">
-              As a <b>Castor Oil manufacturer</b> and supplier, we offer the most premium quality Castor Oil cold pressed and injectable carrier Oil. Our Castor oil is extracted from castor seeds by cold pressed method and is used as a laxative, lubricant, and in various industrial applications. Our Castor Oil is available in food, pharmaceutical, and cosmetic grades in India and exported in bulk orders globally. Castor primarily grows in the Mediterranean basin, Eastern Africa, and parts of United States.
+              As a <b>Castor Oil manufacturer</b> and supplier in United States, we offer the most premium quality Castor Oil cold pressed and injectable carrier Oil. Our Castor oil is extracted from castor seeds by cold pressed method and is used as a laxative, lubricant, and in various industrial applications. Our Castor Oil is available in food, pharmaceutical, and cosmetic grades in India and exported in bulk orders globally. Castor primarily grows in the Mediterranean basin, Eastern Africa, and parts of United States.
             </p>
             <p class="about-one__text">
               Castor oil is a popular ingredient in many body care products and has been used for centuries in skincare and haircare particularly because it is rich in ricinoleic acid. <b>Castor oil wholesale</b> is also preferred for usage in medicines. As a lubricant, Castor Oil is used in Manufacturing of soaps, perfumes etc. Further, Castor oil can be used as a natural skin moisturizer and in hair care products. We ensure that our castor oil is available in grades complying with applicable BP specifications and is 100% natural and plant extracted.
