@@ -120,7 +120,7 @@ export const page: CleanProductPage = {
     {
       title: "Bulk Cardamom Oil BP Supply",
       paragraphs: [
-        "We supply Cardamom Oil for commercial buyers requiring dependable batch-to-batch supply. <b>Cardamom Oil Bulk</b> packaging, documentation, sample evaluation, and shipping arrangements can be discussed according to the buyer’s quantity, destination, and required specification.",
+        "We supply Cardamom Oil for commercial buyers requiring dependable batch-to-batch supply. <b>Cardamom Oil Bulk Supplier</b> packaging, documentation, sample evaluation, and shipping arrangements can be discussed according to the buyer’s quantity, destination, and required specification.",
         "<b>Important:</b> Pharmaceutical buyers should confirm the current applicable BP/Ph. Eur. requirements for their intended use before placing an order. The British Pharmacopoeia is updated regularly, so the exact specification should be verified against the current edition.",
       ],
     },
@@ -177,7 +177,7 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Cardamom Oil Wholesale, Supplier & Bulk Manufacturer in UK",
+  seoTitle: "Cardamom Oil Wholesale Supplier in UK | Cardamom Oil Bulk Manufacturer",
   seoDescription: "Hetaksh Essential Oils offers 100% Pure Cardamom Oil wholesale and in bulk from a trusted UK supplier and manufacturer at competitive prices.",
 };
 
