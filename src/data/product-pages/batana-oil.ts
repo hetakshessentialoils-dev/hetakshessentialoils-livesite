@@ -503,7 +503,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
-          <img src="/assets/images/process/Raw Materials.webp">
+          <img src="/assets/images/process/Raw Materials.webp" alt="Raw Materials">
           </span>
           <!-- <div class="process-one__count"></div> -->
           <h4 class="process-one__title">
@@ -518,7 +518,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
-          <img src="/assets/images/process/Production.webp">
+          <img src="/assets/images/process/Production.webp" alt="Producation">
           </span>
           <h4 class="process-one__title">
             Production
@@ -532,7 +532,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
-          <img src="/assets/images/process/Quality-and-Analysis.webp">
+          <img src="/assets/images/process/Quality-and-Analysis.webp" alt="Quality and Analysis">
           </span>
           <!-- <div class="process-one__count"></div> -->
           <h4 class="process-one__title">
@@ -547,7 +547,7 @@ export const htmlPage: ProductPageHtml = {
         <a href="/working-process">
         <div class="process-one__single ">
           <span>
-          <img src="/assets/images/process/Delivery-and-Packaging.webp">
+          <img src="/assets/images/process/Delivery-and-Packaging.webp" alt="Delivery and Packaging">
           </span>
           <!-- <div class="process-one__count"></div> -->
           <h4 class="process-one__title">
