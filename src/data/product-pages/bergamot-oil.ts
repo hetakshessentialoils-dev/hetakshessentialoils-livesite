@@ -10,7 +10,7 @@ export const page: CleanProductPage = {
   imageAlt: "Bergamot Essential Oil",
   paragraphs: [
     "Bergamot Oil is a premium essential oil extracted from the peel of the bergamot fruit (Citrus bergamia), a citrus fruit believed to be a natural hybrid of lemon and bitter orange. At Hetaksh Essential Oils, we supply 100% pure and natural Bergamot Oil in bulk for cosmetic, skincare, hair care, aromatherapy, perfumery, wellness, and personal care industries. Our Bergamot Oil is extracted using the cold-pressed method, which helps preserve its fresh citrus aroma and naturally occurring active compounds. Traditionally grown in the Calabria region of southern Italy, bergamot is highly valued for its refreshing, slightly floral fragrance and versatile applications.",
-    "Bergamot Oil naturally contains compounds such as limonene, linalool, and linalyl acetate that make it suitable for premium formulations. It blends well with lavender, rosemary, frankincense, cedarwood, and sweet orange essential oils. As a trusted Bergamot oil bulk manufacturer, we provide consistent quality, competitive pricing, and reliable worldwide supply for businesses looking for high-quality <b>wholesale Bergamot Essential Oil</b>.",
+    "Bergamot Oil naturally contains compounds such as limonene, linalool, and linalyl acetate that make it suitable for premium formulations. It blends well with lavender, rosemary, frankincense, cedarwood, and sweet orange essential oils. As a trusted <b>Bergamot oil bulk manufacturer</b>, we provide consistent quality, competitive pricing, and reliable worldwide supply for businesses looking for high-quality wholesale Bergamot Essential Oil.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -64,7 +64,7 @@ export const page: CleanProductPage = {
   ],
   variants: [
     {
-      title: "Bergamot Hydrosol Manufacturer | Bulk Bergamot Oil Wholesale Supplier",
+      title: "Bergamot Hydrosol Manufacturer | Bulk Bergamot Oil Wholesale Supplier in United States",
       coa: "/assets/images/products/Hydrosol/COA/BERGAMOT HYDROSOL COA.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Bergamot Oil Hydrosol MSDS.pdf",
       paragraphs: [
@@ -79,8 +79,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Bergamot Oil Manufacturers | Wholesale & Bulk Supplier in USA",
-  seoDescription: "100% Pure Bergamot Oil manufacturers and wholesale suppliers in USA. Get premium-quality bulk Bergamot Oil at competitive prices.",
+  seoTitle: "Bergamot Oil Manufacturer | Wholesale & Bulk Supplier in USA",
+  seoDescription: "100% Pure Bergamot Oil Bulk manufacturer and wholesale supplier in USA. Get premium-quality bulk Bergamot Oil at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
