@@ -2169,3 +2169,71 @@ form.contact_form .iti input {
     background-image: url(/assets/images/backgrounds/about-bg-800.webp);
   }
 }
+
+.mobile-nav__search {
+  margin: 10px 0 20px;
+}
+
+.mobile-nav__search label {
+  display: flex;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.mobile-nav__search input.search-field {
+  width: 100%;
+  min-width: 0;
+  max-width: none; /* austry-responsive caps search inputs at 150px on phones */
+}
+
+/* Header: collapse Google's invisible "Powered by" text so the language picker hugs its select,
+   and give the freed space to the search box. */
+.main-menu-two__cart-box .goog-te-gadget {
+  font-size: 0;
+}
+
+.main-menu-two__right {
+  gap: 12px;
+}
+
+@media (min-width: 1400px) {
+  .main-menu-two__right #searchQuery {
+    width: 210px;
+    max-width: none;
+  }
+}
+
+
+/* Language picker inside the mobile drawer (moved there by LegacyInit) — styled as a menu row below Contact Us. */
+.mobile-nav__translate {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.mobile-nav__translate #google_translate_element,
+.mobile-nav__translate .goog-te-gadget {
+  width: 100%;
+}
+
+.mobile-nav__translate .goog-te-gadget {
+  font-size: 0;
+}
+
+.mobile-nav__translate #google_translate_element .goog-te-combo {
+  field-sizing: fixed !important;
+  width: 100% !important;
+  max-width: none !important;
+  height: 46px;
+  padding: 0 !important;
+  border: none;
+  background-color: transparent !important;
+  background-image: none;
+  color: #fff !important;
+  font-family: var(--austry-font);
+  font-size: 14px !important;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.mobile-nav__translate #google_translate_element .goog-te-combo option {
+  color: #223438;
+}

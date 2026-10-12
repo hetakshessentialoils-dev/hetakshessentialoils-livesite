@@ -87,7 +87,14 @@ export function Header() {
           <span className="mobile-nav__close mobile-nav__toggler">
             <i className="fa fa-times" />
           </span>
+          <form role="search" action="/search" method="get" className="search-form form mobile-nav__search">
+            <label>
+              <input type="search" className="search-field" placeholder="Search Products..." name="q" aria-label="Search products" />
+            </label>
+            <input type="submit" className="search-submit button" value={"\uf002"} aria-label="Search" />
+          </form>
           <div className="mobile-nav__container" />
+          <div className="mobile-nav__translate" />
           <ul className="mobile-nav__contact list-unstyled">
             <li>
               <i className="fa fa-envelope" />{" "}

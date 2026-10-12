@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { JsonLd } from "@/components/JsonLd";
-import { searchProductDetails } from "@/lib/search";
+import { searchProductDetails, searchProductPages } from "@/lib/search";
+import { productPath } from "@/lib/product-paths";
 import { buildMetadata, breadcrumbJsonLd } from "@/lib/seo";
 
 export const metadata = {
@@ -66,6 +67,7 @@ export default async function SearchPage({
 }) {
   const { q = "" } = await searchParams;
   const results = searchProductDetails(q);
+  const pages = searchProductPages(q);
 
   const breadcrumbs = [
     { name: "Home", href: "/" },
@@ -103,15 +105,31 @@ export default async function SearchPage({
         <div className="container">
           {!q.trim() ? (
             <p className="about-one__text text-center">Enter a product name in the search bar above.</p>
-          ) : results.length === 0 ? (
+          ) : results.length === 0 && pages.length === 0 ? (
             <p className="about-one__text text-center">
               No products found for &ldquo;{q}&rdquo;. Try a different search term or browse our{" "}
               <Link href="/essential-oils">Essential Oils</Link> catalogue.
             </p>
           ) : (
-            results.map((item) => (
-              <SearchResultBlock key={`${item.categorySlug}-${item.id}`} item={item} />
-            ))
+            <>
+              {pages.length > 0 && (
+                <div className="row mb-5">
+                  {pages.map((p) => (
+                    <div key={p.slug} className="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-4 text-center">
+                      <Link href={productPath(p.slug)}>
+                        {p.image && <img src={p.image} alt={p.name} style={{ width: "100%", aspectRatio: "1", objectFit: "contain" }} />}
+                        <h4 className="prduct-details__title-4 mt-2">{p.name}</h4>
+                      </Link>
+                      {p.categoryName && <p className="about-one__text mb-2">{p.categoryName}</p>}
+                      <Link className="thm-btn" href={productPath(p.slug)}>View Product</Link>
+                    </div>
+                  ))}
+                </div>
+              )}
+              {results.map((item) => (
+                <SearchResultBlock key={`${item.categorySlug}-${item.id}`} item={item} />
+              ))}
+            </>
           )}
         </div>
       </section>

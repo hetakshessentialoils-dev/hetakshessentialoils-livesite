@@ -36,8 +36,20 @@ export function LegacyInit() {
       script.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
       document.body.appendChild(script);
     };
-    window.addEventListener("pointerdown", startTranslate, { once: true });
-    return () => window.removeEventListener("pointerdown", startTranslate);
+    startTranslate();
+
+    // Google Translate allows one widget, so move it into the ☰ drawer on mobile and back to the header on desktop.
+    const el = document.getElementById("google_translate_element");
+    const headerSlot = el?.parentElement;
+    const drawerSlot = document.querySelector(".mobile-nav__translate");
+    const mq = window.matchMedia("(max-width: 1079px)");
+    const place = () => {
+      if (!el || !headerSlot || !drawerSlot) return;
+      (mq.matches ? drawerSlot : headerSlot).appendChild(el);
+    };
+    place();
+    mq.addEventListener("change", place);
+    return () => mq.removeEventListener("change", place);
   }, []);
 
   useEffect(() => {
