@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "castor-oil",
-  title: "Castor Oil Wholesale – Manufacturer & Bulk Supplier in US",
-  seoTitle: "Castor Oil Wholesale – Manufacturer & Bulk Supplier in US",
-  seoDescription: "Castor Oil wholesale at the best prices from a certified manufacturer, distributors, bulk supplier in US. 100% pure and natural for all your needs.",
+  title: "Castor Oil Wholesale & Bulk Supplier in US",
+  seoTitle: "Castor Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Hetaksh Essential Oils offers Castor Oil wholesale and bulk supplier in the USA at competitive prices for commercial and industrial buyers.",
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   html: `
@@ -29,7 +29,7 @@ export const htmlPage: ProductPageHtml = {
               Trusted wholesale manufacturer Castor Oil
             </h1>
             <p class="about-one__text">
-              As a <b>Castor Oil manufacturer</b> and supplier in United States, we offer the most premium quality Castor Oil cold pressed and injectable carrier Oil. Our Castor oil is extracted from castor seeds by cold pressed method and is used as a laxative, lubricant, and in various industrial applications. Our Castor Oil is available in food, pharmaceutical, and cosmetic grades in India and exported in bulk orders globally. Castor primarily grows in the Mediterranean basin, Eastern Africa, and parts of United States.
+              As a Castor Oil manufacturer and supplier in India, we offer the most premium quality Castor Oil cold pressed and injectable carrier Oil. Our Castor oil is extracted from castor seeds by cold pressed method and is used as a laxative, lubricant, and in various industrial applications. Our Castor Oil is available in food, pharmaceutical, and cosmetic grades in India and exported in bulk orders globally. Castor primarily grows in the Mediterranean basin, Eastern Africa, and parts of United States.
             </p>
             <p class="about-one__text">
               Castor oil is a popular ingredient in many body care products and has been used for centuries in skincare and haircare particularly because it is rich in ricinoleic acid. <b>Castor oil wholesale</b> is also preferred for usage in medicines. As a lubricant, Castor Oil is used in Manufacturing of soaps, perfumes etc. Further, Castor oil can be used as a natural skin moisturizer and in hair care products. We ensure that our castor oil is available in grades complying with applicable BP specifications and is 100% natural and plant extracted.
@@ -197,7 +197,7 @@ export const htmlPage: ProductPageHtml = {
                   Worldwide Export
                 </h4>
                 <p>
-                  Global Presence: Our products reach customers in more than 40 countries worldwide.
+                  Global Presence: Our products reach customers in more than 40+ countries worldwide.
                 </p>
               </div>
             </li>
@@ -466,7 +466,7 @@ export const htmlPage: ProductPageHtml = {
     <div class="row">
       <div class="col-md-12">
         <p>
-          We are <strong>Castor Oil</strong> premium bulk suppliers & distributors globally reaching more than 40+ countries with our carrier Oil. Our <strong>Castor Oil</strong> which is 100% plant extracted & pure carrier oil and supplied to various Pharmaceutical & Cosmetic Industries. We are one of the known and trusted bulk exporters of Castor Oil and deal in 200+ products. Currently we are exporting to more than 40 countries globally. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We take pride in sourcing our castor seeds ethically, supporting our local farmers.
+          We are Castor Oil premium bulk suppliers & distributors globally reaching more than 40+ countries with our carrier Oil. Our Castor Oil which is 100% plant extracted & pure carrier oil and supplied to various Pharmaceutical & Cosmetic Industries. We are one of the known and trusted bulk exporters of Castor Oil and deal in 200+ products. Currently we are exporting to more than 40 countries globally. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We take pride in sourcing our castor seeds ethically, supporting our local farmers.
         </p>
         <p>
           From nutraceutical giants to personal care innovators, Hetaksh Essential Oils is a trusted supplier to leading brands across industries—pharmaceuticals, fragrances, ayurveda, FMCG, and more. We stay true to our roots by sourcing 100% natural, farm-direct raw materials, and ensure world-class quality through strict manufacturing standards. Our products comply with major pharmacopoeias like IP, BP, EP, USP, and JP, and we’re happy to customize formulations to meet your exact needs. Explore more about us and our products on our website -You may visit our website, www.hetakshessentialoils.com for our company’s profile and product details.
