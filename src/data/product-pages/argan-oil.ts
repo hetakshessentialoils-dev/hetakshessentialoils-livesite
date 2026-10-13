@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "argan-oil",
-  title: "100% Natural Argan Oil Bulk Manufacturer | Wholesale Supplier in USA",
-  seoTitle: "100% Natural Argan Oil Bulk Manufacturer | Wholesale Supplier in USA",
-  seoDescription: "Find reliable Argan Oil Wholesale Supplier in USA. Get 100% natural, cold-pressed Argan Oil from leading bulk manufacturer at the best prices.",
+  title: "Argan Oil Wholesale and Bulk Supplier in USA",
+  seoTitle: "Argan Oil Wholesale and Bulk Supplier in USA",
+  seoDescription: "Hetaksh Essential Oils supplies 100% pure Argan Oil wholesale in the USA, offering bulk quantities for cosmetic brands and manufacturers.",
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   html: `
