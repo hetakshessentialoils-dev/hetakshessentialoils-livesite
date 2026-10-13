@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   sections: [],
   variants: [],
   infoTables: [],
-  seoTitle: "Olive Oil Wholesale, Supplier & Bulk Manufacturers in US",
-  seoDescription: "100% Pure & Natural Olive Oil wholesale supplier and bulk manufacturer in USA. Get premium-quality Olive Oil at competitive prices.",
+  seoTitle: "Pure Olive Oil Wholesale Supplier in US",
+  seoDescription: "Hetaksh Essential Oils, a leading Olive Oil supplier in the US, offers 100% pure and natural oil in bulk at competitive wholesale prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -466,7 +466,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "A <b>Olive oil bulk</b> exporter may also need to consider the container type and transportation conditions when sending the product over long distances.",
+          text: "A <b>Olive oil bulk</b> exporter in United States may also need to consider the container type and transportation conditions when sending the product over long distances.",
         },
         {
           type: "paragraph",
@@ -525,7 +525,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "For <b>Olive oil bulk wholesale</b>, the first question should be what the oil will be used for. That helps determine which grade and specification are appropriate.",
+          text: "For <b>Olive oil wholesale supplier in United States</b>, the first question should be what the oil will be used for. That helps determine which grade and specification are appropriate.",
         },
         {
           type: "paragraph",
