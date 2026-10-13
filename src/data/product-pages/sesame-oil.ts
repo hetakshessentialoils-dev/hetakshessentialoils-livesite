@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "sesame-oil",
-  title: "Sesame Oil Manufacturer, Wholesale & Bulk Supplier in US",
-  seoTitle: "Sesame Oil Manufacturer, Wholesale & Bulk Supplier in US",
-  seoDescription: "Sesame Oil Bulk, Looking for premium Sesame Oil in bulk? We are trusted wholesale supplier and manufacturer of high-quality Sesame Oil in US.",
+  title: "Sesame Oil Wholesale & Bulk Supplier in US",
+  seoTitle: "Sesame Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Looking for Sesame Oil in bulk? Hetaksh Essential Oils offers wholesale supplier in the USA at competitive prices for commercial buyers.",
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   html: `
