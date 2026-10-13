@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Arachis Oil",
-  heading: "Arachis Oil Bulk Manufacturer & Wholesale Supplier",
+  heading: "Arachis Oil Bulk Manufacturer | Pure Arachis Oil Wholesale Supplier",
   image: "/assets/images/products/single-product/arachis-oil/Arachis-oil-bulk.webp",
   imageAlt: "Arachis Oil Bulk",
   specsTitle: "Product Specifications",
@@ -71,8 +71,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Arachis Oil Wholesale, Supplier & Bulk Manufacturer",
-  seoDescription: "Hetaksh Essential Oils is an Arachis Oil manufacturer & supplier offering Arachis Oil BP, USP, wholesale and bulk solutions for industries.",
+  seoTitle: "Arachis Oil Wholesale & Bulk Supplier In US",
+  seoDescription: "Hetaksh Essential Oils, a leading Arachis Oil wholesale supplier in the US, offers 100% pure and natural oil in bulk at competitive prices.",
   specs: [
     {
       label: "Botanical Name",
