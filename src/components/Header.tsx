@@ -77,6 +77,7 @@ export function Header({ searchItems }: { searchItems: SearchBoxItem[] }) {
           <span className="mobile-nav__close mobile-nav__toggler">
             <i className="fa fa-times" />
           </span>
+          <SearchBox items={searchItems} className="mobile-nav__search" />
           <div className="mobile-nav__container" />
           <div className="mobile-nav__translate" />
           <ul className="mobile-nav__contact list-unstyled">

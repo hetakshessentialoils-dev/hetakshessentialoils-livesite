@@ -21,8 +21,9 @@ export function MobileSearchFab({ items }: { items: SearchBoxItem[] }) {
 
   return (
     <>
-      <button type="button" className="mob-search-fab" aria-label="Search products" onClick={() => setOpen(true)}>
+      <button type="button" className="mob-search-fab" onClick={() => setOpen(true)}>
         <i className="fa fa-search" aria-hidden="true" />
+        <span>Search Products</span>
       </button>
       {open && (
         <div className="mob-search-overlay" role="dialog" aria-modal="true" aria-label="Search products" onClick={() => setOpen(false)}>
