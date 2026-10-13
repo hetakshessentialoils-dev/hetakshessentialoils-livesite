@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "almond-oil",
-  title: "Almond Oil Wholesale & Manufacturers | Suppliers In USA",
-  seoTitle: "Almond Oil Wholesale & Manufacturers | Suppliers In USA",
-  seoDescription: "Premium Almond Oil Wholesale Suppliers offering 100% pure, natural almond oil for skincare, haircare, and cosmetics. Bulk supply at competitive prices in USA.",
+  title: "Almond Oil Wholesale and Bulk Suppliers In US",
+  seoTitle: "Almond Oil Wholesale and Bulk Suppliers In US",
+  seoDescription: "Hetaksh Essential Oils, a leading Pure Almond Oil supplier in the US, offers wholesale bulk supply for B2B buyers at competitive prices.",
   category: "essential-oils",
   categoryName: "Essential Oils",
   html: `
