@@ -57,8 +57,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lavender Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Lavender Oil Wholesale Supplier & Bulk Manufacturer in US",
-  seoDescription: "Premium Natural Lavender Oil for wholesale and bulk orders in US. Hetaksh Essential Oils provides quality products at competitive wholesale prices.",
+  seoTitle: "Natural Lavender Oil Wholesale Supplier in US",
+  seoDescription: "Hetaksh Essential Oils, a leading Natural Lavender Oil supplier in the USA, offers wholesale and bulk supply at competitive prices for B2B buyers.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
@@ -408,7 +408,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "This becomes especially important when comparing Bulgarian lavender with another commercial lavender oil.",
+          text: "This becomes especially important when comparing Bulgarian lavender with another commercial lavender oil wholesale supplier in United States.",
         },
         {
           type: "heading",
