@@ -26,7 +26,7 @@ export const htmlPage: ProductPageHtml = {
         <div class="col-xl-7 col-lg-7 col-md-6 ">
           <div class="about-one__left wow slideInLeft animated" data-wow-delay=" 100ms">
             <h1 class="section-title__title">
-              Sesame Oil Bulk Manufacturer
+              Bulk Sesame Oil Wholesale Supplier
             </h1>
             <p class="about-one__text">
               Sesame oil, also known as sesame seed oil, is extracted from the seeds of the sesame plant (Sesamum indicum) through cold pressed method and Solvent extraction. Our Sesame Oil wholesale is a premium-quality product with Indian Origin. This Oil is clear, light-yellow liquid, almost colourless with characteristic odor. This is a high demand product for pharmaceutical industries, cosmetics, including hair care, skin care, and oral care products.
