@@ -5,6 +5,13 @@ import { SiteShell } from "@/components/SiteShell";
 import { JsonLd } from "@/components/JsonLd";
 import { LegacyInit } from "@/components/LegacyInit";
 import { organizationJsonLd, localBusinessJsonLd } from "@/lib/seo";
+import { productPath } from "@/lib/product-paths";
+import { allProductPages } from "@/lib/search";
+
+/** Header search suggestions — built on the server so only names + links reach the browser. */
+const searchItems = allProductPages()
+  .map((p) => ({ name: p.name, href: productPath(p.slug) }))
+  .sort((a, b) => a.name.localeCompare(b.name));
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://hetakshessentialoils.com"),
@@ -57,7 +64,7 @@ export default function RootLayout({
         />
         <JsonLd data={organizationJsonLd()} />
         <JsonLd data={localBusinessJsonLd()} />
-        <SiteShell>{children}</SiteShell>
+        <SiteShell searchItems={searchItems}>{children}</SiteShell>
         <div className="whats-app-icon">
           <a
             href="https://wa.me/919871888705"

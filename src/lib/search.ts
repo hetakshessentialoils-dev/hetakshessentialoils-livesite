@@ -65,7 +65,7 @@ export type ProductPageResult = { slug: string; name: string; image: string; cat
 const slugToName = (slug: string) => slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 
 /** Every individual product page (clean pages win over legacy ones for the same slug). */
-function allProductPages(): ProductPageResult[] {
+export function allProductPages(): ProductPageResult[] {
   const pages = new Map<string, ProductPageResult>();
   for (const p of PRODUCTS) {
     pages.set(p.slug, { slug: p.slug, name: slugToName(p.slug), image: p.imageUrl || "", categoryName: "" });

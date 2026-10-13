@@ -1,9 +1,10 @@
 import Link from "next/link";
 import { CoaMsdsMenu } from "@/components/CoaMsdsMenu";
 import { ProductsMenu } from "@/components/ProductsMenu";
+import { SearchBox, type SearchBoxItem } from "@/components/SearchBox";
 import { CERTIFICATES, NAV_PRODUCTS } from "@/lib/legacy-assets";
 
-export function Header() {
+export function Header({ searchItems }: { searchItems: SearchBoxItem[] }) {
   return (
     <>
       <header className="main-header-two page-header">
@@ -63,18 +64,7 @@ export function Header() {
                       <div id="google_translate_element" />
                     </div>
                   </div>
-                  <form role="search" action="/search" method="get" className="search-form form">
-                    <label>
-                      <input
-                        type="search"
-                        id="searchQuery"
-                        className="search-field"
-                        placeholder="Search Products..."
-                        name="q"
-                      />
-                    </label>
-                    <input type="submit" className="search-submit button" value={"\uf002"} aria-label="Search" />
-                  </form>
+                  <SearchBox items={searchItems} id="searchQuery" />
               </div>
             </div>
           </div>
@@ -87,12 +77,6 @@ export function Header() {
           <span className="mobile-nav__close mobile-nav__toggler">
             <i className="fa fa-times" />
           </span>
-          <form role="search" action="/search" method="get" className="search-form form mobile-nav__search">
-            <label>
-              <input type="search" className="search-field" placeholder="Search Products..." name="q" aria-label="Search products" />
-            </label>
-            <input type="submit" className="search-submit button" value={"\uf002"} aria-label="Search" />
-          </form>
           <div className="mobile-nav__container" />
           <div className="mobile-nav__translate" />
           <ul className="mobile-nav__contact list-unstyled">

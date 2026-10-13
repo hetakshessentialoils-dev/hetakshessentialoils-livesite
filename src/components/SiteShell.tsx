@@ -6,8 +6,10 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { EnquiryPopup } from "@/components/EnquiryPopup";
 import { DisableTextCopy } from "@/components/DisableTextCopy";
+import { MobileSearchFab } from "@/components/MobileSearchFab";
+import type { SearchBoxItem } from "@/components/SearchBox";
 
-export function SiteShell({ children }: { children: React.ReactNode }) {
+export function SiteShell({ children, searchItems }: { children: React.ReactNode; searchItems: SearchBoxItem[] }) {
   const pathname = usePathname();
   const isAdmin = pathname?.startsWith("/admin");
 
@@ -19,11 +21,12 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
     <>
       <DisableTextCopy />
       <div className="page-wrapper">
-        <Header />
+        <Header searchItems={searchItems} />
         <main id="main">{children}</main>
         <Footer />
       </div>
       <EnquiryPopup />
+      <MobileSearchFab items={searchItems} />
     </>
   );
 }

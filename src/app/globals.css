@@ -2237,3 +2237,87 @@ form.contact_form .iti input {
 .mobile-nav__translate #google_translate_element .goog-te-combo option {
   color: #223438;
 }
+
+/* Header search — live product dropdown (SearchBox) */
+form.search-box {
+  position: relative;
+}
+
+.search-box__list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  min-width: 220px;
+  max-height: 320px;
+  overflow-y: auto;
+  margin: 4px 0 0;
+  padding: 4px 0;
+  list-style: none;
+  background: #fff;
+  border: 1px solid #e0e0e5;
+  border-radius: 0.25rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  z-index: 1000;
+}
+
+.search-box__list a {
+  display: block;
+  padding: 6px 12px;
+  font-size: 0.9rem;
+  color: #223438;
+}
+
+.search-box__list a:hover,
+.search-box__list a:focus {
+  background: #f9d342;
+}
+
+/* Mobile floating search button + overlay (MobileSearchFab) — right edge, vertically centred */
+.mob-search-fab {
+  display: none;
+}
+
+@media only screen and (max-width: 767px) {
+  .mob-search-fab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 46px;
+    height: 46px;
+    border: 0;
+    border-radius: 50%;
+    background: #f9d342;
+    color: #223438;
+    font-size: 18px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    z-index: 9;
+  }
+}
+
+.mob-search-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 10000;
+}
+
+.mob-search-overlay__panel {
+  position: relative;
+  background: #fff;
+  padding: 36px 16px 4px;
+}
+
+.mob-search-overlay__close {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  border: 0;
+  background: none;
+  font-size: 20px;
+  color: #223438;
+}
