@@ -4,7 +4,7 @@ export const htmlPage: ProductPageHtml = {
   slug: "peppermint-oil",
   title: "Peppermint Oil Wholesale & Bulk Supplier in US",
   seoTitle: "Peppermint Oil Wholesale & Bulk Supplier in US",
-  seoDescription: "Hetaksh Essential Oils provides Peppermint Oil in bulk for US buyers, with competitive wholesale pricing for brands and distributors.",
+  seoDescription: "Hetaksh Essential Oils provides Peppermint Oil in bulk supplier for US buyers, with competitive wholesale pricing for brands and distributors.",
   category: "essential-oils",
   categoryName: "Essential Oils",
   html: `
