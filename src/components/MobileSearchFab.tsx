@@ -21,7 +21,7 @@ export function MobileSearchFab({ items }: { items: SearchBoxItem[] }) {
 
   return (
     <>
-      <button type="button" className="mob-search-fab" onClick={() => setOpen(true)}>
+      <button type="button" className="mob-search-fab thm-btn" onClick={() => setOpen(true)}>
         <i className="fa fa-search" aria-hidden="true" />
         <span>Search Products</span>
       </button>

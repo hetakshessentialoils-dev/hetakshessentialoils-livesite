@@ -2273,31 +2273,29 @@ form.search-box {
   background: #f9d342;
 }
 
-/* Mobile floating search button + overlay (MobileSearchFab) — right edge, vertically centred */
+/* Mobile floating search button + overlay (MobileSearchFab) —
+   same look as the desktop vertical "Enquire Now" tab (.enquiry + .thm-btn), on the right edge */
 .mob-search-fab {
   display: none;
 }
 
 @media only screen and (max-width: 767px) {
-  .mob-search-fab {
+  .mob-search-fab.thm-btn {
     display: flex;
     align-items: center;
-    justify-content: center;
-    position: fixed;
-    right: 15px;
-    top: 50%;
-    transform: translateY(-50%);
     gap: 8px;
-    height: 44px;
-    padding: 0 16px;
+    position: fixed;
+    right: 0;
+    top: 50%;
+    height: 45px;
+    padding: 0 20px;
     border: 0;
-    border-radius: 22px;
-    background: #f9d342;
-    color: #223438;
-    font-size: 14px;
-    font-weight: 600;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
-    z-index: 9;
+    font-size: 15px;
+    line-height: 16px;
+    white-space: nowrap;
+    /* centre on the right edge, rotate like .enquiry, then pull in by half its height */
+    transform: translateX(calc(50% - 22.5px)) translateY(-50%) rotate(90deg);
+    z-index: 99;
   }
 }
 
