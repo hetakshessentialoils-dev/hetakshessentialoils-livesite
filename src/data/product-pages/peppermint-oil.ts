@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "peppermint-oil",
-  title: "Peppermint Oil Wholesale, Manufacturer & Bulk Supplier in USA",
-  seoTitle: "Peppermint Oil Wholesale, Manufacturer & Bulk Supplier in USA",
-  seoDescription: "We are a trusted wholesale supplier and bulk manufacturer of peppermint oil in USA, offering documented product grades at competitive prices.",
+  title: "Peppermint Oil Wholesale & Bulk Supplier in US",
+  seoTitle: "Peppermint Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Hetaksh Essential Oils provides Peppermint Oil in bulk for US buyers, with competitive wholesale pricing for brands and distributors.",
   category: "essential-oils",
   categoryName: "Essential Oils",
   html: `
@@ -155,7 +155,7 @@ export const htmlPage: ProductPageHtml = {
                 <strong class="cyb">Menthol:-</strong> A cooling compound found in mint plants and used in various products, from toothpaste to cough drops.
               </p>
               <p>
-                Our motivation to distribute undiluted Mentha Piperita oil and maintain extraction purity has made us the leading <strong class="cyb">Mentha Piperita Oil Supplier</strong> in the industry. We deal in <strong class="cyb">Mentha Piperita Oil Bulk.</strong>
+                Our motivation to distribute undiluted Mentha Piperita oil and maintain extraction purity has made us the leading Mentha Piperita Oil Supplier in the industry. We deal in Mentha Piperita Oil Bulk.
               </div>
             </div>
           </div>
@@ -358,7 +358,7 @@ export const htmlPage: ProductPageHtml = {
                   Spearmint Oil Ex Mentha Spicata
                 </h2>
                 <p class="mb-3">
-                  Along with Peppermint oil, Hetaksh specialises in <strong class="cyb">Peppermint Oil Bulk Supplier</strong> as well. Spearmint oil is an essential oil that is extracted from the leaves of the spearmint plant (Mentha Spicata) using steam distillation. It has a fresh, minty scent and is commonly used in the food, cosmetic, and pharmaceutical industries for its flavoring, fragrance, and therapeutic properties. It also has antimicrobial and anti-inflammatory properties, making it useful for treating skin conditions, such as acne and eczema. Chemical Composition: The major components of Spearmint oil are Carvone and Limonene, which make up approximately 70-90% of the oil. Other minor components include Menthol, Cineole, Linalool, and Beta-pinene. The chemical composition of Spearmint oil can vary depending on the source and the distillation process used.Hetaksh Essential Oil is the trusted <strong class="cyb">Spearmint Oil Supplier.</strong>
+                  Along with Peppermint oil, Hetaksh specialises in <strong class="cyb">Peppermint Oil Bulk Supplier in US</strong> as well. Spearmint oil is an essential oil that is extracted from the leaves of the spearmint plant (Mentha Spicata) using steam distillation. It has a fresh, minty scent and is commonly used in the food, cosmetic, and pharmaceutical industries for its flavoring, fragrance, and therapeutic properties. It also has antimicrobial and anti-inflammatory properties, making it useful for treating skin conditions, such as acne and eczema. Chemical Composition: The major components of Spearmint oil are Carvone and Limonene, which make up approximately 70-90% of the oil. Other minor components include Menthol, Cineole, Linalool, and Beta-pinene. The chemical composition of Spearmint oil can vary depending on the source and the distillation process used.Hetaksh Essential Oil is the trusted <strong class="cyb">Spearmint Oil Supplier.</strong>
                 </p>
                 <h5 class="mb-2">
                   Types of Spearmint Oil
@@ -389,7 +389,7 @@ export const htmlPage: ProductPageHtml = {
                         <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Scotch Canada
                       </li>
                       <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil USA
+                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil US
                       </li>
                       <li>
                         <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Chinese
@@ -735,10 +735,10 @@ export const htmlPage: ProductPageHtml = {
       <div class="row">
         <div class="col-md-12">
           <p>
-            We are pleased to introduce Hetaksh Essential Oils as “Bulk Peppermint Oil Supplier“, USA leading cultivators, manufacturers, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.
+            We are pleased to introduce Hetaksh Essential Oils as “Bulk Peppermint Oil Supplier“, India leading cultivators, manufacturers, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.
           </p>
           <p>
-            We are a bulk supplier of Peppermint Oil and provide documented grades for commercial applications. We are a leading Peppermint oil supplier and we also supply more than 200 products Currently we are exporting to more than 40+ countries worldwide. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to almost 40+ countries worldwide.
+            We are a bulk supplier of Peppermint Oil and provide documented grades for commercial applications. We are a leading Peppermint oil supplier in US and we also supply more than 200 products Currently we are exporting to more than 40+ countries worldwide. We are one of the largest cultivators and exporters with ISO 9001:2015 & GMP accreditation. We are a government-recognized Export House and exporting our Products to almost 40+ countries worldwide.
           </p>
           <p>
             We are supplying our Products to top ranked Nutraceutical Companies, Pharmaceuticals Companies, Flavor & Fragrance houses, Oral & Personal Care Companies, Tobacco Manufacturers, Ayurvedic Companies and FMCG manufacturers in India and round the Globe. With strict procurement of 100% Natural and Genuine raw material directly from the farmers and stringent manufacturing & quality control methods we can supply products in grades complying with applicable IP, BP, EP, USP, and JP specifications. We can also customize our Products as per quality requirements and specifications of the customers. You may visit our website, Hetaksh Essential Oils, for our company’s profile and product details.
