@@ -2275,8 +2275,8 @@ form.search-box {
 
 /* Mobile floating search button + overlay (MobileSearchFab) —
    same look as the desktop vertical "Enquire Now" tab (.enquiry + .thm-btn), on the right edge */
-.mob-search-fab {
-  display: none;
+.mob-search-fab.thm-btn {
+  display: none; /* beat .thm-btn's display: inline-block on desktop */
 }
 
 @media only screen and (max-width: 767px) {
