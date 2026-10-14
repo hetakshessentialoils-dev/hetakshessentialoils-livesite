@@ -5,8 +5,8 @@ export const category: Category = {
   name: "Hydrosols",
   slug: "hydrosol-oils",
   description: "Hydrosols are water-based aromatic products produced during the distillation of fresh flowers, leaves, fruits, and other plant materials.",
-  seoTitle: "Hydrosol oil Wholesale & Bulk Suppliers in USA",
-  seoDescription: "100% Pure Hydrosol wholesale supplier in USA offering premium-quality products in bulk. Choose Hetaksh Essential Oils for reliable supply and competitive wholesale pricing.",
+  seoTitle: "Hydrosol oil Wholesale & Bulk Suppliers in US",
+  seoDescription: "Hetaksh Essential Oils manufactures hydrosols in India and exports bulk supplies to US businesses, wholesale, and distributors at competitive prices.",
   seoKeywords: "hydrosols, hydrosols oil wholesale, hydrosols oil manufacturer, hydrosols distributors, hydrosols oil bulk, floral waters, hydrosol bulk supplier",
   faqs: [],
   sortOrder: 6,
@@ -14,8 +14,8 @@ export const category: Category = {
 
 export const details: CategoryDetail = {
   intro: [
-    "Hydrosols are water-based products made through the distillation of fresh flowers, leaves, fruits, and other plant materials. As a byproduct of the Essential oil process, hydrosols retain many of the same beneficial properties as Essential oils but in a more diluted form. While Essential oils are concentrated and oil-based, Hydrosols consist mostly of water, making them gentler and suitable for a variety of uses, including skincare, aromatherapy, and other holistic treatments. Known as floral waters, hydrosols are particularly valued for their soothing effects and mild fragrance, which can be applied directly to the skin without irritation. For businesses that require large volumes of hydrosols oils, sourcing from a trusted <b>Hydrosol Bulk Suppliers</b> is essential to ensure consistent quality and availability.",
-    "Hydrosols are often used in beauty products, making partnerships with a reliable <b>Hydrosol Bulk Manufacturer</b> important for maintaining the effectiveness and purity of the product. Additionally, purchasing from a Hydrosol wholesale suppliers allows businesses to acquire these water-based oils at competitive prices, helping them grow production while maintaining cost efficiency. The versatility of hydrosols makes them a valuable product to various industries, from skincare to aromatherapy, ensuring they remain a staple in natural product formulations.",
+    "Hydrosols are water-based products made through the distillation of fresh flowers, leaves, fruits, and other plant materials. As a byproduct of the Essential oil process, hydrosol retain many of the same beneficial properties as Essential oils but in a more diluted form. While Essential oils are concentrated and oil-based, Hydrosols consist mostly of water, making them gentler and suitable for a variety of uses, including skincare, aromatherapy, and other holistic treatments. Known as floral waters, hydrosols are particularly valued for their soothing effects and mild fragrance, which can be applied directly to the skin without irritation. For businesses that require large volumes of hydrosols oils, sourcing from a trusted <b>Hydrosol Bulk Suppliers</b> is essential to ensure consistent quality and availability.",
+    "Hydrosols are often used in beauty products, making partnerships with a reliable <b>Hydrosol Bulk Manufacturer</b> important for maintaining the effectiveness and purity of the product. Additionally, purchasing from a Hydrosol wholesale suppliers allows businesses to acquire these water-based oils at competitive prices, helping them grow production while maintaining cost efficiency. The versatility of hydrosol makes them a valuable product to various industries, from skincare to aromatherapy, ensuring they remain a staple in natural product formulations.",
   ],
   typesTitle: "Types of Hydrosols",
   types: [
