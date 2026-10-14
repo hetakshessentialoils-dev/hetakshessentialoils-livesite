@@ -47,9 +47,7 @@ export function Footer() {
                   </div>
                   <div className="footer-widget__about-text-box">
                     <p className="footer-widget__about-text">
-                      Hetaksh Essential Oils is a bulk manufacturer, wholesale supplier, and global
-                      exporter of essential oils, carrier oils, Black Seed Oil, and Saw Palmetto Oil,
-                      serving customers in more than 40+ countries.
+                      Hetaksh Essential Oils is an India-based manufacturer and global exporter of premium-quality essential oils, carrier oils, Black Seed Oil, and Saw Palmetto Oil. We specialize in bulk supply, serving wholesalers across the United States and customers in over 40+ countries worldwide.
                     </p>
                   </div>
                   <div className="site-footer__social notranslate" translate="no">
