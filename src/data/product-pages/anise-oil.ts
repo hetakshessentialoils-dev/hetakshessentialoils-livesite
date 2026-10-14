@@ -39,8 +39,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Anise Oil Bulk Manufacturer | USP, Hydrosol Wholesale Supplier",
-  seoDescription: "Hetaksh Essential Oils offers Anise Oil, USP and Hydrosol as a reliable bulk manufacturer & supplier with quality wholesale and bulk supply options.",
+  seoTitle: "Bulk Anise Oil Wholesale & Supplier in US",
+  seoDescription: "Hetaksh Essential Oils manufactures Anise Oil in India, supplying bulk quantities to wholesalers, distributors, and B2B buyers across the United States.",
   specs: [
     {
       label: "Product Name",
