@@ -6,7 +6,7 @@ export const category: Category = {
   slug: "essential-oils",
   description: "Essential oils are plant-derived compounds. The oils capture the essence of the plant. Distillation (through steam and/or water) or mechanical processes, such as cold pressing, are used to produce Essential Oils.",
   seoTitle: "Pure Essential Oils Supplier & Bulk Distributors in US",
-  seoDescription: "Hetaksh Essential Oils manufactures 100% pure and natural essential oils in India, supplying bulk quantities to US wholesalers, distributors, and B2B buyers.",
+  seoDescription: "Hetaksh Essential Oils manufactures 100% pure and natural essential oils in India, supplying bulk quantities to US wholesale, distributors, and B2B buyers.",
   seoKeywords: "essential oils, essential oil wholesale, essential oil bulk, essential oil supplier, essential oil manufacturer, essential oil distributors",
   faqs: [],
   sortOrder: 1,
