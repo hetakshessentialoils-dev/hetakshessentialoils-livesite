@@ -37,8 +37,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Ajwain Oil Bulk Manufacturer & Wholesale Supplier in US/Egypt",
-  seoDescription: "Buy Ajwain Oil in bulk from Hetaksh Essential Oils, a trusted manufacturer and wholesale supplier in US/Egypt. Get premium-quality oil at competitive wholesale prices.",
+  seoTitle: "Ajwain Oil Wholesale, Supplier, Bulk Distributor in US/Egypt",
+  seoDescription: "Hetaksh Essential Oils manufactures Ajwain Oil in India, supplying bulk quantities to wholesale and distributors across the US & Egypt at competitive prices.",
   specs: [
     {
       label: "Product Name",
