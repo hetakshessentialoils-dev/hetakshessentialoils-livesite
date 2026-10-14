@@ -5,8 +5,8 @@ export const category: Category = {
   name: "Essential Oils",
   slug: "essential-oils",
   description: "Essential oils are plant-derived compounds. The oils capture the essence of the plant. Distillation (through steam and/or water) or mechanical processes, such as cold pressing, are used to produce Essential Oils.",
-  seoTitle: "100% Pure Essential Oil Manufacturer & Bulk Supplier in US",
-  seoDescription: "Get 100% pure and natural essential oils from a reliable manufacturer and bulk wholesale supplier at competitive prices.",
+  seoTitle: "Pure Essential Oils Supplier & Bulk Distributors in US",
+  seoDescription: "Hetaksh Essential Oils manufactures 100% pure and natural essential oils in India, supplying bulk quantities to US wholesalers, distributors, and B2B buyers.",
   seoKeywords: "essential oils, essential oil wholesale, essential oil bulk, essential oil supplier, essential oil manufacturer, essential oil distributors",
   faqs: [],
   sortOrder: 1,
@@ -15,7 +15,7 @@ export const category: Category = {
 export const details: CategoryDetail = {
   intro: [
     "Essential oils are 100% pure and natural, plant-derived compounds that capture the very essence and fragrance of the plants they are obtained from. These oils are extracted through careful processes such as steam or water distillation or mechanical methods like cold pressing. Once the aromatic complexes are obtained, they are blended with a Carrier oil to create a finished product ready for use. The extraction method plays a crucial role because Essential oils produced through chemical means are not considered authentic and may lose their beneficial properties. Sourcing from a trusted <b>Essential Oils Bulk Manufacturers</b> is important to ensure the oil’s purity and effectiveness. These oils are commonly used in aromatherapy, where they are inhaled or applied topically to interact with the body’s systems.",
-    "Aromatherapy utilizes the healing properties of Essential Oils Wholesalers, helping with stress reduction, relaxation, and overall emotional balance. However, it’s important to remember that Essential oils should not be ingested, as they are highly concentrated and could cause harm if consumed. For larger scale use, it’s recommended to work with a reliable <b>Essential Oils Bulk Suppliers</b> to ensure high-quality oils. Buying from <b>Essential Oils Wholesale Suppliers</b> distributors can also offer cost-effective solutions for businesses looking to maintain both quality and quantity in their product offerings.",
+    "Aromatherapy utilizes the healing properties of Essential Oils Wholesalers, helping with stress reduction, relaxation, and overall emotional balance. However, it’s important to remember that Essential oils should not be ingested, as they are highly concentrated and could cause harm if consumed. For larger scale use, it’s recommended to work with a reliable <b>Essential Oils Bulk Suppliers</b> to ensure high-quality oils. Buying from Essential Oils Wholesale Suppliers & distributors can also offer cost-effective solutions for businesses looking to maintain both quality and quantity in their product offerings.",
   ],
   typesTitle: "Types of Essential Oils",
   perPage: 6,
