@@ -79,8 +79,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Bergamot Oil Manufacturer | Wholesale & Bulk Supplier in USA",
-  seoDescription: "100% Pure Bergamot Oil Bulk manufacturer and wholesale supplier in USA. Get premium-quality bulk Bergamot Oil at competitive prices.",
+  seoTitle: "Bulk Bergamot Oil Wholesale Suppliers in US",
+  seoDescription: "Hetaksh Essential Oils is a leading Bergamot Oil wholesale supplier in the USA, offering 100% pure and natural essential oil in bulk at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
