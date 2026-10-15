@@ -77,9 +77,9 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "Black Currant Seed Oil Wholesale Supplier | Quality, Packaging & Worldwide Export",
+      title: "Black Currant Seed Oil Wholesale Supplier in United States | Quality, Packaging & Worldwide Export",
       paragraphs: [
-        "Hetaksh Essential Oils offers premium quality Black Currant Seed Oil that is free from artificial colours, preservatives, and harmful additives. Every batch undergoes strict laboratory testing to ensure purity, consistency, and international quality standards. Our minimum order quantity starts from 25 kg, and we offer secure packaging in 25 kg to 180 kg HDPE drums for safe transportation. We provide complete documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, and Non-GMO Declaration, along with certifications such as ISO, GMP, FSSAI, Halal, and Kosher. Our experienced logistics network ensures timely worldwide delivery to cosmetic, pharmaceutical, nutraceutical, and wellness manufacturers. With competitive wholesale pricing, reliable customer support, and consistent product quality, we are a trusted sourcing partner for <b>bulk Black Currant Seed Oil</b>.",
+        "Hetaksh Essential Oils offers premium quality Black Currant Seed Oil that is free from artificial colours, preservatives, and harmful additives. Every batch undergoes strict laboratory testing to ensure purity, consistency, and international quality standards. Our minimum order quantity starts from 25 kg, and we offer secure packaging in 25 kg to 180 kg HDPE drums for safe transportation. We provide complete documentation, including COA, MSDS, Technical Data Sheet (TDS), Allergen Declaration, and Non-GMO Declaration, along with certifications such as ISO, GMP, FSSAI, Halal, and Kosher. Our experienced logistics network ensures timely worldwide delivery to cosmetic, pharmaceutical, nutraceutical, and wellness manufacturers. With competitive wholesale pricing, reliable customer support, and consistent product quality, we are a trusted sourcing partner for bulk Black Currant Seed Oil wholesale supplier in United States.",
       ],
       lists: [
         {
@@ -101,8 +101,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Black Currant Seed Oil Wholesale | Bulk Suppliers & Manufacturer",
-  seoDescription: "Hetaksh Essential Oils for Black Currant Seed Oil Wholesale, offering quality bulk manufacturer oil for cosmetics, haircare, and personal care.",
+  seoTitle: "Black Currant Seed Oil Wholesale & Bulk Supplirs in US",
+  seoDescription: "Hetaksh Essential Oils is a leading Black Currant Seed Oil wholesale supplier in the US, offering 100% pure and natural oil in bulk at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
