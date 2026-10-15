@@ -4,7 +4,7 @@ export const htmlPage: ProductPageHtml = {
   slug: "argan-oil",
   title: "Argan Oil Wholesale and Bulk Supplier in USA",
   seoTitle: "Argan Oil Wholesale and Bulk Supplier in USA",
-  seoDescription: "Hetaksh Essential Oils supplies 100% pure Argan Oil wholesale in the USA, offering bulk quantities for cosmetic brands and manufacturers.",
+  seoDescription: "Hetaksh Essential Oils is an Indian manufacturer and wholesale supplier of pure Argan Oil, offering reliable bulk supply to B2B buyers across the US.",
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   html: `
