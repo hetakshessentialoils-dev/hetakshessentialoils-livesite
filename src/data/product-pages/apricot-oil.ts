@@ -99,8 +99,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Apricot Oil Manufacturer in India | Apricot Oil Wholesale in US ",
-  seoDescription: "Hetaksh Essential Oils 100% pure Apricot Oil Bulk Manufacturer for skincare, hair care, creams, with wholesale and Supplier in USA.",
+  seoTitle: "Apricot Oil Wholesale, Supplier & Bulk Distributors in AU ",
+  seoDescription: "Hetaksh Essential Oils manufactures pure and natural Apricot Oil in India and supplies bulk quantities to Australia wholesale, supplier and distributors.",
 };
 
 export const faqs: FaqItem[] = [
