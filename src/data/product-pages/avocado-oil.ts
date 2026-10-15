@@ -80,8 +80,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Avocado Oil Bulk Manufacturer & Wholesale Supplier in USA",
-  seoDescription: "100% pure Avocado Oil Supplier for cosmetics products. Available in bulk and wholesale quantities for manufacturer in India and supplying in USA.",
+  seoTitle: "Bulk Avocado Oil Wholesale Supplier in US",
+  seoDescription: "Hetaksh Essential Oils is a leading bulk Avocado Oil wholesale supplier in the US, offering 100% pure and natural oil for cosmetics and skincare industries.",
 };
 
 export const faqs: FaqItem[] = [
