@@ -113,8 +113,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Bulk Manufacturer of Black Pepper Oil | Wholesale Supplier in US",
-  seoDescription: "Premium Black Pepper Oil Manufacturer for aromatherapy, personal care applications. Available in wholesale supplier in US and bulk quantities for businesses.",
+  seoTitle: "Black Pepper Oil Wholesale & Bulk Suppliers in United States",
+  seoDescription: "Hetaksh Essential Oils is a leading Black Pepper Oil manufacturer in India, exporting bulk quantities to wholesalers, importers and B2B buyers in the US.",
 };
 
 export const faqs: FaqItem[] = [
