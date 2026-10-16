@@ -463,7 +463,7 @@ export const htmlPage: ProductPageHtml = {
                             <!--Process One Single Start-->
                             <div class="col-xl-3 col-lg-3 col-md-6  col-sm-6 mb-3 wow fadeInUp  animated mt-3"
                         data-wow-delay="100ms">
-                              <a href="https://hetakshessentialoils.com/working-process.php">
+                              <a href="/working-process">
                               <div class="process-one__single p-bg-1">
                                 <span>
                                 <img src="/assets/images/process/Raw Materials.webp" alt="Raw Materials">
@@ -479,7 +479,7 @@ export const htmlPage: ProductPageHtml = {
                             <!--Process One Single Start-->
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mb-3 wow fadeInUp animated mt-3"
                         data-wow-delay="200ms">
-                              <a href="https://hetakshessentialoils.com/working-process.php">
+                              <a href="/working-process">
                               <div class="process-one__single p-bg-1">
                                 <span>
                                 <img src="/assets/images/process/Production.webp" alt="Production">
@@ -494,7 +494,7 @@ export const htmlPage: ProductPageHtml = {
                             <!--Process One Single Start-->
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mb-3 wow fadeInUp animated mt-3"
                         data-wow-delay="300ms">
-                              <a href="https://hetakshessentialoils.com/working-process.php">
+                              <a href="/working-process">
                               <div class="process-one__single p-bg-1">
                                 <span>
                                 <img src="/assets/images/process/Quality-and-Analysis.webp" alt="Quality-and-Analysis">
@@ -510,7 +510,7 @@ export const htmlPage: ProductPageHtml = {
                             <!--Process One Single Start-->
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mb-3 wow fadeInUp animated mt-3"
                         data-wow-delay="400ms">
-                              <a href="https://hetakshessentialoils.com/working-process.php">
+                              <a href="/working-process">
                               <div class="process-one__single ">
                                 <span>
                                 <img src="/assets/images/process/Delivery-and-Packaging.webp" alt="Delivery-and-Packaging">

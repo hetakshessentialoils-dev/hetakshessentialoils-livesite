@@ -70,7 +70,7 @@ export default function ContactPage() {
                     </div>
                     <div className="text">
                       <p>
-                        <a href="https://wa.me/919871888705">
+                        <a href="https://api.whatsapp.com/send?phone=919871888705">
                           +91 9871-888-705
                         </a>
                       </p>

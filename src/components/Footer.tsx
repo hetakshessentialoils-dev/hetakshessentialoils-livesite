@@ -117,7 +117,7 @@ export function Footer() {
                       <div className="icon"><span className="fab fa-whatsapp" aria-hidden="true" style={{ fontSize: 18 }} /></div>
                       <div className="text">
                         <p>
-                          <a href="https://wa.me/919871888705" aria-label="WhatsApp +91 9871-888-705">+91 9871-888-705</a><a href="https://wa.me/919870385705" aria-label="WhatsApp +91 9870-385-705">, 9870-385-705</a>
+                          <a href="https://api.whatsapp.com/send?phone=919871888705" aria-label="WhatsApp +91 9871-888-705">+91 9871-888-705</a><a href="https://api.whatsapp.com/send?phone=919870385705" aria-label="WhatsApp +91 9870-385-705">, 9870-385-705</a>
                         </p>
                       </div>
                     </li>

@@ -48,7 +48,7 @@ export const PRODUCT_PAGES_HTML: Record<string, ProductPageHtml> = {
             <h4 class="section-title__title">
               Contact us for Wholesale Garlic Oil Enquiries
             </h4>
-            <form id="page_form" class="contact_form send-form" action="submit.php" method="POST" data-toggle="validator">
+            <form id="page_form" class="contact_form send-form" action="" method="POST" data-toggle="validator">
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
@@ -1048,7 +1048,7 @@ export const PRODUCT_PAGES_HTML: Record<string, ProductPageHtml> = {
     <div class="row">
       <!--Process One Single Start-->
       <div class="col-xl-3 col-lg-3 col-md-6  col-sm-6 mb-3 wow fadeInUp  animated mt-3" data-wow-delay="100ms">
-        <a href="https://hetakshessentialoils.com/working-process.php">
+        <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
           <img src="/assets/images/process/Raw Materials.webp">
@@ -1063,7 +1063,7 @@ export const PRODUCT_PAGES_HTML: Record<string, ProductPageHtml> = {
       <!--Process One Single End-->
       <!--Process One Single Start-->
       <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mb-3 wow fadeInUp animated mt-3"  data-wow-delay="200ms">
-        <a href="https://hetakshessentialoils.com/working-process.php">
+        <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
           <img src="/assets/images/process/Production.webp">
@@ -1077,7 +1077,7 @@ export const PRODUCT_PAGES_HTML: Record<string, ProductPageHtml> = {
       <!--Process One Single End-->
       <!--Process One Single Start-->
       <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mb-3 wow fadeInUp animated mt-3" data-wow-delay="300ms">
-        <a href="https://hetakshessentialoils.com/working-process.php">
+        <a href="/working-process">
         <div class="process-one__single p-bg-1">
           <span>
           <img src="/assets/images/process/Quality-and-Analysis.webp">
@@ -1092,7 +1092,7 @@ export const PRODUCT_PAGES_HTML: Record<string, ProductPageHtml> = {
       <!--Process One Single End-->
       <!--Process One Single Start-->
       <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mb-3 wow fadeInUp animated mt-3" data-wow-delay="400ms">
-        <a href="https://hetakshessentialoils.com/working-process.php">
+        <a href="/working-process">
         <div class="process-one__single ">
           <span>
           <img src="/assets/images/process/Delivery-and-Packaging.webp">

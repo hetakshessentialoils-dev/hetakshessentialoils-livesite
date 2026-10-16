@@ -67,7 +67,7 @@ export default function RootLayout({
         <SiteShell searchItems={searchItems}>{children}</SiteShell>
         <div className="whats-app-icon">
           <a
-            href="https://wa.me/919871888705"
+            href="https://api.whatsapp.com/send?phone=919871888705"
             target="_blank"
             rel="noopener noreferrer"
           >

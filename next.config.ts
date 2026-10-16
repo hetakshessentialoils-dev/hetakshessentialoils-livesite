@@ -1,10 +1,4 @@
 import type { NextConfig } from "next";
-import { LEGACY_REDIRECTS } from "./src/lib/constants";
-
-const legacyRedirects = Object.entries(LEGACY_REDIRECTS).flatMap(([source, destination]) => [
-  { source: `/${source}`, destination, permanent: true as const },
-  { source: `/${source}/`, destination, permanent: true as const },
-]);
 
 // Browser cannot resolve *.up.railway.app on some networks/DNS.
 // Proxy /backend/* through Vercel → Railway (server-side DNS works).
@@ -31,7 +25,6 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
-      ...legacyRedirects,
       {
         source: "/products/:slug",
         destination: "/:slug",
@@ -45,11 +38,6 @@ const nextConfig: NextConfig = {
       {
         source: "/faq",
         destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/:slug.php",
-        destination: "/:slug",
         permanent: true,
       },
     ];
