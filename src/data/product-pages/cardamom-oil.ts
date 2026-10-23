@@ -78,7 +78,7 @@ export const page: CleanProductPage = {
       coa: "/assets/images/products/Pharma-Grade-Oils/COA/CARDAMOM OIL BP COA.pdf",
       msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/CARDAMOM OIL MSDS.pdf",
       paragraphs: [
-        "Cardamom Oil BP refers to Cardamom Oil supplied against applicable British Pharmacopoeia requirements where a pharmacopoeial specification is required by the buyer. The British Pharmacopoeia is the UK’s official collection of quality standards for pharmaceutical substances and medicinal products, and the current BP 2026 edition is legally effective from 1 January 2026. For this reason, <b>Cardamom oil manufacturers</b> purchasing a pharmaceutical-grade Cardamom Oil should confirm the exact monograph, specification, and documentation required for their intended application rather than relying only on the term “BP grade.”",
+        "Cardamom Oil BP refers to Cardamom Oil supplied against applicable British Pharmacopoeia requirements where a pharmacopoeial specification is required by the buyer. The British Pharmacopoeia is the United Kingdom official collection of quality standards for pharmaceutical substances and medicinal products, and the current BP 2026 edition is legally effective from 1 January 2026. For this reason, <b>Cardamom oil manufacturers</b> purchasing a pharmaceutical-grade Cardamom Oil should confirm the exact monograph, specification, and documentation required for their intended application rather than relying only on the term “BP grade.”",
         "Cardamom Oil is valued for its characteristic aromatic profile and naturally occurring volatile constituents. Its principal components commonly include alpha-terpinyl acetate and 1,8-cineole, with other compounds such as linalool, linalyl acetate, and alpha-terpineol contributing to its overall composition. The oil can be used in suitable pharmaceutical, oral care, flavouring, and aromatic formulations according to the requirements of the finished product.",
       ],
       lists: [
@@ -177,7 +177,7 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Cardamom Oil Wholesale Supplier in UK | Cardamom Oil Bulk Manufacturer",
+  seoTitle: "Bulk Cardamom Oil Wholesale Supplier in UK",
   seoDescription: "Hetaksh Essential Oils offers 100% Pure Cardamom Oil wholesale and in bulk from a trusted UK supplier and manufacturer at competitive prices.",
 };
 
