@@ -102,7 +102,7 @@ export const htmlPage: ProductPageHtml = {
                             Composition
                           </h2>
                           <p class="mb-3">
-                            Almond Oil is composed primarily of oleic acid , linoleic acid, and saturated fatty acids. Oleic acid is a monounsaturated fatty acid that is known for its ability to penetrate the skin and hair shaft, while linoleic acid is an essential fatty acid that helps to strengthen the skin barrier and retain moisture.
+                            Almond Oil is composed primarily of oleic acid, linoleic acid, and saturated fatty acids. Oleic acid is a monounsaturated fatty acid that is known for its ability to penetrate the skin and hair shaft, while linoleic acid is an essential fatty acid that helps to strengthen the skin barrier and retain moisture.
                           </p>
                           <h2 class="section-title__title">
                             Extraction
@@ -404,7 +404,7 @@ export const htmlPage: ProductPageHtml = {
                                 We are supplying our Products to top ranked Nutraceutical Companies, Pharmaceuticals Companies, Flavor & Fragrance houses, Oral & Personal Care Companies, Tobacco Manufacturers, Ayurvedic Companies and FMCG manufacturers in India and round the Globe.
                               </p>
                               <p>
-                                With strict procurement of 100% Natural and Genuine raw material directly from the farmers and stringent manufacturing & quality control methods we can supply products in grades complying with applicable IP, BP, EP, USP, and JP specifications. We can also customize our Products as per quality requirements and specifications of the customers.
+                                With strict procurement of 100% Natural and Genuine raw material directly from the farmers and stringent manufacturing & quality control methods, we can supply products in grades complying with applicable IP, BP, EP, USP, and JP specifications. We can also customize our Products as per quality requirements and specifications of the customers.
                               </p>
                               <p>
                                 You may visit our website Hetaksh Essential Oils for our Company’s Profile and Product details.
