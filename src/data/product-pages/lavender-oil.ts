@@ -57,7 +57,7 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Lavender Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Natural Lavender Oil Wholesale Supplier in US",
+  seoTitle: "Lavender Oil Wholesale, Bulk Supplier in US",
   seoDescription: "Hetaksh Essential Oils, a leading Natural Lavender Oil supplier in the USA, offers wholesale and bulk supply at competitive prices for B2B buyers.",
   afterSpecsParagraphs: [],
   contentFlow: [
