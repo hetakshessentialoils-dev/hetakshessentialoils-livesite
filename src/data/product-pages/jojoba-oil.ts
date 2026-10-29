@@ -58,8 +58,8 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Jojoba Oil Page",
   sections: [],
   variants: [],
-  seoTitle: "Jojoba oil Wholesale, Supplier & Bulk Manufacturer in USA",
-  seoDescription: "Buy premium Jojoba Oil wholesale from Hetaksh Essential Oils, a trusted bulk supplier and manufacturer in USA at competitive prices.",
+  seoTitle: "Jojoba oil Wholesale, Bulk Supplier in US",
+  seoDescription: "Hetaksh Essential Oils is a trusted Jojoba Oil wholesale and bulk supplier in the USA, offering premium-quality Jojoba Oil at competitive prices.",
   afterSpecsParagraphs: [],
   contentFlow: [
     {
