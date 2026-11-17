@@ -11,7 +11,7 @@ export const page: CleanProductPage = {
   "paragraphs": [
     "Ylang Ylang Oil is a fragrant essential oil made from the fresh flowers of the <b>ylang ylang tree</b>, Cananga odorata. The tree belongs to the <b>Annonaceae</b> family and grows in warm tropical regions, especially in parts of Southeast Asia and the Indian Ocean region. The name “ylang ylang” is often linked with the flower’s sweet and rich fragrance. For generations, the flowers have been valued in local traditions and are now widely used by the perfume and personal care industries. The flowers are usually picked when their fragrance is strong and are processed soon after harvesting. The oil is mainly produced through <b>steam distillation</b>. During this process, steam passes through the flowers and carries their natural aromatic compounds. The vapour is cooled, and the essential oil is separated from the water. Ylang Ylang Oil is usually a pale yellow to golden liquid with a rich, sweet, floral and slightly fruity aroma. It contains natural compounds such as <b>linalool, germacrene D, benzyl acetate, benzyl benzoate, caryophyllene and p-cresyl methyl ether</b>. The amount of these compounds can vary depending on the flower quality, growing region, harvest time and distillation conditions. Ylang Ylang Oil is especially valued by the fragrance industry because of its strong floral character. For companies searching for a <b>Ylang Ylang Oil bulk manufacturer</b>, it is useful to check the botanical name, plant part, extraction method, aroma profile, chemical composition and batch quality before purchase."
   ],
-  "specsTitle": "Product Glance",
+  "specsTitle": "Product Specifications",
   "specs": [
     {
       "label": "Botanical Name",
