@@ -13,7 +13,7 @@ export const page: CleanProductPage = {
     "Steam distillation is commonly used to produce Rosemary Oil. The process collects the natural aromatic compounds from the plant and gives a concentrated oil. The finished oil is generally clear to pale yellow and has a fresh, green, woody, and slightly camphor-like aroma.",
     "Rosemary Oil contains naturally occurring compounds such as 1,8-cineole, alpha-pinene, camphor, and other aromatic constituents. The exact composition can differ depending on the botanical material, growing conditions, origin, and chemotype.",
   ],
-  specsTitle: "Rosemary Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Rosemary Oil" },
     { label: "Botanical Name", value: "Salvia rosmarinus" },
