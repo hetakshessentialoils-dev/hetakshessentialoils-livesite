@@ -16,7 +16,7 @@ export const page: CleanProductPage = {
     "A <b>Parsley Oil bulk supplier</b> may provide this oil to fragrance makers, soap companies and cosmetic manufacturers. The oil contains natural compounds such as apiol, myristicin, alpha-pinene and beta-pinene, although the amounts depend on the plant part and source. These compounds help create its special herbal smell. Since some parsley oil components need careful safety control, manufacturers must check the oil's composition and safety information before using it in a finished product. It should not be swallowed or used directly on the skin as a home remedy.",
     "The value of <b>Parsley Oil bulk supply</b> lies in its strong herbal scent and its use in selected fragrance blends. However, not all parsley oils are the same. Buyers should confirm the plant part, composition, intended use and safety details before choosing a grade. A batch-specific Certificate of Analysis can help buyers understand the properties of the material they receive.",
   ],
-  specsTitle: "Parsley Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Parsley Oil" },
     { label: "Botanical Name", value: "Petroselinum crispum" },
