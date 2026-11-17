@@ -13,7 +13,7 @@ export const page: CleanProductPage = {
     "Soybean Oil is mainly made of triglycerides containing several fatty acids. The main ones are linoleic acid, oleic acid, palmitic acid, linolenic acid and stearic acid. Typical soybean oil contains a high proportion of linoleic acid, along with oleic acid and smaller amounts of saturated fatty acids. It can also contain minor substances such as tocopherols and phytosterols.",
     "A <b>Soybean Oil bulk supplier</b> may supply the oil for food, pharmaceutical, cosmetic, personal-care, soap, paint, ink, resin and other industrial applications. Refined soybean oil is also used in products such as salad dressings, sauces and mayonnaise.",
   ],
-  specsTitle: "Soybean Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Soybean Oil" },
     { label: "Botanical Name", value: "Glycine max" },
