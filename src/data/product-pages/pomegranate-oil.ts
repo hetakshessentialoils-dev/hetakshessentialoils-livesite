@@ -19,7 +19,7 @@ export const page: CleanProductPage = {
     "A <b>Pomegranate Oil bulk manufacturer</b> can supply the oil in quantities suited to cosmetic and personal-care production. Buyers normally review the product specification, fatty acid profile, appearance, odour, purity, packaging, and other technical details before selecting a material.",
     "The oil should be protected from excessive heat, light, moisture, and air during storage. Proper handling helps maintain its natural colour, smell, and overall quality. The recommended storage conditions should always follow the supplier’s product specification.",
   ],
-  specsTitle: "Pomegranate Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Pomegranate Oil" },
     { label: "Botanical Name", value: "Punica granatum" },
