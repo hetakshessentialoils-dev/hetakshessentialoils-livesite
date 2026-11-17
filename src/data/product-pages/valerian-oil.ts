@@ -11,7 +11,7 @@ export const page: CleanProductPage = {
   "paragraphs": [
     "Valerian is a flowering herb whose roots have a strong and easily recognized natural aroma. The roots are the main part used to produce valerian oil, while the distillation process also gives a lighter botanical water known as valerian root hydrosol. The oil has an earthy, woody, herbal, and slightly musky character, making it different from bright citrus or sweet floral oils. It is used mainly in fragrance, personal care, wellness, and botanical product development. Valerian oil bulk manufacturer requirements can vary depending on the final application, so buyers usually look for clear specifications, consistent batches, suitable packaging, and reliable documentation. The natural composition of valerian can change according to the plant variety, growing conditions, harvesting time, and processing method. This makes proper sourcing and quality testing important for manufacturers that use the ingredient regularly."
   ],
-  "specsTitle": "Product Glance",
+  "specsTitle": "Product Specifications",
   "specs": [
     {
       "label": "Botanical Name",
