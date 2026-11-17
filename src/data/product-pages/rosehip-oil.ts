@@ -31,7 +31,7 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Rosehip Oil Page",
   sections: [
     {
-      title: "1. Rosehip Oil: A Natural Seed Oil for Modern Formulations",
+      title: "Rosehip Oil: A Natural Seed Oil for Modern Formulations",
       paragraphs: [
         "Rosehip Oil is a plant oil made from the seeds of rosehip fruits. One commonly used botanical source is Rosa canina, which belongs to the Rosaceae family. The oil is known for its naturally occurring fatty acids and is used in many cosmetic and personal-care products.",
         "Rosehip Oil has a smooth feel and a light natural smell. Its colour can range from golden yellow to reddish-orange. The final colour and smell may change depending on the rosehip variety, growing conditions, extraction method, and level of processing.",
