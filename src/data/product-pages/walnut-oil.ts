@@ -11,7 +11,7 @@ export const page: CleanProductPage = {
   paragraphs: [
     "Walnut Oil is a natural vegetable oil made from the <b>kernels of walnuts</b>. The common walnut is known by the botanical name Juglans regia and belongs to the <b>Juglandaceae</b> family. Walnuts have been grown and eaten for thousands of years, especially across parts of Asia and Europe. Today, the walnut kernel is also used to produce oil for food, cosmetics and personal care products. To make the oil, mature walnuts are cleaned, cracked and separated from their shells. The kernels are then prepared for oil extraction. Depending on the required grade, Walnut Oil can be produced through <b>cold pressing, mechanical pressing or other controlled extraction methods</b>. Cold pressing is often chosen when the natural characteristics of the oil need to be retained. The finished oil is generally light yellow to golden in colour and has a mild, nutty aroma. Walnut Oil has a high amount of <b>unsaturated fatty acids</b>, especially linoleic acid and oleic acid. It also contains smaller amounts of alpha-linolenic acid, palmitic acid and stearic acid. Natural tocopherols and phytosterols may also be present. The exact composition can vary depending on the walnut variety, growing region, kernel quality and extraction process. For businesses looking for a <b>Walnut Oil bulk manufacturer</b>, checking the botanical source, extraction method, fatty acid profile, appearance, odour and purity is important before purchasing.",
   ],
-  specsTitle: "Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Botanical Name", value: "Juglans regia" },
     { label: "Plant Family", value: "Juglandaceae" },
