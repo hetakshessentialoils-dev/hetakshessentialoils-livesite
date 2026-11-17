@@ -54,7 +54,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "3. Rosemary Hydrosol: A Water-Based Rosemary Product",
+      title: "Rosemary Hydrosol: A Water-Based Rosemary Product",
       coa: "/assets/images/products/Hydrosol/COA/ROSEMARY HYDROSOL COA.pdf",
       msds: "/assets/images/products/Hydrosol/MSDS/Rosemary Oil Hydrosol MSDS.pdf",
       paragraphs: [
