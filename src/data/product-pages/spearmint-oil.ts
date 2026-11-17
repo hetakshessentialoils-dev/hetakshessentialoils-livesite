@@ -14,7 +14,7 @@ export const page: CleanProductPage = {
     "One of the important natural compounds found in Spearmint Oil is <b>carvone</b>, which contributes to its familiar mint character. The oil is used in many types of products, including perfumes, soaps, cosmetics, oral-care products, personal-care products and other aromatic formulations.",
     "For companies that need large quantities, choosing a <b>Spearmint Oil bulk manufacturer</b> can help with regular production requirements. Buyers should look at the botanical name, appearance, aroma, composition and other agreed quality details before purchasing.",
   ],
-  specsTitle: "Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Spearmint Oil" },
     { label: "Botanical Name", value: "Mentha spicata" },
