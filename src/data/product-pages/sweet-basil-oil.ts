@@ -62,7 +62,7 @@ export const page: CleanProductPage = {
     "The natural composition of basil oil can vary depending on the plant variety, growing conditions and method of production. Components such as <b>linalool, methyl chavicol (estragole), eugenol and other aromatic compounds</b> may be present depending on the type of basil oil.",
     "Sweet Basil Oil can be used in perfumes, soaps, cosmetics, personal-care products, hair-care formulations and other fragrance applications. For manufacturers needing regular quantities, a <b>Sweet Basil Oil bulk manufacturer</b> can supply the oil according to the agreed product specifications.",
   ],
-  specsTitle: "Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Sweet Basil Oil" },
     { label: "Botanical Name", value: "Ocimum basilicum" },
