@@ -16,7 +16,7 @@ export const page: CleanProductPage = {
     "The main component of <b>Palmarosa Oil bulk supplier</b> products is usually geraniol. Another important component is geranyl acetate. Smaller amounts of linalool and other natural aromatic compounds may also be present. The exact composition depends on the plant variety, growing conditions and distillation process. Buyers can check a batch's composition through suitable laboratory testing, such as gas chromatography, when required by the product specification.",
     "Different industries use <b>Palmarosa Oil bulk supply</b> for different reasons. Perfume makers value its rose-like scent. Soap manufacturers use it to add a floral note to soaps and body cleansers. Cosmetic companies may use it in creams, lotions and other scented products when the oil is suitable for the formulation. Fragrance developers may also blend it with other floral, citrus or herbal oils to create a balanced scent. Since it is a concentrated essential oil, it must be used at an appropriate level and handled according to its safety information.",
   ],
-  specsTitle: "Palmarosa Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Palmarosa Oil" },
     { label: "Botanical Name", value: "Cymbopogon martinii" },
