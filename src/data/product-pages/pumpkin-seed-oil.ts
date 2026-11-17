@@ -15,7 +15,7 @@ export const page: CleanProductPage = {
     "Cold pressing is commonly used when a less processed seed oil is wanted. The seeds are mechanically pressed to release the oil. The oil can then be filtered and packed according to the required product grade.",
     "For companies that need regular quantities, a <b>Pumpkin Seed Oil bulk manufacturer</b> can supply the oil in suitable commercial packs. Buyers can check the botanical source, extraction method, appearance, odour, fatty acid profile, purity, and other specifications before selecting the product.",
   ],
-  specsTitle: "Pumpkin Seed Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Pumpkin Seed Oil" },
     { label: "Botanical Name", value: "Cucurbita pepo" },
