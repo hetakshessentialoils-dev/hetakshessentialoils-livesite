@@ -8,23 +8,23 @@ const bp: CleanProductVariant = {
   content: [
     {
       type: "paragraph",
-      text: "<b>Sunflower Oil BP bulk manufacturer</b> products are sunflower oil prepared to meet the applicable requirements of the <b>British Pharmacopoeia (BP)</b>. The BP is an official collection of pharmaceutical quality standards used for medicines and pharmaceutical substances. BP standards cover areas such as pharmaceutical ingredients, excipients and formulated preparations.",
+      text: "<b>Sunflower Oil bulk manufacturer</b> products are sunflower oil prepared to meet the applicable requirements of the British Pharmacopoeia (BP). The BP is an official collection of pharmaceutical quality standards used for medicines and pharmaceutical substances. BP standards cover areas such as pharmaceutical ingredients, excipients and formulated preparations.",
     },
     {
       type: "paragraph",
-      text: "The making of <b>Sunflower Oil BP</b> starts with suitable sunflower seeds. The oil is extracted and then refined. During refining, unwanted substances such as gums, free fatty acids, pigments, odour compounds and other materials are reduced or removed. The final oil is then tested against the required specification. This is why BP-grade oil is more than simply ordinary sunflower oil placed in a container with a fancy label.",
+      text: "The making of Sunflower Oil BP starts with suitable sunflower seeds. The oil is extracted and then refined. During refining, unwanted substances such as gums, free fatty acids, pigments, odour compounds and other materials are reduced or removed. The final oil is then tested against the required specification. This is why BP-grade oil is more than simply ordinary sunflower oil placed in a container with a fancy label.",
     },
     {
       type: "paragraph",
-      text: "<b>Sunflower Oil BP bulk supplier</b> products can be used by pharmaceutical manufacturers and formulation companies when their product requires sunflower oil meeting the applicable pharmacopoeial standard. BP standards are also important for quality control and testing. The exact use depends on the formulation and the requirements of the finished pharmaceutical product.",
+      text: "<b>Sunflower Oil bulk supplier</b> products can be used by pharmaceutical manufacturers and formulation companies when their product requires sunflower oil meeting the applicable pharmacopoeial standard. BP standards are also important for quality control and testing. The exact use depends on the formulation and the requirements of the finished pharmaceutical product.",
     },
     {
       type: "paragraph",
-      text: "One reason <b>Sunflower Oil pharmaceutical grade</b> is preferred for suitable pharmaceutical applications is its controlled quality. Buyers can ask for batch-specific testing and documents to confirm that the material meets the required specification. This gives manufacturers a clearer way to check identity, purity and other important quality properties before using the oil.",
+      text: "One reason Sunflower Oil pharmaceutical grade is preferred for suitable pharmaceutical applications is its controlled quality. Buyers can ask for batch-specific testing and documents to confirm that the material meets the required specification. This gives manufacturers a clearer way to check identity, purity and other important quality properties before using the oil.",
     },
     {
       type: "paragraph",
-      text: "The <b>benefits of Sunflower Oil BP</b> for manufacturers include consistent specification, controlled processing and suitability for applications where a recognised pharmacopoeial standard is required. These are quality and manufacturing benefits, not claims that BP sunflower oil is automatically better for every possible use.",
+      text: "The benefits of Sunflower Oil BP for manufacturers include consistent specification, controlled processing and suitability for applications where a recognised pharmacopoeial standard is required. These are quality and manufacturing benefits, not claims that BP sunflower oil is automatically better for every possible use.",
     },
     { type: "heading", text: "Simple Sunflower Oil BP Manufacturing Flow" },
     {
@@ -42,11 +42,11 @@ const usp: CleanProductVariant = {
   content: [
     {
       type: "paragraph",
-      text: "<b>Sunflower Oil USP bulk supplier</b> products are refined sunflower oil supplied to meet the applicable requirements of the <b>United States Pharmacopeia (USP)</b>. USP defines sunflower oil as a refined fixed oil obtained from the seeds of Helianthus annuus L. It may contain a suitable antioxidant.",
+      text: "<b>Sunflower Oil USP bulk supplier</b> products are refined sunflower oil supplied to meet the applicable requirements of the United States Pharmacopeia (USP). USP defines sunflower oil as a refined fixed oil obtained from the seeds of Helianthus annuus L. It may contain a suitable antioxidant.",
     },
     {
       type: "paragraph",
-      text: "The simple difference between <b>Sunflower Oil, Sunflower Oil BP and Sunflower Oil USP</b> is the standard being followed. Regular sunflower oil is a broad product name and its specification depends on its intended use. Sunflower Oil BP is supplied to meet applicable BP requirements, while Sunflower Oil USP is supplied to meet applicable USP requirements. BP is the British Pharmacopoeia standard, while USP is the United States Pharmacopeia standard. They are standards for the oil, not different sunflower plants.",
+      text: "The simple difference between Sunflower Oil, Sunflower Oil BP and Sunflower Oil USP is the standard being followed. Regular sunflower oil is a broad product name and its specification depends on its intended use. Sunflower Oil BP is supplied to meet applicable BP requirements, while Sunflower Oil USP is supplied to meet applicable USP requirements. BP is the British Pharmacopoeia standard, while USP is the United States Pharmacopeia standard. They are standards for the oil, not different sunflower plants.",
     },
     {
       type: "table",
@@ -67,11 +67,11 @@ const usp: CleanProductVariant = {
     },
     {
       type: "paragraph",
-      text: "For <b>Sunflower Oil USP bulk manufacturer</b> supply, packaging should protect the oil from contamination, excessive heat, light and unnecessary exposure to air. HDPE drums can be used for bulk supply when they are suitable for the product and customer requirements. Smaller approved containers can also be used for lower quantities. The exact packaging should be confirmed against the buyer’s specification and shipping requirements.",
+      text: "For <b>Sunflower Oil Manufacturer</b> supply, packaging should protect the oil from contamination, excessive heat, light and unnecessary exposure to air. HDPE drums can be used for bulk supply when they are suitable for the product and customer requirements. Smaller approved containers can also be used for lower quantities. The exact packaging should be confirmed against the buyer’s specification and shipping requirements.",
     },
     {
       type: "paragraph",
-      text: "A <b>Sunflower Oil USP bulk exporter</b> should provide suitable quality documents. These can include a <b>COA (Certificate of Analysis), SDS/MSDS, product specification, batch information and applicable certificates</b>. Depending on the buyer and destination, certifications such as ISO, GMP, Halal or FSSAI may also be requested. A certification should always be checked for its scope and validity rather than assuming every certificate covers every product.",
+      text: "A Sunflower Oil USP bulk exporter should provide suitable quality documents. These can include a COA (Certificate of Analysis), SDS/MSDS, product specification, batch information and applicable certificates. Depending on the buyer and destination, certifications such as ISO, GMP, Halal or FSSAI may also be requested. A certification should always be checked for its scope and validity rather than assuming every certificate covers every product.",
     },
   ],
 };
@@ -85,9 +85,9 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/Pharma-Grade-Oils/Sunflower-Oil-BP.webp",
   imageAlt: "Refined Sunflower Oil BP, clear light yellow oil from Helianthus annuus seeds",
   paragraphs: [
-    "<b>Sunflower Oil bulk manufacturer</b> products come from the seeds of the sunflower plant, scientifically known as Helianthus annuus. The seed is cleaned and used to obtain the oil. Sunflower oil is also called <b>sunflower seed oil</b>. It is usually a clear, light-yellow to light-amber liquid when refined. Refined oil has a very mild smell because processing removes much of the natural odour and flavour. Sunflower oil mainly contains triglycerides made from fatty acids such as <b>linoleic acid, oleic acid, palmitic acid and stearic acid</b>. It can also contain small amounts of tocopherols and other natural compounds. The exact composition changes with the sunflower variety and growing conditions.",
+    "<b>Sunflower Oil bulk manufacturer</b> products come from the seeds of the sunflower plant, scientifically known as Helianthus annuus. The seed is cleaned and used to obtain the oil. Sunflower oil is also called sunflower seed oil. It is usually a clear, light-yellow to light-amber liquid when refined. Refined oil has a very mild smell because processing removes much of the natural odour and flavour. Sunflower oil mainly contains triglycerides made from fatty acids such as linoleic acid, oleic acid, palmitic acid and stearic acid. It can also contain small amounts of tocopherols and other natural compounds. The exact composition changes with the sunflower variety and growing conditions.",
     "For <b>Sunflower Oil bulk supplier</b> production, the seeds can be processed by mechanical pressing, solvent extraction, or both. In large-scale production, seeds may first be cleaned, dehulled or prepared, and then pressed and/or extracted. The crude oil is refined to remove unwanted materials. Refining can include degumming, neutralisation, bleaching, deodorisation and filtration. These steps help produce a cleaner oil with a lighter colour and softer smell. USP describes sunflower oil as a refined fixed oil obtained from sunflower seeds.",
-    "<b>Sunflower Oil bulk exporter</b> products are used in food, cooking, cosmetics, personal care, pharmaceutical formulations and several industrial products. Refined sunflower oil is valued for its light flavour, useful fatty-acid profile and low viscosity. Different sunflower varieties can also produce high-oleic, mid-oleic and other types of oil, so buyers should select the right specification for their product.",
+    "Sunflower Oil bulk exporter products are used in food, cooking, cosmetics, personal care, pharmaceutical formulations and several industrial products. Refined sunflower oil is valued for its light flavour, useful fatty-acid profile and low viscosity. Different sunflower varieties can also produce high-oleic, mid-oleic and other types of oil, so buyers should select the right specification for their product.",
   ],
   specsTitle: "Product Specifications",
   specs: [
