@@ -13,7 +13,7 @@ export const page: CleanProductPage = {
     "Turpentine Oil is normally a clear, colourless to pale-yellow liquid. It has a strong, fresh and sharp pine-like smell. Its smell mainly comes from natural terpene compounds. The most important components are usually <b>alpha-pinene and beta-pinene</b>. Other compounds, such as camphene, limonene and delta-3-carene, can also be present. The exact composition can change depending on the pine species, growing region and processing method.",
     "A <b>Turpentine Oil bulk supplier</b> may offer different specifications depending on the buyer’s industry. The oil can be used as a solvent because it can dissolve or help mix certain resins, oils and other materials. This makes it useful in paints, varnishes, coatings, polishes, cleaning products and chemical manufacturing. Turpentine-derived materials are also used as starting materials for some fragrance and chemical products.",
   ],
-  specsTitle: "Turpentine Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Turpentine Oil" },
     { label: "Common Names", value: "Oil of Turpentine, Gum Turpentine, Spirits of Turpentine, Turps" },
