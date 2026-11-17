@@ -9,7 +9,7 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/Essential-Oils/Petitgrain-Oil.webp",
   imageAlt: "Petitgrain Essential Oil from bitter orange leaves and twigs",
   paragraphs: [
-    "Petitgrain Oil is a little different from many citrus oils because it does not mainly come from the fruit. It is commonly obtained from the leaves and young twigs of the bitter orange tree, Citrus aurantium. The oil belongs to the Rutaceae family and is usually produced by steam distillation. The name <b>Petitgrain Oil</b> comes from an old French term connected with small grains or little fruits, but the commercial oil today is mainly known for its leafy, green, citrus-like smell. It can be clear to pale yellow and may have fresh, woody, floral, and slightly bitter notes. Linalyl acetate and linalool are often important parts of its natural composition, while limonene and other aromatic compounds may also occur. Its smell sits in an interesting place between citrus peel, green leaves, and orange blossom. That gives petitgrain a character that is not quite like orange oil and not quite like neroli. It can be used in perfumes, soaps, cosmetics, personal-care products, candles, and other fragrance creations. <b>Petitgrain Oil</b> is especially interesting when a formulator wants citrus freshness without making the fragrance taste or smell like a simple orange or lemon scent.",
+    "Petitgrain Oil is a little different from many citrus oils because it does not mainly come from the fruit. It is commonly obtained from the leaves and young twigs of the bitter orange tree, Citrus aurantium. The oil belongs to the Rutaceae family and is usually produced by steam distillation. The name Petitgrain Oil comes from an old French term connected with small grains or little fruits, but the commercial oil today is mainly known for its leafy, green, citrus-like smell. It can be clear to pale yellow and may have fresh, woody, floral, and slightly bitter notes. Linalyl acetate and linalool are often important parts of its natural composition, while limonene and other aromatic compounds may also occur. Its smell sits in an interesting place between citrus peel, green leaves, and orange blossom. That gives petitgrain a character that is not quite like orange oil and not quite like neroli. It can be used in perfumes, soaps, cosmetics, personal-care products, candles, and other fragrance creations. Petitgrain Oil is especially interesting when a formulator wants citrus freshness without making the fragrance taste or smell like a simple orange or lemon scent.",
   ],
   coa: "/assets/images/products/Essential-Oils/coa/PETITGRAIN-OIL-COA.pdf",
   msds: "/assets/images/products/Essential-Oils/MSDS/PETITGRAIN-OIL-MSDS.pdf",
@@ -36,7 +36,7 @@ export const page: CleanProductPage = {
           },
         },
         { type: "paragraph", text: "This is a useful way to remember petitgrain." },
-        { type: "paragraph", text: "It comes from the <b>green parts of the tree</b>, not mainly from the juicy orange fruit." },
+        { type: "paragraph", text: "It comes from the green parts of the tree, not mainly from the juicy orange fruit." },
       ],
     },
     {
@@ -47,7 +47,7 @@ export const page: CleanProductPage = {
       paragraphs: [],
       content: [
         { type: "paragraph", text: "Petitgrain Hydrosol is a water-based aromatic product associated with the distillation of petitgrain plant material. Its fragrance is much gentler than the essential oil. Instead of a strong burst of citrus, it can give a delicate green, leafy, fresh, and slightly floral impression." },
-        { type: "paragraph", text: "A <b>petitgrain hydrosol bulk supplier</b> can provide this type of botanical water for suitable water-based formulations." },
+        { type: "paragraph", text: "A <b>petitgrain oil bulk supplier</b> can provide this type of botanical water for suitable water-based formulations." },
         { type: "paragraph", text: "It can be explored in:" },
         {
           type: "list",
@@ -67,9 +67,9 @@ export const page: CleanProductPage = {
       title: "Three Citrus Products from One Tree",
       content: [
         { type: "paragraph", text: "The bitter orange tree is particularly interesting because different parts of the same tree can give very different aromatic materials." },
-        { type: "paragraph", text: "The <b>fruit peel</b> gives a citrus oil with a stronger peel-like character." },
-        { type: "paragraph", text: "The <b>flowers</b> give neroli, which is much more floral." },
-        { type: "paragraph", text: "The <b>leaves and young twigs</b> give petitgrain, which has a green and woody citrus character." },
+        { type: "paragraph", text: "The fruit peel gives a citrus oil with a stronger peel-like character." },
+        { type: "paragraph", text: "The flowers give neroli, which is much more floral." },
+        { type: "paragraph", text: "The leaves and young twigs give petitgrain, which has a green and woody citrus character." },
         {
           type: "table",
           table: {
@@ -124,7 +124,7 @@ export const page: CleanProductPage = {
         { type: "heading", text: "Petitgrain and Neroli Are Not the Same" },
         { type: "paragraph", text: "This is another common point of confusion." },
         { type: "paragraph", text: "Both can come from the bitter orange tree." },
-        { type: "paragraph", text: "But the <b>plant part is different</b>." },
+        { type: "paragraph", text: "But the plant part is different." },
         { type: "paragraph", text: "Neroli comes from the flowers." },
         { type: "paragraph", text: "Petitgrain comes mainly from leaves and young twigs." },
         { type: "paragraph", text: "As a result, their smells are also different." },
@@ -134,7 +134,7 @@ export const page: CleanProductPage = {
         { type: "paragraph", text: "Petitgrain can be especially useful when a fragrance needs to avoid becoming too sweet." },
         { type: "paragraph", text: "Orange oil can give a juicy fruit impression." },
         { type: "paragraph", text: "Neroli can give a beautiful floral impression." },
-        { type: "paragraph", text: "Petitgrain can bring the smell back towards the <b>green tree itself</b>." },
+        { type: "paragraph", text: "Petitgrain can bring the smell back towards the green tree itself." },
         { type: "paragraph", text: "That makes it a useful bridge between citrus, floral, and woody fragrance families." },
         { type: "heading", text: "Commercial Selection" },
         { type: "paragraph", text: "For <b>petitgrain oil bulk wholesale</b>, buyers may need to look at the botanical name, plant part, origin, extraction method, appearance, aroma, composition, and grade." },
