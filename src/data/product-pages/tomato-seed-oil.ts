@@ -11,7 +11,7 @@ export const page: CleanProductPage = {
   paragraphs: [
     "Tomato Seed Oil is a plant-based oil obtained from the seeds of ripe tomatoes. Its botanical name is Solanum lycopersicum, and it belongs to the Solanaceae family. Tomatoes have been grown and used as food for hundreds of years, while their seeds are now also valued as a source of useful vegetable oil. The seeds are separated from the tomato pulp, cleaned and dried, and then processed to extract the oil. Cold pressing or mechanical pressing can be used, depending on the required product and processing method. After extraction, the oil may be filtered to remove unwanted particles and produce a clean, smooth oil. Tomato Seed Oil usually has a light yellow to golden colour and a mild, natural aroma. One of its main features is its fatty acid profile. It is naturally rich in linoleic acid and oleic acid, with smaller amounts of palmitic acid and stearic acid. It can also contain naturally occurring tocopherols, phytosterols and other minor plant compounds. The exact amount of each component can change according to the tomato variety, growing conditions, seed quality and extraction process. This is why laboratory testing is useful when buying the oil for commercial production. A Tomato Seed Oil bulk manufacturer can provide technical information such as fatty acid profile, appearance, odour, moisture and other quality parameters. The oil is mainly valued as a carrier oil for cosmetic and personal care products and can be blended with other vegetable oils or botanical ingredients.",
   ],
-  specsTitle: "Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Botanical Name", value: "Solanum lycopersicum" },
     { label: "Plant Family", value: "Solanaceae" },
