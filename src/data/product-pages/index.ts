@@ -71,6 +71,32 @@ import { page as oliveOil, faqs as oliveOilFaqs } from "./olive-oil";
 import { page as onionOil, faqs as onionOilFaqs } from "./onion-oil";
 import { page as orangeOil, faqs as orangeOilFaqs } from "./orange-oil";
 import { page as oreganoOil, faqs as oreganoOilFaqs } from "./oregano-oil";
+import { page as turpentineOil, faqs as turpentineOilFaqs } from "./turpentine-oil";
+import { page as turmericOil, faqs as turmericOilFaqs } from "./turmeric-oil";
+import { page as tomatoSeedOil, faqs as tomatoSeedOilFaqs } from "./tomato-seed-oil";
+import { page as tagetesOil, faqs as tagetesOilFaqs } from "./tagetes-oil";
+import { page as sweetBasilOil, faqs as sweetBasilOilFaqs } from "./sweet-basil-oil";
+import { page as sunflowerOil, faqs as sunflowerOilFaqs } from "./sunflower-oil";
+import { page as spearmintOil, faqs as spearmintOilFaqs } from "./spearmint-oil";
+import { page as soyabeanOil, faqs as soyabeanOilFaqs } from "./soyabean-oil";
+import { page as sageOil, faqs as sageOilFaqs } from "./sage-oil";
+import { page as rosemaryOil, faqs as rosemaryOilFaqs } from "./rosemary-oil";
+import { page as rosehipOil, faqs as rosehipOilFaqs } from "./rosehip-oil";
+import { page as pumpkinSeedOil, faqs as pumpkinSeedOilFaqs } from "./pumpkin-seed-oil";
+import { page as pomegranateOil, faqs as pomegranateOilFaqs } from "./pomegranate-oil";
+import { page as petitgrainOil, faqs as petitgrainOilFaqs } from "./petitgrain-oil";
+import { page as peanutOil, faqs as peanutOilFaqs } from "./peanut-oil";
+import { page as parsleyOil, faqs as parsleyOilFaqs } from "./parsley-oil";
+import { page as papayaOil, faqs as papayaOilFaqs } from "./papaya-oil";
+import { page as palmarosaOil, faqs as palmarosaOilFaqs } from "./palmarosa-oil";
+import { page as ylangYlangOil, faqs as ylangYlangOilFaqs } from "./ylang-ylang-oil";
+import { page as wintergreenOil, faqs as wintergreenOilFaqs } from "./wintergreen-oil";
+import { page as verbenaOil, faqs as verbenaOilFaqs } from "./verbena-oil";
+import { page as valerianOil, faqs as valerianOilFaqs } from "./valerian-oil";
+import { page as thymeOil, faqs as thymeOilFaqs } from "./thyme-oil";
+import { page as wheatgermOil, faqs as wheatgermOilFaqs } from "./wheatgerm-oil";
+import { page as walnutOil, faqs as walnutOilFaqs } from "./walnut-oil";
+import { page as virginLinseedOil, faqs as virginLinseedOilFaqs } from "./virgin-linseed-oil";
 
 export const CLEAN_PRODUCT_PAGES: Record<string, CleanProductPage> = {
   "anise-oil": aniseOil,
@@ -136,6 +162,32 @@ export const CLEAN_PRODUCT_PAGES: Record<string, CleanProductPage> = {
   "onion-oil": onionOil,
   "orange-oil": orangeOil,
   "oregano-oil": oreganoOil,
+  "turpentine-oil": turpentineOil,
+  "turmeric-oil": turmericOil,
+  "tomato-seed-oil": tomatoSeedOil,
+  "tagetes-oil": tagetesOil,
+  "sweet-basil-oil": sweetBasilOil,
+  "sunflower-oil": sunflowerOil,
+  "spearmint-oil": spearmintOil,
+  "soyabean-oil": soyabeanOil,
+  "sage-oil": sageOil,
+  "rosemary-oil": rosemaryOil,
+  "rosehip-oil": rosehipOil,
+  "pumpkin-seed-oil": pumpkinSeedOil,
+  "pomegranate-oil": pomegranateOil,
+  "petitgrain-oil": petitgrainOil,
+  "peanut-oil": peanutOil,
+  "parsley-oil": parsleyOil,
+  "papaya-oil": papayaOil,
+  "palmarosa-oil": palmarosaOil,
+  "ylang-ylang-oil": ylangYlangOil,
+  "wintergreen-oil": wintergreenOil,
+  "verbena-oil": verbenaOil,
+  "valerian-oil": valerianOil,
+  "thyme-oil": thymeOil,
+  "wheatgerm-oil": wheatgermOil,
+  "walnut-oil": walnutOil,
+  "virgin-linseed-oil": virginLinseedOil,
 };
 
 export const PRODUCT_FAQS: Record<string, FaqItem[]> = {
@@ -211,4 +263,30 @@ export const PRODUCT_FAQS: Record<string, FaqItem[]> = {
   "onion-oil": onionOilFaqs,
   "orange-oil": orangeOilFaqs,
   "oregano-oil": oreganoOilFaqs,
+  "turpentine-oil": turpentineOilFaqs,
+  "turmeric-oil": turmericOilFaqs,
+  "tomato-seed-oil": tomatoSeedOilFaqs,
+  "tagetes-oil": tagetesOilFaqs,
+  "sweet-basil-oil": sweetBasilOilFaqs,
+  "sunflower-oil": sunflowerOilFaqs,
+  "spearmint-oil": spearmintOilFaqs,
+  "soyabean-oil": soyabeanOilFaqs,
+  "sage-oil": sageOilFaqs,
+  "rosemary-oil": rosemaryOilFaqs,
+  "rosehip-oil": rosehipOilFaqs,
+  "pumpkin-seed-oil": pumpkinSeedOilFaqs,
+  "pomegranate-oil": pomegranateOilFaqs,
+  "petitgrain-oil": petitgrainOilFaqs,
+  "peanut-oil": peanutOilFaqs,
+  "parsley-oil": parsleyOilFaqs,
+  "papaya-oil": papayaOilFaqs,
+  "palmarosa-oil": palmarosaOilFaqs,
+  "ylang-ylang-oil": ylangYlangOilFaqs,
+  "wintergreen-oil": wintergreenOilFaqs,
+  "verbena-oil": verbenaOilFaqs,
+  "valerian-oil": valerianOilFaqs,
+  "thyme-oil": thymeOilFaqs,
+  "wheatgerm-oil": wheatgermOilFaqs,
+  "walnut-oil": walnutOilFaqs,
+  "virgin-linseed-oil": virginLinseedOilFaqs,
 };

@@ -37,7 +37,7 @@ function BulletList({ list, headingAs: Heading }: { list: CleanProductList; head
       {list.title ? <Heading className="cp-h3 cp-list__title">{list.title}</Heading> : null}
       <ul className={`cp-list__items cp-list__items--cols-${cols}`}>
         {list.items.map((item) => (
-          <li key={item}>{item}</li>
+          <li key={item} dangerouslySetInnerHTML={{ __html: item }} />
         ))}
       </ul>
     </div>
@@ -78,7 +78,7 @@ function ContentSection({
         <div className="cp-checklist">
           <ul className="cp-list__items cp-list__items--cols-2">
             {[...section.checklist.left, ...section.checklist.right].map((item) => (
-              <li key={item}>{item}</li>
+              <li key={item} dangerouslySetInnerHTML={{ __html: item }} />
             ))}
           </ul>
         </div>
@@ -153,7 +153,7 @@ function OrderedContent({
           className={`cp-list__items cp-list__items--cols-${block.columns ?? 2}`}
         >
           {block.items.map((item, itemIndex) => (
-            <li key={`${item}-${itemIndex}`}>{item}</li>
+            <li key={`${item}-${itemIndex}`} dangerouslySetInnerHTML={{ __html: item }} />
           ))}
         </ul>
       );
