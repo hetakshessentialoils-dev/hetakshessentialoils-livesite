@@ -13,7 +13,7 @@ export const page: CleanProductPage = {
     "The oil is commonly produced by steam distillation. In simple terms, steam passes through the aromatic plant material and carries the volatile compounds with it. The vapour is then cooled, and the essential oil separates from the water. Steam distillation is a long-used conventional method for producing sage essential oil.",
     "The natural composition of Sage Oil can include compounds such as thujone, camphor, 1,8-cineole, alpha-pinene, and other aromatic compounds. The exact amount can change with the plant source, harvest time, growing conditions, and processing method.",
   ],
-  specsTitle: "Sage Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Sage Oil" },
     { label: "Botanical Name", value: "Salvia officinalis" },
