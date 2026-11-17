@@ -46,7 +46,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "The components of <b>Soybean Oil pharmaceutical grade</b> are mainly triglycerides containing fatty acids. Typical profiles include palmitic acid, stearic acid, oleic acid, linoleic acid and linolenic acid. Exact limits depend on the applicable pharmacopoeial specification and product grade. A published Ph. Eur. specification for refined soybean oil, for example, gives defined ranges for these fatty acids and limits for properties such as acid value, peroxide value, water and unsaponifiable matter.",
+          text: "The components of Soybean Oil pharmaceutical grade are mainly triglycerides containing fatty acids. Typical profiles include palmitic acid, stearic acid, oleic acid, linoleic acid and linolenic acid. Exact limits depend on the applicable pharmacopoeial specification and product grade. A published Ph. Eur. specification for refined soybean oil, for example, gives defined ranges for these fatty acids and limits for properties such as acid value, peroxide value, water and unsaponifiable matter.",
         },
         { type: "heading", text: "Soybean Oil vs Soybean Oil BP vs Soybean Oil USP" },
         {
@@ -96,7 +96,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "The important point is simple: <b>BP and USP are standards, not different soybean plants.</b> The starting material is still soybean seed. What changes is the specification and testing the oil must meet. BP and USP should therefore be selected according to the requirements of the finished product and the market where it will be used.",
+          text: "The important point is simple: BP and USP are standards, not different soybean plants. The starting material is still soybean seed. What changes is the specification and testing the oil must meet. BP and USP should therefore be selected according to the requirements of the finished product and the market where it will be used.",
         },
         { type: "heading", text: "Soybean Oil Manufacturing Process" },
         {
@@ -113,12 +113,12 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "The colour of refined <b>Soybean Oil USP</b> is generally light and clear. A published pharmacopoeial specification describes refined soybean oil as a clear, pale-yellow liquid. Colour can change depending on the raw material and the amount of refining carried out.",
+          text: "The colour of refined Soybean Oil USP is generally light and clear. A published pharmacopoeial specification describes refined soybean oil as a clear, pale-yellow liquid. Colour can change depending on the raw material and the amount of refining carried out.",
         },
         { type: "heading", text: "Applications of Soybean Oil BP and USP" },
         {
           type: "paragraph",
-          text: "<b>Soybean Oil BP bulk exporter</b> products can be used by pharmaceutical manufacturers that need soybean oil meeting a recognised pharmacopoeial specification. Depending on the formulation, refined soybean oil can serve as an excipient or as a component in specialised pharmaceutical preparations. The exact application should always match the applicable monograph and finished-product requirements.",
+          text: "Soybean Oil BP bulk exporter products can be used by pharmaceutical manufacturers that need soybean oil meeting a recognised pharmacopoeial specification. Depending on the formulation, refined soybean oil can serve as an excipient or as a component in specialised pharmaceutical preparations. The exact application should always match the applicable monograph and finished-product requirements.",
         },
         {
           type: "paragraph",
@@ -133,12 +133,12 @@ export const page: CleanProductPage = {
     {
       title: "Soybean Oil Certifications, Documents, Packaging and Bulk Supply",
       paragraphs: [
-        "A <b>Soybean Oil bulk exporter</b> should be able to provide documents that help the buyer understand exactly what has been supplied. Depending on the grade and destination, these may include a <b>COA (Certificate of Analysis), MSDS/SDS, specification sheet, batch details, allergen information, origin documents and applicable regulatory documents</b>. For pharmaceutical buyers, the documents should match the requested pharmacopoeial grade.",
-        "Certifications such as <b>ISO and GMP</b> can support quality and manufacturing controls, while certifications such as <b>Halal and FSSAI</b> may be relevant for particular markets and applications. The correct certification depends on the product, facility, destination and customer’s requirements. A buyer should always check that certificates are current and actually cover the supplied product.",
+        "A Soybean Oil bulk exporter should be able to provide documents that help the buyer understand exactly what has been supplied. Depending on the grade and destination, these may include a COA (Certificate of Analysis), MSDS/SDS, specification sheet, batch details, allergen information, origin documents and applicable regulatory documents. For pharmaceutical buyers, the documents should match the requested pharmacopoeial grade.",
+        "Certifications such as ISO and GMP can support quality and manufacturing controls, while certifications such as Halal and FSSAI may be relevant for particular markets and applications. The correct certification depends on the product, facility, destination and customer’s requirements. A buyer should always check that certificates are current and actually cover the supplied product.",
         "<b>Soybean Oil bulk wholesaler</b> packaging can be selected according to order size, handling needs and destination. HDPE drums are commonly suitable for bulk liquid oil, while other approved containers may be used when required. The packaging should be clean, tightly closed and suitable for protecting the oil from contamination, light and unnecessary exposure to air.",
-        "For <b>Soybean Oil bulk supply</b>, storage is important because soybean oil contains a high proportion of unsaturated fatty acids. It should generally be kept in a cool, dry place, protected from direct light and excessive heat. Pharmacopoeial specifications may also give specific storage instructions, so the product specification should be followed.",
+        "For Soybean Oil bulk supply, storage is important because soybean oil contains a high proportion of unsaturated fatty acids. It should generally be kept in a cool, dry place, protected from direct light and excessive heat. Pharmacopoeial specifications may also give specific storage instructions, so the product specification should be followed.",
         "When selecting a <b>Soybean Oil bulk manufacturer</b>, buyers should check the botanical source, grade, extraction and refining process, batch testing, COA, SDS/MSDS, specification, packaging, traceability and applicable certifications. Buyers should also confirm whether the material is intended for food, cosmetic, industrial or pharmaceutical use. For BP or USP material, the supplier should clearly identify the applicable pharmacopoeial standard rather than simply calling the oil “pharma grade.”",
-        "For international <b>Soybean Oil bulk export</b>, buyers should also check the required packing size, shipping documents, destination regulations, labelling and transport conditions before placing an order. Logistics can then be planned according to the quantity, destination and shipping method.",
+        "For international Soybean Oil bulk export, buyers should also check the required packing size, shipping documents, destination regulations, labelling and transport conditions before placing an order. Logistics can then be planned according to the quantity, destination and shipping method.",
       ],
     },
   ],
