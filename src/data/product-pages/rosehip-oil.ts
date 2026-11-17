@@ -10,7 +10,7 @@ export const page: CleanProductPage = {
   imageAlt: "Rosehip Seed Oil from Rosa canina",
   // The doc's intro copy sits under its own numbered H2, so it lives in sections below.
   paragraphs: [],
-  specsTitle: "Rosehip Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Rosehip Oil" },
     { label: "Botanical Name", value: "Rosa canina" },
