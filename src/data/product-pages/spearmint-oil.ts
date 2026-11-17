@@ -9,9 +9,9 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/Essential-Oils/Spearmint-Oil.webp",
   imageAlt: "Spearmint Essential Oil from Mentha spicata leaves",
   paragraphs: [
-    "Spearmint Oil is a fresh and pleasant essential oil made from the <b>spearmint plant</b>. Its botanical name is <b>Mentha spicata</b>, and it belongs to the <b>Lamiaceae</b> family. The plant has green leaves and a soft, sweet minty smell. The leaves and other aerial parts are commonly used to make the oil.",
-    "The usual way to produce Spearmint Oil is <b>steam distillation</b>. During this process, steam passes through the plant material and carries its natural aromatic compounds. The vapour is then cooled, and the oil is separated from the water. This gives a concentrated essential oil with a fresh, green and minty aroma.",
-    "One of the important natural compounds found in Spearmint Oil is <b>carvone</b>, which contributes to its familiar mint character. The oil is used in many types of products, including perfumes, soaps, cosmetics, oral-care products, personal-care products and other aromatic formulations.",
+    "Spearmint Oil is a fresh and pleasant essential oil made from the spearmint plant. Its botanical name is Mentha spicata, and it belongs to the Lamiaceae family. The plant has green leaves and a soft, sweet minty smell. The leaves and other aerial parts are commonly used to make the oil.",
+    "The usual way to produce Spearmint Oil is steam distillation. During this process, steam passes through the plant material and carries its natural aromatic compounds. The vapour is then cooled, and the oil is separated from the water. This gives a concentrated essential oil with a fresh, green and minty aroma.",
+    "One of the important natural compounds found in Spearmint Oil is carvone, which contributes to its familiar mint character. The oil is used in many types of products, including perfumes, soaps, cosmetics, oral-care products, personal-care products and other aromatic formulations.",
     "For companies that need large quantities, choosing a <b>Spearmint Oil bulk manufacturer</b> can help with regular production requirements. Buyers should look at the botanical name, appearance, aroma, composition and other agreed quality details before purchasing.",
   ],
   specsTitle: "Product Specifications",
@@ -47,11 +47,11 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Because it is water-based, Spearmint Hydrosol usually has a <b>lighter and softer mint aroma</b> than the essential oil. This makes it useful for products where a strong essential-oil smell is not needed. It can be used in face mists, body sprays, hair-care products, cosmetic preparations, linen sprays and other water-based products.",
+          text: "Because it is water-based, Spearmint Hydrosol usually has a lighter and softer mint aroma than the essential oil. This makes it useful for products where a strong essential-oil smell is not needed. It can be used in face mists, body sprays, hair-care products, cosmetic preparations, linen sprays and other water-based products.",
         },
         {
           type: "paragraph",
-          text: "A <b>Spearmint Hydrosol bulk supplier</b> can provide the material in larger quantities for manufacturers. Since hydrosol contains water, manufacturers should pay attention to microbial quality, preservation, packaging and storage. These points are important when the product is being used in cosmetic or personal-care formulations.",
+          text: "A <b>Spearmint bulk supplier</b> can provide the material in larger quantities for manufacturers. Since hydrosol contains water, manufacturers should pay attention to microbial quality, preservation, packaging and storage. These points are important when the product is being used in cosmetic or personal-care formulations.",
         },
         { type: "heading", text: "Spearmint Oil vs Spearmint Hydrosol vs Spearmint Oil BP" },
         {
@@ -106,7 +106,7 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "In simple terms, <b>Spearmint Oil</b> is the concentrated essential oil, while <b>Spearmint Hydrosol</b> is the lighter water-based product from the distillation process. <b>Spearmint Oil BP</b> is still Spearmint Oil, but it is supplied to meet the applicable <b>British Pharmacopoeia (BP)</b> requirements. BP refers to a recognised quality standard or grade, not a different species of spearmint.",
+          text: "In simple terms, Spearmint Oil is the concentrated essential oil, while Spearmint Hydrosol is the lighter water-based product from the distillation process. Spearmint Oil BP is still Spearmint Oil, but it is supplied to meet the applicable British Pharmacopoeia (BP) requirements. BP refers to a recognised quality standard or grade, not a different species of spearmint.",
         },
       ],
     },
@@ -116,10 +116,10 @@ export const page: CleanProductPage = {
       coa: "/assets/images/products/Pharma-Grade-Oils/COA/SPEARMINT OIL BP COA.pdf",
       msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/SPEARMINT OIL MSDS.pdf",
       paragraphs: [
-        "Spearmint Oil has a clean and refreshing mint character that works well in many formulations. In <b>cosmetics</b>, it can be included in creams, lotions and other personal-care products. It is also used in soaps, perfumes, oral-care products, hair-care formulations and room-fragrance products.",
-        "Spearmint Oil can be mixed with other suitable essential oils to create different fragrance profiles. For example, it can be combined with <b>Lavender, Lemon, Rosemary, Peppermint, Eucalyptus or Tea Tree Oil</b>, depending on the desired aroma and the formulation. Floral oils can make the blend softer, while citrus oils can give it a brighter character.",
-        "For buyers who need a specific standard, <b>Spearmint Oil BP</b> may be selected when the intended application calls for material that meets applicable British Pharmacopoeia requirements. Buyers should check the current specification, testing requirements and documentation needed for their particular use rather than assuming that every Spearmint Oil automatically qualifies as BP grade.",
-        "For regular manufacturing, a <b>Spearmint Oil bulk supplier</b> can provide larger quantities for production. Buyers may also work with a <b>Spearmint Oil bulk exporter</b> when sourcing the product for international requirements. Before placing a large order, it is useful to confirm the product grade, batch specifications, packaging and storage conditions.",
+        "Spearmint Oil has a clean and refreshing mint character that works well in many formulations. In cosmetics, it can be included in creams, lotions and other personal-care products. It is also used in soaps, perfumes, oral-care products, hair-care formulations and room-fragrance products.",
+        "Spearmint Oil can be mixed with other suitable essential oils to create different fragrance profiles. For example, it can be combined with Lavender, Lemon, Rosemary, Peppermint, Eucalyptus or Tea Tree Oil, depending on the desired aroma and the formulation. Floral oils can make the blend softer, while citrus oils can give it a brighter character.",
+        "For buyers who need a specific standard, Spearmint Oil BP may be selected when the intended application calls for material that meets applicable British Pharmacopoeia requirements. Buyers should check the current specification, testing requirements and documentation needed for their particular use rather than assuming that every Spearmint Oil automatically qualifies as BP grade.",
+        "For regular manufacturing, a <b>Spearmint Oil bulk supplier</b> can provide larger quantities for production. Buyers may also work with a Spearmint Oil bulk exporter when sourcing the product for international requirements. Before placing a large order, it is useful to confirm the product grade, batch specifications, packaging and storage conditions.",
       ],
     },
   ],
