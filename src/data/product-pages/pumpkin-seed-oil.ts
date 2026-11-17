@@ -39,7 +39,7 @@ export const page: CleanProductPage = {
   enquirySource: "Enquiry from Pumpkin Seed Oil Page",
   sections: [
     {
-      title: "1. What Makes Pumpkin Seed Oil Useful?",
+      title: "What Makes Pumpkin Seed Oil Useful?",
       paragraphs: [
         "Pumpkin Seed Oil is a versatile ingredient because it can be added to many different types of products. In cosmetics, it can be used in creams, lotions, facial oils, body oils, and other skin-care formulas.",
         "It also has a place in hair-care products. Manufacturers may add it to hair oils, conditioners, masks, and other products where a plant-based oil is needed. Its natural fatty acid profile makes it interesting for cosmetic formulators.",
@@ -50,7 +50,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "2. From Seed to Finished Product",
+      title: "From Seed to Finished Product",
       paragraphs: [
         "The quality of Pumpkin Seed Oil starts with the seeds. Good raw material selection can make a difference to the colour, smell, composition, and overall quality of the finished oil.",
         "After extraction, the oil may be filtered to remove unwanted solid particles. Further processing depends on the type of oil required. Some products are kept closer to their natural state, while others may be refined for a particular application.",
@@ -62,7 +62,7 @@ export const page: CleanProductPage = {
       ],
     },
     {
-      title: "3. Choosing the Right Pumpkin Seed Oil for Your Business",
+      title: "Choosing the Right Pumpkin Seed Oil for Your Business",
       paragraphs: [
         "Not every Pumpkin Seed Oil is made for exactly the same purpose. A company making a facial serum may have different requirements from a company buying oil for a food product.",
         "The first thing to check is the intended application. The buyer should then review the product grade, botanical source, extraction method, fatty acid profile, appearance, odour, purity, and other required specifications.",
