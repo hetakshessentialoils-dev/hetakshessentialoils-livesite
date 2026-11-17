@@ -89,7 +89,7 @@ export const page: CleanProductPage = {
     "For <b>Sunflower Oil bulk supplier</b> production, the seeds can be processed by mechanical pressing, solvent extraction, or both. In large-scale production, seeds may first be cleaned, dehulled or prepared, and then pressed and/or extracted. The crude oil is refined to remove unwanted materials. Refining can include degumming, neutralisation, bleaching, deodorisation and filtration. These steps help produce a cleaner oil with a lighter colour and softer smell. USP describes sunflower oil as a refined fixed oil obtained from sunflower seeds.",
     "<b>Sunflower Oil bulk exporter</b> products are used in food, cooking, cosmetics, personal care, pharmaceutical formulations and several industrial products. Refined sunflower oil is valued for its light flavour, useful fatty-acid profile and low viscosity. Different sunflower varieties can also produce high-oleic, mid-oleic and other types of oil, so buyers should select the right specification for their product.",
   ],
-  specsTitle: "Sunflower Oil Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Product Name", value: "Sunflower Oil" },
     { label: "Botanical Name", value: "Helianthus annuus" },
