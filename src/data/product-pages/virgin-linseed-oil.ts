@@ -11,7 +11,7 @@ export const page: CleanProductPage = {
   paragraphs: [
     "Virgin Linseed Oil BP is a natural oil obtained from the <b>seeds of the flax plant</b>, with the botanical name Linum usitatissimum. The plant belongs to the <b>Linaceae</b> family and has been grown for thousands of years for both its fibers and seeds. Flax seeds are also known as linseeds. The seeds contain a high amount of natural oil, which can be extracted for use in different industries. In virgin oil production, the seeds are cleaned and pressed without harsh refining steps so that the natural character of the oil can be retained. <b>Mechanical or cold pressing</b> is commonly used for virgin linseed oil. The pressed oil is then filtered to remove seed particles. Virgin Linseed Oil is usually yellow to golden in colour and has a mild, characteristic seed-like smell. It is especially rich in <b>alpha-linolenic acid (ALA)</b>, an omega-3 fatty acid, along with linoleic acid, oleic acid, palmitic acid and stearic acid. It may also contain naturally occurring tocopherols and other minor plant compounds. When the product is supplied as <b>Linseed Oil BP</b>, it is expected to meet the applicable British Pharmacopoeia requirements where the relevant specification applies. This means identity, purity and quality parameters need to be checked against the required standard. Companies looking for a <b>Virgin Linseed Oil BP bulk manufacturer</b> should confirm the botanical source, extraction method, grade, fatty acid profile and quality documents before purchasing.",
   ],
-  specsTitle: "Product Glance",
+  specsTitle: "Product Specifications",
   specs: [
     { label: "Botanical Name", value: "Linum usitatissimum" },
     { label: "Plant Family", value: "Linaceae" },
