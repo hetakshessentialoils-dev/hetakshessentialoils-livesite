@@ -27,6 +27,7 @@ export const page: CleanProductPage = {
     { label: "Applications", value: "Pharmaceutical, cosmetic, personal care and other permitted uses" },
   ],
   coa: "/assets/images/products/Pharma-Grade-Oils/COA/VIRGIN LINSEED OIL BP COA.pdf",
+  msds: "/assets/images/products/Carrier-Oils/MSDS/FLAXSEED%20OIL%20MSDS.pdf",
   formTitle: "Contact us for Wholesale Virgin Linseed Oil BP Enquiries",
   enquirySource: "Enquiry from Virgin Linseed Oil BP Page",
   sections: [
