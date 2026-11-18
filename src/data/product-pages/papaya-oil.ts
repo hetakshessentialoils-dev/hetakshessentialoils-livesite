@@ -28,7 +28,7 @@ export const page: CleanProductPage = {
     { label: "Other Components", value: "Minor natural compounds, depending on source and processing" },
     { label: "Main Applications", value: "Cosmetics, personal care, soaps and selected hair-care formulations" },
     { label: "Storage", value: "Keep in a tightly closed container, away from excessive heat and light" },
-    { label: "Quality Documents", value: "COA, product specification and SDS/MSDS, as applicable" },
+    
   ],
   coa: "/assets/images/products/Carrier-Oils/coa/PAPAYA OIL COA.pdf",
   msds: "/assets/images/products/Carrier-Oils/MSDS/PAPAYA OIL MSDS.pdf",
