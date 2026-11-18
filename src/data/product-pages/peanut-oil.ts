@@ -28,8 +28,7 @@ export const page: CleanProductPage = {
     { label: "Odour", value: "Mild and characteristic; may vary by grade" },
     { label: "Main Components", value: "Oleic acid, linoleic acid, palmitic acid and stearic acid" },
     { label: "Main Industries", value: "Pharmaceutical, food, cosmetic and personal care, depending on grade" },
-    { label: "Quality Documents", value: "COA, product specification and SDS/MSDS, as applicable" },
-    { label: "Storage", value: "Follow the product specification and protect from excessive heat and light" },
+
   ],
   coa: "/assets/images/products/Pharma-Grade-Oils/COA/PEANUT OIL BP COA.pdf",
   msds: MSDS,
