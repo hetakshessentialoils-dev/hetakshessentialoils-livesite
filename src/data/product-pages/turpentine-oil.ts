@@ -29,8 +29,7 @@ export const page: CleanProductPage = {
     { label: "Main Applications", value: "Paints, coatings, varnishes, polishes, resins and chemical products" },
     { label: "Available Grades", value: "Industrial and specified pharmaceutical grades" },
     { label: "Storage", value: "Cool, dry and well-ventilated area" },
-    { label: "Packaging", value: "Suitable drums or bulk containers" },
-    { label: "Handling", value: "Keep away from heat, flames and ignition sources" },
+
   ],
   afterSpecsParagraphs: [
     "The manufacturing process is straightforward in principle but requires controlled conditions for a consistent product. Pine resin is first collected and cleaned. It is then heated in a suitable distillation system. The volatile oil separates from the heavier resin. Further purification or rectification can be carried out when a particular specification requires it. The finished oil is then filtered, tested and packed.",
