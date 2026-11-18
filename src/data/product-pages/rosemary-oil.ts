@@ -27,8 +27,7 @@ export const page: CleanProductPage = {
     { label: "Solubility", value: "Insoluble in water; soluble in alcohol and suitable oils" },
     { label: "Aroma Profile", value: "Fresh, sharp, herbal, and woody" },
     { label: "Main Applications", value: "Cosmetics, hair care, soaps, fragrances, personal care, and aromatic formulations" },
-    { label: "Quality Checks", value: "Appearance, odour, purity, composition, and essential oil profile" },
-    { label: "Storage", value: "Keep tightly closed and protect from heat, light, moisture, and air" },
+    
   ],
   
   coa: "/assets/images/products/Essential-Oils/coa/ROSEMARY-OIL-COA.pdf",
