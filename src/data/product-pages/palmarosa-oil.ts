@@ -103,7 +103,7 @@ export const page: CleanProductPage = {
     },
   ],
   seoTitle: "Palmarosa Oil Wholesale & Bulk Supplier at Best Price",
-  seoDescription: "Palmarosa Oil is made from the fragrant grass Cymbopogon martinii, also known as Indian geranium grass, for its sweet floral, rose-like character.",
+  seoDescription: "Hetaksh Essential Oils supplies high-quality Palmarosa Oil at wholesale prices. Explore bulk quantities for cosmetics, perfumes and aromatherapy products.",
 };
 
 export const faqs: FaqItem[] = [
