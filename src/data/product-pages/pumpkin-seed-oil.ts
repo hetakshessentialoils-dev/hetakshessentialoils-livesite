@@ -29,7 +29,6 @@ export const page: CleanProductPage = {
     { label: "Oil Compatibility", value: "Compatible with suitable vegetable and carrier oils" },
     { label: "Texture", value: "Smooth and moderately rich" },
     { label: "Common Applications", value: "Food, cosmetics, skin care, hair care, soaps, and personal-care products" },
-    { label: "Storage", value: "Keep tightly closed and protect from heat, light, moisture, and air" },
   ],
   coa: "/assets/images/products/Carrier-Oils/coa/PUMPKIN SEED OIL COA.pdf",
   msds: "/assets/images/products/Carrier-Oils/MSDS/PUMPKIN SEED OIL MSDS.pdf",
