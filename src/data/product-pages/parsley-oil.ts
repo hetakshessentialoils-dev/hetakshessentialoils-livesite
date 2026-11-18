@@ -27,7 +27,7 @@ export const page: CleanProductPage = {
     { label: "Main Components", value: "May include apiol, myristicin, alpha-pinene and beta-pinene" },
     { label: "Main Applications", value: "Fragrance, soaps and selected cosmetic products" },
     { label: "Storage", value: "Keep in a closed container away from heat and light" },
-    { label: "Quality Documents", value: "COA, product specification and SDS/MSDS, as applicable" },
+    
   ],
   coa: "/assets/images/products/spice-oil/COA/PARSLEY OIL COA.pdf",
   msds: "/assets/images/products/spice-oil/MSDS/PARSLEY OIL MSDS.pdf",
