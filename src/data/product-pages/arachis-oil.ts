@@ -10,9 +10,8 @@ export const page: CleanProductPage = {
   imageAlt: "Arachis Oil Bulk",
   specsTitle: "Product Specifications",
   paragraphs: [
-    "Arachis oil, also known as peanut oil, is extracted from peanuts (Arachis hypogaea) through cold pressed methods. Our Arachis oil bulk is a healthy cooking oil rich in monounsaturated fats, vitamin E, and antioxidants, offering benefits like supporting heart health, improving skin, and potentially aiding in managing blood sugar levels. This Oil is clear, pale-yellow liquid and have a huge requirement for pharmaceutical industries, Skin and Hair care, cooking etc,",
-    "As one of the leading <b>Arachis Oil wholesale</b> from the United States, our team ensures that our product is free from pesticides and client safety remains our priority. Arachis oil contains essential nutrients like vitamin E, omega-6 fatty acids, and antioxidants which makes it usable for making injections. Arachis oil's antioxidants and fatty acids may help nourish and protect the skin and also hair.",
-  ],
+    "Arachis oil, also known as peanut oil, is extracted from peanuts (Arachis hypogaea) through cold pressed methods. Our Arachis oil bulk is a healthy cooking oil rich in monounsaturated fats, vitamin E, and antioxidants, offering benefits like supporting heart health, improving skin, and potentially aiding in managing blood sugar levels. This Oil is clear, pale-yellow liquid and have a huge requirement for pharmaceutical industries, Skin and Hair care, cooking etc, As one of the leading <b>Arachis Oil wholesale</b> from the United States, our team ensures that our product is free from pesticides and client safety remains our priority. Arachis oil contains essential nutrients like vitamin E, omega-6 fatty acids, and antioxidants which makes it usable for making injections. Arachis oil's antioxidants and fatty acids may help nourish and protect the skin and also hair.",
+   ],
   coa: "/assets/images/products/single-product/arachis-oil/ARACHIS-OIL-BP.pdf",
   msds: "/assets/images/products/single-product/arachis-oil/ARACHIS-OIL-MSDS.pdf",
   formTitle: "Contact us for Wholesale Arachis Oil Enquiries",
