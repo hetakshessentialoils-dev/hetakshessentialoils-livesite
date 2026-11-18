@@ -9,7 +9,7 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/Carrier-Oils/Pomegranate-Oil.webp",
   imageAlt: "Pomegranate Seed Oil in bulk from Punica granatum seeds",
   paragraphs: [
-    "Pomegranate Oil is a natural plant oil obtained from pomegranate seeds. The botanical name of the pomegranate plant is Punica granatum, and it belongs to the Lythraceae family. The oil is valued for its rich fatty acid profile and is widely used in cosmetic, personal-care, hair-care, and other formulations.",
+    "Pomegranate Oil is a natural plant oil obtained from pomegranate seeds. The botanical name of the pomegranate plant is Punica granatum, and it belongs to the Lythraceae family. The oil is valued for its rich fatty acid profile and is widely used in cosmetic, personal-care, hair-care, and other formulations. Pomegranate Oil has a smooth texture and can be used as an ingredient in products made for skin and hair. It is different from pomegranate juice or pomegranate extract. The oil is produced from the seeds, while the other products come from different parts or processing methods.",
     "Pomegranate Oil has a smooth texture and can be used as an ingredient in products made for skin and hair. It is different from pomegranate juice or pomegranate extract. The oil is produced from the seeds, while the other products come from different parts or processing methods.",
   ],
   afterSpecsParagraphs: [
