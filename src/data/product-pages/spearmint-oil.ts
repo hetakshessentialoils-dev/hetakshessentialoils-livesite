@@ -9,10 +9,9 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/Essential-Oils/Spearmint-Oil.webp",
   imageAlt: "Spearmint Essential Oil from Mentha spicata leaves",
   paragraphs: [
-    "Spearmint Oil is a fresh and pleasant essential oil made from the spearmint plant. Its botanical name is Mentha spicata, and it belongs to the Lamiaceae family. The plant has green leaves and a soft, sweet minty smell. The leaves and other aerial parts are commonly used to make the oil.",
-    "The usual way to produce Spearmint Oil is steam distillation. During this process, steam passes through the plant material and carries its natural aromatic compounds. The vapour is then cooled, and the oil is separated from the water. This gives a concentrated essential oil with a fresh, green and minty aroma.",
-    "One of the important natural compounds found in Spearmint Oil is carvone, which contributes to its familiar mint character. The oil is used in many types of products, including perfumes, soaps, cosmetics, oral-care products, personal-care products and other aromatic formulations.",
-    "For companies that need large quantities, choosing a <b>Spearmint Oil bulk manufacturer</b> can help with regular production requirements. Buyers should look at the botanical name, appearance, aroma, composition and other agreed quality details before purchasing.",
+    "Spearmint Oil is a fresh and pleasant essential oil made from the spearmint plant. Its botanical name is Mentha spicata, and it belongs to the Lamiaceae family. The plant has green leaves and a soft, sweet minty smell. The leaves and other aerial parts are commonly used to make the oil. The usual way to produce Spearmint Oil is steam distillation. During this process, steam passes through the plant material and carries its natural aromatic compounds. The vapour is then cooled, and the oil is separated from the water. This gives a concentrated essential oil with a fresh, green and minty aroma.",
+    "One of the important natural compounds found in Spearmint Oil is carvone, which contributes to its familiar mint character. The oil is used in many types of products, including perfumes, soaps, cosmetics, oral-care products, personal-care products and other aromatic formulations. For companies that need large quantities, choosing a <b>Spearmint Oil bulk manufacturer</b> can help with regular production requirements. Buyers should look at the botanical name, appearance, aroma, composition and other agreed quality details before purchasing.",
+    
   ],
   specsTitle: "Product Specifications",
   specs: [
