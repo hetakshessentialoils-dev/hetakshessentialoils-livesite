@@ -5,11 +5,11 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Palmarosa Oil",
-  heading: "Palmarosa Oil: A Fragrant Plant Ingredient for Different Industries",
+  heading: "Palmarosa Oil Wholesale Supplier | Palmarosa Oil Bulk Manufacturer ",
   image: "/assets/images/products/Essential-Oils/Palmarosa-Oil.webp",
   imageAlt: "Palmarosa Essential Oil from Cymbopogon martinii grass",
   paragraphs: [
-    "<b>Palmarosa Oil bulk manufacturer</b> products are made from a tall, fragrant grass called Cymbopogon martinii. This plant belongs to the Poaceae family and grows in warm regions. It is also known as Indian geranium grass because its sweet floral smell has a rose-like character. The oil is commonly obtained from the leaves and other above-ground parts of the grass. It is widely used in products that need a fresh, sweet and floral scent.",
+    "<b>Palmarosa Oil bulk manufacturer</b> products are made from a tall, fragrant grass called Cymbopogon martinii. This plant belongs to the Poaceae family and grows in warm regions. It is also known as Indian geranium grass because its sweet floral smell has a rose-like character. The oil is commonly obtained from the leaves and other above-ground parts of the grass. It is widely used in products that need a fresh, sweet and floral scent. Palmarosa Oil is usually made through steam distillation. The plant material is placed in a suitable distillation unit, and steam passes through it. The heat helps release the plant's volatile aromatic compounds. When the vapour cools, the oil separates from the water and can be collected. This method allows manufacturers to obtain the essential oil without adding artificial fragrance to the plant material. The final oil is usually pale yellow to yellow and has a sweet, floral, rosy and slightly grassy smell.",
     "Palmarosa Oil is usually made through steam distillation. The plant material is placed in a suitable distillation unit, and steam passes through it. The heat helps release the plant's volatile aromatic compounds. When the vapour cools, the oil separates from the water and can be collected. This method allows manufacturers to obtain the essential oil without adding artificial fragrance to the plant material. The final oil is usually pale yellow to yellow and has a sweet, floral, rosy and slightly grassy smell.",
   ],
   afterSpecsParagraphs: [
@@ -105,7 +105,7 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Palmarosa Oil Manufacturer & Bulk Supplier | Hetaksh",
+  seoTitle: "Palmarosa Oil Wholesale & Bulk Supplier at Best Price",
   seoDescription: "Palmarosa Oil is made from the fragrant grass Cymbopogon martinii, also known as Indian geranium grass, for its sweet floral, rose-like character.",
 };
 
