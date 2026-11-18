@@ -2,7 +2,7 @@ import type { CleanProductPage, CleanProductVariant, FaqItem } from "@/lib/types
 
 const bp: CleanProductVariant = {
   title: "Sunflower Oil BP: Meaning, Production and Uses",
-  coa: "/assets/images/products/Pharma-Grade-Oils/COA/SUNFLOWER%20OIL%20BP%20COA.pdf",
+  coa: "/assets/images/products/Pharma-Grade-Oils/COA/SUNFLOWER OIL BP COA.pdf",
   msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/SUNFLOWER OIL MSDS.pdf",
   paragraphs: [],
   content: [
