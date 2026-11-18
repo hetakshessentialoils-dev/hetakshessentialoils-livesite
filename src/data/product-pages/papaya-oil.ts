@@ -26,8 +26,7 @@ export const page: CleanProductPage = {
     { label: "Odour", value: "Mild, characteristic or slightly nutty" },
     { label: "Main Components", value: "Oleic acid and other fatty acids" },
     { label: "Other Components", value: "Minor natural compounds, depending on source and processing" },
-    { label: "Main Applications", value: "Cosmetics, personal care, soaps and selected hair-care formulations" },
-    { label: "Storage", value: "Keep in a tightly closed container, away from excessive heat and light" },
+
     
   ],
   coa: "/assets/images/products/Carrier-Oils/coa/PAPAYA OIL COA.pdf",
