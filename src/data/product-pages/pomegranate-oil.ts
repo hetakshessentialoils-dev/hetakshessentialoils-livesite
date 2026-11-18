@@ -35,7 +35,7 @@ export const page: CleanProductPage = {
     { label: "Texture", value: "Smooth and light to medium" },
     { label: "Main Applications", value: "Skin care, hair care, creams, lotions, serums, soaps, and personal-care products" },
     { label: "Storage", value: "Keep tightly closed and protect from heat, light, air, and moisture" },
-    { label: "Bulk Supply Keyword", value: "Pomegranate Oil bulk supplier" },
+    
   ],
   coa: "/assets/images/products/Carrier-Oils/coa/POMEGRANATE OIL COA.pdf",
   msds: "/assets/images/products/Carrier-Oils/MSDS/POMEGRANATE OIL MSDS.pdf",
