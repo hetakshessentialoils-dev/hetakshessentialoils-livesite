@@ -11,7 +11,7 @@ export const page: CleanProductPage = {
   paragraphs: [
     "Sage Oil is a strong-smelling essential oil obtained from sage. For common sage, the botanical name is Salvia officinalis, and the plant belongs to the Lamiaceae family. Sage has a fresh, herbal smell with warm, green, and slightly camphor-like notes.",
     "The oil is commonly produced by steam distillation. In simple terms, steam passes through the aromatic plant material and carries the volatile compounds with it. The vapour is then cooled, and the essential oil separates from the water. Steam distillation is a long-used conventional method for producing sage essential oil.",
-    "The natural composition of Sage Oil can include compounds such as thujone, camphor, 1,8-cineole, alpha-pinene, and other aromatic compounds. The exact amount can change with the plant source, harvest time, growing conditions, and processing method.",
+    "The natural composition of Sage Oil can include compounds such as thujone, camphor, 1,8-cineole, alpha-pinene, and other aromatic compounds. The exact amount can change with the plant source, harvest time, growing conditions, and processing method. <b>Sage Oil bulk manufacturer</b> can provide the oil for cosmetic, fragrance, personal-care, and other suitable commercial formulations. Buyers can check the botanical source, chemical profile, appearance, odour, purity, and product specification before selecting a grade. The word “sage” can refer to more than one Salvia species, so the botanical name matters. A buyer should confirm the exact species before ordering rather than relying only on the common name.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -28,10 +28,7 @@ export const page: CleanProductPage = {
     { label: "Aroma Profile", value: "Herbal, fresh, sharp, woody, and warm" },
     { label: "Main Applications", value: "Fragrance, cosmetics, soaps, hair care, personal care, and aromatic formulations" },
   ],
-  afterSpecsParagraphs: [
-    "A <b>Sage Oil bulk manufacturer</b> can provide the oil for cosmetic, fragrance, personal-care, and other suitable commercial formulations. Buyers can check the botanical source, chemical profile, appearance, odour, purity, and product specification before selecting a grade.",
-    "The word “sage” can refer to more than one Salvia species, so the botanical name matters. A buyer should confirm the exact species before ordering rather than relying only on the common name.",
-  ],
+  
   coa: "/assets/images/products/Essential-Oils/coa/SAGE-OIL-COA.pdf",
   msds: "/assets/images/products/Essential-Oils/MSDS/SAGE OIL-MSDS.pdf",
   formTitle: "Contact us for Wholesale Sage Oil Enquiries",
