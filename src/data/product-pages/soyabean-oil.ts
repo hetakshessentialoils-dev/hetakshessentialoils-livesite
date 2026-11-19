@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "pharma-grade-oils",
   categoryName: "Pharma Grade Oils",
   name: "Soybean Oil",
-  heading: "Soybean Oil | Soybean Oil BP & USP Bulk Manufacturer",
+  heading: "Natural Soybean Oil | Soybean Oil BP & USP Bulk Manufacturer",
   image: "/assets/images/products/Pharma-Grade-Oils/Soyabean-Oil-BP.webp",
   imageAlt: "Refined Soybean Oil BP and USP pharmaceutical grade",
   paragraphs: [
