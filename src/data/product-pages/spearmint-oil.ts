@@ -122,8 +122,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Spearmint Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Spearmint Oil is a fresh and pleasant essential oil made from the spearmint plant (Mentha spicata), produced by steam distillation for bulk supply.",
+  seoTitle: "Spearmint Oil Wholesale & Bulk Supplier at Best Price",
+  seoDescription: "Hetaksh Essential Oils offers premium Spearmint Oil in bulk, providing reliable wholesale supply at competitive prices for businesses worldwide.",
 };
 
 export const faqs: FaqItem[] = [
