@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Rosehip Oil",
-  heading: "Rosehip Oil: Product Details, Uses and Bulk Supply",
+  heading: "Rosehip Oil Wholesale Supplier | 100% Pure Rosehip Oil Bulk Manufacturer",
   image: "/assets/images/products/Carrier-Oils/Rosehip-Oil.webp",
   imageAlt: "Rosehip Seed Oil from Rosa canina",
   // The doc's intro copy sits under its own numbered H2, so it lives in sections below.
@@ -69,8 +69,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Rosehip Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Rosehip Oil is a plant oil made from the seeds of rosehip fruits (Rosa canina), known for its fatty acids and used in cosmetic and personal-care products.",
+  seoTitle: "Rosehip Oil Wholesale Supplier & Bulk Distributor in US",
+  seoDescription: "Hetaksh Essential Oils is a trusted 100% pure Rosehip Oil supplier in the US, offering bulk quantities at competitive wholesale prices.",
 };
 
 export const faqs: FaqItem[] = [
