@@ -55,8 +55,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Papaya Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Papaya Oil is made from the seeds of the papaya fruit (Carica papaya) and is supplied for cosmetic, personal-care, soap and hair-care formulations.",
+  seoTitle: "Bulk Papaya Oil Wholesale Supplier in US ",
+  seoDescription: "Looking for a reliable Papaya Oil wholesale supplier in the USA? Hetaksh Essential Oils offers premium bulk Papaya Oil at competitive rates.",
 };
 
 export const faqs: FaqItem[] = [
