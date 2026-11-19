@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "spice-oils",
   categoryName: "Spice Oils",
   name: "Parsley Oil",
-  heading: "Parsley Oil: What It Is, How It Is Made and Product Glance",
+  heading: "Parsley Oil Bulk Manufacturer | Natural Parsley Oil Wholesale Supplier ",
   image: "/assets/images/products/spice-oil/PARSLEY OIL.webp",
   imageAlt: "Parsley Essential Oil from Petroselinum crispum",
   paragraphs: [
@@ -102,8 +102,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Parsley Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Parsley Oil comes from parsley (Petroselinum crispum), a green herb of the Apiaceae family, and is commonly made by steam distillation of seeds or leaves.",
+  seoTitle: "Parsley Oil Wholesale, Supplier & Bulk Distributors in US",
+  seoDescription: "Find a reliable bulk Parsley Oil supplier in the US. Hetaksh Essential Oils offers premium quality, wholesale pricing, and bulk supply.",
 };
 
 export const faqs: FaqItem[] = [
