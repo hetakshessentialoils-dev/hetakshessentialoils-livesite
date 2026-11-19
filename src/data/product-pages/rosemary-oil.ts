@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Rosemary Oil",
-  heading: "Rosemary Oil, Rosemary Oil BP and Rosemary Hydrosol Wholesale & Bulk Manufacturer",
+  heading: "Rosemary Oil, Rosemary Oil BP and Rosemary Hydrosol Bulk Manufacturer",
   image: "/assets/images/products/Essential-Oils/Rosemary-Oil.webp",
   imageAlt: "Rosemary Essential Oil from Salvia rosmarinus",
   paragraphs: [
