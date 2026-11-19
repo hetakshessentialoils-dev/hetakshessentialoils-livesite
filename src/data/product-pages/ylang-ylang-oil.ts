@@ -153,8 +153,8 @@ export const page: CleanProductPage = {
       ]
     }
   ],
-  "seoTitle": "Ylang Ylang Oil Manufacturer & Bulk Supplier | Hetaksh",
-  "seoDescription": "Ylang Ylang Oil is a fragrant essential oil made from the fresh flowers of the ylang ylang tree, Cananga odorata, with a rich, sweet, floral aroma."
+  "seoTitle": "Ylang Ylang Oil Wholesale, Supplier & Bulk Distributor in US",
+  "seoDescription": "Hetaksh Essential Oils is a reliable Ylang Ylang Oil wholesale supplier in the US, providing premium-quality oil for bulk buyers."
 };
 
 export const faqs: FaqItem[] = [
