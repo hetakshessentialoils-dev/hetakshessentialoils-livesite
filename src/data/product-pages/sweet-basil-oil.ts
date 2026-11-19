@@ -94,8 +94,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Sweet Basil Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Sweet Basil Oil is a fresh and aromatic essential oil made from the sweet basil plant, Ocimum basilicum, produced through steam distillation.",
+  seoTitle: "Sweet Basil Oil Wholesale Supplier & Bulk Manufacturer",
+  seoDescription: "Hetaksh Essential Oils offers premium Sweet Basil Oil in bulk, serving wholesalers, manufacturers, and distributors at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
