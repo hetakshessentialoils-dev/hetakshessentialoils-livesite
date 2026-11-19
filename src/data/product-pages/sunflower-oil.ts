@@ -81,7 +81,7 @@ export const page: CleanProductPage = {
   category: "pharma-grade-oils",
   categoryName: "Pharma Grade Oils",
   name: "Sunflower Oil",
-  heading: "Sunflower Oil: Source, Extraction, Components and Product Glance",
+  heading: "Sunflower Oil | Sunflower Oil BP & USP Bulk Manufacturer",
   image: "/assets/images/products/Pharma-Grade-Oils/Sunflower-Oil-BP.webp",
   imageAlt: "Refined Sunflower Oil BP, clear light yellow oil from Helianthus annuus seeds",
   paragraphs: [
@@ -114,8 +114,8 @@ export const page: CleanProductPage = {
     { type: "variant", ...bp },
     { type: "variant", ...usp },
   ],
-  seoTitle: "Sunflower Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Sunflower Oil bulk manufacturer products come from the seeds of Helianthus annuus. Refined, clear, light-yellow oil available in BP and USP grades.",
+  seoTitle: "Sunflower Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Hetaksh Essential Oils is a reliable Sunflower Oil wholesale supplier in the US, offering quality products at competitive bulk prices.",
 };
 
 export const faqs: FaqItem[] = [
