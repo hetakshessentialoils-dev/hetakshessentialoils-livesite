@@ -7,7 +7,7 @@ export const page: CleanProductPage = {
   category: "pharma-grade-oils",
   categoryName: "Pharma Grade Oils",
   name: "Peanut Oil",
-  heading: "Peanut Oil Wholesale, Supplier | 100% Pure Peanut Oil & Bulk Manufacturer",
+  heading: "Peanut Oil Wholesale, Supplier | 100% Pure Peanut Oil Bulk Manufacturer",
   image: "/assets/images/products/Pharma-Grade-Oils/Peanut Oil IP_BP_USP.webp",
   imageAlt: "Peanut Oil (Groundnut Oil) in BP, IP and USP pharmaceutical grades",
   paragraphs: [
