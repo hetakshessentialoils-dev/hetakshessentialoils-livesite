@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Pomegranate Oil",
-  heading: "Pomegranate Oil: Product Details, Uses and Bulk Supply",
+  heading: "Pomegranate Oil Wholesale | Natural Pomegranate Oil Bulk Manufacturer ",
   image: "/assets/images/products/Carrier-Oils/Pomegranate-Oil.webp",
   imageAlt: "Pomegranate Seed Oil in bulk from Punica granatum seeds",
   paragraphs: [
@@ -61,8 +61,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Pomegranate Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Pomegranate Oil is a natural plant oil obtained from pomegranate seeds, valued for its rich fatty acid profile in cosmetic, personal-care and hair-care use.",
+  seoTitle: "Pomegranate Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Purchase natural Pomegranate Oil in bulk from Hetaksh Essential Oils, a reliable US wholesale supplier offering quality products at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
