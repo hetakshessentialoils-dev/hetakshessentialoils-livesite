@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Rosemary Oil",
-  heading: "Rosemary Oil, Rosemary Oil BP and Rosemary Hydrosol",
+  heading: "Rosemary Oil, Rosemary Oil BP and Rosemary Hydrosol Wholesale & Bulk Manufacturer",
   image: "/assets/images/products/Essential-Oils/Rosemary-Oil.webp",
   imageAlt: "Rosemary Essential Oil from Salvia rosmarinus",
   paragraphs: [
@@ -56,8 +56,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Rosemary Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Rosemary Oil is a fragrant essential oil obtained from the rosemary plant (Salvia rosmarinus), known for its fresh and strong herbal smell.",
+  seoTitle: "Rosemary Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Hetaksh Essential Oils offers natural Rosemary Oil in bulk, serving US wholesalers and manufacturers with competitive wholesale prices.",
 };
 
 export const faqs: FaqItem[] = [
