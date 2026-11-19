@@ -7,7 +7,7 @@ export const page: CleanProductPage = {
   category: "pharma-grade-oils",
   categoryName: "Pharma Grade Oils",
   name: "Peanut Oil",
-  heading: "Peanut Oil: Source, Extraction, Components and Product Glance",
+  heading: "Peanut Oil Wholesale, Supplier | 100% Pure Peanut Oil & Bulk Manufacturer",
   image: "/assets/images/products/Pharma-Grade-Oils/Peanut Oil IP_BP_USP.webp",
   imageAlt: "Peanut Oil (Groundnut Oil) in BP, IP and USP pharmaceutical grades",
   paragraphs: [
@@ -91,8 +91,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Peanut Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Peanut Oil, also known as Groundnut Oil or Arachis Oil, is obtained from peanut seeds (Arachis hypogaea) and refined and tested for pharmaceutical grades.",
+  seoTitle: "Peanut Oil Wholesale, Supplier & Bulk Distributors in US",
+  seoDescription: "Hetaksh Essential Oils is a reliable Peanut Oil wholesale supplier in the US, offering premium quality, bulk orders, and affordable prices.",
 };
 
 export const faqs: FaqItem[] = [
