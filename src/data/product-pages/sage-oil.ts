@@ -100,8 +100,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Sage Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Sage Oil is a strong-smelling essential oil obtained from sage (Salvia officinalis), with a fresh, herbal smell and warm, green, camphor-like notes.",
+  seoTitle: "Sage Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Hetaksh Essential Oils offers premium Sage Oil in bulk, serving US wholesalers, manufacturers, and distributors at competitive wholesale prices.",
 };
 
 export const faqs: FaqItem[] = [
