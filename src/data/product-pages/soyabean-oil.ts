@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "pharma-grade-oils",
   categoryName: "Pharma Grade Oils",
   name: "Soybean Oil",
-  heading: "Soybean Oil: Source, Extraction, Components and Product Glance",
+  heading: "Soybean Oil | Soybean Oil BP & USP Bulk Manufacturer",
   image: "/assets/images/products/Pharma-Grade-Oils/Soyabean-Oil-BP.webp",
   imageAlt: "Refined Soybean Oil BP and USP pharmaceutical grade",
   paragraphs: [
@@ -143,8 +143,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Soybean Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Soybean Oil is made from the seeds of the soybean plant (Glycine max), refined for food, pharmaceutical BP/USP, cosmetic and industrial applications.",
+  seoTitle: "Soybean Oil Wholesale | BP & USP Bulk Supplier in US ",
+  seoDescription: "Hetaksh Essential Oils is a reliable Soybean Oil wholesale supplier in the US, offering BP and USP grades for bulk buyers.",
 };
 
 export const faqs: FaqItem[] = [
