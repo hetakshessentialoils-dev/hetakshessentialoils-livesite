@@ -56,7 +56,7 @@ export const page: CleanProductPage = {
   ],
   variants: [],
   seoTitle: "Bulk Papaya Oil Wholesale Supplier in US ",
-  seoDescription: "Looking for a reliable Papaya Oil wholesale supplier in the USA? Hetaksh Essential Oils offers premium bulk Papaya Oil at competitive rates.",
+  seoDescription: "Looking for a reliable Papaya Oil wholesale supplier in US? Hetaksh Essential Oils offers premium bulk Papaya Oil at competitive rates.",
 };
 
 export const faqs: FaqItem[] = [
