@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Pumpkin Seed Oil",
-  heading: "Pumpkin Seed Oil: Natural Oil for Cosmetic, Food and Personal-Care Applications",
+  heading: "Pumpkin Seed Oil Wholesale | Natural Pumpkin Seed Oil Bulk Manufacturer ",
   image: "/assets/images/products/Carrier-Oils/Pumpkin-Seed-Oil.webp",
   imageAlt: "Pumpkin Seed Oil from Cucurbita pepo seeds",
   paragraphs: [
@@ -64,8 +64,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Pumpkin Seed Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Pumpkin Seed Oil is a vegetable oil made from pumpkin seeds (Cucurbita pepo), valued for its natural fatty acid content in food and cosmetic products.",
+  seoTitle: "Pumpkin Seed Oil Wholesale, Supplier, Bulk Distributor in US",
+  seoDescription: "Hetaksh Essential Oils offers premium Pumpkin Seed Oil in bulk, serving US wholesalers, manufacturers, and distributors at competitive prices.",
 };
 
 export const faqs: FaqItem[] = [
