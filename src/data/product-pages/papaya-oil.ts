@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Papaya Oil",
-  heading: "Papaya Oil: Source, Composition and Product Glance",
+  heading: "Papaya Oil Wholesale Supplier | Pure Papaya Oil Bulk Manufacturer",
   image: "/assets/images/products/Carrier-Oils/Papaya-Oil.webp",
   imageAlt: "Papaya Seed Oil from Carica papaya seeds",
   paragraphs: [
