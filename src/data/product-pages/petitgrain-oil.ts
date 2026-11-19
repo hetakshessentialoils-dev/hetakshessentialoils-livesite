@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "essential-oils",
   categoryName: "Essential Oils",
   name: "Petitgrain Oil",
-  heading: "Petitgrain Oil | A Fresh Citrus Leaf Aroma",
+  heading: "Petitgrain Oil Wholesale | Pure Petitgrain Oil Bulk Manufacturer",
   image: "/assets/images/products/Essential-Oils/Petitgrain-Oil.webp",
   imageAlt: "Petitgrain Essential Oil from bitter orange leaves and twigs",
   paragraphs: [
@@ -142,8 +142,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Petitgrain Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Petitgrain Oil is obtained from the leaves and young twigs of the bitter orange tree, Citrus aurantium, and is known for its leafy, green, citrus-like smell.",
+  seoTitle: "Petitgrain Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Get premium pure Petitgrain Oil at wholesale prices from Hetaksh Essential Oils, your trusted bulk supplier for the US market.",
 };
 
 export const faqs: FaqItem[] = [
