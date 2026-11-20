@@ -9,7 +9,7 @@ export const page: CleanProductPage = {
   image: "/assets/images/products/Carrier-Oils/Perilla-Oil.webp",
   imageAlt: "Perilla Seed Oil cold pressed from Perilla frutescens seeds",
   paragraphs: [
-    "Perilla Oil comes from the seeds of the perilla plant, usually Perilla frutescens. The plant belongs to the Lamiaceae family, the same broad plant family that includes mint, basil, and rosemary. The seeds are small, but they contain a useful amount of oil. <b>Perilla Seed Oil</b> is known for having a high proportion of alpha-linolenic acid (ALA), an omega-3 fatty acid. Linoleic acid and oleic acid are also present, along with smaller amounts of other fatty acids. The oil can look pale yellow to yellow and may have a mild, slightly nutty or characteristic seed aroma. It is different from perilla essential oil because the seed oil is a fatty carrier oil, while an essential oil is a concentrated aromatic material. The oil can be obtained through pressing or other suitable extraction methods, and the final characteristics depend on the seed and processing. Perilla oil has attracted interest in food, nutrition, cosmetics, skin-care, and industrial applications. For a <b>perilla oil bulk manufacturer</b>, understanding the fatty-acid profile is particularly important because this is one of the main features that gives perilla seed oil its identity.",
+    "Perilla Oil comes from the seeds of the perilla plant, usually Perilla frutescens. The plant belongs to the Lamiaceae family, the same broad plant family that includes mint, basil, and rosemary. The seeds are small, but they contain a useful amount of oil. Perilla Seed Oil is known for having a high proportion of alpha-linolenic acid (ALA), an omega-3 fatty acid. Linoleic acid and oleic acid are also present, along with smaller amounts of other fatty acids. The oil can look pale yellow to yellow and may have a mild, slightly nutty or characteristic seed aroma. It is different from perilla essential oil because the seed oil is a fatty carrier oil, while an essential oil is a concentrated aromatic material. The oil can be obtained through pressing or other suitable extraction methods, and the final characteristics depend on the seed and processing. Perilla oil has attracted interest in food, nutrition, cosmetics, skin-care, and industrial applications. For a perilla oil bulk manufacturer, understanding the fatty-acid profile is particularly important because this is one of the main features that gives perilla seed oil its identity.",
   ],
   specsTitle: "Product Specifications",
   specs: [
@@ -52,7 +52,7 @@ export const page: CleanProductPage = {
           },
         },
         { type: "paragraph", text: "The comparison with flaxseed oil is particularly interesting because both can contain a high proportion of ALA." },
-        { type: "paragraph", text: "A <b>perilla oil bulk supplier</b> may therefore provide a fatty-acid specification when customers need to understand the exact composition of the oil." },
+        { type: "paragraph", text: "A perilla oil bulk supplier may therefore provide a fatty-acid specification when customers need to understand the exact composition of the oil." },
         { type: "heading", text: "Why Does the Oil Need Careful Storage?" },
         { type: "paragraph", text: "There is a simple reason." },
         { type: "paragraph", text: "Perilla oil contains a high amount of polyunsaturated fatty acids. These fats can be more sensitive to oxidation than many oils containing higher amounts of monounsaturated or saturated fatty acids." },
@@ -69,10 +69,10 @@ export const page: CleanProductPage = {
         "In mechanical pressing, pressure is used to release the oil from the seeds.",
         "After extraction, the oil may be filtered to remove suspended particles.",
         "A simple picture is:",
-        "<b>Perilla plant → Seeds → Cleaning → Preparation → Oil extraction → Filtration → Testing</b>",
+        "Perilla plant → Seeds → Cleaning → Preparation → Oil extraction → Filtration → Testing",
         "The final processing can be adjusted according to the required product.",
         "A cold-pressed oil, for example, is different from a refined oil in terms of processing and may have a different colour, aroma, and natural minor-component profile.",
-        "A <b>perilla oil bulk manufacturer</b> may therefore offer different specifications depending on the intended application.",
+        "A perilla oil bulk manufacturer may therefore offer different specifications depending on the intended application.",
       ],
     },
     {
@@ -81,9 +81,9 @@ export const page: CleanProductPage = {
         "Perilla has a long history as a food plant in parts of East Asia. Its leaves and seeds are used in different traditional food preparations.",
         "The seed oil has also been used as an edible oil in some regions.",
         "Because of its high ALA content, perilla seed oil is often discussed in the context of plant-based omega-3 sources.",
-        "However, it is important to separate <b>nutritional interest</b> from medical claims. Perilla oil is a food ingredient, not a treatment for a disease.",
+        "However, it is important to separate nutritional interest from medical claims. Perilla oil is a food ingredient, not a treatment for a disease.",
         "When used as a food product, the appropriate food-grade specification and applicable regulations should be followed.",
-        "A <b>perilla oil bulk distributor</b> may therefore work with food manufacturers as well as companies in other industries.",
+        "A perilla oil bulk distributor may therefore work with food manufacturers as well as companies in other industries.",
       ],
     },
     {
@@ -108,8 +108,8 @@ export const page: CleanProductPage = {
       title: "Perilla Oil Is Not Perilla Essential Oil",
       paragraphs: [
         "The names can sound almost identical, but the products are very different.",
-        "<b>Perilla seed oil</b> is a fatty vegetable oil.",
-        "<b>Perilla essential oil</b> is a concentrated aromatic material obtained from volatile compounds in the plant.",
+        "Perilla seed oil is a fatty vegetable oil.",
+        "Perilla essential oil is a concentrated aromatic material obtained from volatile compounds in the plant.",
         "The seed oil is mainly interesting for its fatty acids.",
         "The essential oil is mainly associated with aroma and volatile compounds.",
       ],
@@ -127,7 +127,7 @@ export const page: CleanProductPage = {
         },
       ],
       trailingParagraphs: [
-        "This difference is important when a <b>perilla oil bulk exporter</b> receives an order because the customer should specify exactly which type of perilla product is required.",
+        "This difference is important when a perilla oil bulk exporter receives an order because the customer should specify exactly which type of perilla product is required.",
       ],
     },
     {
@@ -168,7 +168,7 @@ export const page: CleanProductPage = {
     {
       title: "Where Perilla Oil Fits Best",
       content: [
-        { type: "paragraph", text: "For <b>perilla oil bulk wholesale</b>, the intended application should be established before selecting the product." },
+        { type: "paragraph", text: "For perilla oil bulk wholesale, the intended application should be established before selecting the product." },
         { type: "heading", text: "Food" },
         { type: "paragraph", text: "Suitable food-grade perilla oil can be used where permitted by the applicable regulations." },
         { type: "heading", text: "Cosmetics" },
@@ -179,7 +179,7 @@ export const page: CleanProductPage = {
         { type: "paragraph", text: "Its unusual fatty-acid profile makes it interesting when formulators are developing blends with a particular oil composition." },
         { type: "heading", text: "Industrial Uses" },
         { type: "paragraph", text: "Perilla oil has also attracted interest for technical applications because highly unsaturated vegetable oils can have useful chemical properties." },
-        { type: "paragraph", text: "At <b>Hetaksh Essential Oils</b>, perilla oil can be positioned around its most notable feature—the natural character of its seed-derived fatty-acid profile—rather than treating it like an ordinary generic vegetable oil." },
+        { type: "paragraph", text: "At Hetaksh Essential Oils, perilla oil can be positioned around its most notable feature—the natural character of its seed-derived fatty-acid profile—rather than treating it like an ordinary generic vegetable oil." },
       ],
     },
   ],
