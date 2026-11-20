@@ -5,7 +5,7 @@ export const page: CleanProductPage = {
   category: "carrier-oils",
   categoryName: "Carrier Oils",
   name: "Perilla Oil",
-  heading: "Perilla Oil | A Plant Oil with a Distinct Natural Profile",
+  heading: "Perilla Oil Wholesale | Pure Perilla Oil Supplier & Bulk Manufacturer ",
   image: "/assets/images/products/Carrier-Oils/Perilla-Oil.webp",
   imageAlt: "Perilla Seed Oil cold pressed from Perilla frutescens seeds",
   paragraphs: [
@@ -184,8 +184,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Perilla Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Perilla Oil comes from the seeds of Perilla frutescens and is known for a high proportion of alpha-linolenic acid (ALA), an omega-3 fatty acid.",
+  seoTitle: "Perilla Oil Wholesale Supplier & Bulk Manufacturer",
+  seoDescription: "Hetaksh Essential Oils is a reliable Perilla Oil bulk manufacturer and wholesale supplier offering consistent quality and global delivery.",
 };
 
 export const faqs: FaqItem[] = [
