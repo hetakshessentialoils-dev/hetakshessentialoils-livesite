@@ -153,8 +153,8 @@ export const page: CleanProductPage = {
       ]
     }
   ],
-  "seoTitle": "Verbena Oil Manufacturer & Bulk Supplier | Hetaksh",
-  "seoDescription": "Verbena Oil is a fragrant botanical oil made from the leaves of verbena plants such as Aloysia citrodora, with a fresh, bright, lemon-like aroma."
+  "seoTitle": "Verbena Oil Supplier & Bulk Manufacturers in India",
+  "seoDescription": "Hetaksh Essential Oils offers natural Verbena Oil with bulk manufacturing, wholesale supply, and consistent quality in India."
 };
 
 export const faqs: FaqItem[] = [
