@@ -563,6 +563,7 @@ export const details: CategoryDetail = {
       composition: "Triglycerides of wheat germ oil mainly consist of unsaturated fatty acids. Linoleic acid is predominant followed by palmitic acid, oleic acid, linolenic acid, and stearic acid.",
       extraction: "Wheat germ oil is extracted from the germ of the wheat kernel, which makes up only 2.5% by weight of the kernel. It is a yellow coloured clear liquid. Wheatgerm Oil is very high in vitamin E & essential Fatty acids & is a natural antioxidant. When applied on the skin it promotes the formation of new cells, improves circulation, helps repair skin damage & give you a naturally radiant skin.",
       coa: "/assets/images/products/Carrier-Oils/coa/WHEATGERM OIL COA.pdf",
+      msds: "/assets/images/products/Carrier-Oils/MSDS/WHEATGERM OIL MSDS.pdf",
       image: "/assets/images/products/Carrier-Oils/Wheatgerm-Oil.webp",
       imageAlt: "Here Are Some Technical Details About Wheatgerm Oil",
     },

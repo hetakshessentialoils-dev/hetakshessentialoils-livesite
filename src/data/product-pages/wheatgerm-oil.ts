@@ -27,6 +27,7 @@ export const page: CleanProductPage = {
     { label: "Global Supply", value: "40+ countries" },
   ],
   coa: "/assets/images/products/Carrier-Oils/coa/WHEATGERM OIL COA.pdf",
+  msds: "/assets/images/products/Carrier-Oils/MSDS/WHEATGERM OIL MSDS.pdf",
   formTitle: "Contact us for Wholesale Wheatgerm Oil Enquiries",
   enquirySource: "Enquiry from Wheatgerm Oil Page",
   sections: [
