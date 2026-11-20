@@ -49,8 +49,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Turmeric Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Turmeric Oil is a natural oil obtained from the rhizomes of Curcuma longa, with a warm, spicy, earthy and slightly woody aroma. Bulk supply worldwide.",
+  seoTitle: "Turmeric Oil Bulk Manufacturer & Wholesale Supplier in India",
+  seoDescription: "Hetaksh Essential Oils is a leading Turmeric Oil wholesale supplier and bulk manufacturer in India, serving diverse industry needs.",
 };
 
 export const faqs: FaqItem[] = [
