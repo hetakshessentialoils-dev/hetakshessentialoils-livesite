@@ -153,8 +153,8 @@ export const page: CleanProductPage = {
       ]
     }
   ],
-  "seoTitle": "Wintergreen Oil Manufacturer & Bulk Supplier | Hetaksh",
-  "seoDescription": "Wintergreen Oil is a strong-smelling essential oil obtained from the leaves of Gaultheria procumbens, with a fresh, sweet and mint-like aroma."
+  "seoTitle": "Wintergreen Oil Wholesale & Bulk Supplier in India",
+  "seoDescription": "Buy high-quality Wintergreen Oil in bulk from Hetaksh Essential Oils, offering reliable wholesale supply across India."
 };
 
 export const faqs: FaqItem[] = [
