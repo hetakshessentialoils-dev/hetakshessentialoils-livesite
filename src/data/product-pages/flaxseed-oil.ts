@@ -273,11 +273,11 @@ export const page: CleanProductPage = {
         },
         {
           type: "paragraph",
-          text: "Flax plant → Seeds → Cleaning → Pressing → Filtration/Processing → Quality Testing → Packaging The seeds are first prepared for processing. They are then pressed to release the oil. Depending on the product, further steps may be used to improve clarity or meet the required specification.",
+          text: "Flax plant → Seeds → Cleaning → Pressing → Filtration/Processing → Quality Testing → Packaging",
         },
         {
           type: "paragraph",
-          text: "The finished oil is checked before it is prepared for shipment.",
+          text: "The seeds are first prepared for processing. They are then pressed to release the oil. Depending on the product, further steps may be used to improve clarity or meet the required specification. The finished oil is checked before it is prepared for shipment.",
         },
         {
           type: "heading",
