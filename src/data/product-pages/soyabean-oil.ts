@@ -27,7 +27,7 @@ export const page: CleanProductPage = {
     { label: "Minor Components", value: "Tocopherols, phytosterols and other natural minor compounds" },
     { label: "Main Uses", value: "Food, pharmaceuticals, cosmetics, personal care and industrial products" },
     { label: "Storage", value: "Cool, dry place, protected from light and excessive heat" },
-    { label: "Available Grades", value: "Food, cosmetic, pharmaceutical and other specified grades" },
+    
   ],
   coa: "/assets/images/products/Pharma-Grade-Oils/COA/SOYABEAN OIL USP COA.pdf",
   msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/SOYBEAN OIL MSDS.pdf",
