@@ -65,8 +65,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Tomato Seed Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Tomato Seed Oil is a plant-based oil obtained from the seeds of ripe tomatoes, naturally rich in linoleic acid and oleic acid. Bulk supply worldwide.",
+  seoTitle: "Tomato Seed Oil Wholesale & Bulk Manufacturer in India",
+  seoDescription: "Hetaksh Essential Oils is a trusted Tomato Seed Oil manufacturer, wholesale supplier, and bulk exporter in India, offering premium quality.",
 };
 
 export const faqs: FaqItem[] = [
