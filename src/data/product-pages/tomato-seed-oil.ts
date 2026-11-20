@@ -30,8 +30,9 @@ export const page: CleanProductPage = {
   msds: "/assets/images/products/Carrier-Oils/MSDS/TOMATO SEED OIL MSDS.pdf",
   formTitle: "Contact us for Wholesale Tomato Seed Oil Enquiries",
   enquirySource: "Enquiry from Tomato Seed Oil Page",
-  sections: [
+  contentFlow: [
     {
+      type: "section",
       title: "Tomato Seed Oil Benefits and Applications in Beauty Products",
       paragraphs: [
         "Tomato Seed Oil is gaining attention among cosmetic manufacturers because it is a light plant oil with a useful fatty acid profile. Its natural components make it suitable for different types of personal care products. Rather than being used only as a basic carrier oil, it can add a unique botanical story to a finished product. Some common formulation applications include:",
@@ -54,7 +55,10 @@ export const page: CleanProductPage = {
       ],
     },
     {
+      type: "variant",
       title: "Tomato Seed Oil Bulk Supply: Quality, Storage and Oil vs Hydrosol",
+      coa: "/assets/images/products/Carrier-Oils/coa/TOMATO SEED OIL COA.pdf",
+      msds: "/assets/images/products/Carrier-Oils/MSDS/TOMATO SEED OIL MSDS.pdf",
       paragraphs: [
         "Tomato Seed Oil and tomato hydrosol are very different products and are used in different types of formulations. Tomato Seed Oil is oil-based, while a hydrosol is water-based and is normally produced during the distillation of suitable aromatic plant material. Tomato seeds are generally valued for their fixed oil rather than for producing a traditional essential-oil hydrosol, so buyers should not assume that a product called “tomato hydrosol” is equivalent to Tomato Seed Oil. This distinction is important when developing cosmetic products. Tomato Seed Oil is better suited to oil-based formulations such as face oils, body oils, creams and hair oils, while water-based botanical waters are used in products such as mists and sprays. Companies looking for a reliable Tomato Seed Oil bulk supplier should check the extraction method, fatty acid profile, appearance, odour, purity and batch information before purchasing. Hetaksh Essential Oil supplies natural and vegetable oils to customers in more than 40 countries and supports bulk orders with suitable packaging and export documentation. The typical MOQ is 25 kg, depending on the product and order requirements. Tomato Seed Oil should be stored in tightly sealed containers in a cool, dry place and protected from excessive heat, moisture and direct light. Proper storage helps maintain the quality of the oil over time. For repeat manufacturing, buyers can also request batch-level testing and quality documents to help maintain consistency in their finished products. This makes clear specifications and reliable bulk supply important for cosmetic brands, manufacturers and distributors.",
       ],
