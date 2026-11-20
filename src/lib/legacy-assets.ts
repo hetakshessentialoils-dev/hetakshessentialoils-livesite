@@ -96,6 +96,7 @@ export const NAV_PRODUCTS = [
   { label: "Parsley Oil", href: "/parsley-oil" },
   { label: "Peanut Oil", href: "/peanut-oil" },
   { label: "Petitgrain Oil", href: "/petitgrain-oil" },
+  { label: "Perilla Oil", href: "/perilla-oil" },
   { label: "Pomegranate Oil", href: "/pomegranate-oil" },
   { label: "Pumpkin Seed Oil", href: "/pumpkin-seed-oil" },
   { label: "Rosehip Oil", href: "/rosehip-oil" },

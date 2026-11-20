@@ -97,6 +97,7 @@ import { page as thymeOil, faqs as thymeOilFaqs } from "./thyme-oil";
 import { page as wheatgermOil, faqs as wheatgermOilFaqs } from "./wheatgerm-oil";
 import { page as walnutOil, faqs as walnutOilFaqs } from "./walnut-oil";
 import { page as virginLinseedOil, faqs as virginLinseedOilFaqs } from "./virgin-linseed-oil";
+import { page as perillaOil, faqs as perillaOilFaqs } from "./perilla-oil";
 
 export const CLEAN_PRODUCT_PAGES: Record<string, CleanProductPage> = {
   "anise-oil": aniseOil,
@@ -188,6 +189,7 @@ export const CLEAN_PRODUCT_PAGES: Record<string, CleanProductPage> = {
   "wheatgerm-oil": wheatgermOil,
   "walnut-oil": walnutOil,
   "virgin-linseed-oil": virginLinseedOil,
+  "perilla-oil": perillaOil,
 };
 
 export const PRODUCT_FAQS: Record<string, FaqItem[]> = {
@@ -289,4 +291,5 @@ export const PRODUCT_FAQS: Record<string, FaqItem[]> = {
   "wheatgerm-oil": wheatgermOilFaqs,
   "walnut-oil": walnutOilFaqs,
   "virgin-linseed-oil": virginLinseedOilFaqs,
+  "perilla-oil": perillaOilFaqs,
 };

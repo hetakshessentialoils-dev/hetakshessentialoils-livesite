@@ -106,6 +106,7 @@ export const page: CleanProductPage = {
     { label: "Storage", value: "Cool, dry place away from excessive heat and direct light" },
     { label: "Common Grades", value: "Food, cosmetic, industrial and pharmaceutical grades" },
   ],
+  coa: "/assets/images/products/Pharma-Grade-Oils/COA/SUNFLOWER OIL BP COA.pdf",
   msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/SUNFLOWER OIL MSDS.pdf",
   formTitle: "Contact us for Wholesale Sunflower Oil Enquiries",
   enquirySource: "Enquiry from Sunflower Oil Page",

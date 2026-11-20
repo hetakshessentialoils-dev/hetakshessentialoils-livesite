@@ -30,6 +30,7 @@ export const page: CleanProductPage = {
     { label: "Available Grades", value: "Food, cosmetic, pharmaceutical and other specified grades" },
   ],
   coa: "/assets/images/products/Pharma-Grade-Oils/COA/SOYABEAN OIL USP COA.pdf",
+  msds: "/assets/images/products/Pharma-Grade-Oils/MSDS/SOYBEAN OIL MSDS.pdf",
   formTitle: "Contact us for Wholesale Soybean Oil Enquiries",
   enquirySource: "Enquiry from Soybean Oil Page",
   sections: [
