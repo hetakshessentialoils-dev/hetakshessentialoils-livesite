@@ -77,8 +77,8 @@ export const page: CleanProductPage = {
       ]
     }
   ],
-  "seoTitle": "Valerian Oil Manufacturer & Bulk Supplier | Hetaksh",
-  "seoDescription": "Valerian is a flowering herb whose roots produce valerian oil, with an earthy, woody, herbal and slightly musky character for fragrance and personal care."
+  "seoTitle": "Valerian Oil Wholesale & Bulk Supplier In India",
+  "seoDescription": "Hetaksh Essential Oils offers premium Valerian Oil as a trusted wholesale supplier and bulk manufacturer in India with consistent quality."
 };
 
 export const faqs: FaqItem[] = [
