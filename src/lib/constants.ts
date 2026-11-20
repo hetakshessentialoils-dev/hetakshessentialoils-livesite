@@ -101,3 +101,34 @@ export const DEFAULT_FAQS = [
   },
 ];
 
+
+/** 301 redirects from legacy .php URLs (keys are lowercase filenames) */
+export const LEGACY_REDIRECTS: Record<string, string> = {
+  "index.php": "/",
+  "about.php": "/about",
+  "contact.php": "/contact",
+  "faq.php": "/",
+  "working-process.php": "/working-process",
+  "industry-we-use.php": "/industries-we-serve",
+  "download-brochure.php": "/download-brochure",
+  "privacy-policy.php": "/privacy-policy",
+  "search_results.php": "/search",
+  "essential-oil.php": "/essential-oils",
+  "carrier-oils.php": "/carrier-oils",
+  "pharma-grade-oils.php": "/pharma-grade-oils",
+  "special-ingredients.php": "/special-ingredients",
+  "spice-oils.php": "/spice-oils",
+  "hydrosol-oils.php": "/hydrosol-oils",
+  "almond-oil.php": "/almond-oil",
+  "arachis-oil.php": "/arachis-oil",
+  "argan-oil.php": "/argan-oil",
+  "batana-oil.php": "/batana-oil",
+  "black-seed-oil.php": "/black-seed-oil",
+  "castor-oil.php": "/castor-oil",
+  "garlic-oil.php": "/garlic-oil",
+  "olive-oil.php": "/olive-oil",
+  "peppermint-oil.php": "/peppermint-oil",
+  "saw-palmetto-berry-extract.php": "/saw-palmetto-berry-extract",
+  "sesame-oil.php": "/sesame-oil",
+  "tea-tree-oil.php": "/tea-tree-oil",
+};
