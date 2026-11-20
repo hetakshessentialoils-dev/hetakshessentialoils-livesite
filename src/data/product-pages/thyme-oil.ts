@@ -47,8 +47,8 @@ export const page: CleanProductPage = {
       ],
     },
   ],
-  seoTitle: "Thyme Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Thyme Oil is a strong, aromatic botanical oil obtained mainly from the leaves and flowering tops of Thymus vulgaris, commonly by steam distillation.",
+  seoTitle: "Thyme Oil Wholesale, Supplier & Bulk Manufacturer",
+  seoDescription: "Hetaksh Essential Oils offers premium Thyme Oil wholesale, bulk supply, and manufacturing services with consistent quality and reliable delivery.",
 };
 
 export const faqs: FaqItem[] = [
