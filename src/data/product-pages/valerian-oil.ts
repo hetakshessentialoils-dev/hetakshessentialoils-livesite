@@ -45,10 +45,7 @@ export const page: CleanProductPage = {
       "label": "MOQ",
       "value": "25 kgs"
     },
-    {
-      "label": "Global Supply",
-      "value": "40+ countries"
-    }
+
   ],
   "coa": "/assets/images/products/Essential-Oils/coa/VALERIAN-OIL-COA.pdf",
   "msds": "/assets/images/products/Essential-Oils/MSDS/VALERIAN-ROOT-OIL-MSDS.pdf",
