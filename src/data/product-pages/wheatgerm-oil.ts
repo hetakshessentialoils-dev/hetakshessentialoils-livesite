@@ -62,8 +62,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Wheatgerm Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Wheatgerm Oil is a natural vegetable oil obtained from the germ of the wheat grain, known for its high content of tocopherols, especially vitamin E.",
+  seoTitle: "Wheatgerm Oil Manufacturer & Bulk Supplier in India",
+  seoDescription: "Hetaksh Essential Oils offers natural Wheatgerm Oil with bulk manufacturing, wholesale supply, and consistent quality in India.",
 };
 
 export const faqs: FaqItem[] = [
