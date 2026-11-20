@@ -63,8 +63,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Walnut Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Walnut Oil is a natural vegetable oil made from the kernels of walnuts (Juglans regia), with a high amount of unsaturated fatty acids and a mild, nutty aroma.",
+  seoTitle: "Walnut Oil Wholesale Supplier & Bulk Manufacturer in India",
+  seoDescription: "Buy natural Walnut Oil in bulk from Hetaksh Essential Oils, offering reliable wholesale supply and competitive pricing in India.",
 };
 
 export const faqs: FaqItem[] = [
