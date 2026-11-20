@@ -53,8 +53,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Tagetes Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Tagetes Oil is a natural essential oil obtained from the green parts and flowering portions of Tagetes plants, with a strong, fresh, green, fruity aroma.",
+  seoTitle: "Tagetes Oil Wholesale, Supplier & Bulk Manufacturer",
+  seoDescription: "Hetaksh Essential Oils is a reliable Perilla Oil bulk manufacturer and wholesale supplier offering consistent quality and global delivery.",
 };
 
 export const faqs: FaqItem[] = [
