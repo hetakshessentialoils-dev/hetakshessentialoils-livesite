@@ -3,8 +3,8 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 export const htmlPage: ProductPageHtml = {
   slug: "tea-tree-oil",
   title: "Tea Tree Oil Wholesale Supplier in US | Manufacturer",
-  seoTitle: "Tea Tree Oil Bulk Manufacturer & Wholesale Supplier in US",
-  seoDescription: "Hetaksh Essential Oils supplies 100% Pure & Natural Tea Tree Oil as a trusted bulk manufacturer and wholesale supplier in US.",
+  seoTitle: "Tea Tree Oil Wholesale & Bulk Supplier in US",
+  seoDescription: "Hetaksh Essential Oils offers Tea Tree Oil manufacturing in India and reliable bulk wholesale supply for US buyers.",
   category: "essential-oils",
   categoryName: "Essential Oils",
   html: `
