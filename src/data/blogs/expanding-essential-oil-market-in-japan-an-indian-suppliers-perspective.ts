@@ -9,7 +9,7 @@ export const post: BlogPost = {
   "featuredImageUrl": "/assets/images/blog/expanding-essential-oil-market-in-japan-an-indian-suppliers-perspective.jpg",
   "imageAlt": "essential oil wholesale supplier in Japan",
   "seoTitle": "Essential Oil Wholesale Supplier in Japan | Bulk Manufacturer",
-  "seoDescription": "Source Essential Oil from a trusted Japan bulk manufacturer and supplier, offering wholesale quantities with consistent quality and reliable supply.",
+  "seoDescription": "Source Essential Oil from a trusted India bulk manufacturer and supplier in japan, offering wholesale quantities with consistent quality and reliable supply.",
   "seoKeywords": "Essential Oil Bulk, Essential Oil Bulk Supplier, Essential Oil Bulk Manufacturer, Essential Oil Wholesale",
   "faqs": [],
   "publishedAt": "2024-10-08T18:30:00.000Z",
