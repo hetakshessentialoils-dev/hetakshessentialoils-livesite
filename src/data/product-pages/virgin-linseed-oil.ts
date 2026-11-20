@@ -61,8 +61,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Virgin Linseed Oil BP Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Virgin Linseed Oil BP is a natural oil obtained from the seeds of the flax plant (Linum usitatissimum), especially rich in alpha-linolenic acid (ALA).",
+  seoTitle: "Virgin Linseed Oil Wholesale & Bulk Manufacturer in India",
+  seoDescription: "Hetaksh Essential Oils supplies premium Virgin Linseed Oil in bulk, offering reliable wholesale services and manufacturing across India.",
 };
 
 export const faqs: FaqItem[] = [
