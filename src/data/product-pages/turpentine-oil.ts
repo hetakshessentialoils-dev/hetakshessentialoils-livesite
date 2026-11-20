@@ -84,8 +84,8 @@ export const page: CleanProductPage = {
     },
   ],
   variants: [],
-  seoTitle: "Turpentine Oil Manufacturer & Bulk Supplier | Hetaksh",
-  seoDescription: "Turpentine Oil bulk manufacturer products are made from the natural resin collected from pine trees. Clear, colourless to pale-yellow pine-like oil.",
+  seoTitle: "Turpentine Oil Wholesale Supplier & Bulk Manufacturer in India ",
+  seoDescription: "Hetaksh Essential Oils offers premium Turpentine Oil as a bulk manufacturer and wholesale supplier in India with reliable quality.",
 };
 
 export const faqs: FaqItem[] = [
