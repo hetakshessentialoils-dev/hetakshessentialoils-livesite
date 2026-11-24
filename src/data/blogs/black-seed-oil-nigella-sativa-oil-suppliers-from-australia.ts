@@ -9,7 +9,7 @@ export const post: BlogPost = {
   "featuredImageUrl": "/assets/images/blog/black-seed-oil-nigella-sativa-oil-suppliers-from-australia.jpg",
   "imageAlt": "Nigella Sativa Oil bulk supplier Australia",
   "seoTitle": "Black Seed Oil Wholesale & Bulk Supplier in Australia",
-  "seoDescription": "Hetaksh Essential Oils is a leading Black Seed Oil bulk manufacturer in India, supplying premium-quality Black Seed Oil to Australia at competitive prices.",
+  "seoDescription": "Hetaksh Essential Oils is a leading Black Seed Oil manufacturer in India, supplying premium-quality Black Seed Oil to Australia at competitive prices.",
   "seoKeywords": "black seed oil bulk, black seed oil wholesale, black seed oil supplier, black seed oil manufacturer, black seed oil bulk distributors",
   "faqs": [],
   "publishedAt": "2024-10-23T18:30:00.000Z",
