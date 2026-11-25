@@ -864,8 +864,8 @@ export const htmlPage: ProductPageHtml = {
 
 export const faqs: FaqItem[] = [
   {
-    question: "What is the difference between Mentha Piperita and Mentha Arvensis oil?",
-    answer: "Mentha piperita (True Peppermint Oil) contains 35%–55% L-Menthol with a sweeter, smoother aroma preferred in pharmaceuticals, toothpaste, and confectionery. Mentha arvensis (Cornmint Oil) contains 70%–90% Menthol and is widely used for strong cooling balms and natural menthol crystal isolation.",
+    question: "What is the Minimum Order Quantity (MOQ) for bulk Peppermint Oil?",
+    answer: "Our standard export MOQ starts at 25 kg packed in food-grade HDPE or epoxy-lined GI drums. We also supply 180 kg drums and full container loads (FCL) for large-scale wholesale and industrial buyers.",
   },
   {
     question: "Which pharmacopoeia grades of Peppermint Oil do you manufacture?",
