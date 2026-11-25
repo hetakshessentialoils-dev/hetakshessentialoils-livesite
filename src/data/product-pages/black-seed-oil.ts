@@ -128,7 +128,7 @@ export const faqs: FaqItem[] = [
   },
   {
     question: "Where is your black seed oil manufactured?",
-    answer: "Our black seed oil is manufactured in India using carefully selected Nigella sativa seeds. As a manufacturer, we follow strict quality standards.",
+    answer: "Hetaksh Essential Oils manufacture premium Black Seed Oil in India using carefully selected black seeds, with Thymoquinone content of up to 20%. We follow stringent quality standards to ensure consistent quality and reliable bulk supply for B2B customers.",
   },
   {
     question: "What is the MOQ for black seed oil?",
