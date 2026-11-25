@@ -131,7 +131,7 @@ export const htmlPage: ProductPageHtml = {
           <div class="product-content-right">
             <div class=" wow slideInRight animated" data-wow-delay="100ms">
               <h2 class="section-title__title">
-                Peppermint Oil Ex Mentha Piperita
+                Peppermint Oil Manufacturer
               </h2>
               <p class="mb-3">
                 Peppermint Oil is extracted from the leaves of the Peppermint plant (Mentha Piperita) through Steam Distillation and is known for its many health benefits.
@@ -155,7 +155,7 @@ export const htmlPage: ProductPageHtml = {
                 <strong class="cyb">Menthol:-</strong> A cooling compound found in mint plants and used in various products, from toothpaste to cough drops.
               </p>
               <p>
-                Our motivation to distribute undiluted Mentha Piperita oil and maintain extraction purity has made us the leading Mentha Piperita Oil Supplier in the industry. We deal in Mentha Piperita Oil Bulk.
+                Our motivation to distribute undiluted Peppermint oil and maintain extraction purity has made us the leading bulk Mint Oil Supplier in the industry. We deal in Peppermint Oil Bulk.
               </div>
             </div>
           </div>
@@ -355,10 +355,10 @@ export const htmlPage: ProductPageHtml = {
             <div class="product-content-right">
               <div class=" wow slideInleft animated" data-wow-delay="100ms">
                 <h2 class="section-title__title">
-                  Spearmint Oil Ex Mentha Spicata
+                  Spearmint Oil Supplier
                 </h2>
                 <p class="mb-3">
-                  Along with Peppermint Oil, Hetaksh Essential Oils is a direct manufacturer in India and bulk exporter of Mint Oil to the USA, Europe, and global markets. Spearmint oil is an essential oil that is extracted from the leaves of the spearmint plant (Mentha Spicata) using steam distillation. It has a fresh, minty scent and is commonly used in the food, cosmetic, and pharmaceutical industries for its flavoring, fragrance, and therapeutic properties. It also has antimicrobial and anti-inflammatory properties, making it useful for treating skin conditions, such as acne and eczema. Chemical Composition: The major components of Spearmint oil are Carvone and Limonene, which make up approximately 70-90% of the oil. Other minor components include Menthol, Cineole, Linalool, and Beta-pinene. The chemical composition of Spearmint oil can vary depending on the source and the distillation process used.Hetaksh Essential Oil is the trusted <strong class="cyb">Spearmint Oil Supplier.</strong>
+                  Hetaksh Essential Oils is a direct Peppermint Oil manufacturer in India and bulk exporter of Mint Oil to the USA, Europe, and global markets. Peppermint oil is an essential oil that is extracted from the leaves of the Peppermint plant (Mentha Spicata) using steam distillation. It has a fresh, minty scent and is commonly used in the food, cosmetic, and pharmaceutical industries for its flavoring, fragrance, and therapeutic properties. It also has antimicrobial and anti-inflammatory properties, making it useful for treating skin conditions, such as acne and eczema. Chemical Composition: The major components of Spearmint oil are Carvone and Limonene, which make up approximately 70-90% of the oil. Other minor components include Menthol, Cineole, Linalool, and Beta-pinene. The chemical composition of Spearmint oil can vary depending on the source and the distillation process used. Hetaksh Essential Oil is the trusted <strong class="cyb">Peppermint Oil Supplier.</strong>
                 </p>
                 <h5 class="mb-2">
                   Types of Spearmint Oil
@@ -460,10 +460,10 @@ export const htmlPage: ProductPageHtml = {
           <div class="col-xl-12 col-lg-12 col-md-12">
             <div class="product-content-right">
               <h2 class="section-title__title">
-                Peppermint Oil Bulk Manufacturer & Supplier
+                Bulk Peppermint Oil Manufacturer & Supplier
               </h2>
               <p class="mb-3">
-                Mentha is a genus of plants of the Lamiaceae family, also known as Mint. There are thought to be 13 to 24 distinct species. Where some species’ ranges intersect, hybridization happens naturally. There are numerous varieties and hybrids, which include Peppermint, Wild Mint, and Spearmint.
+                Peppermint oil is a genus of plants of the Lamiaceae family, also known as Mint. There are thought to be 13 to 24 distinct species. Where some species’ ranges intersect, hybridization happens naturally. There are numerous varieties and hybrids, which include Peppermint, Wild Mint, and Spearmint oil.
               </p>
               <p class="mb-3">
                 Hetaksh essentials is a leading <strong class="cyb">Mint Oil supplier.</strong> The Mint Oil produced by Hetaksh is a pale yellow, clear liquid that ranges in color from colourless to pale and has a potent mint flavor. It dissolves entirely in alcohol but not in water. Its shelf life can be extended when stored in a well-fitted container in a cool, dark place.
@@ -472,7 +472,7 @@ export const htmlPage: ProductPageHtml = {
                 Its chemical composition comprises of :
               </h4>
               <p>
-                Limonene Content, Cineole Content, L-Menthone Content, Iso-menthone Content, Menthyl Acetate Content, L-Menthol Content, Pulegone Content and lastly Carvone Content.<br>We are a leading <strong class="cyb">Bulk Peppermint Oil Manufacturer and Suppliers,</strong> all subspecies of Mint oil.
+                Limonene Content, Cineole Content, L-Menthone Content, Iso-menthone Content, Menthyl Acetate Content, L-Menthol Content, Pulegone Content and lastly Carvone Content.<br>We are a leading Bulk Peppermint Oil Manufacturer and Suppliers, all subspecies of Mint oil.
               </p>
             </div>
           </div>
@@ -716,7 +716,7 @@ export const htmlPage: ProductPageHtml = {
       <div class="row mt-3">
         <div class="col-md-12">
           <p>
-            If you’re looking to buy <strong class="cyb">Peppermint Oil in bulk or Mint oil in bulk</strong> for commercial use, there are several things to consider. Firstly, it’s important to consider the high-quality of oil. At Hetaksh, we specialise in Essential oils that are sustainable and organic and we ensure the purity and potency of the oil. Another thing to consider when buying Peppermint oil in bulk is the matter of purity which is often questioned. However, we ensure essential oils produced with consistent purity and quality for commercial applications. Choose Hetaksh essential if you’re interested in purchasing <strong class="cyb">Peppermint oil in bulk</strong> for commercial use.
+            If you’re looking to buy <strong class="cyb">Peppermint Oil in bulk or Mint oil in bulk</strong> for commercial use, there are several things to consider. Firstly, it’s important to consider the high-quality of oil. At Hetaksh, we specialise in Essential oils that are sustainable and Natural and we ensure the purity and potency of the oil. Another thing to consider when buying Peppermint oil in bulk is the matter of purity which is often questioned. However, we ensure essential oils produced with consistent purity and quality for commercial applications. Choose Hetaksh essential if you’re interested in purchasing <strong class="cyb">Peppermint oil manufacturer</strong> for commercial use.
           </p>
         </div>
       </div>
