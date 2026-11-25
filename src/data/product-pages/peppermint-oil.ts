@@ -434,7 +434,7 @@ export const htmlPage: ProductPageHtml = {
                 Peppermint oil is a genus of plants of the Lamiaceae family, also known as Mint. There are thought to be 13 to 24 distinct species. Where some species’ ranges intersect, hybridization happens naturally. There are numerous varieties and hybrids, which include Peppermint, Wild Mint Oil.
               </p>
               <p class="mb-3">
-                Hetaksh essentials is a leading <strong class="cyb">Bulk Mint Oil.</strong> The Mint Oil produced by Hetaksh is a pale yellow, clear liquid that ranges in color from colourless to pale and has a potent mint flavor. It dissolves entirely in alcohol but not in water. Its shelf life can be extended when stored in a well-fitted container in a cool, dark place.
+                Hetaksh essentials is a leading <strong class="cyb">Bulk Mint Oil Supplier.</strong> The Mint Oil produced by Hetaksh is a pale yellow, clear liquid that ranges in color from colourless to pale and has a potent mint flavor. It dissolves entirely in alcohol but not in water. Its shelf life can be extended when stored in a well-fitted container in a cool, dark place.
               </p>
               <h4>
                 Its chemical composition comprises of :
