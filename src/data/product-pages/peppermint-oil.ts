@@ -384,9 +384,7 @@ export const htmlPage: ProductPageHtml = {
                       <li>
                         <i class="fa fa-check-circle" aria-hidden="true"></i> Common Names -  Peppermint Oil, Mint Oil
                       </li>
-                      <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Scotch
-                      </li>
+                      
                     </ul>
                   </div>
                   <div class="col-md-6">
@@ -403,9 +401,7 @@ export const htmlPage: ProductPageHtml = {
                       <li>
                         <i class="fa fa-check-circle" aria-hidden="true"></i> Odour - Strong, fresh, cool and minty
                       </li>
-                      <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Scotch Terpenless
-                      </li>
+                     
                     </ul>
                   </div>
                 </div>
