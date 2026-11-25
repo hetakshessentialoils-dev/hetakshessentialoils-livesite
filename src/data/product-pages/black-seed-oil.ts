@@ -8,7 +8,7 @@ export const landing: ProductLanding = {
   title: "Black Seed Oil & Extract Manufacturer & Supplier",
   subtitle: "Active Content (Min 1% to 20% Thymoquinone)",
   intro: [
-    "Our Black Seed Oil, also known as Kalonji Oil or Nigella sativa Oil, is manufactured in India for wholesale supplier in US. The oil ranges from brownish-yellow to deep brown and is extracted through cold pressing and CO₂ supercritical methods. Black Seed Extract is also available as a powder with documented thymoquinone concentrations.",
+    "Our Black Seed Oil, also known as Kalonji Oil or Nigella sativa Oil, is manufactured in India for wholesale export to the USA and global markets. The oil ranges from brownish-yellow to deep brown and is extracted through cold pressing and CO₂ supercritical methods. Black Seed Extract is also available as a powder with documented thymoquinone concentrations.",
     "Manufactured in our ISO & GMP-certified facility in India, we export bulk Black Seed Oil directly to B2B buyers in USA, Europe, and 40+ countries.",
   ],
   packaging: "Available packaging: 25 kg and 180 kg HDPE or GI drums",
@@ -52,7 +52,7 @@ export const landing: ProductLanding = {
     image: "/assets/images/products/single-product/black-cumin-seed-oil/Black-seed-oil-bulk.webp",
     imageAlt: "Black Seed Oil Bulk",
     paragraphs: [
-      "Black Seed Oil (Kalonji Oil) is also known as Nigella sativa. Extracted through cold pressing and CO₂ methods this oil—golden brown to dark brown in appearance—contains between 1% and 20% thymoquinone, depending on production temperature (prepared at a temperature of roughly 60-80*C, it results in an active content (min. 1% to 20%). Stored correctly in sealed containers away from heat and light, it maintains its purity. Heavy metals are kept to less than 10 ppm, while microbiological impurities such as yeasts and molds remain under 10 cfu/g, with pathogens entirely absent. Similarly, our Black Seed extract also contains 1-20% Thymoquinone and appears as off white to pinkish to light brown fine powder is also GMO free and is Stored in sealed container at cool & dry place. Protect from light, heat, moisture & pest infestation. Our product also maintains transparency and tries to minimize the inclusion of heavy metals like lead, mercury, arsenic, and cadmium through strict Quality controls. As your reliable Black seed oil supplier in USA, we prioritise quality and purity, ensuring a premium product for your needs.",
+      "Black Seed Oil (Kalonji Oil) is also known as Nigella sativa. Extracted through cold pressing and CO₂ methods this oil—golden brown to dark brown in appearance—contains between 1% and 20% thymoquinone, depending on production temperature (prepared at a temperature of roughly 60-80*C, it results in an active content (min. 1% to 20%). Stored correctly in sealed containers away from heat and light, it maintains its purity. Heavy metals are kept to less than 10 ppm, while microbiological impurities such as yeasts and molds remain under 10 cfu/g, with pathogens entirely absent. Similarly, our Black Seed extract also contains 1-20% Thymoquinone and appears as off white to pinkish to light brown fine powder is also GMO free and is Stored in sealed container at cool & dry place. Protect from light, heat, moisture & pest infestation. Our product also maintains transparency and tries to minimize the inclusion of heavy metals like lead, mercury, arsenic, and cadmium through strict Quality controls. Indian Manufacturer & Global Exporter, we prioritise quality and purity, ensuring a premium product for your needs.",
     ],
   },
   documents: {
@@ -95,13 +95,13 @@ export const landing: ProductLanding = {
     bgImage: "/assets/images/products/single-product/black-cumin-seed-oil/Black-seed-oil-manufacturers.webp",
     paragraphs: [
       "Welcome to Black Seed Oil Wholesale , India leading cultivators, manufacturer, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.",
-      "We are a supplier of Black Seed Oil in United States and offer documented thymoquinone concentrations alongside a wider portfolio of essential, spice, floral, and carrier oils. Applicable products are available in grades complying with supported IP, BP, EP, USP, and JP specifications.",
+      "Indian Manufacturer & Global Exporter and offer documented thymoquinone concentrations alongside a wider portfolio of essential, spice, floral, and carrier oils. Applicable products are available in grades complying with supported IP, BP, EP, USP, and JP specifications.",
       "Our major key suppliers are top ranked nutraceutical companies, pharmaceutical companies, flavor & fragrance houses, oral & personal care companies, tobacco manufacturer, ayurvedic companies, and FMCG manufacturer in India and around the globe. We can also customize our products as per the quality requirements and specifications of our customers.",
     ],
     uspLeft: [
       "Extracted from Non-GMO Seeds",
       "Free from Pyrrolizidine Alkaloids (PA)",
-      "Contains No Melamin.",
+      "Contains No Melamine.",
       "Produced without aflatoxins",
     ],
     uspRight: [
