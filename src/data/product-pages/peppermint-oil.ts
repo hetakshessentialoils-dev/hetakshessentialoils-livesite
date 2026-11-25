@@ -2,9 +2,9 @@ import type { FaqItem, ProductPageHtml } from "@/lib/types";
 
 export const htmlPage: ProductPageHtml = {
   slug: "peppermint-oil",
-  title: "Peppermint Oil Wholesale & Bulk Supplier in US",
-  seoTitle: "Peppermint Oil Wholesale & Bulk Supplier in US",
-  seoDescription: "Hetaksh Essential Oils provides Peppermint Oil in bulk supplier for US buyers, with competitive wholesale pricing for brands and distributors.",
+  title: "Peppermint Oil Manufacturer in India",
+  seoTitle: "Peppermint Oil Manufacturer & Supplier in India",
+  seoDescription: "Hetaksh Essential Oils is a Peppermint Oil Manufacturer in India, offering premium-quality oil and reliable bulk wholesale supply for US buyers.",
   category: "essential-oils",
   categoryName: "Essential Oils",
   html: `
@@ -16,7 +16,7 @@ export const htmlPage: ProductPageHtml = {
         <div class="col-xl-7 col-lg-7 col-md-6 ">
           <div class="about-one__left wow slideInLeft animated" data-wow-delay=" 100ms">
             <h1 class="section-title__title">
-              Bulk Peppermint Oil
+              Peppermint Oil Manufacturer & Supplier in India
             </h1>
             <p class="about-one__text">
               Our commitment to providing undiluted Peppermint oil and maintaining the highest levels of extraction purity has positioned us as a leading <b>bulk supplier of peppermint oil</b> in the industry. We take great pride in sourcing only the finest peppermint plants to ensure that our oil retains its natural, powerful properties. By focusing on purity and effectiveness, we are able to deliver a product that fulfils the high standards expected by our customers.
