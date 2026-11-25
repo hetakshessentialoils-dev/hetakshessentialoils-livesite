@@ -8,7 +8,7 @@ export const landing: ProductLanding = {
   title: "Black Seed Oil & Extract Manufacturer",
   subtitle: "Active Content (Min 1% to 20% Thymoquinone)",
   intro: [
-    "Our Black Seed Oil, also known as Kalonji Oil or Nigella sativa Oil, is manufacturer in India for wholesale supplier in US. The oil ranges from brownish-yellow to deep brown and is extracted through cold pressing and CO₂ supercritical methods. Black Seed Extract is also available as a powder with documented thymoquinone concentrations.",
+    "Our Black Seed Oil, also known as Kalonji Oil or Nigella sativa Oil, is manufactured in India for wholesale supplier in US. The oil ranges from brownish-yellow to deep brown and is extracted through cold pressing and CO₂ supercritical methods. Black Seed Extract is also available as a powder with documented thymoquinone concentrations.",
     "Manufactured in our ISO & GMP-certified facility in India, we export bulk Black Seed Oil directly to B2B buyers in USA, Europe, and 40+ countries.",
   ],
   packaging: "Available packaging: 25 kg and 180 kg HDPE or GI drums",
@@ -123,23 +123,23 @@ export const landing: ProductLanding = {
 
 export const faqs: FaqItem[] = [
   {
-    question: "What is the thymoquinone percentage in your black seed oil?",
-    answer: "Our black seed oil is available with thymoquinone levels from 1% to 20%. As a supplier, we provide COA and test reports for quality verification.",
+    question: "Who is the leading bulk Black Seed Oil manufacturer in India exporting to the USA?",
+    answer: "Hetaksh Essential Oils is a direct bulk Black Seed Oil (Nigella sativa) manufacturer in India, operating an ISO 9001:2015 and GMP-certified production facility in New Delhi. We manufacture and export wholesale Cold-Pressed Black Seed Oil, Supercritical CO₂ Extract, and Black Seed Powder Extract directly to pharmaceutical, nutraceutical, and cosmetic buyers across the USA, Europe, and 40+ countries.",
   },
   {
-    question: "Where is your black seed oil manufactured?",
-    answer: "Hetaksh Essential Oils manufacture premium Black Seed Oil in India using carefully selected black seeds, with Thymoquinone content of up to 20%. We follow stringent quality standards to ensure consistent quality and reliable bulk supply for B2B customers.",
+    question: "What Thymoquinone concentrations are available in your wholesale Black Seed Oil?",
+    answer: "We supply standardized wholesale Black Seed Oil with Thymoquinone content ranging from 1% to 20% (including 1%, 3%, 5%, 10%, and 20% grades). Every batch is tested via HPLC/GC-MS to verify active Thymoquinone potency before export.",
   },
   {
-    question: "What is the MOQ for black seed oil?",
-    answer: "The minimum order quantity is usually 25 kg. We also support bulk orders based on customer requirements.",
+    question: "What is the difference between Cold-Pressed and Supercritical CO₂ Black Seed Oil?",
+    answer: "Our Cold-Pressed Kalonji Oil is mechanically extracted at controlled temperatures (60°C–80°C) to retain natural fatty acids and 1% to 3% Thymoquinone, making it ideal for culinary, personal care, and general wellness formulations. Our Supercritical CO₂ Black Seed Extract uses solvent-free pressurized carbon dioxide to concentrate bio-actives up to 5%–20% Thymoquinone for high-potency dietary supplements and softgels.",
   },
   {
-    question: "What are the uses of black seed oil?",
-    answer: "Black seed oil is widely used in pharmaceutical, nutraceutical, cosmetic, and personal care products. We offer wholesale quantities for different industries.",
+    question: "What quality certifications and export documents are provided for US & global imports?",
+    answer: "As a compliant Indian essential oil exporter, we provide batch-specific Certificate of Analysis (COA), Material Safety Data Sheet (MSDS), Technical Data Sheet (TDS), and Method of Analysis. Our products are manufactured under ISO, GMP, HACCP, FSSAI, Halal, and Kosher standards, with Non-GMO, Allergen-free, Aflatoxin-free, and Pyrrolizidine Alkaloids (PA)-free declarations for smooth customs clearance in US and EU.",
   },
   {
-    question: "How do you ensure the quality of black seed oil?",
-    answer: "We test every batch for purity and quality before dispatch. As a trusted supplier, we provide COA, MSDS, and other required documents.",
+    question: "How do you control heavy metals and microbial limits in bulk Nigella sativa oil?",
+    answer: "We source Non-GMO Nigella sativa seeds directly from vetted Indian farms and follow strict multi-stage filtration. Heavy metals (lead, mercury, arsenic, and cadmium) are strictly maintained below 10 ppm, while yeast and mold remain under 10 cfu/g with zero pathogens, complying with USP, BP, EP, and IP pharmacopeia standards.",
   },
 ];
