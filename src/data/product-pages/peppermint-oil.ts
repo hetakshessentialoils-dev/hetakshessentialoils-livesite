@@ -864,23 +864,23 @@ export const htmlPage: ProductPageHtml = {
 
 export const faqs: FaqItem[] = [
   {
-    question: "What grades of Peppermint Oil do you offer?",
-    answer: "We offer Peppermint Oil in IP Grade and USP Grade. Our Peppermint Oil is supplied to pharmaceutical companies, manufacturers, and bulk buyers.",
+    question: "What is the difference between Mentha Piperita and Mentha Arvensis oil?",
+    answer: "Mentha piperita (True Peppermint Oil) contains 35%–55% L-Menthol with a sweeter, smoother aroma preferred in pharmaceuticals, toothpaste, and confectionery. Mentha arvensis (Cornmint Oil) contains 70%–90% Menthol and is widely used for strong cooling balms and natural menthol crystal isolation.",
   },
   {
-    question: "What is the taste of Peppermint Oil?",
-    answer: "Our Peppermint oil in bulk supply has a fresh, minty, and cooling taste.",
+    question: "Which pharmacopoeia grades of Peppermint Oil do you manufacture?",
+    answer: "Hetaksh Essential Oils manufactures and supplies bulk Peppermint Oil compliant with IP (Indian Pharmacopoeia), BP (British Pharmacopoeia), USP/NF (United States Pharmacopeia), EP (European Pharmacopoeia), and JP standards, making it suitable for pharmaceutical, oral care, and nutraceutical applications.",
   },
   {
-    question: "Where are bulk quantities of Peppermint Oil used?",
-    answer: "Peppermint Oil is commonly used in medicines, oral care products, personal care products, and wellness formulations.",
+    question: "What is the difference between Mentha Piperita and Mentha Arvensis oil?",
+    answer: "Mentha piperita (True Peppermint Oil) contains 35%–55% L-Menthol with a sweeter, smoother aroma preferred in pharmaceuticals, toothpaste, and confectionery. Mentha arvensis (Cornmint Oil) contains 70%–90% Menthol and is widely used for strong cooling balms and natural menthol crystal isolation.",
   },
   {
-    question: "Do you provide a COA with Peppermint Oil?",
-    answer: "Yes, we provide a Certificate of Analysis (COA) with Peppermint Oil in bulk orders.",
+    question: "What quality documents and certificates do you provide with bulk orders?",
+    answer: "Every batch is GC-MS tested and accompanied by a Certificate of Analysis (COA), Material Safety Data Sheet (MSDS), Technical Data Sheet (TDS), and regulatory declarations (Non-GMO, Allergen-Free, Residual Solvent-Free, Kosher, Halal, ISO 9001:2015, and GMP).",
   },
   {
-    question: "Do you also provide other essential oils?",
-    answer: "Yes, we supply many essential oils in bulk, for example Orange oil, Niaouli Oil, Lemongrass Oil, Tea Tree Oil and more.",
+    question: "Do you export bulk Peppermint Oil to the USA, Europe, and other countries?",
+    answer: "Yes, we are a government-recognized Export House in India supplying bulk Peppermint Oil with complete customs and export documentation to B2B importers in the USA, UK, Germany, France, Japan, UAE, and 40+ countries worldwide.",
   },
 ];
