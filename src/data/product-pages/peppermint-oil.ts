@@ -355,7 +355,7 @@ export const htmlPage: ProductPageHtml = {
             <div class="product-content-right">
               <div class=" wow slideInleft animated" data-wow-delay="100ms">
                 <h2 class="section-title__title">
-                  Bulk Peppermint Oil Supplier & Exporter
+                  Peppermint Oil Supplier & Bulk Exporter
                 </h2>
                 <p class="mb-3">
                   Hetaksh Essential Oils is a direct <b>Peppermint Oil manufacturer in India</b> and global bulk supplier of pure Mentha piperita oil to the USA, Europe, Asia, and 40+ international markets. Extracted from fresh peppermint leaves via steam distillation, our oil delivers a crisp, cooling aroma and high therapeutic potency. It is widely trusted by pharmaceutical, oral care, cosmetic, nutraceutical, and food & flavoring manufacturers for its consistent purity and compliance with global pharmacopoeia standards.
@@ -420,41 +420,7 @@ export const htmlPage: ProductPageHtml = {
         </div>
       </div>
     </div>
-    <div class="container">
-      <div class="row mt-5">
-        <div class="col-md-4">
-          <div class="heading-box">
-            <h4>
-              Spearmint Oil 60%
-            </h4>
-          </div>
-          <div class="product__btn-box">
-            <a href="/assets/images/products/single-product/Peppermint-Oil/SPEARMINT-OIL-60-COA-1.pdf" target="_blank" class="product__btn thm-btn"><i class="fa fa-download" aria-hidden="true"></i> COA </a><a href="/assets/images/products/single-product/Peppermint-Oil/SPEARMINT-OIL-60-MSDS.pdf" target="_blank" class="product__btn thm-btn thm-btn2"><i class="fa fa-download" aria-hidden="true"></i> MSDS </a>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="heading-box">
-            <h4>
-              Spearmint Oil 80%
-            </h4>
-          </div>
-          <div class="product__btn-box">
-            <a href="/assets/images/products/single-product/Peppermint-Oil/SPEARMINT-OIL-80-COA.pdf" target="_blank" class="product__btn thm-btn"><i class="fa fa-download" aria-hidden="true"></i> COA </a><a href="/assets/images/products/single-product/Peppermint-Oil/SPEARMINT-OIL-80MSDS.pdf" target="_blank" class="product__btn thm-btn thm-btn2"><i class="fa fa-download" aria-hidden="true"></i> MSDS </a>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="heading-box">
-            <h4>
-              Spearmint Oil BP/Ph. Eur.
-            </h4>
-          </div>
-          <div class="product__btn-box">
-            <a href="/assets/images/products/single-product/Peppermint-Oil/SPEARMINT-OIL-BP-COA.pdf" target="_blank" class="product__btn thm-btn"><i class="fa fa-download" aria-hidden="true"></i> COA </a><a href="/assets/images/products/single-product/Peppermint-Oil/SPEARMINT-OIL-BP-MSDS.pdf" target="_blank" class="product__btn thm-btn thm-btn2"><i class="fa fa-download" aria-hidden="true"></i> MSDS </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+      </section>
   <section class="single-product-section bg-color2">
     <div class="container">
       <div class="single-details__content">
