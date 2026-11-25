@@ -355,11 +355,17 @@ export const htmlPage: ProductPageHtml = {
             <div class="product-content-right">
               <div class=" wow slideInleft animated" data-wow-delay="100ms">
                 <h2 class="section-title__title">
-                  Spearmint Oil Supplier
+                  Bulk Peppermint Oil Supplier & Exporter
                 </h2>
                 <p class="mb-3">
-                  Hetaksh Essential Oils is a direct Peppermint Oil manufacturer in India and bulk exporter of Mint Oil to the USA, Europe, and global markets. Peppermint oil is an essential oil that is extracted from the leaves of the Peppermint plant (Mentha Spicata) using steam distillation. It has a fresh, minty scent and is commonly used in the food, cosmetic, and pharmaceutical industries for its flavoring, fragrance, and therapeutic properties. It also has antimicrobial and anti-inflammatory properties, making it useful for treating skin conditions, such as acne and eczema. Chemical Composition: The major components of Spearmint oil are Carvone and Limonene, which make up approximately 70-90% of the oil. Other minor components include Menthol, Cineole, Linalool, and Beta-pinene. The chemical composition of Spearmint oil can vary depending on the source and the distillation process used. Hetaksh Essential Oil is the trusted <strong class="cyb">Peppermint Oil Supplier.</strong>
+                  Hetaksh Essential Oils is a direct <b>Peppermint Oil manufacturer in India</b> and global bulk supplier of pure Mentha piperita oil to the USA, Europe, Asia, and 40+ international markets. Extracted from fresh peppermint leaves via steam distillation, our oil delivers a crisp, cooling aroma and high therapeutic potency. It is widely trusted by pharmaceutical, oral care, cosmetic, nutraceutical, and food & flavoring manufacturers for its consistent purity and compliance with global pharmacopoeia standards.
                 </p>
+                <h3 class="section-title__title">
+                  Chemical Composition
+                </h3>
+                 <p class="mb-3">
+                  The primary active constituents of our bulk Peppermint Oil include L-Menthol (35%–55%) and Menthone (14%–32%), alongside Menthyl Acetate, 1,8-Cineole, Limonene, and Menthofuran. Every batch is GC-MS tested to guarantee exact compositional accuracy for industrial formulations.
+                 </p>
                 <h5 class="mb-2">
                   Types of Spearmint Oil
                 </h5>
