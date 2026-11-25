@@ -844,13 +844,13 @@ export const htmlPage: ProductPageHtml = {
                   Our Aim
                 </h2>
                 <p class="mb-3">
-                  While standing high in the market of oils, Hetaksh a well-reputed brand is visionary in providing turnkey needs of high-end projects in a short time. Our core aim is to become a well-reputed brand with the ability to take on and fulfill end-to-end projects for major pharmaceutical companies. With our services, we want to serve the market effectively.
+                  At Hetaksh Essential Oils, our mission is to bridge the gap between authentic Indian botanical cultivation and global industrial standards. We strive to be the most reliable bulk manufacturer and export partner for pure, unadulterated Peppermint Oil—delivering consistent batch-to-batch quality, full pharmacopoeia compliance (IP, BP, USP, EP), and timely global logistics for large-scale manufacturing projects.
                 </p>
                 <h2 class="section-title__title">
                   Our Customers
                 </h2>
                 <p>
-                  We aim to supply our product in bulk and with this in mind, we strive to connect with the major players in the pharmaceutical industry. To us, our customers are the managers and the evangelist of our services and we will ensure the high-end services to them in one go. We will make sure to provide quality products to our services. At last, happy customers means happy Hetaksh!
+                  We proudly supply bulk Peppermint Oil to leading pharmaceutical companies, oral care brands, cosmetic formulators, nutraceutical manufacturers, and global flavor & fragrance houses across the USA, Europe, Asia, and 40+ countries. By working closely with procurement and R&D teams, we provide customized grades, transparent GC-MS lab reports, and scalable bulk packaging tailored to every client's production needs.
                 </p>
               </div>
             </div>
