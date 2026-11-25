@@ -367,22 +367,22 @@ export const htmlPage: ProductPageHtml = {
                   The primary active constituents of our bulk Peppermint Oil include L-Menthol (35%–55%) and Menthone (14%–32%), alongside Menthyl Acetate, 1,8-Cineole, Limonene, and Menthofuran. Every batch is GC-MS tested to guarantee exact compositional accuracy for industrial formulations.
                  </p>
                 <h5 class="mb-2">
-                  Types of Spearmint Oil
+                  Product Specifications
                 </h5>
                 <div class="row">
                   <div class="col-md-6">
                     <ul class="project-details__points-list doc list-unstyled">
                       <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Distilled
+                        <i class="fa fa-check-circle" aria-hidden="true"></i> Product Name -  Peppermint Oil
                       </li>
                       <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Redistilled
+                        <i class="fa fa-check-circle" aria-hidden="true"></i> Botanical Name -  Mentha × piperita
                       </li>
                       <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Triple Distilled
+                        <i class="fa fa-check-circle" aria-hidden="true"></i> Family - Lamiaceae
                       </li>
                       <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Rectified
+                        <i class="fa fa-check-circle" aria-hidden="true"></i> Common Names -  Peppermint Oil, Mint Oil
                       </li>
                       <li>
                         <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Scotch
@@ -392,16 +392,16 @@ export const htmlPage: ProductPageHtml = {
                   <div class="col-md-6">
                     <ul class="project-details__points-list doc list-unstyled">
                       <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Scotch Canada
+                        <i class="fa fa-check-circle" aria-hidden="true"></i> Extraction Method - Steam distillation
                       </li>
                       <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil US
+                        <i class="fa fa-check-circle" aria-hidden="true"></i> Appearance - Clear, mobile liquid
                       </li>
                       <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Chinese
+                        <i class="fa fa-check-circle" aria-hidden="true"></i> Colour - Colourless to pale yellow
                       </li>
                       <li>
-                        <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Far west Native
+                        <i class="fa fa-check-circle" aria-hidden="true"></i> Odour - Strong, fresh, cool and minty
                       </li>
                       <li>
                         <i class="fa fa-check-circle" aria-hidden="true"></i> Spearmint Oil Scotch Terpenless
