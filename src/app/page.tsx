@@ -16,7 +16,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { buildMetadata, faqJsonLd } from "@/lib/seo";
 
 export const metadata = buildMetadata({
-  title: "Essential Oil Wholesale & Bulk Supplier in US/India",
+  title: "Essential Oil Wholesale & Manufacturer in India",
   description:
     "Hetaksh Essential Oils is a leading India-based manufacturer and US B2B supplier of 100% pure & natural essential oils at competitive wholesale prices.",
   keywords: "essential oils wholesale, bulk essential oils, carrier oils supplier, hetaksh essential oils",
