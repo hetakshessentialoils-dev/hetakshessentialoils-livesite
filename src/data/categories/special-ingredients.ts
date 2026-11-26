@@ -4,7 +4,7 @@ export const category: Category = {
   id: "special-ingredients",
   name: "Special Ingredients",
   slug: "special-ingredients",
-  description: "Our curated selection of special ingredients is chosen for its unique properties and is used as products in dietary supplements, herbal remedies and much more.",
+  description: "Discover our selection of specialty ingredients and natural raw materials developed for manufacturers, formulators, distributors and industrial buyers. Our product range supports applications across cosmetics, personal care, pharmaceuticals, nutraceuticals, food, flavour and fragrance industries. We offer flexible bulk sourcing solutions with product-specific specifications, technical documentation and packaging options.",
   seoTitle: "Special Ingredients Oils Manufacturer & Wholesale Suppliers",
   seoDescription: "Hetaksh Essential Oils is a trusted Special Ingredients Oils manufacturer and bulk wholesale supplier offering quality oils at competitive prices.",
   seoKeywords: "special ingredients, bulk oil ingredients, special ingredients oils wholesale, special ingredients oil supplier, special ingredients manufacturer, special ingredients oil distributors, botanical extracts",
