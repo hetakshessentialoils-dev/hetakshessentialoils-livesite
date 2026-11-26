@@ -52,9 +52,7 @@ export default async function HomePage() {
               <div className="about-one__left">
                 <div className="section-title text-left">
                   <h1 className="section-title__title">Manufacturer of essential and carrier oils in India | Bulk supplier in US</h1>
-                  <h2 className="section-title__tagline">
-                    Dedicated to quality and customer satisfaction - Our Pledge
-                  </h2>
+                  
                 </div>
                 <p className="about-one__text">
                   Welcome to Hetaksh Essential Oils, a premier B2B supplier of essential oils and
