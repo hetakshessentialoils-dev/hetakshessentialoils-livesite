@@ -51,7 +51,7 @@ export default async function HomePage() {
             <div className="col-xl-6">
               <div className="about-one__left">
                 <div className="section-title text-left">
-                  <h1 className="section-title__title">Hetaksh Essential Oils</h1>
+                  <h1 className="section-title__title">Manufacturer of essential and carrier oils in India</h1>
                   <h2 className="section-title__tagline">
                     Dedicated to quality and customer satisfaction - Our Pledge
                   </h2>
