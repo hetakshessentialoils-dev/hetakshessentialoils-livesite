@@ -4,7 +4,7 @@ export const category: Category = {
   id: "hydrosol-oils",
   name: "Hydrosols",
   slug: "hydrosol-oils",
-  description: "Hydrosols are water-based aromatic products produced during the distillation of fresh flowers, leaves, fruits, and other plant materials.",
+  description: "Our collection of natural hydrosols includes aromatic botanical waters obtained during the essential oil distillation process. Suitable for cosmetic manufacturers, skincare brands, personal care formulators and wholesale buyers, these botanical waters support a wide range of formulation and product development applications. We offer bulk quantities, product-specific documentation and flexible packaging options to meet commercial sourcing requirements.",
   seoTitle: "Hydrosol oil Wholesale & Bulk Suppliers in US",
   seoDescription: "Hetaksh Essential Oils manufactures hydrosols in India and exports bulk supplies to US businesses, wholesale, and distributors at competitive prices.",
   seoKeywords: "hydrosols, hydrosols oil wholesale, hydrosols oil manufacturer, hydrosols distributors, hydrosols oil bulk, floral waters, hydrosol bulk supplier",
