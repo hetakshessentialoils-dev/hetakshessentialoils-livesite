@@ -4,7 +4,7 @@ export const category: Category = {
   id: "spice-oils",
   name: "Spice Oils",
   slug: "spice-oils",
-  description: "Spice oils are distilled from spices before, where applicable, further processing or solvent extraction. Our spice essential oils are produced by steam distillation.",
+  description: "Our range of natural spice oils is available in bulk quantities for food manufacturers, flavour houses, seasoning companies, fragrance formulators and industrial buyers. Derived from selected spices and botanicals, these aromatic oils are suitable for flavouring, fragrance and various commercial applications, subject to applicable product specifications. We support wholesale sourcing with quality documentation and bulk packaging solutions.",
   seoTitle: "Spice Oils Wholesale & Bulk Suppliers in US",
   seoDescription: "Hetaksh Essential Oils, a leading Indian manufacturer of 100% pure and natural spice oils, supplies bulk orders to US wholesalers at competitive prices.",
   seoKeywords: "spice oils, spice essential oils, spice oils wholesale, spice oils bulk, spice oils manufacturer, spice oils distributors",
