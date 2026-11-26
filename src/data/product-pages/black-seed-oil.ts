@@ -94,7 +94,7 @@ export const landing: ProductLanding = {
     heading: "Manufacturers of Black Seed Oil & Extract Wholesale",
     bgImage: "/assets/images/products/single-product/black-cumin-seed-oil/Black-seed-oil-manufacturers.webp",
     paragraphs: [
-      "Welcome to Black Seed Oil Wholesale , India leading cultivators, manufacturer, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.",
+      "Welcome to Hetaksh Essential Oils, India's leading cultivators, manufacturer, producers, suppliers and exporters of Essential Oils, Carrier Oils, Spice Oils, Floral Oils and Hydrosol etc.",
       "As a leading Indian Manufacturer & Global Exporter, we offer documented thymoquinone concentrations alongside a wider portfolio of essential, spice, floral, and carrier oils. Applicable products are available in grades complying with supported IP, BP, EP, USP, and JP specifications.",
       "Our major key suppliers are top ranked nutraceutical companies, pharmaceutical companies, flavor & fragrance houses, oral & personal care companies, tobacco manufacturer, ayurvedic companies, and FMCG manufacturer in India and around the globe. We can also customize our products as per the quality requirements and specifications of our customers.",
     ],
