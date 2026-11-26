@@ -42,7 +42,7 @@ export const landing: ProductLanding = {
     },
     {
       title: "Black Seed Oil",
-      spec: "Thymoquinone – min 20%",
+      spec: "TQ – min 20%",
       coa: "/assets/images/products/single-product/black-cumin-seed-oil/BLACK-SEED-OIL-20-COA.pdf",
       msds: "/assets/images/products/single-product/black-cumin-seed-oil/MSDS-BLACK-CUMIN-OIL-10.pdf",
     },
