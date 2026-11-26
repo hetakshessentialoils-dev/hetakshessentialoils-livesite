@@ -4,7 +4,7 @@ export const category: Category = {
   id: "pharma-grade-oils",
   name: "Pharma Grade Oils",
   slug: "pharma-grade-oils",
-  description: "Pharmaceutical-grade oils refer to oils that meet defined pharmaceutical quality standards and applicable product specifications.",
+  description: "We offer pharmaceutical-grade oils for pharmaceutical manufacturers, healthcare companies, formulation developers and industrial buyers. Our range includes oils available in applicable BP, USP, NF and other pharmacopoeial grades, subject to product availability and batch specifications. Detailed technical documentation and quality specifications are provided to support pharmaceutical sourcing and formulation requirements.",
   seoTitle: "100% Pure Pharma Grade Essential Oil Wholesale in US",
   seoDescription: "Hetaksh Essential Oils manufactures pharma-grade essential oil in India, exporting bulk quantities to US wholesalers and distributors at competitive prices.",
   seoKeywords: "pharma grade oils, pharmaceutical oils, pharma grade oils bulk supplier, pharma grade oils wholesale, pharma grade oils manufacturer, pharma grade oils distributors",
